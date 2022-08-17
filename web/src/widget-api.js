@@ -63,7 +63,7 @@ export function sendSticker(content) {
 		file: `${content.id}.png`,
 	}
 	// Element iOS explodes if there are extra fields present
-	delete widgetData.content["net.maunium.telegram.sticker"]
+	//delete widgetData.content["net.maunium.telegram.sticker"]
 
 	window.parent.postMessage({
 		api: "fromWidget",
