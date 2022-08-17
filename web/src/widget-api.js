@@ -47,6 +47,7 @@ window.onmessage = event => {
 }
 
 export function sendSticker(content) {
+  content["info"]["net.maunium.telegram.sticker"] = content["net.maunium.telegram.sticker"];
 	const data = {
 		content: { ...content },
 		// `name` is for Element Web (and also the spec)
@@ -63,7 +64,7 @@ export function sendSticker(content) {
 		file: `${content.id}.png`,
 	}
 	// Element iOS explodes if there are extra fields present
-	//delete widgetData.content["net.maunium.telegram.sticker"]
+	delete widgetData.content["net.maunium.telegram.sticker"]
 
 	window.parent.postMessage({
 		api: "fromWidget",
