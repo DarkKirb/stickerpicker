@@ -1,1 +1,68 @@
-{"title": "Lucy", "id": "tg-5100069648758472715", "net.maunium.telegram.pack": {"short_name": "LucyFoxsky", "hash": "-963728582"}, "stickers": [{"body": "😮", "url": "mxc://matrix.chir.rs/630d47cd83fefed78985b5edf22330b730b8fbbd", "info": {"w": 256, "h": 256, "size": 116744, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/630d47cd83fefed78985b5edf22330b730b8fbbd", "thumbnail_info": {"w": 256, "h": 256, "size": 116744, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5805146430850992943", "net.maunium.telegram.sticker": {"pack": {"id": "5100069648758472715", "short_name": "LucyFoxsky"}, "id": "5805146430850992943", "emoticons": ["😮"]}}, {"body": "🎁", "url": "mxc://matrix.chir.rs/7bd9972357fd34c80876b16e83e0b94a7693df31", "info": {"w": 256, "h": 256, "size": 208524, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/7bd9972357fd34c80876b16e83e0b94a7693df31", "thumbnail_info": {"w": 256, "h": 256, "size": 208524, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5805194384160852687", "net.maunium.telegram.sticker": {"pack": {"id": "5100069648758472715", "short_name": "LucyFoxsky"}, "id": "5805194384160852687", "emoticons": ["🎁"]}}]}
+{
+  "title": "Lucy",
+  "id": "tg-5100069648758472715",
+  "net.maunium.telegram.pack": {
+    "short_name": "LucyFoxsky",
+    "hash": "-963728582"
+  },
+  "stickers": [
+    {
+      "body": "😮",
+      "url": "mxc://matrix.chir.rs/630d47cd83fefed78985b5edf22330b730b8fbbd",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 116744,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/630d47cd83fefed78985b5edf22330b730b8fbbd",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 116744,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5805146430850992943",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "5100069648758472715",
+          "short_name": "LucyFoxsky"
+        },
+        "id": "5805146430850992943",
+        "emoticons": [
+          "😮"
+        ]
+      }
+    },
+    {
+      "body": "🎁",
+      "url": "mxc://matrix.chir.rs/7bd9972357fd34c80876b16e83e0b94a7693df31",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 208524,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/7bd9972357fd34c80876b16e83e0b94a7693df31",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 208524,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5805194384160852687",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "5100069648758472715",
+          "short_name": "LucyFoxsky"
+        },
+        "id": "5805194384160852687",
+        "emoticons": [
+          "🎁"
+        ]
+      }
+    }
+  ]
+}

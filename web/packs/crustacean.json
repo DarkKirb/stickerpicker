@@ -1,1 +1,184 @@
-{"title": "Ferris [rust]", "id": "tg-4669484501431222273", "net.maunium.telegram.pack": {"short_name": "crustacean", "hash": "652421624"}, "stickers": [{"body": "😱", "url": "mxc://matrix.chir.rs/e85304a1640e6ab9c31ebff6b590bc55fa42a8f9", "info": {"w": 256, "h": 256, "size": 153117, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/e85304a1640e6ab9c31ebff6b590bc55fa42a8f9", "thumbnail_info": {"w": 256, "h": 256, "size": 153117, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5771571696540584133", "net.maunium.telegram.sticker": {"pack": {"id": "4669484501431222273", "short_name": "crustacean"}, "id": "5771571696540584133", "emoticons": ["😱"]}}, {"body": "🤔", "url": "mxc://matrix.chir.rs/39356b93aab541c0b8cacc388b23b7eb3116bb1c", "info": {"w": 256, "h": 256, "size": 104748, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/39356b93aab541c0b8cacc388b23b7eb3116bb1c", "thumbnail_info": {"w": 256, "h": 256, "size": 104748, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5771899007408277305", "net.maunium.telegram.sticker": {"pack": {"id": "4669484501431222273", "short_name": "crustacean"}, "id": "5771899007408277305", "emoticons": ["🤔"]}}, {"body": "🦀", "url": "mxc://matrix.chir.rs/2d11789dbd7f87ce3f7db44a5567108e1fc990d3", "info": {"w": 256, "h": 256, "size": 95254, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/2d11789dbd7f87ce3f7db44a5567108e1fc990d3", "thumbnail_info": {"w": 256, "h": 256, "size": 95254, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5771815229776201561", "net.maunium.telegram.sticker": {"pack": {"id": "4669484501431222273", "short_name": "crustacean"}, "id": "5771815229776201561", "emoticons": ["🦀"]}}, {"body": "😮", "url": "mxc://matrix.chir.rs/85fb4e7ae3e52d35bfa347a6f84e193ba8246bc1", "info": {"w": 256, "h": 256, "size": 78076, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/85fb4e7ae3e52d35bfa347a6f84e193ba8246bc1", "thumbnail_info": {"w": 256, "h": 256, "size": 78076, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5771503569769334656", "net.maunium.telegram.sticker": {"pack": {"id": "4669484501431222273", "short_name": "crustacean"}, "id": "5771503569769334656", "emoticons": ["😮"]}}, {"body": "😄", "url": "mxc://matrix.chir.rs/774ea010daece79c3314e60a99edce4bf2d8eeb6", "info": {"w": 256, "h": 256, "size": 81707, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/774ea010daece79c3314e60a99edce4bf2d8eeb6", "thumbnail_info": {"w": 256, "h": 256, "size": 81707, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5771432359211567156", "net.maunium.telegram.sticker": {"pack": {"id": "4669484501431222273", "short_name": "crustacean"}, "id": "5771432359211567156", "emoticons": ["😄"]}}, {"body": "👋", "url": "mxc://matrix.chir.rs/b445d3e04d54178bcaaa0bb215c8ecb4c428a573", "info": {"w": 256, "h": 256, "size": 87402, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.chir.rs/b445d3e04d54178bcaaa0bb215c8ecb4c428a573", "thumbnail_info": {"w": 256, "h": 256, "size": 87402, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5773797099485267537", "net.maunium.telegram.sticker": {"pack": {"id": "4669484501431222273", "short_name": "crustacean"}, "id": "5773797099485267537", "emoticons": ["👋"]}}]}
+{
+  "title": "Ferris [rust]",
+  "id": "tg-4669484501431222273",
+  "net.maunium.telegram.pack": {
+    "short_name": "crustacean",
+    "hash": "652421624"
+  },
+  "stickers": [
+    {
+      "body": "😱",
+      "url": "mxc://matrix.chir.rs/e85304a1640e6ab9c31ebff6b590bc55fa42a8f9",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 153117,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/e85304a1640e6ab9c31ebff6b590bc55fa42a8f9",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 153117,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5771571696540584133",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4669484501431222273",
+          "short_name": "crustacean"
+        },
+        "id": "5771571696540584133",
+        "emoticons": [
+          "😱"
+        ]
+      }
+    },
+    {
+      "body": "🤔",
+      "url": "mxc://matrix.chir.rs/39356b93aab541c0b8cacc388b23b7eb3116bb1c",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 104748,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/39356b93aab541c0b8cacc388b23b7eb3116bb1c",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 104748,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5771899007408277305",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4669484501431222273",
+          "short_name": "crustacean"
+        },
+        "id": "5771899007408277305",
+        "emoticons": [
+          "🤔"
+        ]
+      }
+    },
+    {
+      "body": "🦀",
+      "url": "mxc://matrix.chir.rs/2d11789dbd7f87ce3f7db44a5567108e1fc990d3",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 95254,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/2d11789dbd7f87ce3f7db44a5567108e1fc990d3",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 95254,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5771815229776201561",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4669484501431222273",
+          "short_name": "crustacean"
+        },
+        "id": "5771815229776201561",
+        "emoticons": [
+          "🦀"
+        ]
+      }
+    },
+    {
+      "body": "😮",
+      "url": "mxc://matrix.chir.rs/85fb4e7ae3e52d35bfa347a6f84e193ba8246bc1",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 78076,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/85fb4e7ae3e52d35bfa347a6f84e193ba8246bc1",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 78076,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5771503569769334656",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4669484501431222273",
+          "short_name": "crustacean"
+        },
+        "id": "5771503569769334656",
+        "emoticons": [
+          "😮"
+        ]
+      }
+    },
+    {
+      "body": "😄",
+      "url": "mxc://matrix.chir.rs/774ea010daece79c3314e60a99edce4bf2d8eeb6",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 81707,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/774ea010daece79c3314e60a99edce4bf2d8eeb6",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 81707,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5771432359211567156",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4669484501431222273",
+          "short_name": "crustacean"
+        },
+        "id": "5771432359211567156",
+        "emoticons": [
+          "😄"
+        ]
+      }
+    },
+    {
+      "body": "👋",
+      "url": "mxc://matrix.chir.rs/b445d3e04d54178bcaaa0bb215c8ecb4c428a573",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 87402,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/b445d3e04d54178bcaaa0bb215c8ecb4c428a573",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 87402,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5773797099485267537",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4669484501431222273",
+          "short_name": "crustacean"
+        },
+        "id": "5773797099485267537",
+        "emoticons": [
+          "👋"
+        ]
+      }
+    }
+  ]
+}
