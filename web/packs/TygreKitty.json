@@ -3,7 +3,7 @@
   "id": "tg-5736202774002008068",
   "net.maunium.telegram.pack": {
     "short_name": "TygreKitty",
-    "hash": "-137883508"
+    "hash": "-1290275741"
   },
   "stickers": [
     {
@@ -629,6 +629,36 @@
       }
     },
     {
+      "body": "😠",
+      "url": "mxc://matrix.chir.rs/3a8fba4e9e051869e848b2d3f3d27b06f4a05b3a",
+      "info": {
+        "w": 189,
+        "h": 256,
+        "size": 176822,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/3a8fba4e9e051869e848b2d3f3d27b06f4a05b3a",
+        "thumbnail_info": {
+          "w": 189,
+          "h": 256,
+          "size": 176822,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-4942957773680804618",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "5736202774002008068",
+          "short_name": "TygreKitty"
+        },
+        "id": "4942957773680804618",
+        "emoticons": [
+          "😠",
+          "😐"
+        ]
+      }
+    },
+    {
       "body": "😘",
       "url": "mxc://matrix.chir.rs/a16ba2d860a12f3734629eab5642ff1d044c9566",
       "info": {
@@ -715,6 +745,36 @@
         "emoticons": [
           "🗡",
           "⚔"
+        ]
+      }
+    },
+    {
+      "body": "😏",
+      "url": "mxc://matrix.chir.rs/8922adf1621b6a93d87503a2d214592c0a4562ee",
+      "info": {
+        "w": 192,
+        "h": 256,
+        "size": 217930,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/8922adf1621b6a93d87503a2d214592c0a4562ee",
+        "thumbnail_info": {
+          "w": 192,
+          "h": 256,
+          "size": 217930,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-4943116468427424666",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "5736202774002008068",
+          "short_name": "TygreKitty"
+        },
+        "id": "4943116468427424666",
+        "emoticons": [
+          "😏",
+          "🥵"
         ]
       }
     },

@@ -3,7 +3,7 @@
   "id": "tg-1448918087867826190",
   "net.maunium.telegram.pack": {
     "short_name": "ScotyUpgrade2",
-    "hash": "-1135499030"
+    "hash": "527733227"
   },
   "stickers": [
     {
@@ -2216,6 +2216,35 @@
         "id": "6134379996489188809",
         "emoticons": [
           "ℹ"
+        ]
+      }
+    },
+    {
+      "body": "😜",
+      "url": "mxc://matrix.chir.rs/e41173d1c75a3588e8710d3da621416fdcbae9b3",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 138478,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/e41173d1c75a3588e8710d3da621416fdcbae9b3",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 138478,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-6069051001296390336",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "1448918087867826190",
+          "short_name": "ScotyUpgrade2"
+        },
+        "id": "6069051001296390336",
+        "emoticons": [
+          "😜"
         ]
       }
     }

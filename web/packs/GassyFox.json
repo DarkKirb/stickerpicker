@@ -3,7 +3,7 @@
   "id": "tg-4321423134902190082",
   "net.maunium.telegram.pack": {
     "short_name": "GassyFox",
-    "hash": "203963282"
+    "hash": "8745151"
   },
   "stickers": [
     {
@@ -757,35 +757,6 @@
         "id": "4321423134902190114",
         "emoticons": [
           "😋"
-        ]
-      }
-    },
-    {
-      "body": "🍴",
-      "url": "mxc://matrix.chir.rs/6d19b691c04891936283211ea31aaa0fc63e54b3",
-      "info": {
-        "w": 256,
-        "h": 139,
-        "size": 92950,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/6d19b691c04891936283211ea31aaa0fc63e54b3",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 139,
-          "size": 92950,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-4321423134902190117",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "4321423134902190082",
-          "short_name": "GassyFox"
-        },
-        "id": "4321423134902190117",
-        "emoticons": [
-          "🍴"
         ]
       }
     },
@@ -3483,6 +3454,35 @@
         "id": "6046186442248424303",
         "emoticons": [
           "⚾"
+        ]
+      }
+    },
+    {
+      "body": "📿",
+      "url": "mxc://matrix.chir.rs/a3004bfcd595c504859af92ce08e328f9a7d3ab1",
+      "info": {
+        "w": 213,
+        "h": 256,
+        "size": 144907,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/a3004bfcd595c504859af92ce08e328f9a7d3ab1",
+        "thumbnail_info": {
+          "w": 213,
+          "h": 256,
+          "size": 144907,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5814694980668624876",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4321423134902190082",
+          "short_name": "GassyFox"
+        },
+        "id": "5814694980668624876",
+        "emoticons": [
+          "📿"
         ]
       }
     }

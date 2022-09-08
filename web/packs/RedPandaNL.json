@@ -3,7 +3,7 @@
   "id": "tg-532015945393112052",
   "net.maunium.telegram.pack": {
     "short_name": "RedPandaNL",
-    "hash": "1392963477"
+    "hash": "-1581677304"
   },
   "stickers": [
     {
@@ -2903,6 +2903,35 @@
         "id": "5122853642809901612",
         "emoticons": [
           "😄"
+        ]
+      }
+    },
+    {
+      "body": "😷",
+      "url": "mxc://matrix.chir.rs/4c752952a8f590c44e1e7aaa8686fc54644adf2e",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 260602,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/4c752952a8f590c44e1e7aaa8686fc54644adf2e",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 260602,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-4911205269440037441",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "532015945393112052",
+          "short_name": "RedPandaNL"
+        },
+        "id": "4911205269440037441",
+        "emoticons": [
+          "😷"
         ]
       }
     },
