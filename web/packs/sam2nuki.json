@@ -3,7 +3,7 @@
   "id": "tg-2114761902784512003",
   "net.maunium.telegram.pack": {
     "short_name": "sam2nuki",
-    "hash": "-643634609"
+    "hash": "1644132237"
   },
   "stickers": [
     {
@@ -2541,6 +2541,41 @@
           "🙁",
           "🥤",
           "🥛"
+        ]
+      }
+    },
+    {
+      "body": "🥺",
+      "url": "mxc://matrix.chir.rs/80e9812035d25a40acdf8762d0aa6f05423e75e4",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 143396,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/80e9812035d25a40acdf8762d0aa6f05423e75e4",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 143396,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5136802601370649445",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "2114761902784512003",
+          "short_name": "sam2nuki"
+        },
+        "id": "5136802601370649445",
+        "emoticons": [
+          "💜",
+          "💖",
+          "🥺",
+          "❤",
+          "🥰",
+          "💕",
+          "💞"
         ]
       }
     },

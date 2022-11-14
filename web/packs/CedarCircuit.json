@@ -3,7 +3,7 @@
   "id": "tg-3008837762959802370",
   "net.maunium.telegram.pack": {
     "short_name": "CedarCircuit",
-    "hash": "227614018"
+    "hash": "304369022"
   },
   "stickers": [
     {
@@ -1367,6 +1367,64 @@
         "id": "4949894579655541438",
         "emoticons": [
           "☑"
+        ]
+      }
+    },
+    {
+      "body": "👂",
+      "url": "mxc://matrix.chir.rs/158e56c541272eccdd54319442828db99ccc1239",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 148840,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/158e56c541272eccdd54319442828db99ccc1239",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 148840,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5084570013730341858",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "3008837762959802370",
+          "short_name": "CedarCircuit"
+        },
+        "id": "5084570013730341858",
+        "emoticons": [
+          "👂"
+        ]
+      }
+    },
+    {
+      "body": "😤",
+      "url": "mxc://matrix.chir.rs/a2a59c53caad27859d6cd1b8929cec7d54e81029",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 126960,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/a2a59c53caad27859d6cd1b8929cec7d54e81029",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 126960,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5084663712736870985",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "3008837762959802370",
+          "short_name": "CedarCircuit"
+        },
+        "id": "5084663712736870985",
+        "emoticons": [
+          "😤"
         ]
       }
     }

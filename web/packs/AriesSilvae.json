@@ -3,7 +3,7 @@
   "id": "tg-2285130946040561670",
   "net.maunium.telegram.pack": {
     "short_name": "AriesSilvae",
-    "hash": "552916140"
+    "hash": "576949802"
   },
   "stickers": [
     {
@@ -1606,6 +1606,64 @@
         "id": "2285130946040561760",
         "emoticons": [
           "😑"
+        ]
+      }
+    },
+    {
+      "body": "🎺",
+      "url": "mxc://matrix.chir.rs/6589100d15b6e4c84d001ec5fc7a8a2cb006d64c",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 243564,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/6589100d15b6e4c84d001ec5fc7a8a2cb006d64c",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 243564,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5010512884782859260",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "2285130946040561670",
+          "short_name": "AriesSilvae"
+        },
+        "id": "5010512884782859260",
+        "emoticons": [
+          "🎺"
+        ]
+      }
+    },
+    {
+      "body": "🎨",
+      "url": "mxc://matrix.chir.rs/f99ffb3ca2da2462c04c3eb3381e130a62c9d873",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 131872,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/f99ffb3ca2da2462c04c3eb3381e130a62c9d873",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 131872,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5010778386776196023",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "2285130946040561670",
+          "short_name": "AriesSilvae"
+        },
+        "id": "5010778386776196023",
+        "emoticons": [
+          "🎨"
         ]
       }
     }

@@ -3,7 +3,7 @@
   "id": "tg-1208468978070978564",
   "net.maunium.telegram.pack": {
     "short_name": "baefUbG",
-    "hash": "-1642881782"
+    "hash": "1508162289"
   },
   "stickers": [
     {
@@ -642,6 +642,66 @@
         "id": "5776205364957547151",
         "emoticons": [
           "👃"
+        ]
+      }
+    },
+    {
+      "body": "🗡",
+      "url": "mxc://matrix.chir.rs/e3df292b4a7673343d1c29744b61a10f98352252",
+      "info": {
+        "w": 256,
+        "h": 245,
+        "size": 131121,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/e3df292b4a7673343d1c29744b61a10f98352252",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 245,
+          "size": 131121,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5848034548339707197",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "1208468978070978564",
+          "short_name": "baefUbG"
+        },
+        "id": "5848034548339707197",
+        "emoticons": [
+          "🗡",
+          "🐕"
+        ]
+      }
+    },
+    {
+      "body": "👍",
+      "url": "mxc://matrix.chir.rs/299b7e5db35d71a1066b3e629512270b2ee25aae",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 226936,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/299b7e5db35d71a1066b3e629512270b2ee25aae",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 226936,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5877680152078454074",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "1208468978070978564",
+          "short_name": "baefUbG"
+        },
+        "id": "5877680152078454074",
+        "emoticons": [
+          "👍",
+          "🦮"
         ]
       }
     }

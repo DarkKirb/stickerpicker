@@ -3,7 +3,7 @@
   "id": "tg-384850033456971785",
   "net.maunium.telegram.pack": {
     "short_name": "maff2",
-    "hash": "-1223796101"
+    "hash": "973159482"
   },
   "stickers": [
     {
@@ -816,6 +816,35 @@
           "👉",
           "😩",
           "🫵"
+        ]
+      }
+    },
+    {
+      "body": "😩",
+      "url": "mxc://matrix.chir.rs/21a119c657499639ca0c813566c6069b134244a8",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 163464,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/21a119c657499639ca0c813566c6069b134244a8",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 163464,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5952029983047164105",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "384850033456971785",
+          "short_name": "maff2"
+        },
+        "id": "5952029983047164105",
+        "emoticons": [
+          "😩"
         ]
       }
     },

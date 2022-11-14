@@ -3,7 +3,7 @@
   "id": "tg-387241028865753091",
   "net.maunium.telegram.pack": {
     "short_name": "SylvenCaretaker",
-    "hash": "1603845954"
+    "hash": "1367559130"
   },
   "stickers": [
     {
@@ -709,6 +709,66 @@
         "id": "4994893072274817549",
         "emoticons": [
           "📣"
+        ]
+      }
+    },
+    {
+      "body": "💧",
+      "url": "mxc://matrix.chir.rs/a6de062435003c6f0dade708b19644b7813168de",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 263452,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/a6de062435003c6f0dade708b19644b7813168de",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 263452,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5046771801854575220",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "387241028865753091",
+          "short_name": "SylvenCaretaker"
+        },
+        "id": "5046771801854575220",
+        "emoticons": [
+          "👃",
+          "💧"
+        ]
+      }
+    },
+    {
+      "body": "👃",
+      "url": "mxc://matrix.chir.rs/caf4c4f3887652549e4910dc3d9b5f5f4c33f40d",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 275804,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.chir.rs/caf4c4f3887652549e4910dc3d9b5f5f4c33f40d",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 275804,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5046753599783174733",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "387241028865753091",
+          "short_name": "SylvenCaretaker"
+        },
+        "id": "5046753599783174733",
+        "emoticons": [
+          "👃",
+          "💧"
         ]
       }
     },
