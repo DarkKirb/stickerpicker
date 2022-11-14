@@ -43,7 +43,7 @@ async def reupload_document(client: TelegramClient, document: Document) -> matri
 def add_meta(document: Document, info: matrix.StickerInfo, pack: StickerSetFull) -> None:
     for attr in document.attributes:
         if isinstance(attr, DocumentAttributeSticker):
-            info["body"] = attr.alt
+            info["body"] = f"{attr.alt} ({pack.set.title})"
     info["id"] = f"tg-{document.id}"
     info["net.maunium.telegram.sticker"] = {
         "pack": {
