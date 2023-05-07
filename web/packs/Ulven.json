@@ -1,39 +1,39 @@
 {
-  "title": "A* Ulven",
-  "id": "tg-1460640196079910913",
-  "net.maunium.telegram.pack": {
-    "short_name": "Ulven",
-    "hash": "-1197571456"
-  },
-  "stickers": [
-    {
-      "body": "⚠️ (A* Ulven)",
-      "url": "mxc://matrix.chir.rs/56a5c9563ec447191ca249b108e44cebf84b7a1c",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 81285,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/56a5c9563ec447191ca249b108e44cebf84b7a1c",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 81285,
-          "mimetype": "image/png"
+    "title": "A* Ulven",
+    "id": "tg-1460640196079910913",
+    "net.maunium.telegram.pack": {
+        "short_name": "Ulven",
+        "hash": "-1197571456"
+    },
+    "stickers": [
+        {
+            "body": "⚠️ (A* Ulven)",
+            "url": "mxc://matrix.chir.rs/56a5c9563ec447191ca249b108e44cebf84b7a1c",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 81285,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/56a5c9563ec447191ca249b108e44cebf84b7a1c",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 81285,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4927103601987289722",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1460640196079910913",
+                    "short_name": "Ulven"
+                },
+                "id": "4927103601987289722",
+                "emoticons": [
+                    "⚠"
+                ]
+            }
         }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-4927103601987289722",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "1460640196079910913",
-          "short_name": "Ulven"
-        },
-        "id": "4927103601987289722",
-        "emoticons": [
-          "⚠"
-        ]
-      }
-    }
-  ]
+    ]
 }

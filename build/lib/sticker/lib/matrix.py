@@ -23,6 +23,7 @@ access_token: Optional[str] = None
 homeserver_url: Optional[str] = None
 
 upload_url: Optional[URL] = None
+download_url: Optional[URL] = None
 
 if TYPE_CHECKING:
     from typing import TypedDict
@@ -49,7 +50,7 @@ else:
 
 
 async def load_config(path: str) -> None:
-    global access_token, homeserver_url, upload_url
+    global access_token, homeserver_url, upload_url, download_url
     try:
         with open(path) as config_file:
             config = json.load(config_file)
@@ -72,6 +73,7 @@ async def load_config(path: str) -> None:
         print(f"Wrote config to {path}")
 
     upload_url = URL(homeserver_url) / "_matrix" / "media" / "r0" / "upload"
+    download_url = URL(homeserver_url) / "_matrix" / "media" / "r0" / "download"
 
 
 async def whoami(url: URL, access_token: str) -> str:
@@ -88,3 +90,11 @@ async def upload(data: bytes, mimetype: str, filename: str) -> str:
     headers = {"Content-Type": mimetype, "Authorization": f"Bearer {access_token}"}
     async with ClientSession() as sess, sess.post(url, data=data, headers=headers) as resp:
         return (await resp.json())["content_uri"]
+
+async def exists(content_uri: str) -> bool:
+    parts = content_url = content_uri.split('/')
+    homeserver = parts[2]
+    media = parts[3]
+    url = download_url / homeserver / media
+    async with ClientSession() as sess, sess.get(url) as resp:
+        return resp.status == 200

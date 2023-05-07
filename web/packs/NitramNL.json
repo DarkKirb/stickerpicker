@@ -1,851 +1,851 @@
 {
-  "title": "Nitram",
-  "id": "tg-532015945393111252",
-  "net.maunium.telegram.pack": {
-    "short_name": "NitramNL",
-    "hash": "431872800"
-  },
-  "stickers": [
-    {
-      "body": "👋 (Nitram)",
-      "url": "mxc://matrix.chir.rs/e8e6394f0bd46a8eef77171e0ce7789a0764df88",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 260404,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/e8e6394f0bd46a8eef77171e0ce7789a0764df88",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 260404,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118792",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
-        },
-        "id": "532015945393118792",
-        "emoticons": [
-          "👋"
-        ]
-      }
+    "title": "Nitram",
+    "id": "tg-532015945393111252",
+    "net.maunium.telegram.pack": {
+        "short_name": "NitramNL",
+        "hash": "431872800"
     },
-    {
-      "body": "🤗 (Nitram)",
-      "url": "mxc://matrix.chir.rs/e2e45a24ca29aa1d950685604e2999218fe7aa4d",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 214086,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/e2e45a24ca29aa1d950685604e2999218fe7aa4d",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 214086,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118794",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+    "stickers": [
+        {
+            "body": "👋 (Nitram)",
+            "url": "mxc://matrix.chir.rs/e8e6394f0bd46a8eef77171e0ce7789a0764df88",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 260404,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e8e6394f0bd46a8eef77171e0ce7789a0764df88",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 260404,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118792",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118792",
+                "emoticons": [
+                    "👋"
+                ]
+            }
         },
-        "id": "532015945393118794",
-        "emoticons": [
-          "🤗"
-        ]
-      }
-    },
-    {
-      "body": "🤗 (Nitram)",
-      "url": "mxc://matrix.chir.rs/d782203287fd4c31d6839f3a60c6071bedaf3a1f",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 235959,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/d782203287fd4c31d6839f3a60c6071bedaf3a1f",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 235959,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118796",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🤗 (Nitram)",
+            "url": "mxc://matrix.chir.rs/e2e45a24ca29aa1d950685604e2999218fe7aa4d",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214086,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e2e45a24ca29aa1d950685604e2999218fe7aa4d",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214086,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118794",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118794",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
         },
-        "id": "532015945393118796",
-        "emoticons": [
-          "🤗"
-        ]
-      }
-    },
-    {
-      "body": "😊 (Nitram)",
-      "url": "mxc://matrix.chir.rs/ccf87a7103bc1f8205882629b6f0b23ba369e13d",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 209167,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/ccf87a7103bc1f8205882629b6f0b23ba369e13d",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 209167,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118798",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😋 (Nitram)",
+            "url": "mxc://matrix.chir.rs/9eb04c7072133e8b37557c31500f120a7747ecec",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 220674,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9eb04c7072133e8b37557c31500f120a7747ecec",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 220674,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118800",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118800",
+                "emoticons": [
+                    "😋"
+                ]
+            }
         },
-        "id": "532015945393118798",
-        "emoticons": [
-          "😊"
-        ]
-      }
-    },
-    {
-      "body": "😋 (Nitram)",
-      "url": "mxc://matrix.chir.rs/9eb04c7072133e8b37557c31500f120a7747ecec",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 220674,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/9eb04c7072133e8b37557c31500f120a7747ecec",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 220674,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118800",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😊 (Nitram)",
+            "url": "mxc://matrix.chir.rs/ccf87a7103bc1f8205882629b6f0b23ba369e13d",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209167,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ccf87a7103bc1f8205882629b6f0b23ba369e13d",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209167,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118798",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118798",
+                "emoticons": [
+                    "😊"
+                ]
+            }
         },
-        "id": "532015945393118800",
-        "emoticons": [
-          "😋"
-        ]
-      }
-    },
-    {
-      "body": "😃 (Nitram)",
-      "url": "mxc://matrix.chir.rs/7614fb7421a82da8058a02efd356912a73590875",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 233116,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/7614fb7421a82da8058a02efd356912a73590875",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 233116,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118802",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😃 (Nitram)",
+            "url": "mxc://matrix.chir.rs/7614fb7421a82da8058a02efd356912a73590875",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 233116,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7614fb7421a82da8058a02efd356912a73590875",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 233116,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118802",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118802",
+                "emoticons": [
+                    "😃"
+                ]
+            }
         },
-        "id": "532015945393118802",
-        "emoticons": [
-          "😃"
-        ]
-      }
-    },
-    {
-      "body": "😘 (Nitram)",
-      "url": "mxc://matrix.chir.rs/b5c9045546f2a0117b3f525efddd34a05b767aea",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 216056,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/b5c9045546f2a0117b3f525efddd34a05b767aea",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 216056,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118804",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😳 (Nitram)",
+            "url": "mxc://matrix.chir.rs/1dacefa35ac84cce5a422af58668e791e81ef496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 219804,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1dacefa35ac84cce5a422af58668e791e81ef496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 219804,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118806",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118806",
+                "emoticons": [
+                    "😳"
+                ]
+            }
         },
-        "id": "532015945393118804",
-        "emoticons": [
-          "😘"
-        ]
-      }
-    },
-    {
-      "body": "😳 (Nitram)",
-      "url": "mxc://matrix.chir.rs/1dacefa35ac84cce5a422af58668e791e81ef496",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 219804,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/1dacefa35ac84cce5a422af58668e791e81ef496",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 219804,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118806",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "☺️ (Nitram)",
+            "url": "mxc://matrix.chir.rs/70262a65c294c36352a5605f81ae4f70eda0ea3e",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 212247,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/70262a65c294c36352a5605f81ae4f70eda0ea3e",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 212247,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118810",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118810",
+                "emoticons": [
+                    "☺"
+                ]
+            }
         },
-        "id": "532015945393118806",
-        "emoticons": [
-          "😳"
-        ]
-      }
-    },
-    {
-      "body": "😍 (Nitram)",
-      "url": "mxc://matrix.chir.rs/93ad086ad479d64c8963481ec055a4de83f03b1f",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 237515,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/93ad086ad479d64c8963481ec055a4de83f03b1f",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 237515,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118808",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😍 (Nitram)",
+            "url": "mxc://matrix.chir.rs/93ad086ad479d64c8963481ec055a4de83f03b1f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237515,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/93ad086ad479d64c8963481ec055a4de83f03b1f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237515,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118808",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118808",
+                "emoticons": [
+                    "😍"
+                ]
+            }
         },
-        "id": "532015945393118808",
-        "emoticons": [
-          "😍"
-        ]
-      }
-    },
-    {
-      "body": "☺️ (Nitram)",
-      "url": "mxc://matrix.chir.rs/70262a65c294c36352a5605f81ae4f70eda0ea3e",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 212247,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/70262a65c294c36352a5605f81ae4f70eda0ea3e",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 212247,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118810",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "❤ (Nitram)",
+            "url": "mxc://matrix.chir.rs/3a937759687021b07386bfb1fd637ed59f19ea92",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 212562,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3a937759687021b07386bfb1fd637ed59f19ea92",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 212562,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118818",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118818",
+                "emoticons": [
+                    "❤"
+                ]
+            }
         },
-        "id": "532015945393118810",
-        "emoticons": [
-          "☺"
-        ]
-      }
-    },
-    {
-      "body": "❤ (Nitram)",
-      "url": "mxc://matrix.chir.rs/35328684dbbb4ad4191bd6df7465c74aa2f4e060",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 252135,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/35328684dbbb4ad4191bd6df7465c74aa2f4e060",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 252135,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118814",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😣 (Nitram)",
+            "url": "mxc://matrix.chir.rs/010ea578736d3d2c70c02785b6e52d159517ea5a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 150405,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/010ea578736d3d2c70c02785b6e52d159517ea5a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 150405,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121689",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121689",
+                "emoticons": [
+                    "😣"
+                ]
+            }
         },
-        "id": "532015945393118814",
-        "emoticons": [
-          "❤"
-        ]
-      }
-    },
-    {
-      "body": "😘 (Nitram)",
-      "url": "mxc://matrix.chir.rs/e5a0845bad5455f624fb91a7f08599976cca6600",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 224684,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/e5a0845bad5455f624fb91a7f08599976cca6600",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 224684,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118816",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😘 (Nitram)",
+            "url": "mxc://matrix.chir.rs/e5a0845bad5455f624fb91a7f08599976cca6600",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224684,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e5a0845bad5455f624fb91a7f08599976cca6600",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224684,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118816",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118816",
+                "emoticons": [
+                    "😘"
+                ]
+            }
         },
-        "id": "532015945393118816",
-        "emoticons": [
-          "😘"
-        ]
-      }
-    },
-    {
-      "body": "❤ (Nitram)",
-      "url": "mxc://matrix.chir.rs/3a937759687021b07386bfb1fd637ed59f19ea92",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 212562,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/3a937759687021b07386bfb1fd637ed59f19ea92",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 212562,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118818",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🤗 (Nitram)",
+            "url": "mxc://matrix.chir.rs/d782203287fd4c31d6839f3a60c6071bedaf3a1f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 235959,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d782203287fd4c31d6839f3a60c6071bedaf3a1f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 235959,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118796",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118796",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
         },
-        "id": "532015945393118818",
-        "emoticons": [
-          "❤"
-        ]
-      }
-    },
-    {
-      "body": "😣 (Nitram)",
-      "url": "mxc://matrix.chir.rs/55f474a793af101e5d65950652cf371f9f621050",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 196086,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/55f474a793af101e5d65950652cf371f9f621050",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 196086,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118820",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "❤ (Nitram)",
+            "url": "mxc://matrix.chir.rs/35328684dbbb4ad4191bd6df7465c74aa2f4e060",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 252135,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/35328684dbbb4ad4191bd6df7465c74aa2f4e060",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 252135,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118814",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118814",
+                "emoticons": [
+                    "❤"
+                ]
+            }
         },
-        "id": "532015945393118820",
-        "emoticons": [
-          "😣"
-        ]
-      }
-    },
-    {
-      "body": "🛏 (Nitram)",
-      "url": "mxc://matrix.chir.rs/12498c6f49720bc335335bedf567d92a81a008e7",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 210508,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/12498c6f49720bc335335bedf567d92a81a008e7",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 210508,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393118858",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🚿 (Nitram)",
+            "url": "mxc://matrix.chir.rs/87965e22134cf7f05b2a466afa639920e4f0d40e",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 181499,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/87965e22134cf7f05b2a466afa639920e4f0d40e",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 181499,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121699",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121699",
+                "emoticons": [
+                    "🚿"
+                ]
+            }
         },
-        "id": "532015945393118858",
-        "emoticons": [
-          "🛏"
-        ]
-      }
-    },
-    {
-      "body": "😣 (Nitram)",
-      "url": "mxc://matrix.chir.rs/010ea578736d3d2c70c02785b6e52d159517ea5a",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 150405,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/010ea578736d3d2c70c02785b6e52d159517ea5a",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 150405,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121689",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🐶 (Nitram)",
+            "url": "mxc://matrix.chir.rs/1ceaaf21afc90cab1e0b948e0493159531eb1217",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177430,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ceaaf21afc90cab1e0b948e0493159531eb1217",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177430,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121695",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121695",
+                "emoticons": [
+                    "🐶"
+                ]
+            }
         },
-        "id": "532015945393121689",
-        "emoticons": [
-          "😣"
-        ]
-      }
-    },
-    {
-      "body": "👍 (Nitram)",
-      "url": "mxc://matrix.chir.rs/0bdcac378211547e3f907e4205288d445fa9b55e",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 193090,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/0bdcac378211547e3f907e4205288d445fa9b55e",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 193090,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121691",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🍕 (Nitram)",
+            "url": "mxc://matrix.chir.rs/c9211b9ec1e6b7e18d2b21347c43f8052f51c435",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199588,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c9211b9ec1e6b7e18d2b21347c43f8052f51c435",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199588,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121711",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121711",
+                "emoticons": [
+                    "🍕"
+                ]
+            }
         },
-        "id": "532015945393121691",
-        "emoticons": [
-          "👍"
-        ]
-      }
-    },
-    {
-      "body": "💤 (Nitram)",
-      "url": "mxc://matrix.chir.rs/a6e4dbc86194e2b3f9611ed0f10b7e1955bb7511",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 200869,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/a6e4dbc86194e2b3f9611ed0f10b7e1955bb7511",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 200869,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121693",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🐶 (Nitram)",
+            "url": "mxc://matrix.chir.rs/b41eadb4c181f762673e25c995f5ba2a7bda165c",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204992,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b41eadb4c181f762673e25c995f5ba2a7bda165c",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204992,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121697",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121697",
+                "emoticons": [
+                    "🐶"
+                ]
+            }
         },
-        "id": "532015945393121693",
-        "emoticons": [
-          "💤"
-        ]
-      }
-    },
-    {
-      "body": "🐶 (Nitram)",
-      "url": "mxc://matrix.chir.rs/1ceaaf21afc90cab1e0b948e0493159531eb1217",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 177430,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/1ceaaf21afc90cab1e0b948e0493159531eb1217",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 177430,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121695",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😘 (Nitram)",
+            "url": "mxc://matrix.chir.rs/b5c9045546f2a0117b3f525efddd34a05b767aea",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216056,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b5c9045546f2a0117b3f525efddd34a05b767aea",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216056,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118804",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118804",
+                "emoticons": [
+                    "😘"
+                ]
+            }
         },
-        "id": "532015945393121695",
-        "emoticons": [
-          "🐶"
-        ]
-      }
-    },
-    {
-      "body": "🐶 (Nitram)",
-      "url": "mxc://matrix.chir.rs/b41eadb4c181f762673e25c995f5ba2a7bda165c",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 204992,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/b41eadb4c181f762673e25c995f5ba2a7bda165c",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 204992,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121697",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "👌 (Nitram)",
+            "url": "mxc://matrix.chir.rs/e3768788a51e8fdae6411c94ca536d780c363436",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188816,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e3768788a51e8fdae6411c94ca536d780c363436",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188816,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121705",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121705",
+                "emoticons": [
+                    "👌"
+                ]
+            }
         },
-        "id": "532015945393121697",
-        "emoticons": [
-          "🐶"
-        ]
-      }
-    },
-    {
-      "body": "🚿 (Nitram)",
-      "url": "mxc://matrix.chir.rs/87965e22134cf7f05b2a466afa639920e4f0d40e",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 181499,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/87965e22134cf7f05b2a466afa639920e4f0d40e",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 181499,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121699",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "💤 (Nitram)",
+            "url": "mxc://matrix.chir.rs/a6e4dbc86194e2b3f9611ed0f10b7e1955bb7511",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200869,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a6e4dbc86194e2b3f9611ed0f10b7e1955bb7511",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200869,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121693",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121693",
+                "emoticons": [
+                    "💤"
+                ]
+            }
         },
-        "id": "532015945393121699",
-        "emoticons": [
-          "🚿"
-        ]
-      }
-    },
-    {
-      "body": "😌 (Nitram)",
-      "url": "mxc://matrix.chir.rs/de98f8fa9d009aca4dba7881053ec86fb572e662",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 188390,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/de98f8fa9d009aca4dba7881053ec86fb572e662",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 188390,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121701",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "ℹ️ (Nitram)",
+            "url": "mxc://matrix.chir.rs/a464a016eb8a082a51c4d44fb92b60b1941d8d60",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175642,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a464a016eb8a082a51c4d44fb92b60b1941d8d60",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175642,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393137418",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393137418",
+                "emoticons": [
+                    "ℹ"
+                ]
+            }
         },
-        "id": "532015945393121701",
-        "emoticons": [
-          "😌"
-        ]
-      }
-    },
-    {
-      "body": "😴 (Nitram)",
-      "url": "mxc://matrix.chir.rs/c72c8652b6034c7632f27f112273afbb56dabe66",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 158996,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/c72c8652b6034c7632f27f112273afbb56dabe66",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 158996,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121703",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😣 (Nitram)",
+            "url": "mxc://matrix.chir.rs/55f474a793af101e5d65950652cf371f9f621050",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196086,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/55f474a793af101e5d65950652cf371f9f621050",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196086,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118820",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118820",
+                "emoticons": [
+                    "😣"
+                ]
+            }
         },
-        "id": "532015945393121703",
-        "emoticons": [
-          "😴"
-        ]
-      }
-    },
-    {
-      "body": "👌 (Nitram)",
-      "url": "mxc://matrix.chir.rs/e3768788a51e8fdae6411c94ca536d780c363436",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 188816,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/e3768788a51e8fdae6411c94ca536d780c363436",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 188816,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121705",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😌 (Nitram)",
+            "url": "mxc://matrix.chir.rs/de98f8fa9d009aca4dba7881053ec86fb572e662",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188390,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/de98f8fa9d009aca4dba7881053ec86fb572e662",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188390,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121701",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121701",
+                "emoticons": [
+                    "😌"
+                ]
+            }
         },
-        "id": "532015945393121705",
-        "emoticons": [
-          "👌"
-        ]
-      }
-    },
-    {
-      "body": "🎶 (Nitram)",
-      "url": "mxc://matrix.chir.rs/e3706c018f67995a879f4178ef1d5b8044c459fe",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 185921,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/e3706c018f67995a879f4178ef1d5b8044c459fe",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 185921,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121707",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "👂 (Nitram)",
+            "url": "mxc://matrix.chir.rs/7df84dce389fdd80d64a67044600933fe97c42f0",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196831,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7df84dce389fdd80d64a67044600933fe97c42f0",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196831,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121713",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121713",
+                "emoticons": [
+                    "👂"
+                ]
+            }
         },
-        "id": "532015945393121707",
-        "emoticons": [
-          "🎶"
-        ]
-      }
-    },
-    {
-      "body": "😯 (Nitram)",
-      "url": "mxc://matrix.chir.rs/ddae48168ba19f2af7e70f228aa0ed6d631dd52c",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 180027,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/ddae48168ba19f2af7e70f228aa0ed6d631dd52c",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 180027,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121709",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😯 (Nitram)",
+            "url": "mxc://matrix.chir.rs/ddae48168ba19f2af7e70f228aa0ed6d631dd52c",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 180027,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ddae48168ba19f2af7e70f228aa0ed6d631dd52c",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 180027,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121709",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121709",
+                "emoticons": [
+                    "😯"
+                ]
+            }
         },
-        "id": "532015945393121709",
-        "emoticons": [
-          "😯"
-        ]
-      }
-    },
-    {
-      "body": "🍕 (Nitram)",
-      "url": "mxc://matrix.chir.rs/c9211b9ec1e6b7e18d2b21347c43f8052f51c435",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 199588,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/c9211b9ec1e6b7e18d2b21347c43f8052f51c435",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 199588,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121711",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "😴 (Nitram)",
+            "url": "mxc://matrix.chir.rs/c72c8652b6034c7632f27f112273afbb56dabe66",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 158996,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c72c8652b6034c7632f27f112273afbb56dabe66",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 158996,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121703",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121703",
+                "emoticons": [
+                    "😴"
+                ]
+            }
         },
-        "id": "532015945393121711",
-        "emoticons": [
-          "🍕"
-        ]
-      }
-    },
-    {
-      "body": "👂 (Nitram)",
-      "url": "mxc://matrix.chir.rs/7df84dce389fdd80d64a67044600933fe97c42f0",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 196831,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/7df84dce389fdd80d64a67044600933fe97c42f0",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 196831,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393121713",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🛏 (Nitram)",
+            "url": "mxc://matrix.chir.rs/12498c6f49720bc335335bedf567d92a81a008e7",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 210508,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/12498c6f49720bc335335bedf567d92a81a008e7",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 210508,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393118858",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393118858",
+                "emoticons": [
+                    "🛏"
+                ]
+            }
         },
-        "id": "532015945393121713",
-        "emoticons": [
-          "👂"
-        ]
-      }
-    },
-    {
-      "body": "ℹ️ (Nitram)",
-      "url": "mxc://matrix.chir.rs/a464a016eb8a082a51c4d44fb92b60b1941d8d60",
-      "info": {
-        "w": 256,
-        "h": 256,
-        "size": 175642,
-        "mimetype": "image/png",
-        "thumbnail_url": "mxc://matrix.chir.rs/a464a016eb8a082a51c4d44fb92b60b1941d8d60",
-        "thumbnail_info": {
-          "w": 256,
-          "h": 256,
-          "size": 175642,
-          "mimetype": "image/png"
-        }
-      },
-      "msgtype": "m.sticker",
-      "id": "tg-532015945393137418",
-      "net.maunium.telegram.sticker": {
-        "pack": {
-          "id": "532015945393111252",
-          "short_name": "NitramNL"
+        {
+            "body": "🎶 (Nitram)",
+            "url": "mxc://matrix.chir.rs/e3706c018f67995a879f4178ef1d5b8044c459fe",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185921,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e3706c018f67995a879f4178ef1d5b8044c459fe",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185921,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121707",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121707",
+                "emoticons": [
+                    "🎶"
+                ]
+            }
         },
-        "id": "532015945393137418",
-        "emoticons": [
-          "ℹ"
-        ]
-      }
-    }
-  ]
+        {
+            "body": "👍 (Nitram)",
+            "url": "mxc://matrix.chir.rs/0bdcac378211547e3f907e4205288d445fa9b55e",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 193090,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0bdcac378211547e3f907e4205288d445fa9b55e",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 193090,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393121691",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111252",
+                    "short_name": "NitramNL"
+                },
+                "id": "532015945393121691",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        }
+    ]
 }

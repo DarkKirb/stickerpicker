@@ -35,7 +35,12 @@ async def reupload_document(client: TelegramClient, document: Document) -> matri
     print(".", end="", flush=True)
     data, width, height = util.convert_image(data)
     print(".", end="", flush=True)
-    mxc = await matrix.upload(data, "image/png", f"{document.id}.png")
+    while True:
+        try:
+            mxc = await matrix.upload(data, "image/png", f"{document.id}.png")
+            break
+        except:
+            print("E", end="", flush=True)
     print(".", flush=True)
     return util.make_sticker(mxc, width, height, len(data))
 
@@ -55,7 +60,7 @@ def add_meta(document: Document, info: matrix.StickerInfo, pack: StickerSetFull)
     }
 
 
-async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir: str) -> None:
+async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir: str, sem: asyncio.Semaphore) -> None:
     if pack.set.animated:
         print("Animated stickerpacks are currently not supported")
         return
@@ -80,14 +85,27 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
         pass
 
     reuploaded_documents: Dict[int, matrix.StickerInfo] = {}
+    futs = []
+
+    async def upload_document(document):
+        async with sem:
+            try:
+                # Ensure that document still exists 
+                if await matrix.exists(already_uploaded[document.id]["url"]):
+                    reuploaded_documents[document.id] = already_uploaded[document.id]
+                    print(f"Skipped reuploading {document.id}")
+                else:
+                    reuploaded_documents[document.id] = await reupload_document(client, document)
+            except KeyError:
+                reuploaded_documents[document.id] = await reupload_document(client, document)
+            # Always ensure the body and telegram metadata is correct
+            add_meta(document, reuploaded_documents[document.id], pack)
+
     for document in pack.documents:
-        try:
-            reuploaded_documents[document.id] = already_uploaded[document.id]
-            print(f"Skipped reuploading {document.id}")
-        except KeyError:
-            reuploaded_documents[document.id] = await reupload_document(client, document)
-        # Always ensure the body and telegram metadata is correct
-        add_meta(document, reuploaded_documents[document.id], pack)
+        futs.append(upload_document(document))
+
+    await asyncio.gather(*futs)
+
 
     for sticker in pack.packs:
         if not sticker.emoticon:
@@ -108,7 +126,7 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
                 "hash": str(pack.set.hash),
             },
             "stickers": list(reuploaded_documents.values()),
-        }, pack_file, ensure_ascii=False)
+        }, pack_file, ensure_ascii=False, indent=4)
     print(f"Saved {pack.set.title} as {pack.set.short_name}.json")
 
     util.add_to_index(os.path.basename(pack_path), output_dir)
@@ -152,9 +170,16 @@ async def main(args: argparse.Namespace) -> None:
                 print(f"'{pack_url}' doesn't look like a sticker pack URL")
                 return
             input_packs.append(InputStickerSetShortName(short_name=match.group(1)))
+        sem = asyncio.Semaphore(16)
+        async def do_pack(input_pack):
+            async with sem:
+                pack: StickerSetFull = await client(GetStickerSetRequest(input_pack, hash=0))
+            await reupload_pack(client, pack, args.output_dir, sem) 
+
+        futs = []
         for input_pack in input_packs:
-            pack: StickerSetFull = await client(GetStickerSetRequest(input_pack, hash=0))
-            await reupload_pack(client, pack, args.output_dir)
+            futs.append(do_pack(input_pack))
+        await asyncio.gather(*futs)
     else:
         parser.print_help()
 
