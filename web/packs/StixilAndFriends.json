@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "😎 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/29698a05651c47ce72aff10584119d28b1170722",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159106,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/29698a05651c47ce72aff10584119d28b1170722",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159106,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483669",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483669",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
             "body": "😮 (Stixil and Friends!)",
             "url": "mxc://matrix.chir.rs/96bf461ac4b30986ad29cb4255de8cf3cba6cccd",
             "info": {
@@ -65,122 +94,6 @@
             }
         },
         {
-            "body": "😠 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/d0d4d28536437a3da11c128dc159e7c7ce3a8f3d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 219595,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d0d4d28536437a3da11c128dc159e7c7ce3a8f3d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 219595,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483676",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483676",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "😎 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/b610eb7928ecc245877e4ea37d155321b78edeaa",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 198937,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b610eb7928ecc245877e4ea37d155321b78edeaa",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 198937,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483679",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483679",
-                "emoticons": [
-                    "😎"
-                ]
-            }
-        },
-        {
-            "body": "👏 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/0069c76b9f3f92224e67d006b15623ea90f8937f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209895,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0069c76b9f3f92224e67d006b15623ea90f8937f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209895,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483680",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483680",
-                "emoticons": [
-                    "👏"
-                ]
-            }
-        },
-        {
-            "body": "😢 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/02c224e5080c448b3afa8cfaffd8d10bb59ee089",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 178612,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02c224e5080c448b3afa8cfaffd8d10bb59ee089",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 178612,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483675",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483675",
-                "emoticons": [
-                    "😢"
-                ]
-            }
-        },
-        {
             "body": "⛏ (Stixil and Friends!)",
             "url": "mxc://matrix.chir.rs/cb56c9b8b85dbbf4f1a405754e51dfa29b76ae65",
             "info": {
@@ -206,64 +119,6 @@
                 "id": "2701165332579483670",
                 "emoticons": [
                     "⛏"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/74b9bd284012ab814a5cf7d5121a610a38020ae5",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 256072,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74b9bd284012ab814a5cf7d5121a610a38020ae5",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 256072,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483681",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483681",
-                "emoticons": [
-                    "🐶"
-                ]
-            }
-        },
-        {
-            "body": "😎 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/29698a05651c47ce72aff10584119d28b1170722",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 159106,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/29698a05651c47ce72aff10584119d28b1170722",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 159106,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483669",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483669",
-                "emoticons": [
-                    "😎"
                 ]
             }
         },
@@ -297,6 +152,122 @@
             }
         },
         {
+            "body": "😕 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/fced7c1161323ac5f5bafa54d25efc78c49dd7c9",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175370,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fced7c1161323ac5f5bafa54d25efc78c49dd7c9",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175370,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483674",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483674",
+                "emoticons": [
+                    "😕"
+                ]
+            }
+        },
+        {
+            "body": "😢 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/02c224e5080c448b3afa8cfaffd8d10bb59ee089",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 178612,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/02c224e5080c448b3afa8cfaffd8d10bb59ee089",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 178612,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483675",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483675",
+                "emoticons": [
+                    "😢"
+                ]
+            }
+        },
+        {
+            "body": "😎 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/b610eb7928ecc245877e4ea37d155321b78edeaa",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 198937,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b610eb7928ecc245877e4ea37d155321b78edeaa",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 198937,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483679",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483679",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/74b9bd284012ab814a5cf7d5121a610a38020ae5",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 256072,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/74b9bd284012ab814a5cf7d5121a610a38020ae5",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 256072,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483681",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483681",
+                "emoticons": [
+                    "🐶"
+                ]
+            }
+        },
+        {
             "body": "😡 (Stixil and Friends!)",
             "url": "mxc://matrix.chir.rs/f3435a7f3603b339f6f8a21b5367703f098f00e1",
             "info": {
@@ -322,6 +293,35 @@
                 "id": "2701165332579483677",
                 "emoticons": [
                     "😡"
+                ]
+            }
+        },
+        {
+            "body": "👏 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/0069c76b9f3f92224e67d006b15623ea90f8937f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209895,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0069c76b9f3f92224e67d006b15623ea90f8937f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209895,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483680",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483680",
+                "emoticons": [
+                    "👏"
                 ]
             }
         },
@@ -355,35 +355,6 @@
             }
         },
         {
-            "body": "😭 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/f4e0d5be2b7b97b2e48c6b22b3c898e990771f34",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 188695,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f4e0d5be2b7b97b2e48c6b22b3c898e990771f34",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 188695,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483686",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483686",
-                "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
             "body": "😛 (Stixil and Friends!)",
             "url": "mxc://matrix.chir.rs/768d0e694ab3e41a7efb378cb6308fd41cff3a1d",
             "info": {
@@ -409,151 +380,6 @@
                 "id": "2701165332579483689",
                 "emoticons": [
                     "😛"
-                ]
-            }
-        },
-        {
-            "body": "😕 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/fced7c1161323ac5f5bafa54d25efc78c49dd7c9",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 175370,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fced7c1161323ac5f5bafa54d25efc78c49dd7c9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 175370,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483674",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483674",
-                "emoticons": [
-                    "😕"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/0f57f435662b640487bb9eb549a8722256c58d81",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190894,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0f57f435662b640487bb9eb549a8722256c58d81",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190894,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483685",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483685",
-                "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "👎 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/08231949278c2ae688fd1c272772c7ba89236fa2",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 213699,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/08231949278c2ae688fd1c272772c7ba89236fa2",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 213699,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483692",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483692",
-                "emoticons": [
-                    "👎"
-                ]
-            }
-        },
-        {
-            "body": "👀 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/72d141275b5a324f7114f7a08dc9df76d296ace5",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 212774,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/72d141275b5a324f7114f7a08dc9df76d296ace5",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 212774,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483687",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483687",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/589df11214dbad352d29dfa13df1c6082c602087",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200486,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/589df11214dbad352d29dfa13df1c6082c602087",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200486,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483682",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483682",
-                "emoticons": [
-                    "😳"
                 ]
             }
         },
@@ -587,147 +413,118 @@
             }
         },
         {
-            "body": "😃 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/a0be77995bfe6bdf53916ae54f581324c97f67b1",
+            "body": "😳 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/589df11214dbad352d29dfa13df1c6082c602087",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 179043,
+                "size": 200486,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0be77995bfe6bdf53916ae54f581324c97f67b1",
+                "thumbnail_url": "mxc://matrix.chir.rs/589df11214dbad352d29dfa13df1c6082c602087",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 179043,
+                    "size": 200486,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483695",
+            "id": "tg-2701165332579483682",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483695",
+                "id": "2701165332579483682",
                 "emoticons": [
-                    "😃"
+                    "😳"
                 ]
             }
         },
         {
-            "body": "🍰 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/cff5f84793b78e6da61dbdfc26b70c2e14c2f2dd",
+            "body": "😭 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/f4e0d5be2b7b97b2e48c6b22b3c898e990771f34",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 194464,
+                "size": 188695,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cff5f84793b78e6da61dbdfc26b70c2e14c2f2dd",
+                "thumbnail_url": "mxc://matrix.chir.rs/f4e0d5be2b7b97b2e48c6b22b3c898e990771f34",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 194464,
+                    "size": 188695,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483699",
+            "id": "tg-2701165332579483686",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483699",
+                "id": "2701165332579483686",
                 "emoticons": [
-                    "🍰"
+                    "😭"
                 ]
             }
         },
         {
-            "body": "😑 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/08c55bbd62590d0c20deed1bc2556da221dcee50",
+            "body": "👀 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/72d141275b5a324f7114f7a08dc9df76d296ace5",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 179452,
+                "size": 212774,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/08c55bbd62590d0c20deed1bc2556da221dcee50",
+                "thumbnail_url": "mxc://matrix.chir.rs/72d141275b5a324f7114f7a08dc9df76d296ace5",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 179452,
+                    "size": 212774,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483697",
+            "id": "tg-2701165332579483687",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483697",
+                "id": "2701165332579483687",
                 "emoticons": [
-                    "😑"
+                    "👀"
                 ]
             }
         },
         {
-            "body": "🌻 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/bcd6fc0247db52f7e661acc433165d420a915fa7",
+            "body": "❤️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/0f57f435662b640487bb9eb549a8722256c58d81",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 262413,
+                "size": 190894,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bcd6fc0247db52f7e661acc433165d420a915fa7",
+                "thumbnail_url": "mxc://matrix.chir.rs/0f57f435662b640487bb9eb549a8722256c58d81",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 262413,
+                    "size": 190894,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483694",
+            "id": "tg-2701165332579483685",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483694",
+                "id": "2701165332579483685",
                 "emoticons": [
-                    "🌻"
-                ]
-            }
-        },
-        {
-            "body": "🚧 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/ebfe8a06da11a9b747304deccffabdd43838799c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 199952,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ebfe8a06da11a9b747304deccffabdd43838799c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 199952,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483696",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483696",
-                "emoticons": [
-                    "🚧"
+                    "❤"
                 ]
             }
         },
@@ -761,176 +558,147 @@
             }
         },
         {
-            "body": "🥶 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/2cf069eecffce53e2735ebf893a3da684c6ddc81",
+            "body": "👎 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/08231949278c2ae688fd1c272772c7ba89236fa2",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 221701,
+                "size": 213699,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2cf069eecffce53e2735ebf893a3da684c6ddc81",
+                "thumbnail_url": "mxc://matrix.chir.rs/08231949278c2ae688fd1c272772c7ba89236fa2",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 221701,
+                    "size": 213699,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483700",
+            "id": "tg-2701165332579483692",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483700",
+                "id": "2701165332579483692",
                 "emoticons": [
-                    "🥶"
+                    "👎"
                 ]
             }
         },
         {
-            "body": "😕 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/2f43847a0453b8fa6521200e947a74cc4eb2102f",
+            "body": "🌻 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/bcd6fc0247db52f7e661acc433165d420a915fa7",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 198381,
+                "size": 262413,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2f43847a0453b8fa6521200e947a74cc4eb2102f",
+                "thumbnail_url": "mxc://matrix.chir.rs/bcd6fc0247db52f7e661acc433165d420a915fa7",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 198381,
+                    "size": 262413,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483702",
+            "id": "tg-2701165332579483694",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483702",
+                "id": "2701165332579483694",
                 "emoticons": [
-                    "😕"
+                    "🌻"
                 ]
             }
         },
         {
-            "body": "🤴 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/62ebed1586327079b8ee817fc7b94267bf5dd6cb",
+            "body": "😃 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/a0be77995bfe6bdf53916ae54f581324c97f67b1",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 187115,
+                "size": 179043,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/62ebed1586327079b8ee817fc7b94267bf5dd6cb",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0be77995bfe6bdf53916ae54f581324c97f67b1",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 187115,
+                    "size": 179043,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483705",
+            "id": "tg-2701165332579483695",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483705",
+                "id": "2701165332579483695",
                 "emoticons": [
-                    "🤴"
+                    "😃"
                 ]
             }
         },
         {
-            "body": "😊 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/0d6adea9fa4ed3dcf1988e6468450294d9b449aa",
+            "body": "😑 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/08c55bbd62590d0c20deed1bc2556da221dcee50",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 163791,
+                "size": 179452,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0d6adea9fa4ed3dcf1988e6468450294d9b449aa",
+                "thumbnail_url": "mxc://matrix.chir.rs/08c55bbd62590d0c20deed1bc2556da221dcee50",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 163791,
+                    "size": 179452,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483703",
+            "id": "tg-2701165332579483697",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483703",
+                "id": "2701165332579483697",
                 "emoticons": [
-                    "😊"
+                    "😑"
                 ]
             }
         },
         {
-            "body": "👆 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/36eae8561cc399377219ec58048d9f38b84100d4",
+            "body": "🚧 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/ebfe8a06da11a9b747304deccffabdd43838799c",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 209428,
+                "size": 199952,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/36eae8561cc399377219ec58048d9f38b84100d4",
+                "thumbnail_url": "mxc://matrix.chir.rs/ebfe8a06da11a9b747304deccffabdd43838799c",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 209428,
+                    "size": 199952,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483693",
+            "id": "tg-2701165332579483696",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483693",
+                "id": "2701165332579483696",
                 "emoticons": [
-                    "👆"
-                ]
-            }
-        },
-        {
-            "body": "🍪 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/ecca3f5c97508ef03ab5bb79313df6ee8f1675da",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 201808,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ecca3f5c97508ef03ab5bb79313df6ee8f1675da",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 201808,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483704",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483704",
-                "emoticons": [
-                    "🍪"
+                    "🚧"
                 ]
             }
         },
@@ -964,60 +732,118 @@
             }
         },
         {
-            "body": "🕹 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/5fc029b66901edd03ed1549fbaf9f1ef8e7235db",
+            "body": "👆 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/36eae8561cc399377219ec58048d9f38b84100d4",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 199081,
+                "size": 209428,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5fc029b66901edd03ed1549fbaf9f1ef8e7235db",
+                "thumbnail_url": "mxc://matrix.chir.rs/36eae8561cc399377219ec58048d9f38b84100d4",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 199081,
+                    "size": 209428,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483712",
+            "id": "tg-2701165332579483693",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483712",
+                "id": "2701165332579483693",
                 "emoticons": [
-                    "🕹"
+                    "👆"
                 ]
             }
         },
         {
-            "body": "☘️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/48549f64bda086b3427d3acd54f14a8860a19cdc",
+            "body": "🍰 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/cff5f84793b78e6da61dbdfc26b70c2e14c2f2dd",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 211528,
+                "size": 194464,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/48549f64bda086b3427d3acd54f14a8860a19cdc",
+                "thumbnail_url": "mxc://matrix.chir.rs/cff5f84793b78e6da61dbdfc26b70c2e14c2f2dd",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 211528,
+                    "size": 194464,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483714",
+            "id": "tg-2701165332579483699",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483714",
+                "id": "2701165332579483699",
                 "emoticons": [
-                    "☘"
+                    "🍰"
+                ]
+            }
+        },
+        {
+            "body": "😕 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/2f43847a0453b8fa6521200e947a74cc4eb2102f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 198381,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2f43847a0453b8fa6521200e947a74cc4eb2102f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 198381,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483702",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483702",
+                "emoticons": [
+                    "😕"
+                ]
+            }
+        },
+        {
+            "body": "🧁 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/4f805e78aac8f6069ab14efaf2d06696dc9ec18b",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 226831,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4f805e78aac8f6069ab14efaf2d06696dc9ec18b",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 226831,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483706",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483706",
+                "emoticons": [
+                    "🧁"
                 ]
             }
         },
@@ -1051,89 +877,147 @@
             }
         },
         {
-            "body": "😅 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/06fbd813268a9b0d82272fab5cf5d4c0c5995417",
+            "body": "😊 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/0d6adea9fa4ed3dcf1988e6468450294d9b449aa",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 168618,
+                "size": 163791,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/06fbd813268a9b0d82272fab5cf5d4c0c5995417",
+                "thumbnail_url": "mxc://matrix.chir.rs/0d6adea9fa4ed3dcf1988e6468450294d9b449aa",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 168618,
+                    "size": 163791,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483715",
+            "id": "tg-2701165332579483703",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483715",
+                "id": "2701165332579483703",
                 "emoticons": [
-                    "😅"
+                    "😊"
                 ]
             }
         },
         {
-            "body": "😍 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/70fc386f851801d1e82fd34313dfbef16d60eea0",
+            "body": "🍪 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/ecca3f5c97508ef03ab5bb79313df6ee8f1675da",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 204029,
+                "size": 201808,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/70fc386f851801d1e82fd34313dfbef16d60eea0",
+                "thumbnail_url": "mxc://matrix.chir.rs/ecca3f5c97508ef03ab5bb79313df6ee8f1675da",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 204029,
+                    "size": 201808,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483716",
+            "id": "tg-2701165332579483704",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483716",
+                "id": "2701165332579483704",
                 "emoticons": [
-                    "😍"
+                    "🍪"
                 ]
             }
         },
         {
-            "body": "🐾 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/dfa6aa33be15db54e5a875fff4938d4bdd81eef5",
+            "body": "🥶 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/2cf069eecffce53e2735ebf893a3da684c6ddc81",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 135535,
+                "size": 221701,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dfa6aa33be15db54e5a875fff4938d4bdd81eef5",
+                "thumbnail_url": "mxc://matrix.chir.rs/2cf069eecffce53e2735ebf893a3da684c6ddc81",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 135535,
+                    "size": 221701,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483717",
+            "id": "tg-2701165332579483700",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483717",
+                "id": "2701165332579483700",
                 "emoticons": [
-                    "🐾"
+                    "🥶"
+                ]
+            }
+        },
+        {
+            "body": "🤴 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/62ebed1586327079b8ee817fc7b94267bf5dd6cb",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187115,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/62ebed1586327079b8ee817fc7b94267bf5dd6cb",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187115,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483705",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483705",
+                "emoticons": [
+                    "🤴"
+                ]
+            }
+        },
+        {
+            "body": "🕹 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/5fc029b66901edd03ed1549fbaf9f1ef8e7235db",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199081,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5fc029b66901edd03ed1549fbaf9f1ef8e7235db",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199081,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483712",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483712",
+                "emoticons": [
+                    "🕹"
                 ]
             }
         },
@@ -1225,89 +1109,31 @@
             }
         },
         {
-            "body": "🤔 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/9f935dab6faea0688ed895032bad9a1fc63a6db5",
+            "body": "😍 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/70fc386f851801d1e82fd34313dfbef16d60eea0",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 193614,
+                "size": 204029,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9f935dab6faea0688ed895032bad9a1fc63a6db5",
+                "thumbnail_url": "mxc://matrix.chir.rs/70fc386f851801d1e82fd34313dfbef16d60eea0",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 193614,
+                    "size": 204029,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483720",
+            "id": "tg-2701165332579483716",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483720",
+                "id": "2701165332579483716",
                 "emoticons": [
-                    "🤔"
-                ]
-            }
-        },
-        {
-            "body": "🙂 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/e42f008b10f73a3738c6bbd062d30727d59bc5ee",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 203022,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e42f008b10f73a3738c6bbd062d30727d59bc5ee",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 203022,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483721",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483721",
-                "emoticons": [
-                    "🙂"
-                ]
-            }
-        },
-        {
-            "body": "🍦 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/02f5273da7aec9b8530dbbb9527e9ae33081d260",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209485,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02f5273da7aec9b8530dbbb9527e9ae33081d260",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209485,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483723",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483723",
-                "emoticons": [
-                    "🍦"
+                    "😍"
                 ]
             }
         },
@@ -1341,176 +1167,60 @@
             }
         },
         {
-            "body": "👋 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/f616b27e0fcbf9d25f2ae5ee2c0819d8809f4813",
+            "body": "🔫 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/0ea843671c4186d46cff53fd06eb9256565e37df",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 189457,
+                "size": 241632,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f616b27e0fcbf9d25f2ae5ee2c0819d8809f4813",
+                "thumbnail_url": "mxc://matrix.chir.rs/0ea843671c4186d46cff53fd06eb9256565e37df",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 189457,
+                    "size": 241632,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483718",
+            "id": "tg-2701165332579483707",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483718",
+                "id": "2701165332579483707",
                 "emoticons": [
-                    "👋"
+                    "🔫"
                 ]
             }
         },
         {
-            "body": "💡 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/f5b1c037676a1b17828808dc93737b88ae0eb449",
+            "body": "😅 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/06fbd813268a9b0d82272fab5cf5d4c0c5995417",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 207575,
+                "size": 168618,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f5b1c037676a1b17828808dc93737b88ae0eb449",
+                "thumbnail_url": "mxc://matrix.chir.rs/06fbd813268a9b0d82272fab5cf5d4c0c5995417",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 207575,
+                    "size": 168618,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483724",
+            "id": "tg-2701165332579483715",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483724",
+                "id": "2701165332579483715",
                 "emoticons": [
-                    "💡"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/79bab34326f8c3e3607d7b4470740cc2f0fa4f9d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206563,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/79bab34326f8c3e3607d7b4470740cc2f0fa4f9d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206563,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483726",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483726",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "😒 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/276698e81d382afaeaa07e16c9cd25ab82c74364",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 137641,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/276698e81d382afaeaa07e16c9cd25ab82c74364",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 137641,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483727",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483727",
-                "emoticons": [
-                    "😒"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/3d3f60be418bce86b9ee62d2b0ce08e39c3d5c87",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210735,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d3f60be418bce86b9ee62d2b0ce08e39c3d5c87",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210735,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483728",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483728",
-                "emoticons": [
-                    "🔪"
-                ]
-            }
-        },
-        {
-            "body": "🤤 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/eb831dc2d5ff1a28e6b409f63af5b49a04a7c369",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 240827,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb831dc2d5ff1a28e6b409f63af5b49a04a7c369",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 240827,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483722",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483722",
-                "emoticons": [
-                    "🤤"
+                    "😅"
                 ]
             }
         },
@@ -1544,31 +1254,350 @@
             }
         },
         {
-            "body": "🍨 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/184c464b750984bbcda969f243b3bae5a7e9da77",
+            "body": "🙂 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/e42f008b10f73a3738c6bbd062d30727d59bc5ee",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 224855,
+                "size": 203022,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/184c464b750984bbcda969f243b3bae5a7e9da77",
+                "thumbnail_url": "mxc://matrix.chir.rs/e42f008b10f73a3738c6bbd062d30727d59bc5ee",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 224855,
+                    "size": 203022,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483735",
+            "id": "tg-2701165332579483721",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483735",
+                "id": "2701165332579483721",
                 "emoticons": [
-                    "🍨"
+                    "🙂"
+                ]
+            }
+        },
+        {
+            "body": "🐾 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/dfa6aa33be15db54e5a875fff4938d4bdd81eef5",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135535,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dfa6aa33be15db54e5a875fff4938d4bdd81eef5",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135535,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483717",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483717",
+                "emoticons": [
+                    "🐾"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/9f935dab6faea0688ed895032bad9a1fc63a6db5",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 193614,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9f935dab6faea0688ed895032bad9a1fc63a6db5",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 193614,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483720",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483720",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "👋 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/f616b27e0fcbf9d25f2ae5ee2c0819d8809f4813",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189457,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f616b27e0fcbf9d25f2ae5ee2c0819d8809f4813",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189457,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483718",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483718",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "🤤 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/eb831dc2d5ff1a28e6b409f63af5b49a04a7c369",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240827,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb831dc2d5ff1a28e6b409f63af5b49a04a7c369",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240827,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483722",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483722",
+                "emoticons": [
+                    "🤤"
+                ]
+            }
+        },
+        {
+            "body": "🍦 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/02f5273da7aec9b8530dbbb9527e9ae33081d260",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209485,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/02f5273da7aec9b8530dbbb9527e9ae33081d260",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209485,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483723",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483723",
+                "emoticons": [
+                    "🍦"
+                ]
+            }
+        },
+        {
+            "body": "💡 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/f5b1c037676a1b17828808dc93737b88ae0eb449",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 207575,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f5b1c037676a1b17828808dc93737b88ae0eb449",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 207575,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483724",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483724",
+                "emoticons": [
+                    "💡"
+                ]
+            }
+        },
+        {
+            "body": "😒 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/276698e81d382afaeaa07e16c9cd25ab82c74364",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 137641,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/276698e81d382afaeaa07e16c9cd25ab82c74364",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 137641,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483727",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483727",
+                "emoticons": [
+                    "😒"
+                ]
+            }
+        },
+        {
+            "body": "☘️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/48549f64bda086b3427d3acd54f14a8860a19cdc",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211528,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/48549f64bda086b3427d3acd54f14a8860a19cdc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211528,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483714",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483714",
+                "emoticons": [
+                    "☘"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/79bab34326f8c3e3607d7b4470740cc2f0fa4f9d",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206563,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/79bab34326f8c3e3607d7b4470740cc2f0fa4f9d",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206563,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483726",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483726",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🔪 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/3d3f60be418bce86b9ee62d2b0ce08e39c3d5c87",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 210735,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d3f60be418bce86b9ee62d2b0ce08e39c3d5c87",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 210735,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483728",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483728",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/940f7c3ec16bbcc0e627cfbc36bea187b396f30f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 157956,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/940f7c3ec16bbcc0e627cfbc36bea187b396f30f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 157956,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483733",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483733",
+                "emoticons": [
+                    "👀"
                 ]
             }
         },
@@ -1602,35 +1631,6 @@
             }
         },
         {
-            "body": "🧁 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/4f805e78aac8f6069ab14efaf2d06696dc9ec18b",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 226831,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4f805e78aac8f6069ab14efaf2d06696dc9ec18b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 226831,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483706",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483706",
-                "emoticons": [
-                    "🧁"
-                ]
-            }
-        },
-        {
             "body": "🌺 (Stixil and Friends!)",
             "url": "mxc://matrix.chir.rs/533b2f51ff7bdf465224e2fd4a3bce88fd036c51",
             "info": {
@@ -1660,89 +1660,31 @@
             }
         },
         {
-            "body": "🤯 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/2bdd4b750586cbee2934f7d9c251eb926a300c1e",
+            "body": "🍨 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/184c464b750984bbcda969f243b3bae5a7e9da77",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 205645,
+                "size": 224855,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2bdd4b750586cbee2934f7d9c251eb926a300c1e",
+                "thumbnail_url": "mxc://matrix.chir.rs/184c464b750984bbcda969f243b3bae5a7e9da77",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 205645,
+                    "size": 224855,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483736",
+            "id": "tg-2701165332579483735",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483736",
+                "id": "2701165332579483735",
                 "emoticons": [
-                    "🤯"
-                ]
-            }
-        },
-        {
-            "body": "🍿 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/5abd80c5076710b8638a2ec4b1bd128d463e6093",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 233454,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5abd80c5076710b8638a2ec4b1bd128d463e6093",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 233454,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483738",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483738",
-                "emoticons": [
-                    "🍿"
-                ]
-            }
-        },
-        {
-            "body": "💖 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/c0fb7c520b42b70a6d798dd287165535f779613a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 212205,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c0fb7c520b42b70a6d798dd287165535f779613a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 212205,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483732",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483732",
-                "emoticons": [
-                    "💖"
+                    "🍨"
                 ]
             }
         },
@@ -1776,60 +1718,60 @@
             }
         },
         {
-            "body": "🥴 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/6f6bdff1ff6338414848c6c32b03a2c3c2838236",
+            "body": "🤯 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/2bdd4b750586cbee2934f7d9c251eb926a300c1e",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 177212,
+                "size": 205645,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6f6bdff1ff6338414848c6c32b03a2c3c2838236",
+                "thumbnail_url": "mxc://matrix.chir.rs/2bdd4b750586cbee2934f7d9c251eb926a300c1e",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 177212,
+                    "size": 205645,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483739",
+            "id": "tg-2701165332579483736",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483739",
+                "id": "2701165332579483736",
                 "emoticons": [
-                    "🥴"
+                    "🤯"
                 ]
             }
         },
         {
-            "body": "✌️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/4551e9a81e17c81f5befabadcb11b9924d54e4dd",
+            "body": "💫 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/8cdd5da2635de5200127165c47b78566ff7c93be",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 202951,
+                "size": 208584,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4551e9a81e17c81f5befabadcb11b9924d54e4dd",
+                "thumbnail_url": "mxc://matrix.chir.rs/8cdd5da2635de5200127165c47b78566ff7c93be",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 202951,
+                    "size": 208584,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483745",
+            "id": "tg-2701165332579483734",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483745",
+                "id": "2701165332579483734",
                 "emoticons": [
-                    "✌"
+                    "💫"
                 ]
             }
         },
@@ -1892,6 +1834,151 @@
             }
         },
         {
+            "body": "🍩 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/e6e477edd206eda8706c4e1e1de39c38a612c57e",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216731,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e6e477edd206eda8706c4e1e1de39c38a612c57e",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216731,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483742",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483742",
+                "emoticons": [
+                    "🍩"
+                ]
+            }
+        },
+        {
+            "body": "😁 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/c9bb5d3f96d06d75f7ac77615f9ad6c3be811769",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206387,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c9bb5d3f96d06d75f7ac77615f9ad6c3be811769",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206387,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483747",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483747",
+                "emoticons": [
+                    "😁"
+                ]
+            }
+        },
+        {
+            "body": "🥴 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/6f6bdff1ff6338414848c6c32b03a2c3c2838236",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177212,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6f6bdff1ff6338414848c6c32b03a2c3c2838236",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177212,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483739",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483739",
+                "emoticons": [
+                    "🥴"
+                ]
+            }
+        },
+        {
+            "body": "😮 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/09a0cc29dd282c8d8a4f5cec279df418a2d91716",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 155759,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/09a0cc29dd282c8d8a4f5cec279df418a2d91716",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 155759,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483743",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483743",
+                "emoticons": [
+                    "😮"
+                ]
+            }
+        },
+        {
+            "body": "✌️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/4551e9a81e17c81f5befabadcb11b9924d54e4dd",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202951,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4551e9a81e17c81f5befabadcb11b9924d54e4dd",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202951,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483745",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483745",
+                "emoticons": [
+                    "✌"
+                ]
+            }
+        },
+        {
             "body": "🥳 (Stixil and Friends!)",
             "url": "mxc://matrix.chir.rs/2082f82b098c1cafdc3faaf6b2d6ebf1e3311e1b",
             "info": {
@@ -1917,35 +2004,6 @@
                 "id": "2701165332579483744",
                 "emoticons": [
                     "🥳"
-                ]
-            }
-        },
-        {
-            "body": "💫 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/8cdd5da2635de5200127165c47b78566ff7c93be",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 208584,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8cdd5da2635de5200127165c47b78566ff7c93be",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 208584,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483734",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483734",
-                "emoticons": [
-                    "💫"
                 ]
             }
         },
@@ -1979,60 +2037,31 @@
             }
         },
         {
-            "body": "👀 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/940f7c3ec16bbcc0e627cfbc36bea187b396f30f",
+            "body": "🤬 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/23bc50b6e2c2427b111983b9a473754e7351bdcd",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 157956,
+                "size": 183052,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/940f7c3ec16bbcc0e627cfbc36bea187b396f30f",
+                "thumbnail_url": "mxc://matrix.chir.rs/23bc50b6e2c2427b111983b9a473754e7351bdcd",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 157956,
+                    "size": 183052,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483733",
+            "id": "tg-2701165332579483748",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483733",
+                "id": "2701165332579483748",
                 "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "🍩 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/e6e477edd206eda8706c4e1e1de39c38a612c57e",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 216731,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e6e477edd206eda8706c4e1e1de39c38a612c57e",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 216731,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483742",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483742",
-                "emoticons": [
-                    "🍩"
+                    "🤬"
                 ]
             }
         },
@@ -2095,89 +2124,31 @@
             }
         },
         {
-            "body": "😮 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/09a0cc29dd282c8d8a4f5cec279df418a2d91716",
+            "body": "🍿 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/5abd80c5076710b8638a2ec4b1bd128d463e6093",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 155759,
+                "size": 233454,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/09a0cc29dd282c8d8a4f5cec279df418a2d91716",
+                "thumbnail_url": "mxc://matrix.chir.rs/5abd80c5076710b8638a2ec4b1bd128d463e6093",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 155759,
+                    "size": 233454,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483743",
+            "id": "tg-2701165332579483738",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483743",
+                "id": "2701165332579483738",
                 "emoticons": [
-                    "😮"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/b59a9c77bf875ff91709504e93699d104893ad33",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214207,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b59a9c77bf875ff91709504e93699d104893ad33",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214207,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483753",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483753",
-                "emoticons": [
-                    "☺"
-                ]
-            }
-        },
-        {
-            "body": "😲 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/b379f4252517a7a2596eb7a951bf6c498d3dc003",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 207286,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b379f4252517a7a2596eb7a951bf6c498d3dc003",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 207286,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483757",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483757",
-                "emoticons": [
-                    "😲"
+                    "🍿"
                 ]
             }
         },
@@ -2211,176 +2182,31 @@
             }
         },
         {
-            "body": "🤭 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/c1559c8831c338567761736221bfc935269ea74f",
+            "body": "☺️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/b59a9c77bf875ff91709504e93699d104893ad33",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 208077,
+                "size": 214207,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c1559c8831c338567761736221bfc935269ea74f",
+                "thumbnail_url": "mxc://matrix.chir.rs/b59a9c77bf875ff91709504e93699d104893ad33",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 208077,
+                    "size": 214207,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483760",
+            "id": "tg-2701165332579483753",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483760",
+                "id": "2701165332579483753",
                 "emoticons": [
-                    "🤭"
-                ]
-            }
-        },
-        {
-            "body": "🔫 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/0ea843671c4186d46cff53fd06eb9256565e37df",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241632,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0ea843671c4186d46cff53fd06eb9256565e37df",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241632,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483707",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483707",
-                "emoticons": [
-                    "🔫"
-                ]
-            }
-        },
-        {
-            "body": "🤬 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/23bc50b6e2c2427b111983b9a473754e7351bdcd",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 183052,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/23bc50b6e2c2427b111983b9a473754e7351bdcd",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 183052,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483748",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483748",
-                "emoticons": [
-                    "🤬"
-                ]
-            }
-        },
-        {
-            "body": "😁 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/c9bb5d3f96d06d75f7ac77615f9ad6c3be811769",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206387,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c9bb5d3f96d06d75f7ac77615f9ad6c3be811769",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206387,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483747",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483747",
-                "emoticons": [
-                    "😁"
-                ]
-            }
-        },
-        {
-            "body": "😘 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/3b2f63cd8a771400550c76c017a4b91a428f2512",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 193506,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3b2f63cd8a771400550c76c017a4b91a428f2512",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 193506,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483765",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483765",
-                "emoticons": [
-                    "😘"
-                ]
-            }
-        },
-        {
-            "body": "😉 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/1e5587e2c2dba64a2c3bda5cf3762133ba062abb",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 183147,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1e5587e2c2dba64a2c3bda5cf3762133ba062abb",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 183147,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483766",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483766",
-                "emoticons": [
-                    "😉"
+                    "☺"
                 ]
             }
         },
@@ -2414,60 +2240,31 @@
             }
         },
         {
-            "body": "⚔️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/c838c01dd2cdb24654851f97f76a8137ab75dff4",
+            "body": "😴 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/31e1e1365003afd6cde1176f5998928a269a9a4e",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 218360,
+                "size": 182496,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c838c01dd2cdb24654851f97f76a8137ab75dff4",
+                "thumbnail_url": "mxc://matrix.chir.rs/31e1e1365003afd6cde1176f5998928a269a9a4e",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 218360,
+                    "size": 182496,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483767",
+            "id": "tg-2701165332579483761",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483767",
+                "id": "2701165332579483761",
                 "emoticons": [
-                    "⚔"
-                ]
-            }
-        },
-        {
-            "body": "😉 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/26f0297cad139d81e069109a6346d83e7d4d91fa",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 88544,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26f0297cad139d81e069109a6346d83e7d4d91fa",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 88544,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483768",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483768",
-                "emoticons": [
-                    "😉"
+                    "😴"
                 ]
             }
         },
@@ -2501,31 +2298,350 @@
             }
         },
         {
-            "body": "😴 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/31e1e1365003afd6cde1176f5998928a269a9a4e",
+            "body": "😲 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/b379f4252517a7a2596eb7a951bf6c498d3dc003",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 182496,
+                "size": 207286,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/31e1e1365003afd6cde1176f5998928a269a9a4e",
+                "thumbnail_url": "mxc://matrix.chir.rs/b379f4252517a7a2596eb7a951bf6c498d3dc003",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 182496,
+                    "size": 207286,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483761",
+            "id": "tg-2701165332579483757",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483761",
+                "id": "2701165332579483757",
                 "emoticons": [
-                    "😴"
+                    "😲"
+                ]
+            }
+        },
+        {
+            "body": "🤭 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/c1559c8831c338567761736221bfc935269ea74f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 208077,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c1559c8831c338567761736221bfc935269ea74f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 208077,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483760",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483760",
+                "emoticons": [
+                    "🤭"
+                ]
+            }
+        },
+        {
+            "body": "😉 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/1e5587e2c2dba64a2c3bda5cf3762133ba062abb",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 183147,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1e5587e2c2dba64a2c3bda5cf3762133ba062abb",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 183147,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483766",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483766",
+                "emoticons": [
+                    "😉"
+                ]
+            }
+        },
+        {
+            "body": "😘 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/3b2f63cd8a771400550c76c017a4b91a428f2512",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 193506,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3b2f63cd8a771400550c76c017a4b91a428f2512",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 193506,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483765",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483765",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/05d70bd274cf7b5fdbec59c0dbadf8f9e4a182cb",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 205436,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/05d70bd274cf7b5fdbec59c0dbadf8f9e4a182cb",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 205436,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483763",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483763",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "⚔️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/c838c01dd2cdb24654851f97f76a8137ab75dff4",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 218360,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c838c01dd2cdb24654851f97f76a8137ab75dff4",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 218360,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483767",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483767",
+                "emoticons": [
+                    "⚔"
+                ]
+            }
+        },
+        {
+            "body": "😍 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/45f81d4f4c1166ed814b1fb61a77b8afb6b0304a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211223,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/45f81d4f4c1166ed814b1fb61a77b8afb6b0304a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211223,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483764",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483764",
+                "emoticons": [
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "😉 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/26f0297cad139d81e069109a6346d83e7d4d91fa",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 88544,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/26f0297cad139d81e069109a6346d83e7d4d91fa",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 88544,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483768",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483768",
+                "emoticons": [
+                    "😉"
+                ]
+            }
+        },
+        {
+            "body": "😜 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/f17d3204d35b182f5a819a0c4fcde1633f85554f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 143517,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f17d3204d35b182f5a819a0c4fcde1633f85554f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 143517,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483758",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483758",
+                "emoticons": [
+                    "😜"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/d0d4d28536437a3da11c128dc159e7c7ce3a8f3d",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 219595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d0d4d28536437a3da11c128dc159e7c7ce3a8f3d",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 219595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483676",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483676",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/eb46ad6bc7ead6779ba3f2215cbc9f8ac9af2e8b",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 195719,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb46ad6bc7ead6779ba3f2215cbc9f8ac9af2e8b",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 195719,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483772",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483772",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/0fc8194098178048298f5705a08b5504ff19a14f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 169740,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0fc8194098178048298f5705a08b5504ff19a14f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 169740,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483770",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483770",
+                "emoticons": [
+                    "☺"
                 ]
             }
         },
@@ -2588,64 +2704,6 @@
             }
         },
         {
-            "body": "😠 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/05d70bd274cf7b5fdbec59c0dbadf8f9e4a182cb",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205436,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/05d70bd274cf7b5fdbec59c0dbadf8f9e4a182cb",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205436,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483763",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483763",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "👀 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/dea97784745fa9784aa0e60c7d19df8bf7893118",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190043,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dea97784745fa9784aa0e60c7d19df8bf7893118",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190043,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483776",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483776",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
             "body": "😳 (Stixil and Friends!)",
             "url": "mxc://matrix.chir.rs/24e0780a525beb3bab116e0aff0b46d42e063c89",
             "info": {
@@ -2671,93 +2729,6 @@
                 "id": "2701165332579483769",
                 "emoticons": [
                     "😳"
-                ]
-            }
-        },
-        {
-            "body": "😍 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/45f81d4f4c1166ed814b1fb61a77b8afb6b0304a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 211223,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/45f81d4f4c1166ed814b1fb61a77b8afb6b0304a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 211223,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483764",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483764",
-                "emoticons": [
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "🗑 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/7334b2d630528310d06aefbcf479cb5b4b506c7c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 118509,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7334b2d630528310d06aefbcf479cb5b4b506c7c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 118509,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483775",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483775",
-                "emoticons": [
-                    "🗑"
-                ]
-            }
-        },
-        {
-            "body": "😜 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/f17d3204d35b182f5a819a0c4fcde1633f85554f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 143517,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f17d3204d35b182f5a819a0c4fcde1633f85554f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 143517,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483758",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483758",
-                "emoticons": [
-                    "😜"
                 ]
             }
         },
@@ -2791,60 +2762,60 @@
             }
         },
         {
-            "body": "👍 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/eb46ad6bc7ead6779ba3f2215cbc9f8ac9af2e8b",
+            "body": "🗑 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/7334b2d630528310d06aefbcf479cb5b4b506c7c",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 195719,
+                "size": 118509,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb46ad6bc7ead6779ba3f2215cbc9f8ac9af2e8b",
+                "thumbnail_url": "mxc://matrix.chir.rs/7334b2d630528310d06aefbcf479cb5b4b506c7c",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 195719,
+                    "size": 118509,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483772",
+            "id": "tg-2701165332579483775",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483772",
+                "id": "2701165332579483775",
                 "emoticons": [
-                    "👍"
+                    "🗑"
                 ]
             }
         },
         {
-            "body": "🤠 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/6fc85ed112a449483690a80069e112acdf702872",
+            "body": "🎵 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/cbd02d40611b754c5360568b520c8a64e6cbb5bf",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 182844,
+                "size": 199147,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6fc85ed112a449483690a80069e112acdf702872",
+                "thumbnail_url": "mxc://matrix.chir.rs/cbd02d40611b754c5360568b520c8a64e6cbb5bf",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 182844,
+                    "size": 199147,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483781",
+            "id": "tg-2701165332579483778",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483781",
+                "id": "2701165332579483778",
                 "emoticons": [
-                    "🤠"
+                    "🎵"
                 ]
             }
         },
@@ -2878,31 +2849,176 @@
             }
         },
         {
-            "body": "☺️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/2ce7b24ad31a5ac3e65325ee74752d7abcdd727b",
+            "body": "🤠 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/6fc85ed112a449483690a80069e112acdf702872",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 215981,
+                "size": 182844,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2ce7b24ad31a5ac3e65325ee74752d7abcdd727b",
+                "thumbnail_url": "mxc://matrix.chir.rs/6fc85ed112a449483690a80069e112acdf702872",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 215981,
+                    "size": 182844,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483789",
+            "id": "tg-2701165332579483781",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483789",
+                "id": "2701165332579483781",
                 "emoticons": [
-                    "☺"
+                    "🤠"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/dea97784745fa9784aa0e60c7d19df8bf7893118",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190043,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dea97784745fa9784aa0e60c7d19df8bf7893118",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190043,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483776",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483776",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "😲 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/a7fbb09699314a2636d1eddf74c38aedc110635e",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 253971,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a7fbb09699314a2636d1eddf74c38aedc110635e",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 253971,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483821",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483821",
+                "emoticons": [
+                    "😲"
+                ]
+            }
+        },
+        {
+            "body": "🤣 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/6f4c7034e3e168fd6343ae052eb2225d6299fb97",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224219,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6f4c7034e3e168fd6343ae052eb2225d6299fb97",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224219,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483779",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483779",
+                "emoticons": [
+                    "🤣"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/cfae414ed39263c0b8d28f108d2cc79579fd277a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 203375,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cfae414ed39263c0b8d28f108d2cc79579fd277a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 203375,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483783",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483783",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "🥁 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/3ff3a7dd5e219a0cdc6555bdc7d4b0be06760c10",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 223370,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3ff3a7dd5e219a0cdc6555bdc7d4b0be06760c10",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 223370,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483790",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483790",
+                "emoticons": [
+                    "🥁"
                 ]
             }
         },
@@ -2936,31 +3052,118 @@
             }
         },
         {
-            "body": "🥁 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/3ff3a7dd5e219a0cdc6555bdc7d4b0be06760c10",
+            "body": "🐼 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/70002131fa81b6ca7d726fa167acb7c700d60580",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 223370,
+                "size": 222101,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3ff3a7dd5e219a0cdc6555bdc7d4b0be06760c10",
+                "thumbnail_url": "mxc://matrix.chir.rs/70002131fa81b6ca7d726fa167acb7c700d60580",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 223370,
+                    "size": 222101,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483790",
+            "id": "tg-2701165332579483791",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483790",
+                "id": "2701165332579483791",
                 "emoticons": [
-                    "🥁"
+                    "🐼"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/2ce7b24ad31a5ac3e65325ee74752d7abcdd727b",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215981,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2ce7b24ad31a5ac3e65325ee74752d7abcdd727b",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215981,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483789",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483789",
+                "emoticons": [
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "☕️ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/e73022cd92162d34b647bd7ab54b5dcb0a3876d9",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 265258,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e73022cd92162d34b647bd7ab54b5dcb0a3876d9",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 265258,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483792",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483792",
+                "emoticons": [
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "🌿 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/55b06a7996d4846068455aaf3f84b0f4aebf9ed2",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 203972,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/55b06a7996d4846068455aaf3f84b0f4aebf9ed2",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 203972,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483787",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483787",
+                "emoticons": [
+                    "🌿"
                 ]
             }
         },
@@ -3023,350 +3226,31 @@
             }
         },
         {
-            "body": "😹 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/d92638e12764b15dd0cac4fd5c674f8d9389922f",
+            "body": "😜 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/62f190ced015163db7c4a2638ca4b3a55f07d239",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 181033,
+                "size": 236905,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d92638e12764b15dd0cac4fd5c674f8d9389922f",
+                "thumbnail_url": "mxc://matrix.chir.rs/62f190ced015163db7c4a2638ca4b3a55f07d239",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 181033,
+                    "size": 236905,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483793",
+            "id": "tg-2701165332579483798",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483793",
+                "id": "2701165332579483798",
                 "emoticons": [
-                    "😹"
-                ]
-            }
-        },
-        {
-            "body": "😲 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/a7fbb09699314a2636d1eddf74c38aedc110635e",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 253971,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a7fbb09699314a2636d1eddf74c38aedc110635e",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 253971,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483821",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483821",
-                "emoticons": [
-                    "😲"
-                ]
-            }
-        },
-        {
-            "body": "🎵 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/cbd02d40611b754c5360568b520c8a64e6cbb5bf",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 199147,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cbd02d40611b754c5360568b520c8a64e6cbb5bf",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 199147,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483778",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483778",
-                "emoticons": [
-                    "🎵"
-                ]
-            }
-        },
-        {
-            "body": "☕️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/e73022cd92162d34b647bd7ab54b5dcb0a3876d9",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 265258,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e73022cd92162d34b647bd7ab54b5dcb0a3876d9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 265258,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483792",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483792",
-                "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "🤣 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/6f4c7034e3e168fd6343ae052eb2225d6299fb97",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 224219,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6f4c7034e3e168fd6343ae052eb2225d6299fb97",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 224219,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483779",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483779",
-                "emoticons": [
-                    "🤣"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/0fc8194098178048298f5705a08b5504ff19a14f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 169740,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0fc8194098178048298f5705a08b5504ff19a14f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 169740,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483770",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483770",
-                "emoticons": [
-                    "☺"
-                ]
-            }
-        },
-        {
-            "body": "🌿 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/55b06a7996d4846068455aaf3f84b0f4aebf9ed2",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 203972,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/55b06a7996d4846068455aaf3f84b0f4aebf9ed2",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 203972,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483787",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483787",
-                "emoticons": [
-                    "🌿"
-                ]
-            }
-        },
-        {
-            "body": "😈 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/cfae414ed39263c0b8d28f108d2cc79579fd277a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 203375,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cfae414ed39263c0b8d28f108d2cc79579fd277a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 203375,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483783",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483783",
-                "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
-            "body": "🐼 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/70002131fa81b6ca7d726fa167acb7c700d60580",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 222101,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/70002131fa81b6ca7d726fa167acb7c700d60580",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 222101,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483791",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483791",
-                "emoticons": [
-                    "🐼"
-                ]
-            }
-        },
-        {
-            "body": "❕ (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/000152ed101ac3d8f88659825292c956626667b4",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166647,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/000152ed101ac3d8f88659825292c956626667b4",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166647,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483810",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483810",
-                "emoticons": [
-                    "❕"
-                ]
-            }
-        },
-        {
-            "body": "🦌 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/4248981827ab1c5e35274f53312cc71f02eda7db",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 207509,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4248981827ab1c5e35274f53312cc71f02eda7db",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 207509,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483797",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483797",
-                "emoticons": [
-                    "🦌"
-                ]
-            }
-        },
-        {
-            "body": "🐉 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/43945727edc503d27da0f8777890ae0eb252abe9",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 239619,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/43945727edc503d27da0f8777890ae0eb252abe9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 239619,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2701165332579483809",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2701165332579483652",
-                    "short_name": "StixilAndFriends"
-                },
-                "id": "2701165332579483809",
-                "emoticons": [
-                    "🐉"
+                    "😜"
                 ]
             }
         },
@@ -3458,31 +3342,147 @@
             }
         },
         {
-            "body": "😜 (Stixil and Friends!)",
-            "url": "mxc://matrix.chir.rs/62f190ced015163db7c4a2638ca4b3a55f07d239",
+            "body": "😹 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/d92638e12764b15dd0cac4fd5c674f8d9389922f",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 236905,
+                "size": 181033,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/62f190ced015163db7c4a2638ca4b3a55f07d239",
+                "thumbnail_url": "mxc://matrix.chir.rs/d92638e12764b15dd0cac4fd5c674f8d9389922f",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 236905,
+                    "size": 181033,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2701165332579483798",
+            "id": "tg-2701165332579483793",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2701165332579483652",
                     "short_name": "StixilAndFriends"
                 },
-                "id": "2701165332579483798",
+                "id": "2701165332579483793",
                 "emoticons": [
-                    "😜"
+                    "😹"
+                ]
+            }
+        },
+        {
+            "body": "🐉 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/43945727edc503d27da0f8777890ae0eb252abe9",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 239619,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/43945727edc503d27da0f8777890ae0eb252abe9",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 239619,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483809",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483809",
+                "emoticons": [
+                    "🐉"
+                ]
+            }
+        },
+        {
+            "body": "🦌 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/4248981827ab1c5e35274f53312cc71f02eda7db",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 207509,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4248981827ab1c5e35274f53312cc71f02eda7db",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 207509,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483797",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483797",
+                "emoticons": [
+                    "🦌"
+                ]
+            }
+        },
+        {
+            "body": "❕ (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/000152ed101ac3d8f88659825292c956626667b4",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 166647,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/000152ed101ac3d8f88659825292c956626667b4",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 166647,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483810",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483810",
+                "emoticons": [
+                    "❕"
+                ]
+            }
+        },
+        {
+            "body": "💖 (Stixil and Friends!)",
+            "url": "mxc://matrix.chir.rs/c0fb7c520b42b70a6d798dd287165535f779613a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 212205,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c0fb7c520b42b70a6d798dd287165535f779613a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 212205,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2701165332579483732",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2701165332579483652",
+                    "short_name": "StixilAndFriends"
+                },
+                "id": "2701165332579483732",
+                "emoticons": [
+                    "💖"
                 ]
             }
         }

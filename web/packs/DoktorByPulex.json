@@ -7,64 +7,6 @@
     },
     "stickers": [
         {
-            "body": "👀 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/00ac483803818db16c1870460001fcd8138cb00f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 149047,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/00ac483803818db16c1870460001fcd8138cb00f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 149047,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986110",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986110",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "😮 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/109d7ed533f9c3ea5fdd6508b55d6daff101a4bd",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 140167,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/109d7ed533f9c3ea5fdd6508b55d6daff101a4bd",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 140167,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986103",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986103",
-                "emoticons": [
-                    "😮"
-                ]
-            }
-        },
-        {
             "body": "🌐 (Doktor by Pulex)",
             "url": "mxc://matrix.chir.rs/27a2fe5ed5951b920b9d102e6e286a2d44610b30",
             "info": {
@@ -94,62 +36,31 @@
             }
         },
         {
-            "body": "😠 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/d3be97f0dbcba9b73dfa071b7f4d3f322afc5e31",
+            "body": "😮 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/109d7ed533f9c3ea5fdd6508b55d6daff101a4bd",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 159273,
+                "size": 140167,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d3be97f0dbcba9b73dfa071b7f4d3f322afc5e31",
+                "thumbnail_url": "mxc://matrix.chir.rs/109d7ed533f9c3ea5fdd6508b55d6daff101a4bd",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 159273,
+                    "size": 140167,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986111",
+            "id": "tg-582360611438986103",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986111",
+                "id": "582360611438986103",
                 "emoticons": [
-                    "😠",
-                    "💢",
-                    "🗯"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/3c0afe984510dbb8dfa434be1e6837328ea109af",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 293429,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3c0afe984510dbb8dfa434be1e6837328ea109af",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 293429,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986129",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986129",
-                "emoticons": [
-                    "😱"
+                    "😮"
                 ]
             }
         },
@@ -212,34 +123,60 @@
             }
         },
         {
-            "body": "💙 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/222503cf53c0f80eef5ab3f72aa42a34a63cbf41",
+            "body": "👀 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/00ac483803818db16c1870460001fcd8138cb00f",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 191414,
+                "size": 149047,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/222503cf53c0f80eef5ab3f72aa42a34a63cbf41",
+                "thumbnail_url": "mxc://matrix.chir.rs/00ac483803818db16c1870460001fcd8138cb00f",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 191414,
+                    "size": 149047,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986140",
+            "id": "tg-582360611438986110",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986140",
+                "id": "582360611438986110",
                 "emoticons": [
-                    "💙",
-                    "📱",
-                    "📵",
-                    "📴"
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "😱 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/3c0afe984510dbb8dfa434be1e6837328ea109af",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 293429,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3c0afe984510dbb8dfa434be1e6837328ea109af",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 293429,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986129",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986129",
+                "emoticons": [
+                    "😱"
                 ]
             }
         },
@@ -274,33 +211,32 @@
             }
         },
         {
-            "body": "🧋 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/5c87a9d7d4f685f8a858947505143f05f16a0b23",
+            "body": "🥚 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/4806f479072d1b061ab6e5873d63df13b3c746cd",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 203821,
+                "size": 138571,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5c87a9d7d4f685f8a858947505143f05f16a0b23",
+                "thumbnail_url": "mxc://matrix.chir.rs/4806f479072d1b061ab6e5873d63df13b3c746cd",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 203821,
+                    "size": 138571,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986139",
+            "id": "tg-582360611438986089",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986139",
+                "id": "582360611438986089",
                 "emoticons": [
-                    "🧋",
-                    "🍵",
-                    "☕"
+                    "🥚",
+                    "💻"
                 ]
             }
         },
@@ -335,6 +271,67 @@
             }
         },
         {
+            "body": "💙 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/7cb0cd2f3d197d31c755395389463de932ea4b0d",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 132102,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7cb0cd2f3d197d31c755395389463de932ea4b0d",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 132102,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986092",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986092",
+                "emoticons": [
+                    "💙"
+                ]
+            }
+        },
+        {
+            "body": "💙 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/222503cf53c0f80eef5ab3f72aa42a34a63cbf41",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 191414,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/222503cf53c0f80eef5ab3f72aa42a34a63cbf41",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 191414,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986140",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986140",
+                "emoticons": [
+                    "💙",
+                    "📱",
+                    "📵",
+                    "📴"
+                ]
+            }
+        },
+        {
             "body": "😭 (Doktor by Pulex)",
             "url": "mxc://matrix.chir.rs/97a743e7b0587ef0e0e4b3edf05a2c22a7fdb115",
             "info": {
@@ -364,65 +361,60 @@
             }
         },
         {
-            "body": "👆 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/fd8c282976509bd652548d6c556588f0e344a7a3",
+            "body": "💤 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/39d7e3e2607c3d151f877df0bacefe4fc5f3c90e",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 169041,
+                "size": 135181,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fd8c282976509bd652548d6c556588f0e344a7a3",
+                "thumbnail_url": "mxc://matrix.chir.rs/39d7e3e2607c3d151f877df0bacefe4fc5f3c90e",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 169041,
+                    "size": 135181,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986095",
+            "id": "tg-582360611438986090",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986095",
+                "id": "582360611438986090",
                 "emoticons": [
-                    "👆",
-                    "☝",
-                    "⬆",
-                    "🔼",
-                    "🆙"
+                    "💤"
                 ]
             }
         },
         {
-            "body": "🥚 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/4806f479072d1b061ab6e5873d63df13b3c746cd",
+            "body": "🍩 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/c49443e4cb62ee708a839319c3eb1890fc9e26c8",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 138571,
+                "size": 178711,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4806f479072d1b061ab6e5873d63df13b3c746cd",
+                "thumbnail_url": "mxc://matrix.chir.rs/c49443e4cb62ee708a839319c3eb1890fc9e26c8",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 138571,
+                    "size": 178711,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986089",
+            "id": "tg-582360611438986088",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986089",
+                "id": "582360611438986088",
                 "emoticons": [
-                    "🥚",
-                    "💻"
+                    "🍩"
                 ]
             }
         },
@@ -486,120 +478,33 @@
             }
         },
         {
-            "body": "😮 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/5204470775a3282a1dab4a572525ebf91e62af42",
+            "body": "🧋 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/5c87a9d7d4f685f8a858947505143f05f16a0b23",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 119865,
+                "size": 203821,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5204470775a3282a1dab4a572525ebf91e62af42",
+                "thumbnail_url": "mxc://matrix.chir.rs/5c87a9d7d4f685f8a858947505143f05f16a0b23",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 119865,
+                    "size": 203821,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986096",
+            "id": "tg-582360611438986139",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986096",
+                "id": "582360611438986139",
                 "emoticons": [
-                    "😮"
-                ]
-            }
-        },
-        {
-            "body": "🍩 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/c49443e4cb62ee708a839319c3eb1890fc9e26c8",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 178711,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c49443e4cb62ee708a839319c3eb1890fc9e26c8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 178711,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986088",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986088",
-                "emoticons": [
-                    "🍩"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/28d6b332e36baa41d65b48bdeb5244d6181d2028",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142626,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/28d6b332e36baa41d65b48bdeb5244d6181d2028",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142626,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986093",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986093",
-                "emoticons": [
-                    "🔪"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/758579b43dce06eca1264b8bd7d906a254c45384",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 390967,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/758579b43dce06eca1264b8bd7d906a254c45384",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 390967,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986109",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986109",
-                "emoticons": [
-                    "😱",
-                    "🔈",
-                    "📢"
+                    "🧋",
+                    "🍵",
+                    "☕"
                 ]
             }
         },
@@ -636,6 +541,97 @@
             }
         },
         {
+            "body": "🔪 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/28d6b332e36baa41d65b48bdeb5244d6181d2028",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142626,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/28d6b332e36baa41d65b48bdeb5244d6181d2028",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142626,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986093",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986093",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "👆 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/fd8c282976509bd652548d6c556588f0e344a7a3",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 169041,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fd8c282976509bd652548d6c556588f0e344a7a3",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 169041,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986095",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986095",
+                "emoticons": [
+                    "👆",
+                    "☝",
+                    "⬆",
+                    "🔼",
+                    "🆙"
+                ]
+            }
+        },
+        {
+            "body": "😮 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/5204470775a3282a1dab4a572525ebf91e62af42",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 119865,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5204470775a3282a1dab4a572525ebf91e62af42",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 119865,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986096",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986096",
+                "emoticons": [
+                    "😮"
+                ]
+            }
+        },
+        {
             "body": "😱 (Doktor by Pulex)",
             "url": "mxc://matrix.chir.rs/2cda6e5533f8eccadc328e176fd551618fe6933d",
             "info": {
@@ -663,151 +659,6 @@
                     "😱",
                     "🔈",
                     "📢"
-                ]
-            }
-        },
-        {
-            "body": "💙 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/7cb0cd2f3d197d31c755395389463de932ea4b0d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 132102,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7cb0cd2f3d197d31c755395389463de932ea4b0d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 132102,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986092",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986092",
-                "emoticons": [
-                    "💙"
-                ]
-            }
-        },
-        {
-            "body": "💤 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/f0e872b3d562aa907debd29f36a64c51f7e584aa",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 203468,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f0e872b3d562aa907debd29f36a64c51f7e584aa",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 203468,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986114",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986114",
-                "emoticons": [
-                    "💤"
-                ]
-            }
-        },
-        {
-            "body": "💤 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/39d7e3e2607c3d151f877df0bacefe4fc5f3c90e",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 135181,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/39d7e3e2607c3d151f877df0bacefe4fc5f3c90e",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 135181,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986090",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986090",
-                "emoticons": [
-                    "💤"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/c4441da740e82fa809a4b5e61a85ff8f1df3bc18",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172374,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4441da740e82fa809a4b5e61a85ff8f1df3bc18",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172374,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986118",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986118",
-                "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "🥚 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/698abf96238a32fa891e634e56f208e1e8f8e08a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131594,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/698abf96238a32fa891e634e56f208e1e8f8e08a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131594,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986121",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986121",
-                "emoticons": [
-                    "🥚"
                 ]
             }
         },
@@ -842,123 +693,31 @@
             }
         },
         {
-            "body": "❓ (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/ce9879db503252435f74a31c053ff133e99a1768",
+            "body": "😱 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/c4441da740e82fa809a4b5e61a85ff8f1df3bc18",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 147005,
+                "size": 172374,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ce9879db503252435f74a31c053ff133e99a1768",
+                "thumbnail_url": "mxc://matrix.chir.rs/c4441da740e82fa809a4b5e61a85ff8f1df3bc18",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 147005,
+                    "size": 172374,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986117",
+            "id": "tg-582360611438986118",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986117",
+                "id": "582360611438986118",
                 "emoticons": [
-                    "❓"
-                ]
-            }
-        },
-        {
-            "body": "📷 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/98fbe050b030749452af455be2ad9e15f663b28c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 143206,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/98fbe050b030749452af455be2ad9e15f663b28c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 143206,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986115",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986115",
-                "emoticons": [
-                    "📷",
-                    "📸"
-                ]
-            }
-        },
-        {
-            "body": "😶 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/890fe4e5617f7b2d02fdd343d76388c5547587bc",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 118610,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/890fe4e5617f7b2d02fdd343d76388c5547587bc",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 118610,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986124",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986124",
-                "emoticons": [
-                    "😠",
-                    "😶",
-                    "😐"
-                ]
-            }
-        },
-        {
-            "body": "😊 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/0256ae975e99f97cb5b3719c3af4d732a73f5e3d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 153216,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0256ae975e99f97cb5b3719c3af4d732a73f5e3d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 153216,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-582360611438986122",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "582360611438985221",
-                    "short_name": "DoktorByPulex"
-                },
-                "id": "582360611438986122",
-                "emoticons": [
-                    "😊",
-                    "😍",
-                    "🥰"
+                    "😱"
                 ]
             }
         },
@@ -993,63 +752,92 @@
             }
         },
         {
-            "body": "😀 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/75a97e52f17db44b159ba868f6537100b09d5744",
+            "body": "📷 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/98fbe050b030749452af455be2ad9e15f663b28c",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 166151,
+                "size": 143206,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/75a97e52f17db44b159ba868f6537100b09d5744",
+                "thumbnail_url": "mxc://matrix.chir.rs/98fbe050b030749452af455be2ad9e15f663b28c",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 166151,
+                    "size": 143206,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986097",
+            "id": "tg-582360611438986115",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986097",
+                "id": "582360611438986115",
                 "emoticons": [
-                    "😀",
-                    "😃",
-                    "😄",
-                    "😁"
+                    "📷",
+                    "📸"
                 ]
             }
         },
         {
-            "body": "👀 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/c714137f2769be183ed4ab71b7ffe363c3cbd8d9",
+            "body": "😱 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/758579b43dce06eca1264b8bd7d906a254c45384",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 109233,
+                "size": 390967,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c714137f2769be183ed4ab71b7ffe363c3cbd8d9",
+                "thumbnail_url": "mxc://matrix.chir.rs/758579b43dce06eca1264b8bd7d906a254c45384",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 109233,
+                    "size": 390967,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986127",
+            "id": "tg-582360611438986109",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986127",
+                "id": "582360611438986109",
                 "emoticons": [
-                    "👀"
+                    "😱",
+                    "🔈",
+                    "📢"
+                ]
+            }
+        },
+        {
+            "body": "💤 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/f0e872b3d562aa907debd29f36a64c51f7e584aa",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 203468,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f0e872b3d562aa907debd29f36a64c51f7e584aa",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 203468,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986114",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986114",
+                "emoticons": [
+                    "💤"
                 ]
             }
         },
@@ -1085,125 +873,153 @@
             }
         },
         {
-            "body": "😱 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/8a1333fe1b67d1fc680efc6717931d7d609f4de6",
+            "body": "❓ (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/ce9879db503252435f74a31c053ff133e99a1768",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 163015,
+                "size": 147005,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8a1333fe1b67d1fc680efc6717931d7d609f4de6",
+                "thumbnail_url": "mxc://matrix.chir.rs/ce9879db503252435f74a31c053ff133e99a1768",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 163015,
+                    "size": 147005,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986126",
+            "id": "tg-582360611438986117",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986126",
+                "id": "582360611438986117",
                 "emoticons": [
-                    "😱"
+                    "❓"
                 ]
             }
         },
         {
-            "body": "💙 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/6a30fc47666f560bb612cc37a51195d3fc513ef4",
+            "body": "😶 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/890fe4e5617f7b2d02fdd343d76388c5547587bc",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 211956,
+                "size": 118610,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6a30fc47666f560bb612cc37a51195d3fc513ef4",
+                "thumbnail_url": "mxc://matrix.chir.rs/890fe4e5617f7b2d02fdd343d76388c5547587bc",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 211956,
+                    "size": 118610,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986102",
+            "id": "tg-582360611438986124",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986102",
+                "id": "582360611438986124",
                 "emoticons": [
-                    "💙",
-                    "💖",
-                    "❤"
+                    "😠",
+                    "😶",
+                    "😐"
                 ]
             }
         },
         {
-            "body": "💙 (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/4811cd3cabb4e92cd6f90c8688bf005e8de9f85f",
+            "body": "🥚 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/698abf96238a32fa891e634e56f208e1e8f8e08a",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 209941,
+                "size": 131594,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4811cd3cabb4e92cd6f90c8688bf005e8de9f85f",
+                "thumbnail_url": "mxc://matrix.chir.rs/698abf96238a32fa891e634e56f208e1e8f8e08a",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 209941,
+                    "size": 131594,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986128",
+            "id": "tg-582360611438986121",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986128",
+                "id": "582360611438986121",
                 "emoticons": [
-                    "💙",
-                    "💖",
-                    "❤"
+                    "🥚"
                 ]
             }
         },
         {
-            "body": "⭐️ (Doktor by Pulex)",
-            "url": "mxc://matrix.chir.rs/2a3c96a6198bc801400b5607d6e528cf320ffc37",
+            "body": "😊 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/0256ae975e99f97cb5b3719c3af4d732a73f5e3d",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 191951,
+                "size": 153216,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2a3c96a6198bc801400b5607d6e528cf320ffc37",
+                "thumbnail_url": "mxc://matrix.chir.rs/0256ae975e99f97cb5b3719c3af4d732a73f5e3d",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 191951,
+                    "size": 153216,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-582360611438986098",
+            "id": "tg-582360611438986122",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "582360611438985221",
                     "short_name": "DoktorByPulex"
                 },
-                "id": "582360611438986098",
+                "id": "582360611438986122",
                 "emoticons": [
-                    "😄",
-                    "😁",
-                    "⭐",
-                    "🌟"
+                    "😊",
+                    "😍",
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/d3be97f0dbcba9b73dfa071b7f4d3f322afc5e31",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159273,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3be97f0dbcba9b73dfa071b7f4d3f322afc5e31",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159273,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986111",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986111",
+                "emoticons": [
+                    "😠",
+                    "💢",
+                    "🗯"
                 ]
             }
         },
@@ -1235,6 +1051,64 @@
                     "💻",
                     "🖥",
                     "🐍"
+                ]
+            }
+        },
+        {
+            "body": "😱 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/8a1333fe1b67d1fc680efc6717931d7d609f4de6",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 163015,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8a1333fe1b67d1fc680efc6717931d7d609f4de6",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 163015,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986126",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986126",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/c714137f2769be183ed4ab71b7ffe363c3cbd8d9",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 109233,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c714137f2769be183ed4ab71b7ffe363c3cbd8d9",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 109233,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986127",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986127",
+                "emoticons": [
+                    "👀"
                 ]
             }
         },
@@ -1298,6 +1172,38 @@
             }
         },
         {
+            "body": "⭐️ (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/2a3c96a6198bc801400b5607d6e528cf320ffc37",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 191951,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2a3c96a6198bc801400b5607d6e528cf320ffc37",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 191951,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986098",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986098",
+                "emoticons": [
+                    "😄",
+                    "😁",
+                    "⭐",
+                    "🌟"
+                ]
+            }
+        },
+        {
             "body": "💤 (Doktor by Pulex)",
             "url": "mxc://matrix.chir.rs/2f47ed473b6663c7746a69029a30460a11e42227",
             "info": {
@@ -1323,6 +1229,100 @@
                 "id": "582360611438986100",
                 "emoticons": [
                     "💤"
+                ]
+            }
+        },
+        {
+            "body": "😀 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/75a97e52f17db44b159ba868f6537100b09d5744",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 166151,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/75a97e52f17db44b159ba868f6537100b09d5744",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 166151,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986097",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986097",
+                "emoticons": [
+                    "😀",
+                    "😃",
+                    "😄",
+                    "😁"
+                ]
+            }
+        },
+        {
+            "body": "💙 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/4811cd3cabb4e92cd6f90c8688bf005e8de9f85f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209941,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4811cd3cabb4e92cd6f90c8688bf005e8de9f85f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209941,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986128",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986128",
+                "emoticons": [
+                    "💙",
+                    "💖",
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "💙 (Doktor by Pulex)",
+            "url": "mxc://matrix.chir.rs/6a30fc47666f560bb612cc37a51195d3fc513ef4",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211956,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6a30fc47666f560bb612cc37a51195d3fc513ef4",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211956,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-582360611438986102",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "582360611438985221",
+                    "short_name": "DoktorByPulex"
+                },
+                "id": "582360611438986102",
+                "emoticons": [
+                    "💙",
+                    "💖",
+                    "❤"
                 ]
             }
         }

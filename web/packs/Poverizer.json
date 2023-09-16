@@ -7,6 +7,64 @@
     },
     "stickers": [
         {
+            "body": "🐢 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/4e72e98403a0da94a415b65da35b1cfff119be98",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 134634,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e72e98403a0da94a415b65da35b1cfff119be98",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 134634,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428230",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428230",
+                "emoticons": [
+                    "🐢"
+                ]
+            }
+        },
+        {
+            "body": "🚰 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/5c18537bd424b9f018e38314f8a8385a49f9d62a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 145582,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5c18537bd424b9f018e38314f8a8385a49f9d62a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 145582,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428228",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428228",
+                "emoticons": [
+                    "🚰"
+                ]
+            }
+        },
+        {
             "body": "🐍 (Poverizer's Pack)",
             "url": "mxc://matrix.chir.rs/fe386f9c20382269644b1f25c358c402bfc9ecc6",
             "info": {
@@ -36,31 +94,89 @@
             }
         },
         {
-            "body": "🐢 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/4e72e98403a0da94a415b65da35b1cfff119be98",
+            "body": "💩 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/012035ae830def172fd9df8010f41ed84318fc5c",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 134634,
+                "size": 151425,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e72e98403a0da94a415b65da35b1cfff119be98",
+                "thumbnail_url": "mxc://matrix.chir.rs/012035ae830def172fd9df8010f41ed84318fc5c",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 134634,
+                    "size": 151425,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-819123252021428230",
+            "id": "tg-819123252021428232",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "819123252021428225",
                     "short_name": "Poverizer"
                 },
-                "id": "819123252021428230",
+                "id": "819123252021428232",
                 "emoticons": [
-                    "🐢"
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "💦 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/d0310678e2ce2f998cacb0b44b9e9bf115087d59",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 174442,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d0310678e2ce2f998cacb0b44b9e9bf115087d59",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 174442,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428229",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428229",
+                "emoticons": [
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "💨 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/c171a5080d17d859ad605811cfa73f8266fa61f2",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142213,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c171a5080d17d859ad605811cfa73f8266fa61f2",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142213,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428227",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428227",
+                "emoticons": [
+                    "💨"
                 ]
             }
         },
@@ -123,89 +239,31 @@
             }
         },
         {
-            "body": "🚰 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/5c18537bd424b9f018e38314f8a8385a49f9d62a",
+            "body": "🚽 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/952e39aa6b094f012687aca5f5cb5addd9d7169d",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 145582,
+                "size": 131036,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5c18537bd424b9f018e38314f8a8385a49f9d62a",
+                "thumbnail_url": "mxc://matrix.chir.rs/952e39aa6b094f012687aca5f5cb5addd9d7169d",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 145582,
+                    "size": 131036,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-819123252021428228",
+            "id": "tg-819123252021428234",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "819123252021428225",
                     "short_name": "Poverizer"
                 },
-                "id": "819123252021428228",
+                "id": "819123252021428234",
                 "emoticons": [
-                    "🚰"
-                ]
-            }
-        },
-        {
-            "body": "💨 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/c171a5080d17d859ad605811cfa73f8266fa61f2",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142213,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c171a5080d17d859ad605811cfa73f8266fa61f2",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142213,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428227",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428227",
-                "emoticons": [
-                    "💨"
-                ]
-            }
-        },
-        {
-            "body": "💦 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/d0310678e2ce2f998cacb0b44b9e9bf115087d59",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 174442,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d0310678e2ce2f998cacb0b44b9e9bf115087d59",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 174442,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428229",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428229",
-                "emoticons": [
-                    "💦"
+                    "🚽"
                 ]
             }
         },
@@ -240,35 +298,6 @@
         },
         {
             "body": "💩 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/012035ae830def172fd9df8010f41ed84318fc5c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 151425,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/012035ae830def172fd9df8010f41ed84318fc5c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 151425,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428232",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428232",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
-            "body": "💩 (Poverizer's Pack)",
             "url": "mxc://matrix.chir.rs/74e8efeb8f4b6b9f4192812c4826c3ecc17d24f0",
             "info": {
                 "w": 256,
@@ -293,64 +322,6 @@
                 "id": "819123252021428233",
                 "emoticons": [
                     "💩"
-                ]
-            }
-        },
-        {
-            "body": "💩 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/79a99d0781486bfdfefba2ce60cfc9302ad9f52a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 90484,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/79a99d0781486bfdfefba2ce60cfc9302ad9f52a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 90484,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428237",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428237",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
-            "body": "🚽 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/952e39aa6b094f012687aca5f5cb5addd9d7169d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131036,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/952e39aa6b094f012687aca5f5cb5addd9d7169d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131036,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428234",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428234",
-                "emoticons": [
-                    "🚽"
                 ]
             }
         },
@@ -385,28 +356,28 @@
         },
         {
             "body": "💩 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/68a0a0739fe2462ae7f293e142c37e98ac74ae96",
+            "url": "mxc://matrix.chir.rs/79a99d0781486bfdfefba2ce60cfc9302ad9f52a",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 104528,
+                "size": 90484,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/68a0a0739fe2462ae7f293e142c37e98ac74ae96",
+                "thumbnail_url": "mxc://matrix.chir.rs/79a99d0781486bfdfefba2ce60cfc9302ad9f52a",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 104528,
+                    "size": 90484,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-819123252021428240",
+            "id": "tg-819123252021428237",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "819123252021428225",
                     "short_name": "Poverizer"
                 },
-                "id": "819123252021428240",
+                "id": "819123252021428237",
                 "emoticons": [
                     "💩"
                 ]
@@ -438,6 +409,93 @@
                 "id": "819123252021428235",
                 "emoticons": [
                     "🧀"
+                ]
+            }
+        },
+        {
+            "body": "💩 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/20e2ead8d2bf790a7628a243893eb5cccc5a4203",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 105215,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/20e2ead8d2bf790a7628a243893eb5cccc5a4203",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 105215,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428238",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428238",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "❕ (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/d3344451c7721ab79a337af0a7ce9df52fc5f5c1",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 129826,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3344451c7721ab79a337af0a7ce9df52fc5f5c1",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 129826,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428241",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428241",
+                "emoticons": [
+                    "❕"
+                ]
+            }
+        },
+        {
+            "body": "💩 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/68a0a0739fe2462ae7f293e142c37e98ac74ae96",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 104528,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/68a0a0739fe2462ae7f293e142c37e98ac74ae96",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 104528,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428240",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428240",
+                "emoticons": [
+                    "💩"
                 ]
             }
         },
@@ -500,60 +558,31 @@
             }
         },
         {
-            "body": "❕ (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/d3344451c7721ab79a337af0a7ce9df52fc5f5c1",
+            "body": "☁️ (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/120d7e57fcb3f6601c72badb7c3fd565cb1d5d7c",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 129826,
+                "size": 187611,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d3344451c7721ab79a337af0a7ce9df52fc5f5c1",
+                "thumbnail_url": "mxc://matrix.chir.rs/120d7e57fcb3f6601c72badb7c3fd565cb1d5d7c",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 129826,
+                    "size": 187611,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-819123252021428241",
+            "id": "tg-819123252021428242",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "819123252021428225",
                     "short_name": "Poverizer"
                 },
-                "id": "819123252021428241",
+                "id": "819123252021428242",
                 "emoticons": [
-                    "❕"
-                ]
-            }
-        },
-        {
-            "body": "⛰ (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/f8f8477a58489a454e029e11e916951d5b27fa2d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205288,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f8f8477a58489a454e029e11e916951d5b27fa2d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205288,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428244",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428244",
-                "emoticons": [
-                    "⛰"
+                    "☁"
                 ]
             }
         },
@@ -587,6 +616,35 @@
             }
         },
         {
+            "body": "🌊 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/b81a917c6cee94a46f9743760843cb4723a7cc18",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 179410,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b81a917c6cee94a46f9743760843cb4723a7cc18",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 179410,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428243",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428243",
+                "emoticons": [
+                    "🌊"
+                ]
+            }
+        },
+        {
             "body": "🛌 (Poverizer's Pack)",
             "url": "mxc://matrix.chir.rs/a4a4cf4708c9fcd3a3c98a9c8dc6da6e44e2d90b",
             "info": {
@@ -612,35 +670,6 @@
                 "id": "819123252021428259",
                 "emoticons": [
                     "🛌"
-                ]
-            }
-        },
-        {
-            "body": "☁️ (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/120d7e57fcb3f6601c72badb7c3fd565cb1d5d7c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 187611,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/120d7e57fcb3f6601c72badb7c3fd565cb1d5d7c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 187611,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428242",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428242",
-                "emoticons": [
-                    "☁"
                 ]
             }
         },
@@ -674,35 +703,6 @@
             }
         },
         {
-            "body": "💩 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/20e2ead8d2bf790a7628a243893eb5cccc5a4203",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 105215,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/20e2ead8d2bf790a7628a243893eb5cccc5a4203",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 105215,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428238",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428238",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
             "body": "🚚 (Poverizer's Pack)",
             "url": "mxc://matrix.chir.rs/d4eb156aedc380805608130af10fd97edc4c1e21",
             "info": {
@@ -732,89 +732,31 @@
             }
         },
         {
-            "body": "🌊 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/b81a917c6cee94a46f9743760843cb4723a7cc18",
+            "body": "⛰ (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/f8f8477a58489a454e029e11e916951d5b27fa2d",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 179410,
+                "size": 205288,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b81a917c6cee94a46f9743760843cb4723a7cc18",
+                "thumbnail_url": "mxc://matrix.chir.rs/f8f8477a58489a454e029e11e916951d5b27fa2d",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 179410,
+                    "size": 205288,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-819123252021428243",
+            "id": "tg-819123252021428244",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "819123252021428225",
                     "short_name": "Poverizer"
                 },
-                "id": "819123252021428243",
+                "id": "819123252021428244",
                 "emoticons": [
-                    "🌊"
-                ]
-            }
-        },
-        {
-            "body": "❕ (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/f79aa342c133008839c3f970a9b964ee99ae55c7",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 133097,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f79aa342c133008839c3f970a9b964ee99ae55c7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 133097,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428246",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428246",
-                "emoticons": [
-                    "❕"
-                ]
-            }
-        },
-        {
-            "body": "💺 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/8d71129605c107eae5e5baec6a54e455640baded",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 284626,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8d71129605c107eae5e5baec6a54e455640baded",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 284626,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-819123252021428266",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "819123252021428225",
-                    "short_name": "Poverizer"
-                },
-                "id": "819123252021428266",
-                "emoticons": [
-                    "💺"
+                    "⛰"
                 ]
             }
         },
@@ -848,31 +790,60 @@
             }
         },
         {
-            "body": "🌊 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/af5ee2a9f2e87b8442a67a2640707ac57a46fd0d",
+            "body": "💺 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/8d71129605c107eae5e5baec6a54e455640baded",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 212093,
+                "size": 284626,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/af5ee2a9f2e87b8442a67a2640707ac57a46fd0d",
+                "thumbnail_url": "mxc://matrix.chir.rs/8d71129605c107eae5e5baec6a54e455640baded",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 212093,
+                    "size": 284626,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-819123252021428263",
+            "id": "tg-819123252021428266",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "819123252021428225",
                     "short_name": "Poverizer"
                 },
-                "id": "819123252021428263",
+                "id": "819123252021428266",
                 "emoticons": [
-                    "🌊"
+                    "💺"
+                ]
+            }
+        },
+        {
+            "body": "❕ (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/f79aa342c133008839c3f970a9b964ee99ae55c7",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133097,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f79aa342c133008839c3f970a9b964ee99ae55c7",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133097,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428246",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428246",
+                "emoticons": [
+                    "❕"
                 ]
             }
         },
@@ -935,31 +906,31 @@
             }
         },
         {
-            "body": "💩 (Poverizer's Pack)",
-            "url": "mxc://matrix.chir.rs/9dfb8d87914b257878683dce50dbd6b0b1adebfc",
+            "body": "🌊 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/af5ee2a9f2e87b8442a67a2640707ac57a46fd0d",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 324175,
+                "size": 212093,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9dfb8d87914b257878683dce50dbd6b0b1adebfc",
+                "thumbnail_url": "mxc://matrix.chir.rs/af5ee2a9f2e87b8442a67a2640707ac57a46fd0d",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 324175,
+                    "size": 212093,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-819123252021428267",
+            "id": "tg-819123252021428263",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "819123252021428225",
                     "short_name": "Poverizer"
                 },
-                "id": "819123252021428267",
+                "id": "819123252021428263",
                 "emoticons": [
-                    "💩"
+                    "🌊"
                 ]
             }
         },
@@ -1016,6 +987,35 @@
                     "short_name": "Poverizer"
                 },
                 "id": "819123252021428265",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "💩 (Poverizer's Pack)",
+            "url": "mxc://matrix.chir.rs/9dfb8d87914b257878683dce50dbd6b0b1adebfc",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 324175,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9dfb8d87914b257878683dce50dbd6b0b1adebfc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 324175,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-819123252021428267",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "819123252021428225",
+                    "short_name": "Poverizer"
+                },
+                "id": "819123252021428267",
                 "emoticons": [
                     "💩"
                 ]

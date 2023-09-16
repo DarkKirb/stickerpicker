@@ -3,40 +3,9 @@
     "id": "tg-2114761902784512003",
     "net.maunium.telegram.pack": {
         "short_name": "sam2nuki",
-        "hash": "-1415347732"
+        "hash": "-630214356"
     },
     "stickers": [
-        {
-            "body": "😡 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/ec723c8d903a8aa0b5173d925a35d16094a34142",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 152011,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ec723c8d903a8aa0b5173d925a35d16094a34142",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 152011,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512354",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512354",
-                "emoticons": [
-                    "🎮",
-                    "😡",
-                    "😠"
-                ]
-            }
-        },
         {
             "body": "😃 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/46692b2bd718bb567bf258ec74e72fc1727d9dd2",
@@ -70,33 +39,125 @@
             }
         },
         {
-            "body": "😱 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/9b886aac79f9a5820b44e603e40f23b68962ef25",
+            "body": "😡 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/ec723c8d903a8aa0b5173d925a35d16094a34142",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 173936,
+                "size": 152011,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b886aac79f9a5820b44e603e40f23b68962ef25",
+                "thumbnail_url": "mxc://matrix.chir.rs/ec723c8d903a8aa0b5173d925a35d16094a34142",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 173936,
+                    "size": 152011,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512381",
+            "id": "tg-2114761902784512354",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512381",
+                "id": "2114761902784512354",
+                "emoticons": [
+                    "🎮",
+                    "😡",
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "😀 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/e0f95e4a299cb7b870ee02b0a17f52f9437453f1",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 162148,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e0f95e4a299cb7b870ee02b0a17f52f9437453f1",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 162148,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512355",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512355",
+                "emoticons": [
+                    "😀",
+                    "😶"
+                ]
+            }
+        },
+        {
+            "body": "😎 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/885ee6e60b00b876e16360d445bf87183d57789f",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 201515,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/885ee6e60b00b876e16360d445bf87183d57789f",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 201515,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512352",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512352",
                 "emoticons": [
                     "😃",
-                    "😱",
-                    "😂"
+                    "😎",
+                    "🎮"
+                ]
+            }
+        },
+        {
+            "body": "😏 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/f94ff196116e029557cf999f68fb5b96012d7ce4",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 151658,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f94ff196116e029557cf999f68fb5b96012d7ce4",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 151658,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512353",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512353",
+                "emoticons": [
+                    "😎",
+                    "🎮",
+                    "😏"
                 ]
             }
         },
@@ -165,33 +226,62 @@
             }
         },
         {
-            "body": "😎 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/885ee6e60b00b876e16360d445bf87183d57789f",
+            "body": "😀 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/5fdde99e2aae58f705df2185dd481a90e0974461",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 201515,
+                "size": 159761,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/885ee6e60b00b876e16360d445bf87183d57789f",
+                "thumbnail_url": "mxc://matrix.chir.rs/5fdde99e2aae58f705df2185dd481a90e0974461",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 201515,
+                    "size": 159761,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512352",
+            "id": "tg-2114761902784512360",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512352",
+                "id": "2114761902784512360",
+                "emoticons": [
+                    "😀",
+                    "😶"
+                ]
+            }
+        },
+        {
+            "body": "😃 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/42a5b37ab6fa800672f72f31b83b5967d09ce0f8",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 174895,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/42a5b37ab6fa800672f72f31b83b5967d09ce0f8",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 174895,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512358",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512358",
                 "emoticons": [
                     "😃",
-                    "😎",
-                    "🎮"
+                    "😄"
                 ]
             }
         },
@@ -257,6 +347,160 @@
         },
         {
             "body": "🙃 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/2b4a453a2608e24fef62afe7c98a66f4e69511be",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167771,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2b4a453a2608e24fef62afe7c98a66f4e69511be",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167771,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512356",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512356",
+                "emoticons": [
+                    "🙃"
+                ]
+            }
+        },
+        {
+            "body": "😱 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/9b886aac79f9a5820b44e603e40f23b68962ef25",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173936,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9b886aac79f9a5820b44e603e40f23b68962ef25",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173936,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512381",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512381",
+                "emoticons": [
+                    "😃",
+                    "😱",
+                    "😂"
+                ]
+            }
+        },
+        {
+            "body": "💦 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/f4f94a2d84aa28ced40ba187f19f8b5bfc70d6071702015554694414336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197500,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f4f94a2d84aa28ced40ba187f19f8b5bfc70d6071702015554694414336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197500,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5107305758119166985",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5107305758119166985",
+                "emoticons": [
+                    "💦",
+                    "🌊",
+                    "💧"
+                ]
+            }
+        },
+        {
+            "body": "😂 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/a57caf3fd6c3e2169f4f87acf327803a4cabca6a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 166637,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a57caf3fd6c3e2169f4f87acf327803a4cabca6a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 166637,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512366",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512366",
+                "emoticons": [
+                    "😃",
+                    "😂",
+                    "😄",
+                    "😆",
+                    "🤣"
+                ]
+            }
+        },
+        {
+            "body": "😛 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/bdacf0e2673e58c60d4ac0a9ae6b3e00e8f79229",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 163901,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bdacf0e2673e58c60d4ac0a9ae6b3e00e8f79229",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 163901,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512365",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512365",
+                "emoticons": [
+                    "😛",
+                    "🤪"
+                ]
+            }
+        },
+        {
+            "body": "🙃 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/fbf60154c65b9ac2de7accc256910d19a4e3ab74",
             "info": {
                 "w": 256,
@@ -285,61 +529,63 @@
             }
         },
         {
-            "body": "😀 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/e0f95e4a299cb7b870ee02b0a17f52f9437453f1",
+            "body": "😡 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/92fb3ad6fc344b2aaa54637a36a6b8242541763a",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 162148,
+                "size": 169232,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e0f95e4a299cb7b870ee02b0a17f52f9437453f1",
+                "thumbnail_url": "mxc://matrix.chir.rs/92fb3ad6fc344b2aaa54637a36a6b8242541763a",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 162148,
+                    "size": 169232,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512355",
+            "id": "tg-2114761902784512384",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512355",
+                "id": "2114761902784512384",
                 "emoticons": [
-                    "😀",
-                    "😶"
+                    "😡",
+                    "😠",
+                    "😤",
+                    "😳"
                 ]
             }
         },
         {
-            "body": "🙃 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/2b4a453a2608e24fef62afe7c98a66f4e69511be",
+            "body": "✏️ (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/7588a6fc6a061b34ceeb82b902a1602d9711f50f",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 167771,
+                "size": 68954,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2b4a453a2608e24fef62afe7c98a66f4e69511be",
+                "thumbnail_url": "mxc://matrix.chir.rs/7588a6fc6a061b34ceeb82b902a1602d9711f50f",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 167771,
+                    "size": 68954,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512356",
+            "id": "tg-2114761902784512368",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512356",
+                "id": "2114761902784512368",
                 "emoticons": [
-                    "🙃"
+                    "✏"
                 ]
             }
         },
@@ -375,33 +621,33 @@
             }
         },
         {
-            "body": "😏 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/f94ff196116e029557cf999f68fb5b96012d7ce4",
+            "body": "💜 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/8e91ab56304a4e2b913948786296fd2ee61d02c5",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 151658,
+                "size": 146964,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f94ff196116e029557cf999f68fb5b96012d7ce4",
+                "thumbnail_url": "mxc://matrix.chir.rs/8e91ab56304a4e2b913948786296fd2ee61d02c5",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 151658,
+                    "size": 146964,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512353",
+            "id": "tg-2114761902784512383",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512353",
+                "id": "2114761902784512383",
                 "emoticons": [
-                    "😎",
-                    "🎮",
-                    "😏"
+                    "💜",
+                    "💖",
+                    "😘"
                 ]
             }
         },
@@ -429,96 +675,6 @@
                     "short_name": "sam2nuki"
                 },
                 "id": "2114761902784512370",
-                "emoticons": [
-                    "🏳‍🌈",
-                    "🌈"
-                ]
-            }
-        },
-        {
-            "body": "😀 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/5fdde99e2aae58f705df2185dd481a90e0974461",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 159761,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5fdde99e2aae58f705df2185dd481a90e0974461",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 159761,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512360",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512360",
-                "emoticons": [
-                    "😀",
-                    "😶"
-                ]
-            }
-        },
-        {
-            "body": "😛 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/bdacf0e2673e58c60d4ac0a9ae6b3e00e8f79229",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 163901,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bdacf0e2673e58c60d4ac0a9ae6b3e00e8f79229",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 163901,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512365",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512365",
-                "emoticons": [
-                    "😛",
-                    "🤪"
-                ]
-            }
-        },
-        {
-            "body": "🏳️‍🌈 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/5fcd4ba49c1e4531c939afc7fb14a4f4cc225442",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166056,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5fcd4ba49c1e4531c939afc7fb14a4f4cc225442",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166056,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512371",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512371",
                 "emoticons": [
                     "🏳‍🌈",
                     "🌈"
@@ -557,96 +713,32 @@
             }
         },
         {
-            "body": "💜 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/8e91ab56304a4e2b913948786296fd2ee61d02c5",
+            "body": "🏳️‍🌈 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/5fcd4ba49c1e4531c939afc7fb14a4f4cc225442",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 146964,
+                "size": 166056,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8e91ab56304a4e2b913948786296fd2ee61d02c5",
+                "thumbnail_url": "mxc://matrix.chir.rs/5fcd4ba49c1e4531c939afc7fb14a4f4cc225442",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 146964,
+                    "size": 166056,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512383",
+            "id": "tg-2114761902784512371",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512383",
+                "id": "2114761902784512371",
                 "emoticons": [
-                    "💜",
-                    "💖",
-                    "😘"
-                ]
-            }
-        },
-        {
-            "body": "🙂 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/97dc0e7fe64629d10e6b6042568b4d37d30983c7",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 151677,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/97dc0e7fe64629d10e6b6042568b4d37d30983c7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 151677,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512385",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512385",
-                "emoticons": [
-                    "🙂",
-                    "💪"
-                ]
-            }
-        },
-        {
-            "body": "😂 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/a57caf3fd6c3e2169f4f87acf327803a4cabca6a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166637,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a57caf3fd6c3e2169f4f87acf327803a4cabca6a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166637,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512366",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512366",
-                "emoticons": [
-                    "😃",
-                    "😂",
-                    "😄",
-                    "😆",
-                    "🤣"
+                    "🏳‍🌈",
+                    "🌈"
                 ]
             }
         },
@@ -681,121 +773,32 @@
             }
         },
         {
-            "body": "😢 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/7f552c392b4b2107123208205bd7a5cd56116053",
+            "body": "🙃 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/b7adb49c282ddc677cc5eb02b7eb285e4c5d0079",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 128455,
+                "size": 162724,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7f552c392b4b2107123208205bd7a5cd56116053",
+                "thumbnail_url": "mxc://matrix.chir.rs/b7adb49c282ddc677cc5eb02b7eb285e4c5d0079",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 128455,
+                    "size": 162724,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512386",
+            "id": "tg-2114761902784512376",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512386",
+                "id": "2114761902784512376",
                 "emoticons": [
-                    "😢",
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "😃 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/42a5b37ab6fa800672f72f31b83b5967d09ce0f8",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 174895,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/42a5b37ab6fa800672f72f31b83b5967d09ce0f8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 174895,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512358",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512358",
-                "emoticons": [
-                    "😃",
-                    "😄"
-                ]
-            }
-        },
-        {
-            "body": "😤 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/1176fc39514d38e62a1260ae52002bca23fbf75d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 91887,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1176fc39514d38e62a1260ae52002bca23fbf75d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 91887,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512423",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512423",
-                "emoticons": [
-                    "😤",
-                    "💪"
-                ]
-            }
-        },
-        {
-            "body": "✏️ (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/7588a6fc6a061b34ceeb82b902a1602d9711f50f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 68954,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7588a6fc6a061b34ceeb82b902a1602d9711f50f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 68954,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2114761902784512368",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "2114761902784512368",
-                "emoticons": [
-                    "✏"
+                    "🙃",
+                    "😗"
                 ]
             }
         },
@@ -830,64 +833,92 @@
             }
         },
         {
-            "body": "😡 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/92fb3ad6fc344b2aaa54637a36a6b8242541763a",
+            "body": "🙂 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/97dc0e7fe64629d10e6b6042568b4d37d30983c7",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 169232,
+                "size": 151677,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/92fb3ad6fc344b2aaa54637a36a6b8242541763a",
+                "thumbnail_url": "mxc://matrix.chir.rs/97dc0e7fe64629d10e6b6042568b4d37d30983c7",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 169232,
+                    "size": 151677,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512384",
+            "id": "tg-2114761902784512385",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512384",
+                "id": "2114761902784512385",
                 "emoticons": [
-                    "😡",
-                    "😠",
-                    "😤",
-                    "😳"
+                    "🙂",
+                    "💪"
                 ]
             }
         },
         {
-            "body": "🙃 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/b7adb49c282ddc677cc5eb02b7eb285e4c5d0079",
+            "body": "😗 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/9364986663e475f85f27d64ae7299f372b314d56",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 162724,
+                "size": 154604,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b7adb49c282ddc677cc5eb02b7eb285e4c5d0079",
+                "thumbnail_url": "mxc://matrix.chir.rs/9364986663e475f85f27d64ae7299f372b314d56",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 162724,
+                    "size": 154604,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512376",
+            "id": "tg-2114761902784512387",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512376",
+                "id": "2114761902784512387",
                 "emoticons": [
-                    "🙃",
-                    "😗"
+                    "😗",
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "😢 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/7f552c392b4b2107123208205bd7a5cd56116053",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128455,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7f552c392b4b2107123208205bd7a5cd56116053",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128455,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512386",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512386",
+                "emoticons": [
+                    "😢",
+                    "😭"
                 ]
             }
         },
@@ -918,6 +949,99 @@
                 "emoticons": [
                     "😭",
                     "😔"
+                ]
+            }
+        },
+        {
+            "body": "😤 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/1176fc39514d38e62a1260ae52002bca23fbf75d",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 91887,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1176fc39514d38e62a1260ae52002bca23fbf75d",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 91887,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512423",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512423",
+                "emoticons": [
+                    "😤",
+                    "💪"
+                ]
+            }
+        },
+        {
+            "body": "😀 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/eced132d655845fc707cadce9f198883943c6634",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 125496,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eced132d655845fc707cadce9f198883943c6634",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 125496,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512399",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512399",
+                "emoticons": [
+                    "😃",
+                    "😀",
+                    "😄"
+                ]
+            }
+        },
+        {
+            "body": "😶 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/4876b6dc75d708aaef0efc57e4b9ae6c1911c014",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 123342,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4876b6dc75d708aaef0efc57e4b9ae6c1911c014",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 123342,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2114761902784512421",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "2114761902784512421",
+                "emoticons": [
+                    "😶",
+                    "🙃",
+                    "😐",
+                    "🙁"
                 ]
             }
         },
@@ -984,125 +1108,91 @@
             }
         },
         {
-            "body": "😗 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/9364986663e475f85f27d64ae7299f372b314d56",
+            "body": "😤 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/47147d4518f385423ce2b3d0e745732eae810b89",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 154604,
+                "size": 201634,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9364986663e475f85f27d64ae7299f372b314d56",
+                "thumbnail_url": "mxc://matrix.chir.rs/47147d4518f385423ce2b3d0e745732eae810b89",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 154604,
+                    "size": 201634,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512387",
+            "id": "tg-2114761902784512432",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512387",
+                "id": "2114761902784512432",
                 "emoticons": [
-                    "😗",
-                    "😍"
+                    "😡",
+                    "😤"
                 ]
             }
         },
         {
-            "body": "😶 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/4876b6dc75d708aaef0efc57e4b9ae6c1911c014",
+            "body": "🥤 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/d4295aa15a3e3841ae995a9aefc3f8625f1c96bb",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 123342,
+                "size": 166848,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4876b6dc75d708aaef0efc57e4b9ae6c1911c014",
+                "thumbnail_url": "mxc://matrix.chir.rs/d4295aa15a3e3841ae995a9aefc3f8625f1c96bb",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 123342,
+                    "size": 166848,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512421",
+            "id": "tg-5181938412684312830",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512421",
+                "id": "5181938412684312830",
                 "emoticons": [
-                    "😶",
-                    "🙃",
-                    "😐",
-                    "🙁"
+                    "🙂",
+                    "🥤"
                 ]
             }
         },
         {
-            "body": "😀 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/b085bcbad1e22b4d970de93a2ba0da59d12f2b3f",
+            "body": "🎮 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/c77c2965e09721eafcf6e198ad253206495a41ac",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 150728,
+                "size": 146369,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b085bcbad1e22b4d970de93a2ba0da59d12f2b3f",
+                "thumbnail_url": "mxc://matrix.chir.rs/c77c2965e09721eafcf6e198ad253206495a41ac",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 150728,
+                    "size": 146369,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5032951705197609321",
+            "id": "tg-5053502866010931416",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5032951705197609321",
+                "id": "5053502866010931416",
                 "emoticons": [
-                    "😀",
-                    "👋"
-                ]
-            }
-        },
-        {
-            "body": "😒 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/5d36524d8c444dc63aeb6392bf0edabc7c2248a9",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 123892,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5d36524d8c444dc63aeb6392bf0edabc7c2248a9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 123892,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4911221366977462842",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "4911221366977462842",
-                "emoticons": [
-                    "😔",
-                    "😒",
-                    "📱"
+                    "🎮"
                 ]
             }
         },
@@ -1138,151 +1228,125 @@
             }
         },
         {
-            "body": "😤 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/47147d4518f385423ce2b3d0e745732eae810b89",
+            "body": "😒 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/5d36524d8c444dc63aeb6392bf0edabc7c2248a9",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 201634,
+                "size": 123892,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/47147d4518f385423ce2b3d0e745732eae810b89",
+                "thumbnail_url": "mxc://matrix.chir.rs/5d36524d8c444dc63aeb6392bf0edabc7c2248a9",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 201634,
+                    "size": 123892,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512432",
+            "id": "tg-4911221366977462842",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512432",
+                "id": "4911221366977462842",
                 "emoticons": [
-                    "😡",
-                    "😤"
+                    "😔",
+                    "😒",
+                    "📱"
                 ]
             }
         },
         {
-            "body": "😎 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/be62f67cc000980668ee53fe8620608873c38b9b",
+            "body": "😳 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/daa4ebc1c47e4e470331822aa589abf4973592b9",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 140518,
+                "size": 153394,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be62f67cc000980668ee53fe8620608873c38b9b",
+                "thumbnail_url": "mxc://matrix.chir.rs/daa4ebc1c47e4e470331822aa589abf4973592b9",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 140518,
+                    "size": 153394,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5032933013499937121",
+            "id": "tg-4911615490356412713",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5032933013499937121",
+                "id": "4911615490356412713",
                 "emoticons": [
-                    "😎",
-                    "🙃",
-                    "😭"
+                    "😳",
+                    "🥺",
+                    "👉",
+                    "👈"
                 ]
             }
         },
         {
-            "body": "🎮 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/c77c2965e09721eafcf6e198ad253206495a41ac",
+            "body": "😀 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/b085bcbad1e22b4d970de93a2ba0da59d12f2b3f",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 146369,
+                "size": 150728,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c77c2965e09721eafcf6e198ad253206495a41ac",
+                "thumbnail_url": "mxc://matrix.chir.rs/b085bcbad1e22b4d970de93a2ba0da59d12f2b3f",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 146369,
+                    "size": 150728,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5053502866010931416",
+            "id": "tg-5032951705197609321",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5053502866010931416",
+                "id": "5032951705197609321",
                 "emoticons": [
-                    "🎮"
+                    "😀",
+                    "👋"
                 ]
             }
         },
         {
-            "body": "🥤 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/d4295aa15a3e3841ae995a9aefc3f8625f1c96bb",
+            "body": "💖 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/c867d44e681bc82c1813f43ee780f54590cd8cd4",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 166848,
+                "size": 141431,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d4295aa15a3e3841ae995a9aefc3f8625f1c96bb",
+                "thumbnail_url": "mxc://matrix.chir.rs/c867d44e681bc82c1813f43ee780f54590cd8cd4",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 166848,
+                    "size": 141431,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5181938412684312830",
+            "id": "tg-5033199962897252649",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5181938412684312830",
+                "id": "5033199962897252649",
                 "emoticons": [
-                    "🙂",
-                    "🥤"
-                ]
-            }
-        },
-        {
-            "body": "✏️ (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/f3e528062cd900eb59fb7bfd201356b9b233a322",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215085,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f3e528062cd900eb59fb7bfd201356b9b233a322",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215085,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4911335552977994134",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "4911335552977994134",
-                "emoticons": [
-                    "✏"
+                    "💖",
+                    "❤"
                 ]
             }
         },
@@ -1317,34 +1381,31 @@
             }
         },
         {
-            "body": "😳 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/daa4ebc1c47e4e470331822aa589abf4973592b9",
+            "body": "✏️ (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/f3e528062cd900eb59fb7bfd201356b9b233a322",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 153394,
+                "size": 215085,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/daa4ebc1c47e4e470331822aa589abf4973592b9",
+                "thumbnail_url": "mxc://matrix.chir.rs/f3e528062cd900eb59fb7bfd201356b9b233a322",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 153394,
+                    "size": 215085,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4911615490356412713",
+            "id": "tg-4911335552977994134",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "4911615490356412713",
+                "id": "4911335552977994134",
                 "emoticons": [
-                    "😳",
-                    "🥺",
-                    "👉",
-                    "👈"
+                    "✏"
                 ]
             }
         },
@@ -1407,6 +1468,37 @@
             }
         },
         {
+            "body": "😎 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/be62f67cc000980668ee53fe8620608873c38b9b",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 140518,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/be62f67cc000980668ee53fe8620608873c38b9b",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 140518,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5032933013499937121",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5032933013499937121",
+                "emoticons": [
+                    "😎",
+                    "🙃",
+                    "😭"
+                ]
+            }
+        },
+        {
             "body": "🏳️‍🌈 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/3913df4039fcf050053c88a45302ed5b57af9906",
             "info": {
@@ -1441,62 +1533,93 @@
         },
         {
             "body": "💖 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/c867d44e681bc82c1813f43ee780f54590cd8cd4",
+            "url": "mxc://matrix.chir.rs/c4b8c610b6e0c678c1502ce75562a9c72323d29f",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 141431,
+                "size": 148970,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c867d44e681bc82c1813f43ee780f54590cd8cd4",
+                "thumbnail_url": "mxc://matrix.chir.rs/c4b8c610b6e0c678c1502ce75562a9c72323d29f",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 141431,
+                    "size": 148970,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5033199962897252649",
+            "id": "tg-5033231256028971297",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5033199962897252649",
+                "id": "5033231256028971297",
                 "emoticons": [
+                    "🏳‍🌈",
                     "💖",
                     "❤"
                 ]
             }
         },
         {
-            "body": "😀 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/eced132d655845fc707cadce9f198883943c6634",
+            "body": "😍 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/f8b7ec35f79c293a2e24ff9bd42489c812edd7e1",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 125496,
+                "size": 164653,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eced132d655845fc707cadce9f198883943c6634",
+                "thumbnail_url": "mxc://matrix.chir.rs/f8b7ec35f79c293a2e24ff9bd42489c812edd7e1",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 125496,
+                    "size": 164653,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2114761902784512399",
+            "id": "tg-5032936565437890954",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "2114761902784512399",
+                "id": "5032936565437890954",
                 "emoticons": [
-                    "😃",
-                    "😀",
-                    "😄"
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🏳️‍🌈 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/88d57b97b9616e9434ef57626cabfa0bb3a04a72",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142735,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/88d57b97b9616e9434ef57626cabfa0bb3a04a72",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142735,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5033200383804047715",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5033200383804047715",
+                "emoticons": [
+                    "🏳‍🌈",
+                    "💜",
+                    "💖",
+                    "💙"
                 ]
             }
         },
@@ -1533,66 +1656,6 @@
             }
         },
         {
-            "body": "😍 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/f8b7ec35f79c293a2e24ff9bd42489c812edd7e1",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 164653,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f8b7ec35f79c293a2e24ff9bd42489c812edd7e1",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 164653,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5032936565437890954",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5032936565437890954",
-                "emoticons": [
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "💖 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/c4b8c610b6e0c678c1502ce75562a9c72323d29f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 148970,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4b8c610b6e0c678c1502ce75562a9c72323d29f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 148970,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5033231256028971297",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5033231256028971297",
-                "emoticons": [
-                    "🏳‍🌈",
-                    "💖",
-                    "❤"
-                ]
-            }
-        },
-        {
             "body": "😴 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/a00281cc77201ac98546916a7415898526e36390",
             "info": {
@@ -1625,33 +1688,33 @@
         },
         {
             "body": "🏳️‍🌈 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/88d57b97b9616e9434ef57626cabfa0bb3a04a72",
+            "url": "mxc://matrix.chir.rs/92897da2243592d8d0a06975b0f8a74dcf0946f6",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 142735,
+                "size": 142643,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/88d57b97b9616e9434ef57626cabfa0bb3a04a72",
+                "thumbnail_url": "mxc://matrix.chir.rs/92897da2243592d8d0a06975b0f8a74dcf0946f6",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 142735,
+                    "size": 142643,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5033200383804047715",
+            "id": "tg-5030832710067683736",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5033200383804047715",
+                "id": "5030832710067683736",
                 "emoticons": [
                     "🏳‍🌈",
-                    "💜",
                     "💖",
-                    "💙"
+                    "❤",
+                    "🤍"
                 ]
             }
         },
@@ -1689,36 +1752,6 @@
             }
         },
         {
-            "body": "✏️ (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/00e226bbce53332c2b27fa3440a4e8ab7e0b041c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 229445,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/00e226bbce53332c2b27fa3440a4e8ab7e0b041c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 229445,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5078349518106263987",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5078349518106263987",
-                "emoticons": [
-                    "✏",
-                    "📝"
-                ]
-            }
-        },
-        {
             "body": "😷 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/b4ec929bdc60316ca97775d423f86e0f68267707",
             "info": {
@@ -1746,6 +1779,70 @@
                     "😷",
                     "🤒",
                     "🤕"
+                ]
+            }
+        },
+        {
+            "body": "🏳️‍🌈 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/cfa360e81a406bd1ddbd7ed849ef27378e839456",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 140116,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cfa360e81a406bd1ddbd7ed849ef27378e839456",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 140116,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5033244686391705838",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5033244686391705838",
+                "emoticons": [
+                    "🏳‍⚧",
+                    "🏳‍🌈",
+                    "💜",
+                    "🤍",
+                    "🖤",
+                    "💛"
+                ]
+            }
+        },
+        {
+            "body": "🙂 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/baa37047fca5141e066584b2653491da08ffc800",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 99783,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/baa37047fca5141e066584b2653491da08ffc800",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 99783,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5127873974247621311",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5127873974247621311",
+                "emoticons": [
+                    "🙂",
+                    "🐶"
                 ]
             }
         },
@@ -1782,36 +1879,6 @@
             }
         },
         {
-            "body": "🙂 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/baa37047fca5141e066584b2653491da08ffc800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 99783,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/baa37047fca5141e066584b2653491da08ffc800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 99783,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5127873974247621311",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5127873974247621311",
-                "emoticons": [
-                    "🙂",
-                    "🐶"
-                ]
-            }
-        },
-        {
             "body": "💵 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/434a670f8b1f8f1b6c110fc931d4858c82f345c4",
             "info": {
@@ -1841,6 +1908,195 @@
                     "💲",
                     "🤑",
                     "💸"
+                ]
+            }
+        },
+        {
+            "body": "💦 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/047358d39f2877cf84b4a85033f58937bd054785",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 109998,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/047358d39f2877cf84b4a85033f58937bd054785",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 109998,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5080579331982360918",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5080579331982360918",
+                "emoticons": [
+                    "💦",
+                    "🌊",
+                    "💧"
+                ]
+            }
+        },
+        {
+            "body": "🦝 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/e57a4024b7c2e852863c72771b898b4490d7e2fa",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 174761,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e57a4024b7c2e852863c72771b898b4490d7e2fa",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 174761,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5077984085108851087",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5077984085108851087",
+                "emoticons": [
+                    "😡",
+                    "😠",
+                    "🦝"
+                ]
+            }
+        },
+        {
+            "body": "👀 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/5456dfd0dc62d12fc443ea51ce1ede9fd1320608",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 92126,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5456dfd0dc62d12fc443ea51ce1ede9fd1320608",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 92126,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5077849631157650270",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5077849631157650270",
+                "emoticons": [
+                    "👀",
+                    "💰",
+                    "💵",
+                    "💲",
+                    "🤑",
+                    "💸"
+                ]
+            }
+        },
+        {
+            "body": "✏️ (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/00e226bbce53332c2b27fa3440a4e8ab7e0b041c",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 229445,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/00e226bbce53332c2b27fa3440a4e8ab7e0b041c",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 229445,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5078349518106263987",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5078349518106263987",
+                "emoticons": [
+                    "✏",
+                    "📝"
+                ]
+            }
+        },
+        {
+            "body": "😌 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/1ddc6fcd323f58e35a06af952308e8075e39f1ef",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133972,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ddc6fcd323f58e35a06af952308e8075e39f1ef",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133972,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5077832558662648142",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5077832558662648142",
+                "emoticons": [
+                    "😌",
+                    "☕",
+                    "🍵"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/98bd5c3d1b3b26fb2954b0d0d9d8cffc924ca70b",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128613,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/98bd5c3d1b3b26fb2954b0d0d9d8cffc924ca70b",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128613,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5127734155882266879",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5127734155882266879",
+                "emoticons": [
+                    "🐶",
+                    "⚾",
+                    "👊",
+                    "🥊"
                 ]
             }
         },
@@ -1910,99 +2166,128 @@
             }
         },
         {
-            "body": "🏳️‍🌈 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/cfa360e81a406bd1ddbd7ed849ef27378e839456",
+            "body": "👀 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/047caedf0db05b33db70ade6782d6ddab2457565",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 140116,
+                "size": 181030,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cfa360e81a406bd1ddbd7ed849ef27378e839456",
+                "thumbnail_url": "mxc://matrix.chir.rs/047caedf0db05b33db70ade6782d6ddab2457565",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 140116,
+                    "size": 181030,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5033244686391705838",
+            "id": "tg-5066602511968764392",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5033244686391705838",
+                "id": "5066602511968764392",
                 "emoticons": [
-                    "🏳‍⚧",
-                    "🏳‍🌈",
-                    "💜",
-                    "🤍",
-                    "🖤",
-                    "💛"
+                    "😏",
+                    "😛",
+                    "😆",
+                    "🙂",
+                    "👀"
                 ]
             }
         },
         {
-            "body": "🏳️‍🌈 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/92897da2243592d8d0a06975b0f8a74dcf0946f6",
+            "body": "📝 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/9ab3826322358113546083e3fcf27d3b9bf5e804",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 142643,
+                "size": 238102,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/92897da2243592d8d0a06975b0f8a74dcf0946f6",
+                "thumbnail_url": "mxc://matrix.chir.rs/9ab3826322358113546083e3fcf27d3b9bf5e804",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 142643,
+                    "size": 238102,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5030832710067683736",
+            "id": "tg-5127812311402152439",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5030832710067683736",
+                "id": "5127812311402152439",
                 "emoticons": [
-                    "🏳‍🌈",
-                    "💖",
-                    "❤",
-                    "🤍"
+                    "📝"
                 ]
             }
         },
         {
-            "body": "💦 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/047358d39f2877cf84b4a85033f58937bd054785",
+            "body": "😔 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/b42441b82b0df6352440bfaa1b5c8b133b30499c",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 109998,
+                "size": 130199,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/047358d39f2877cf84b4a85033f58937bd054785",
+                "thumbnail_url": "mxc://matrix.chir.rs/b42441b82b0df6352440bfaa1b5c8b133b30499c",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 109998,
+                    "size": 130199,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5080579331982360918",
+            "id": "tg-5125358961658167783",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5080579331982360918",
+                "id": "5125358961658167783",
                 "emoticons": [
-                    "💦",
-                    "🌊",
-                    "💧"
+                    "😔",
+                    "😩",
+                    "😫"
+                ]
+            }
+        },
+        {
+            "body": "😈 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/e2024394baa339684e59a4291bcc176897dbf944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 180678,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e2024394baa339684e59a4291bcc176897dbf944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 180678,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5066839297810760326",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5066839297810760326",
+                "emoticons": [
+                    "😏",
+                    "😛",
+                    "😈",
+                    "👀",
+                    "😝"
                 ]
             }
         },
@@ -2041,223 +2326,6 @@
             }
         },
         {
-            "body": "🐶 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/98bd5c3d1b3b26fb2954b0d0d9d8cffc924ca70b",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 128613,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/98bd5c3d1b3b26fb2954b0d0d9d8cffc924ca70b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 128613,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5127734155882266879",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5127734155882266879",
-                "emoticons": [
-                    "🐶",
-                    "⚾",
-                    "👊",
-                    "🥊"
-                ]
-            }
-        },
-        {
-            "body": "📝 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/9ab3826322358113546083e3fcf27d3b9bf5e804",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 238102,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9ab3826322358113546083e3fcf27d3b9bf5e804",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 238102,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5127812311402152439",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5127812311402152439",
-                "emoticons": [
-                    "📝"
-                ]
-            }
-        },
-        {
-            "body": "👀 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/5456dfd0dc62d12fc443ea51ce1ede9fd1320608",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 92126,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5456dfd0dc62d12fc443ea51ce1ede9fd1320608",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 92126,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5077849631157650270",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5077849631157650270",
-                "emoticons": [
-                    "👀",
-                    "💰",
-                    "💵",
-                    "💲",
-                    "🤑",
-                    "💸"
-                ]
-            }
-        },
-        {
-            "body": "😔 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/b42441b82b0df6352440bfaa1b5c8b133b30499c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 130199,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b42441b82b0df6352440bfaa1b5c8b133b30499c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 130199,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5125358961658167783",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5125358961658167783",
-                "emoticons": [
-                    "😔",
-                    "😩",
-                    "😫"
-                ]
-            }
-        },
-        {
-            "body": "🙁 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/46f7bada0c0507300966facab77a0e634dfeb813",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 135872,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/46f7bada0c0507300966facab77a0e634dfeb813",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 135872,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5089518413055787513",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5089518413055787513",
-                "emoticons": [
-                    "🙁",
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "🦝 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/e57a4024b7c2e852863c72771b898b4490d7e2fa",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 174761,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e57a4024b7c2e852863c72771b898b4490d7e2fa",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 174761,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5077984085108851087",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5077984085108851087",
-                "emoticons": [
-                    "😡",
-                    "😠",
-                    "🦝"
-                ]
-            }
-        },
-        {
-            "body": "🙂 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/f50b69213ba0b72a808a911ada7b0e05bb15d4f4",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 158024,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f50b69213ba0b72a808a911ada7b0e05bb15d4f4",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 158024,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5087059711782552173",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5087059711782552173",
-                "emoticons": [
-                    "🏳‍⚧",
-                    "🙂"
-                ]
-            }
-        },
-        {
             "body": "😶 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/8eebd70aebdd1d4a464b404364b4705c91fb7489",
             "info": {
@@ -2286,102 +2354,6 @@
                     "😐",
                     "😮",
                     "🤐"
-                ]
-            }
-        },
-        {
-            "body": "😈 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/e2024394baa339684e59a4291bcc176897dbf944",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 180678,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2024394baa339684e59a4291bcc176897dbf944",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 180678,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5066839297810760326",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5066839297810760326",
-                "emoticons": [
-                    "😏",
-                    "😛",
-                    "😈",
-                    "👀",
-                    "😝"
-                ]
-            }
-        },
-        {
-            "body": "🍃 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/b5d1acd66e98ae1766bbe19eec62284e3d0a18b4",
-            "info": {
-                "w": 220,
-                "h": 256,
-                "size": 296720,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b5d1acd66e98ae1766bbe19eec62284e3d0a18b4",
-                "thumbnail_info": {
-                    "w": 220,
-                    "h": 256,
-                    "size": 296720,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5023865633163445037",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5023865633163445037",
-                "emoticons": [
-                    "🐶",
-                    "🍃",
-                    "🍂",
-                    "🍁"
-                ]
-            }
-        },
-        {
-            "body": "👋 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/8ee86d41b920b09c5eb1a801aa7ced80e5fa532c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 285582,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8ee86d41b920b09c5eb1a801aa7ced80e5fa532c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 285582,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5111593990906446471",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5111593990906446471",
-                "emoticons": [
-                    "😃",
-                    "👋",
-                    "🙋"
                 ]
             }
         },
@@ -2418,71 +2390,6 @@
             }
         },
         {
-            "body": "👀 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/047caedf0db05b33db70ade6782d6ddab2457565",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 181030,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/047caedf0db05b33db70ade6782d6ddab2457565",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 181030,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5066602511968764392",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5066602511968764392",
-                "emoticons": [
-                    "😏",
-                    "😛",
-                    "😆",
-                    "🙂",
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "🍃 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/c2f2c6530205573e726ca369462817413f71e34d",
-            "info": {
-                "w": 220,
-                "h": 256,
-                "size": 86902,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c2f2c6530205573e726ca369462817413f71e34d",
-                "thumbnail_info": {
-                    "w": 220,
-                    "h": 256,
-                    "size": 86902,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5024247511590635537",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5024247511590635537",
-                "emoticons": [
-                    "🐶",
-                    "🍃",
-                    "🍂",
-                    "🍁"
-                ]
-            }
-        },
-        {
             "body": "😳 (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/77a0d71214a794a574ac823ab4cf7eb9e5266478",
             "info": {
@@ -2515,64 +2422,32 @@
             }
         },
         {
-            "body": "🙁 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/bdaa9036f7dfb95a2ebcdce0e28f42d3c4e15950",
+            "body": "🙂 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/f50b69213ba0b72a808a911ada7b0e05bb15d4f4",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 135718,
+                "size": 158024,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bdaa9036f7dfb95a2ebcdce0e28f42d3c4e15950",
+                "thumbnail_url": "mxc://matrix.chir.rs/f50b69213ba0b72a808a911ada7b0e05bb15d4f4",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 135718,
+                    "size": 158024,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5087054613656372219",
+            "id": "tg-5087059711782552173",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5087054613656372219",
+                "id": "5087059711782552173",
                 "emoticons": [
-                    "😔",
-                    "🙁",
-                    "🍔",
-                    "🍕"
-                ]
-            }
-        },
-        {
-            "body": "👀 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/e7007c5d5c05c84fade09b0a53044576e1e05c2d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 188107,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e7007c5d5c05c84fade09b0a53044576e1e05c2d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 188107,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5066761945449759340",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5066761945449759340",
-                "emoticons": [
-                    "👀",
-                    "👁"
+                    "🏳‍⚧",
+                    "🙂"
                 ]
             }
         },
@@ -2609,6 +2484,293 @@
             }
         },
         {
+            "body": "🙁 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/46f7bada0c0507300966facab77a0e634dfeb813",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135872,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/46f7bada0c0507300966facab77a0e634dfeb813",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135872,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5089518413055787513",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5089518413055787513",
+                "emoticons": [
+                    "🙁",
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "👀 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/e7007c5d5c05c84fade09b0a53044576e1e05c2d",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188107,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e7007c5d5c05c84fade09b0a53044576e1e05c2d",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188107,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5066761945449759340",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5066761945449759340",
+                "emoticons": [
+                    "👀",
+                    "👁"
+                ]
+            }
+        },
+        {
+            "body": "🙁 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/bdaa9036f7dfb95a2ebcdce0e28f42d3c4e15950",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135718,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bdaa9036f7dfb95a2ebcdce0e28f42d3c4e15950",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135718,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5087054613656372219",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5087054613656372219",
+                "emoticons": [
+                    "😔",
+                    "🙁",
+                    "🍔",
+                    "🍕"
+                ]
+            }
+        },
+        {
+            "body": "👋 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/8ee86d41b920b09c5eb1a801aa7ced80e5fa532c",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 285582,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8ee86d41b920b09c5eb1a801aa7ced80e5fa532c",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 285582,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5111593990906446471",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5111593990906446471",
+                "emoticons": [
+                    "😃",
+                    "👋",
+                    "🙋"
+                ]
+            }
+        },
+        {
+            "body": "🍃 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/c2f2c6530205573e726ca369462817413f71e34d",
+            "info": {
+                "w": 220,
+                "h": 256,
+                "size": 86902,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c2f2c6530205573e726ca369462817413f71e34d",
+                "thumbnail_info": {
+                    "w": 220,
+                    "h": 256,
+                    "size": 86902,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5024247511590635537",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5024247511590635537",
+                "emoticons": [
+                    "🐶",
+                    "🍃",
+                    "🍂",
+                    "🍁"
+                ]
+            }
+        },
+        {
+            "body": "🍃 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/b5d1acd66e98ae1766bbe19eec62284e3d0a18b4",
+            "info": {
+                "w": 220,
+                "h": 256,
+                "size": 296720,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b5d1acd66e98ae1766bbe19eec62284e3d0a18b4",
+                "thumbnail_info": {
+                    "w": 220,
+                    "h": 256,
+                    "size": 296720,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5023865633163445037",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5023865633163445037",
+                "emoticons": [
+                    "🐶",
+                    "🍃",
+                    "🍂",
+                    "🍁"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/dcbfe664579b48e94899adaf0c1a08f5a725af321686716927570870272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 140698,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dcbfe664579b48e94899adaf0c1a08f5a725af321686716927570870272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 140698,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5161627679845253790",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5161627679845253790",
+                "emoticons": [
+                    "🐶",
+                    "🦮",
+                    "🏃",
+                    "💨"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/922c3d0b279406c5e9a57e09309c6e5be86638c01686716927898025984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 176811,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/922c3d0b279406c5e9a57e09309c6e5be86638c01686716927898025984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 176811,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5163796402106532450",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "5163796402106532450",
+                "emoticons": [
+                    "🐶",
+                    "🦮",
+                    "🏃",
+                    "💨",
+                    "🛻",
+                    "🚙",
+                    "🚘"
+                ]
+            }
+        },
+        {
+            "body": "👁️ (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/97e77e26c15544acfffaa05ed794d2146615132c1686716928678166528",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 138167,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/97e77e26c15544acfffaa05ed794d2146615132c1686716928678166528",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 138167,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4996802584669848571",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2114761902784512003",
+                    "short_name": "sam2nuki"
+                },
+                "id": "4996802584669848571",
+                "emoticons": [
+                    "👀",
+                    "👁",
+                    "🍼",
+                    "👶",
+                    "🧷"
+                ]
+            }
+        },
+        {
             "body": "✏️ (@Sammythetanuki 2)",
             "url": "mxc://matrix.chir.rs/a9b6dbd6a3944a3abc925301624d9084412a93a4",
             "info": {
@@ -2634,41 +2796,6 @@
                 "id": "2114761902784512361",
                 "emoticons": [
                     "✏"
-                ]
-            }
-        },
-        {
-            "body": "🥺 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/15a7cab62976a8caa49e3a6ece8e9a073cbac6aa",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 143396,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/15a7cab62976a8caa49e3a6ece8e9a073cbac6aa",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 143396,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5136802601370649445",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2114761902784512003",
-                    "short_name": "sam2nuki"
-                },
-                "id": "5136802601370649445",
-                "emoticons": [
-                    "💜",
-                    "💖",
-                    "🥺",
-                    "❤",
-                    "🥰",
-                    "💕",
-                    "💞"
                 ]
             }
         },
@@ -2734,33 +2861,37 @@
             }
         },
         {
-            "body": "😌 (@Sammythetanuki 2)",
-            "url": "mxc://matrix.chir.rs/1ddc6fcd323f58e35a06af952308e8075e39f1ef",
+            "body": "🥺 (@Sammythetanuki 2)",
+            "url": "mxc://matrix.chir.rs/15a7cab62976a8caa49e3a6ece8e9a073cbac6aa",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 133972,
+                "size": 143396,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1ddc6fcd323f58e35a06af952308e8075e39f1ef",
+                "thumbnail_url": "mxc://matrix.chir.rs/15a7cab62976a8caa49e3a6ece8e9a073cbac6aa",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 133972,
+                    "size": 143396,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5077832558662648142",
+            "id": "tg-5136802601370649445",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2114761902784512003",
                     "short_name": "sam2nuki"
                 },
-                "id": "5077832558662648142",
+                "id": "5136802601370649445",
                 "emoticons": [
-                    "😌",
-                    "☕",
-                    "🍵"
+                    "💜",
+                    "💖",
+                    "🥺",
+                    "❤",
+                    "🥰",
+                    "💕",
+                    "💞"
                 ]
             }
         }

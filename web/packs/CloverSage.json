@@ -3,9 +3,40 @@
     "id": "tg-1587617987903356929",
     "net.maunium.telegram.pack": {
         "short_name": "CloverSage",
-        "hash": "-85988479"
+        "hash": "2039470275"
     },
     "stickers": [
+        {
+            "body": "😴 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/3c84d377a06164c61ae58b5c48dafe8dfb092aab",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 111060,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3c84d377a06164c61ae58b5c48dafe8dfb092aab",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 111060,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356930",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356930",
+                "emoticons": [
+                    "😴",
+                    "💤",
+                    "🛏"
+                ]
+            }
+        },
         {
             "body": "😳 (Clover : Coffee Raccoon)",
             "url": "mxc://matrix.chir.rs/364dcc1ac9826c0ac6f161cabea27c2b1997d085",
@@ -69,36 +100,6 @@
             }
         },
         {
-            "body": "🏳️‍🌈 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/b4a6b444169b6f9b2f854c40b7584738ca7c3204",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220127,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b4a6b444169b6f9b2f854c40b7584738ca7c3204",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220127,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356957",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356957",
-                "emoticons": [
-                    "🏳‍🌈",
-                    "🌈"
-                ]
-            }
-        },
-        {
             "body": "❤️ (Clover : Coffee Raccoon)",
             "url": "mxc://matrix.chir.rs/dfde860df2a914a1ad8b899a2ac57cbaaa55ab7e",
             "info": {
@@ -129,63 +130,32 @@
             }
         },
         {
-            "body": "🌈 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/940004dc68a69c6ebbf80983b2c5237135dcd8c2",
-            "info": {
-                "w": 252,
-                "h": 256,
-                "size": 214312,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/940004dc68a69c6ebbf80983b2c5237135dcd8c2",
-                "thumbnail_info": {
-                    "w": 252,
-                    "h": 256,
-                    "size": 214312,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356958",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356958",
-                "emoticons": [
-                    "🏳‍🌈",
-                    "🌈"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/3c84d377a06164c61ae58b5c48dafe8dfb092aab",
+            "body": "🏳️‍🌈 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/b4a6b444169b6f9b2f854c40b7584738ca7c3204",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 111060,
+                "size": 220127,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3c84d377a06164c61ae58b5c48dafe8dfb092aab",
+                "thumbnail_url": "mxc://matrix.chir.rs/b4a6b444169b6f9b2f854c40b7584738ca7c3204",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 111060,
+                    "size": 220127,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1587617987903356930",
+            "id": "tg-1587617987903356957",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "1587617987903356930",
+                "id": "1587617987903356957",
                 "emoticons": [
-                    "😴",
-                    "💤",
-                    "🛏"
+                    "🏳‍🌈",
+                    "🌈"
                 ]
             }
         },
@@ -225,32 +195,64 @@
             }
         },
         {
-            "body": "😳 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/909d7e18b09ccd63101886e63e8d7646ee410b09",
+            "body": "🥪 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/1ef2427424d3c4f4669132786a8d9d6a62d209051701984761574064128",
             "info": {
                 "w": 256,
-                "h": 250,
-                "size": 191684,
+                "h": 256,
+                "size": 194769,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/909d7e18b09ccd63101886e63e8d7646ee410b09",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ef2427424d3c4f4669132786a8d9d6a62d209051701984761574064128",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 250,
-                    "size": 191684,
+                    "h": 256,
+                    "size": 194769,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1587617987903356934",
+            "id": "tg-5068967402566321081",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "1587617987903356934",
+                "id": "5068967402566321081",
                 "emoticons": [
-                    "😊",
-                    "😳"
+                    "💚",
+                    "🥪",
+                    "💙",
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🌈 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/940004dc68a69c6ebbf80983b2c5237135dcd8c2",
+            "info": {
+                "w": 252,
+                "h": 256,
+                "size": 214312,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/940004dc68a69c6ebbf80983b2c5237135dcd8c2",
+                "thumbnail_info": {
+                    "w": 252,
+                    "h": 256,
+                    "size": 214312,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356958",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356958",
+                "emoticons": [
+                    "🏳‍🌈",
+                    "🌈"
                 ]
             }
         },
@@ -315,33 +317,32 @@
             }
         },
         {
-            "body": "🤗 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/3a4908c6a79b1b0a2236018793a61be8f674d026",
+            "body": "😳 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/909d7e18b09ccd63101886e63e8d7646ee410b09",
             "info": {
                 "w": 256,
-                "h": 220,
-                "size": 208528,
+                "h": 250,
+                "size": 191684,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3a4908c6a79b1b0a2236018793a61be8f674d026",
+                "thumbnail_url": "mxc://matrix.chir.rs/909d7e18b09ccd63101886e63e8d7646ee410b09",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 220,
-                    "size": 208528,
+                    "h": 250,
+                    "size": 191684,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1587617987903356942",
+            "id": "tg-1587617987903356934",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "1587617987903356942",
+                "id": "1587617987903356934",
                 "emoticons": [
-                    "😴",
-                    "🛏",
-                    "🤗"
+                    "😊",
+                    "😳"
                 ]
             }
         },
@@ -376,6 +377,189 @@
             }
         },
         {
+            "body": "😅 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/ede0d25a3fbe0a1a0ba67cd9f9554ce014ae6fc2",
+            "info": {
+                "w": 256,
+                "h": 243,
+                "size": 159592,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ede0d25a3fbe0a1a0ba67cd9f9554ce014ae6fc2",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 243,
+                    "size": 159592,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356936",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356936",
+                "emoticons": [
+                    "😅",
+                    "🙂",
+                    "😃"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/3a4908c6a79b1b0a2236018793a61be8f674d026",
+            "info": {
+                "w": 256,
+                "h": 220,
+                "size": 208528,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3a4908c6a79b1b0a2236018793a61be8f674d026",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 220,
+                    "size": 208528,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356942",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356942",
+                "emoticons": [
+                    "😴",
+                    "🛏",
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😂 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/074674675af1228c973bfc14d7b85f94e6e29681",
+            "info": {
+                "w": 256,
+                "h": 243,
+                "size": 174064,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/074674675af1228c973bfc14d7b85f94e6e29681",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 243,
+                    "size": 174064,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356937",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356937",
+                "emoticons": [
+                    "😂",
+                    "🤣"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/7562acea0faba924d09ccec22e85a4e0768e61a2",
+            "info": {
+                "w": 256,
+                "h": 160,
+                "size": 157932,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7562acea0faba924d09ccec22e85a4e0768e61a2",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 160,
+                    "size": 157932,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356943",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356943",
+                "emoticons": [
+                    "😊",
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/3f3eb2a8dd7f425d66117788d172bfd64914b3f8",
+            "info": {
+                "w": 256,
+                "h": 234,
+                "size": 186015,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3f3eb2a8dd7f425d66117788d172bfd64914b3f8",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 234,
+                    "size": 186015,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356940",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356940",
+                "emoticons": [
+                    "🐶",
+                    "😝",
+                    "😛",
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/15fd1e610db53b2b0ce97261e92f3724e95365c7",
+            "info": {
+                "w": 256,
+                "h": 199,
+                "size": 179469,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/15fd1e610db53b2b0ce97261e92f3724e95365c7",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 199,
+                    "size": 179469,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356941",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356941",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
             "body": "🤗 (Clover : Coffee Raccoon)",
             "url": "mxc://matrix.chir.rs/ced4573108db8d22a9322079ed77750feb02c708",
             "info": {
@@ -402,6 +586,35 @@
                 "emoticons": [
                     "🤗",
                     "💞"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/413551c8131e2a80d2c86da3727aecb54681a9e6",
+            "info": {
+                "w": 256,
+                "h": 248,
+                "size": 188861,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/413551c8131e2a80d2c86da3727aecb54681a9e6",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 248,
+                    "size": 188861,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1587617987903356950",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "1587617987903356950",
+                "emoticons": [
+                    "🤔"
                 ]
             }
         },
@@ -497,91 +710,34 @@
             }
         },
         {
-            "body": "🤔 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/413551c8131e2a80d2c86da3727aecb54681a9e6",
-            "info": {
-                "w": 256,
-                "h": 248,
-                "size": 188861,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/413551c8131e2a80d2c86da3727aecb54681a9e6",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 248,
-                    "size": 188861,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356950",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356950",
-                "emoticons": [
-                    "🤔"
-                ]
-            }
-        },
-        {
-            "body": "😂 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/074674675af1228c973bfc14d7b85f94e6e29681",
-            "info": {
-                "w": 256,
-                "h": 243,
-                "size": 174064,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/074674675af1228c973bfc14d7b85f94e6e29681",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 243,
-                    "size": 174064,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356937",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356937",
-                "emoticons": [
-                    "😂",
-                    "🤣"
-                ]
-            }
-        },
-        {
-            "body": "🍌 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/4a018245516dc96e72247f89b61fd1b2f48315fa",
+            "body": "💚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/e689c1b26ab5bc5804041c6283426d5b5ad34936",
             "info": {
                 "w": 256,
                 "h": 242,
-                "size": 161566,
+                "size": 191131,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4a018245516dc96e72247f89b61fd1b2f48315fa",
+                "thumbnail_url": "mxc://matrix.chir.rs/e689c1b26ab5bc5804041c6283426d5b5ad34936",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 242,
-                    "size": 161566,
+                    "size": 191131,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1587617987903356949",
+            "id": "tg-1587617987903356939",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "1587617987903356949",
+                "id": "1587617987903356939",
                 "emoticons": [
-                    "🍌",
-                    "💦"
+                    "❤",
+                    "💚",
+                    "💓",
+                    "💗"
                 ]
             }
         },
@@ -616,127 +772,32 @@
             }
         },
         {
-            "body": "😅 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/ede0d25a3fbe0a1a0ba67cd9f9554ce014ae6fc2",
-            "info": {
-                "w": 256,
-                "h": 243,
-                "size": 159592,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ede0d25a3fbe0a1a0ba67cd9f9554ce014ae6fc2",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 243,
-                    "size": 159592,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356936",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356936",
-                "emoticons": [
-                    "😅",
-                    "🙂",
-                    "😃"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/3f3eb2a8dd7f425d66117788d172bfd64914b3f8",
-            "info": {
-                "w": 256,
-                "h": 234,
-                "size": 186015,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3f3eb2a8dd7f425d66117788d172bfd64914b3f8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 234,
-                    "size": 186015,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356940",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356940",
-                "emoticons": [
-                    "🐶",
-                    "😝",
-                    "😛",
-                    "😋"
-                ]
-            }
-        },
-        {
-            "body": "💚 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/e689c1b26ab5bc5804041c6283426d5b5ad34936",
+            "body": "🍌 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/4a018245516dc96e72247f89b61fd1b2f48315fa",
             "info": {
                 "w": 256,
                 "h": 242,
-                "size": 191131,
+                "size": 161566,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e689c1b26ab5bc5804041c6283426d5b5ad34936",
+                "thumbnail_url": "mxc://matrix.chir.rs/4a018245516dc96e72247f89b61fd1b2f48315fa",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 242,
-                    "size": 191131,
+                    "size": 161566,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1587617987903356939",
+            "id": "tg-1587617987903356949",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "1587617987903356939",
+                "id": "1587617987903356949",
                 "emoticons": [
-                    "❤",
-                    "💚",
-                    "💓",
-                    "💗"
-                ]
-            }
-        },
-        {
-            "body": "🍑 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/e5e716fbbd340e2a3e72bb3f8aae7148ecab5bcc",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192467,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e5e716fbbd340e2a3e72bb3f8aae7148ecab5bcc",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192467,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356932",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356932",
-                "emoticons": [
-                    "🍑",
-                    "🍒"
+                    "🍌",
+                    "💦"
                 ]
             }
         },
@@ -771,31 +832,32 @@
             }
         },
         {
-            "body": "👍 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/15fd1e610db53b2b0ce97261e92f3724e95365c7",
+            "body": "🍑 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/e5e716fbbd340e2a3e72bb3f8aae7148ecab5bcc",
             "info": {
                 "w": 256,
-                "h": 199,
-                "size": 179469,
+                "h": 256,
+                "size": 192467,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/15fd1e610db53b2b0ce97261e92f3724e95365c7",
+                "thumbnail_url": "mxc://matrix.chir.rs/e5e716fbbd340e2a3e72bb3f8aae7148ecab5bcc",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 199,
-                    "size": 179469,
+                    "h": 256,
+                    "size": 192467,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1587617987903356941",
+            "id": "tg-1587617987903356932",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "1587617987903356941",
+                "id": "1587617987903356932",
                 "emoticons": [
-                    "👍"
+                    "🍑",
+                    "🍒"
                 ]
             }
         },
@@ -833,188 +895,6 @@
             }
         },
         {
-            "body": "🛏 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/8786efb1c4103f2368c944e9c43b081b0d3991f2",
-            "info": {
-                "w": 256,
-                "h": 132,
-                "size": 55750,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8786efb1c4103f2368c944e9c43b081b0d3991f2",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 132,
-                    "size": 55750,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4941003439007072667",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4941003439007072667",
-                "emoticons": [
-                    "💤",
-                    "🛏",
-                    "🙈"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/7562acea0faba924d09ccec22e85a4e0768e61a2",
-            "info": {
-                "w": 256,
-                "h": 160,
-                "size": 157932,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7562acea0faba924d09ccec22e85a4e0768e61a2",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 160,
-                    "size": 157932,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1587617987903356943",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "1587617987903356943",
-                "emoticons": [
-                    "😊",
-                    "☺"
-                ]
-            }
-        },
-        {
-            "body": "🐾 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/278347044cc18c88ee70d15c60c05bda80cfd311",
-            "info": {
-                "w": 196,
-                "h": 256,
-                "size": 170302,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/278347044cc18c88ee70d15c60c05bda80cfd311",
-                "thumbnail_info": {
-                    "w": 196,
-                    "h": 256,
-                    "size": 170302,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4940463772071363041",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4940463772071363041",
-                "emoticons": [
-                    "🐾",
-                    "🎨"
-                ]
-            }
-        },
-        {
-            "body": "👀 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/fff3e2dd2a71b44315e73055cdc5ca44ae462bec",
-            "info": {
-                "w": 256,
-                "h": 194,
-                "size": 115983,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fff3e2dd2a71b44315e73055cdc5ca44ae462bec",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 194,
-                    "size": 115983,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4940702018202239380",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4940702018202239380",
-                "emoticons": [
-                    "👀",
-                    "🙄"
-                ]
-            }
-        },
-        {
-            "body": "😅 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/8b658ec24616db33a7950d219a1b2ebecf17ce4d",
-            "info": {
-                "w": 256,
-                "h": 195,
-                "size": 136810,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8b658ec24616db33a7950d219a1b2ebecf17ce4d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 195,
-                    "size": 136810,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4940991267069756087",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4940991267069756087",
-                "emoticons": [
-                    "😅",
-                    "😓"
-                ]
-            }
-        },
-        {
-            "body": "🎋 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/6b29cce72339bdf9b0c3227be54cb82dae85f182",
-            "info": {
-                "w": 221,
-                "h": 256,
-                "size": 166599,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6b29cce72339bdf9b0c3227be54cb82dae85f182",
-                "thumbnail_info": {
-                    "w": 221,
-                    "h": 256,
-                    "size": 166599,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4940693050310525216",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4940693050310525216",
-                "emoticons": [
-                    "🎋",
-                    "😀",
-                    "🌲"
-                ]
-            }
-        },
-        {
             "body": "👅 (Clover : Coffee Raccoon)",
             "url": "mxc://matrix.chir.rs/4428369338a9d653da77171de441c9df0ad67ce5",
             "info": {
@@ -1046,123 +926,33 @@
             }
         },
         {
-            "body": "🍆 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/4cb9c309fb40d24095ac0885cfdf60bc2c795412",
-            "info": {
-                "w": 229,
-                "h": 256,
-                "size": 186639,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4cb9c309fb40d24095ac0885cfdf60bc2c795412",
-                "thumbnail_info": {
-                    "w": 229,
-                    "h": 256,
-                    "size": 186639,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4940933697328120491",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4940933697328120491",
-                "emoticons": [
-                    "😋",
-                    "🍆"
-                ]
-            }
-        },
-        {
-            "body": "😈 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/749051e51991cacae834a92369780866b2fe3a9c",
-            "info": {
-                "w": 161,
-                "h": 256,
-                "size": 147701,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/749051e51991cacae834a92369780866b2fe3a9c",
-                "thumbnail_info": {
-                    "w": 161,
-                    "h": 256,
-                    "size": 147701,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5138849436755034480",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "5138849436755034480",
-                "emoticons": [
-                    "😈",
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "📱 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/16d78c2238ee9a0f7d93b6229b4a5b7f71e356bb",
+            "body": "🛏 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/8786efb1c4103f2368c944e9c43b081b0d3991f2",
             "info": {
                 "w": 256,
-                "h": 252,
-                "size": 156200,
+                "h": 132,
+                "size": 55750,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/16d78c2238ee9a0f7d93b6229b4a5b7f71e356bb",
+                "thumbnail_url": "mxc://matrix.chir.rs/8786efb1c4103f2368c944e9c43b081b0d3991f2",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 252,
-                    "size": 156200,
+                    "h": 132,
+                    "size": 55750,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4940806931368379287",
+            "id": "tg-4941003439007072667",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "4940806931368379287",
+                "id": "4941003439007072667",
                 "emoticons": [
-                    "📱",
-                    "📲"
-                ]
-            }
-        },
-        {
-            "body": "✋ (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/7e9d5497aba0b72b69f67ce5b629b06b6f4846e5",
-            "info": {
-                "w": 233,
-                "h": 256,
-                "size": 194328,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7e9d5497aba0b72b69f67ce5b629b06b6f4846e5",
-                "thumbnail_info": {
-                    "w": 233,
-                    "h": 256,
-                    "size": 194328,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5138995757700874554",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "5138995757700874554",
-                "emoticons": [
-                    "🤚",
-                    "✋",
-                    "😃"
+                    "💤",
+                    "🛏",
+                    "🙈"
                 ]
             }
         },
@@ -1198,62 +988,122 @@
             }
         },
         {
-            "body": "🌈 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/6dd1be62ff2200a7881db4c98b470b90e9ef1ac5",
+            "body": "😅 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/8b658ec24616db33a7950d219a1b2ebecf17ce4d",
             "info": {
                 "w": 256,
-                "h": 219,
-                "size": 157343,
+                "h": 195,
+                "size": 136810,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6dd1be62ff2200a7881db4c98b470b90e9ef1ac5",
+                "thumbnail_url": "mxc://matrix.chir.rs/8b658ec24616db33a7950d219a1b2ebecf17ce4d",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 219,
-                    "size": 157343,
+                    "h": 195,
+                    "size": 136810,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5026340994614821176",
+            "id": "tg-4940991267069756087",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "5026340994614821176",
+                "id": "4940991267069756087",
                 "emoticons": [
-                    "🌈",
-                    "🙄",
-                    "🥤"
+                    "😅",
+                    "😓"
                 ]
             }
         },
         {
-            "body": "🥚 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/1be8eb28d6f6a3d0f05206ff7f75a4a7ae318c80",
+            "body": "🐾 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/278347044cc18c88ee70d15c60c05bda80cfd311",
             "info": {
-                "w": 148,
+                "w": 196,
                 "h": 256,
-                "size": 112458,
+                "size": 170302,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1be8eb28d6f6a3d0f05206ff7f75a4a7ae318c80",
+                "thumbnail_url": "mxc://matrix.chir.rs/278347044cc18c88ee70d15c60c05bda80cfd311",
                 "thumbnail_info": {
-                    "w": 148,
+                    "w": 196,
                     "h": 256,
-                    "size": 112458,
+                    "size": 170302,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5138746147086533506",
+            "id": "tg-4940463772071363041",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "5138746147086533506",
+                "id": "4940463772071363041",
                 "emoticons": [
-                    "🥚"
+                    "🐾",
+                    "🎨"
+                ]
+            }
+        },
+        {
+            "body": "📱 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/16d78c2238ee9a0f7d93b6229b4a5b7f71e356bb",
+            "info": {
+                "w": 256,
+                "h": 252,
+                "size": 156200,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/16d78c2238ee9a0f7d93b6229b4a5b7f71e356bb",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 252,
+                    "size": 156200,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4940806931368379287",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4940806931368379287",
+                "emoticons": [
+                    "📱",
+                    "📲"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/fff3e2dd2a71b44315e73055cdc5ca44ae462bec",
+            "info": {
+                "w": 256,
+                "h": 194,
+                "size": 115983,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fff3e2dd2a71b44315e73055cdc5ca44ae462bec",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 194,
+                    "size": 115983,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4940702018202239380",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4940702018202239380",
+                "emoticons": [
+                    "👀",
+                    "🙄"
                 ]
             }
         },
@@ -1289,6 +1139,67 @@
             }
         },
         {
+            "body": "🍆 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/4cb9c309fb40d24095ac0885cfdf60bc2c795412",
+            "info": {
+                "w": 229,
+                "h": 256,
+                "size": 186639,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4cb9c309fb40d24095ac0885cfdf60bc2c795412",
+                "thumbnail_info": {
+                    "w": 229,
+                    "h": 256,
+                    "size": 186639,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4940933697328120491",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4940933697328120491",
+                "emoticons": [
+                    "😋",
+                    "🍆"
+                ]
+            }
+        },
+        {
+            "body": "🌈 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/6dd1be62ff2200a7881db4c98b470b90e9ef1ac5",
+            "info": {
+                "w": 256,
+                "h": 219,
+                "size": 157343,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6dd1be62ff2200a7881db4c98b470b90e9ef1ac5",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 219,
+                    "size": 157343,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5026340994614821176",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5026340994614821176",
+                "emoticons": [
+                    "🌈",
+                    "🙄",
+                    "🥤"
+                ]
+            }
+        },
+        {
             "body": "😝 (Clover : Coffee Raccoon)",
             "url": "mxc://matrix.chir.rs/c1ccc46d4e7250ea2335d20e8ffa5de2947646bf",
             "info": {
@@ -1320,97 +1231,64 @@
             }
         },
         {
-            "body": "🍽 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/1f347e128432afbbe31bc64d51a187898b354fe0",
+            "body": "✋ (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/7e9d5497aba0b72b69f67ce5b629b06b6f4846e5",
             "info": {
-                "w": 241,
+                "w": 233,
                 "h": 256,
-                "size": 166765,
+                "size": 194328,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1f347e128432afbbe31bc64d51a187898b354fe0",
+                "thumbnail_url": "mxc://matrix.chir.rs/7e9d5497aba0b72b69f67ce5b629b06b6f4846e5",
                 "thumbnail_info": {
-                    "w": 241,
+                    "w": 233,
                     "h": 256,
-                    "size": 166765,
+                    "size": 194328,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5139007216673620825",
+            "id": "tg-5138995757700874554",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "5139007216673620825",
+                "id": "5138995757700874554",
                 "emoticons": [
-                    "🍽",
-                    "🍱",
-                    "🍣",
-                    "🍛",
-                    "🍲",
-                    "🍜",
-                    "🍝"
+                    "🤚",
+                    "✋",
+                    "😃"
                 ]
             }
         },
         {
-            "body": "😶 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/bc1a7f7f8996dfa012daf2d4ded1ecf570bedbf4",
+            "body": "🎋 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/6b29cce72339bdf9b0c3227be54cb82dae85f182",
             "info": {
-                "w": 256,
-                "h": 231,
-                "size": 164048,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bc1a7f7f8996dfa012daf2d4ded1ecf570bedbf4",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 231,
-                    "size": 164048,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5141287346091590066",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "5141287346091590066",
-                "emoticons": [
-                    "😶"
-                ]
-            }
-        },
-        {
-            "body": "😢 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/c09ae0cb681afc2cb2fa80adcb6319c2cde07832",
-            "info": {
-                "w": 206,
+                "w": 221,
                 "h": 256,
-                "size": 183453,
+                "size": 166599,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c09ae0cb681afc2cb2fa80adcb6319c2cde07832",
+                "thumbnail_url": "mxc://matrix.chir.rs/6b29cce72339bdf9b0c3227be54cb82dae85f182",
                 "thumbnail_info": {
-                    "w": 206,
+                    "w": 221,
                     "h": 256,
-                    "size": 183453,
+                    "size": 166599,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4976634934371287651",
+            "id": "tg-4940693050310525216",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "4976634934371287651",
+                "id": "4940693050310525216",
                 "emoticons": [
-                    "😢",
-                    "😥",
-                    "😞"
+                    "🎋",
+                    "😀",
+                    "🌲"
                 ]
             }
         },
@@ -1445,246 +1323,125 @@
             }
         },
         {
-            "body": "🥺 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/2de6881fb8cb520a34d00737dd5ffc2c3a1a6b0a",
+            "body": "🥚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/1be8eb28d6f6a3d0f05206ff7f75a4a7ae318c80",
+            "info": {
+                "w": 148,
+                "h": 256,
+                "size": 112458,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1be8eb28d6f6a3d0f05206ff7f75a4a7ae318c80",
+                "thumbnail_info": {
+                    "w": 148,
+                    "h": 256,
+                    "size": 112458,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5138746147086533506",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5138746147086533506",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/749051e51991cacae834a92369780866b2fe3a9c",
+            "info": {
+                "w": 161,
+                "h": 256,
+                "size": 147701,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/749051e51991cacae834a92369780866b2fe3a9c",
+                "thumbnail_info": {
+                    "w": 161,
+                    "h": 256,
+                    "size": 147701,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5138849436755034480",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5138849436755034480",
+                "emoticons": [
+                    "😈",
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "😶 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/bc1a7f7f8996dfa012daf2d4ded1ecf570bedbf4",
             "info": {
                 "w": 256,
-                "h": 217,
-                "size": 155292,
+                "h": 231,
+                "size": 164048,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2de6881fb8cb520a34d00737dd5ffc2c3a1a6b0a",
+                "thumbnail_url": "mxc://matrix.chir.rs/bc1a7f7f8996dfa012daf2d4ded1ecf570bedbf4",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 217,
-                    "size": 155292,
+                    "h": 231,
+                    "size": 164048,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5141149481936355688",
+            "id": "tg-5141287346091590066",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "5141149481936355688",
+                "id": "5141287346091590066",
                 "emoticons": [
-                    "🐶",
-                    "🥺"
+                    "😶"
                 ]
             }
         },
         {
-            "body": "😖 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/d4acfc9626398420fd091243fc8052bc7775a355",
+            "body": "🍴 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/1f347e128432afbbe31bc64d51a187898b354fe0",
             "info": {
-                "w": 209,
+                "w": 241,
                 "h": 256,
-                "size": 152091,
+                "size": 166765,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d4acfc9626398420fd091243fc8052bc7775a355",
+                "thumbnail_url": "mxc://matrix.chir.rs/1f347e128432afbbe31bc64d51a187898b354fe0",
                 "thumbnail_info": {
-                    "w": 209,
+                    "w": 241,
                     "h": 256,
-                    "size": 152091,
+                    "size": 166765,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4974483026906972656",
+            "id": "tg-5139007216673620825",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "4974483026906972656",
+                "id": "5139007216673620825",
                 "emoticons": [
-                    "☺",
-                    "😖"
-                ]
-            }
-        },
-        {
-            "body": "😂 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/5af2ed884ae17c6393132b6f27499a106b5a38aa",
-            "info": {
-                "w": 251,
-                "h": 256,
-                "size": 204536,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5af2ed884ae17c6393132b6f27499a106b5a38aa",
-                "thumbnail_info": {
-                    "w": 251,
-                    "h": 256,
-                    "size": 204536,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4974665442757968319",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4974665442757968319",
-                "emoticons": [
-                    "😂",
-                    "🤣"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/74fbf1003457a232f7370180a020071e067c36cf",
-            "info": {
-                "w": 209,
-                "h": 256,
-                "size": 157495,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74fbf1003457a232f7370180a020071e067c36cf",
-                "thumbnail_info": {
-                    "w": 209,
-                    "h": 256,
-                    "size": 157495,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4974308118658810452",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4974308118658810452",
-                "emoticons": [
-                    "😊",
-                    "😳",
-                    "☺"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/81af5449151f847e45b6512a0d451c115adba81c",
-            "info": {
-                "w": 228,
-                "h": 256,
-                "size": 143572,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81af5449151f847e45b6512a0d451c115adba81c",
-                "thumbnail_info": {
-                    "w": 228,
-                    "h": 256,
-                    "size": 143572,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4977031849478980161",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4977031849478980161",
-                "emoticons": [
-                    "😠",
-                    "😡",
-                    "😑"
-                ]
-            }
-        },
-        {
-            "body": "😞 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/172ec29150027c434a0357f9d52e67566aaa1976",
-            "info": {
-                "w": 229,
-                "h": 256,
-                "size": 175601,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/172ec29150027c434a0357f9d52e67566aaa1976",
-                "thumbnail_info": {
-                    "w": 229,
-                    "h": 256,
-                    "size": 175601,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4976739125982921324",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4976739125982921324",
-                "emoticons": [
-                    "😞",
-                    "😔",
-                    "☹"
-                ]
-            }
-        },
-        {
-            "body": "✨ (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/5ae5e26f3d778aa96aeb9a4445c24b3823e3d198",
-            "info": {
-                "w": 192,
-                "h": 256,
-                "size": 168286,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5ae5e26f3d778aa96aeb9a4445c24b3823e3d198",
-                "thumbnail_info": {
-                    "w": 192,
-                    "h": 256,
-                    "size": 168286,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5138779901234512380",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "5138779901234512380",
-                "emoticons": [
-                    "✨",
-                    "🌟",
-                    "⭐"
-                ]
-            }
-        },
-        {
-            "body": "🎨 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/7280f090730058f4e0a5bb0f788bd7e901dd8b0a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 218664,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7280f090730058f4e0a5bb0f788bd7e901dd8b0a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 218664,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4940833250927968687",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1587617987903356929",
-                    "short_name": "CloverSage"
-                },
-                "id": "4940833250927968687",
-                "emoticons": [
-                    "📝",
-                    "🎨"
+                    "🍴",
+                    "🍽",
+                    "🍱",
+                    "🍣",
+                    "🍲",
+                    "🍜",
+                    "🍙"
                 ]
             }
         },
@@ -1720,33 +1477,247 @@
             }
         },
         {
-            "body": "😛 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/e99bcbfa5ddb62ff4ef18b145db1eccfe26f61bf",
+            "body": "🚫 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/afc3bf8612cedb56acf53d1f96ac2787d11eba01",
             "info": {
-                "w": 143,
-                "h": 256,
-                "size": 121168,
+                "w": 256,
+                "h": 225,
+                "size": 149708,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e99bcbfa5ddb62ff4ef18b145db1eccfe26f61bf",
+                "thumbnail_url": "mxc://matrix.chir.rs/afc3bf8612cedb56acf53d1f96ac2787d11eba01",
                 "thumbnail_info": {
-                    "w": 143,
-                    "h": 256,
-                    "size": 121168,
+                    "w": 256,
+                    "h": 225,
+                    "size": 149708,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5138738798397489784",
+            "id": "tg-5141326125351305491",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "5138738798397489784",
+                "id": "5141326125351305491",
+                "emoticons": [
+                    "🚫",
+                    "❌"
+                ]
+            }
+        },
+        {
+            "body": "🥺 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/2de6881fb8cb520a34d00737dd5ffc2c3a1a6b0a",
+            "info": {
+                "w": 256,
+                "h": 217,
+                "size": 155292,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2de6881fb8cb520a34d00737dd5ffc2c3a1a6b0a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 217,
+                    "size": 155292,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5141149481936355688",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5141149481936355688",
+                "emoticons": [
+                    "🐶",
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "✨ (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/5ae5e26f3d778aa96aeb9a4445c24b3823e3d198",
+            "info": {
+                "w": 192,
+                "h": 256,
+                "size": 168286,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ae5e26f3d778aa96aeb9a4445c24b3823e3d198",
+                "thumbnail_info": {
+                    "w": 192,
+                    "h": 256,
+                    "size": 168286,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5138779901234512380",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5138779901234512380",
+                "emoticons": [
+                    "✨",
+                    "🌟",
+                    "⭐"
+                ]
+            }
+        },
+        {
+            "body": "😢 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/c09ae0cb681afc2cb2fa80adcb6319c2cde07832",
+            "info": {
+                "w": 206,
+                "h": 256,
+                "size": 183453,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c09ae0cb681afc2cb2fa80adcb6319c2cde07832",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 256,
+                    "size": 183453,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4976634934371287651",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4976634934371287651",
+                "emoticons": [
+                    "😢",
+                    "😥",
+                    "😞"
+                ]
+            }
+        },
+        {
+            "body": "😂 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/5af2ed884ae17c6393132b6f27499a106b5a38aa",
+            "info": {
+                "w": 251,
+                "h": 256,
+                "size": 204536,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5af2ed884ae17c6393132b6f27499a106b5a38aa",
+                "thumbnail_info": {
+                    "w": 251,
+                    "h": 256,
+                    "size": 204536,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4974665442757968319",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4974665442757968319",
+                "emoticons": [
+                    "😂",
+                    "🤣"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/81af5449151f847e45b6512a0d451c115adba81c",
+            "info": {
+                "w": 228,
+                "h": 256,
+                "size": 143572,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/81af5449151f847e45b6512a0d451c115adba81c",
+                "thumbnail_info": {
+                    "w": 228,
+                    "h": 256,
+                    "size": 143572,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4977031849478980161",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4977031849478980161",
+                "emoticons": [
+                    "😠",
+                    "😡",
+                    "😑"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/74fbf1003457a232f7370180a020071e067c36cf",
+            "info": {
+                "w": 209,
+                "h": 256,
+                "size": 157495,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/74fbf1003457a232f7370180a020071e067c36cf",
+                "thumbnail_info": {
+                    "w": 209,
+                    "h": 256,
+                    "size": 157495,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4974308118658810452",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4974308118658810452",
                 "emoticons": [
                     "😊",
-                    "😛",
-                    "🤗"
+                    "😳",
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "😞 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/172ec29150027c434a0357f9d52e67566aaa1976",
+            "info": {
+                "w": 229,
+                "h": 256,
+                "size": 175601,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/172ec29150027c434a0357f9d52e67566aaa1976",
+                "thumbnail_info": {
+                    "w": 229,
+                    "h": 256,
+                    "size": 175601,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4976739125982921324",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4976739125982921324",
+                "emoticons": [
+                    "😞",
+                    "😔",
+                    "☹"
                 ]
             }
         },
@@ -1784,6 +1755,67 @@
         },
         {
             "body": "💚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/8cc6556993a718a506c90dea98507fea613511bb1686715259265482752",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133105,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8cc6556993a718a506c90dea98507fea613511bb1686715259265482752",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133105,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994858978824422299",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4994858978824422299",
+                "emoticons": [
+                    "💚",
+                    "💙",
+                    "💕"
+                ]
+            }
+        },
+        {
+            "body": "🎨 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/7280f090730058f4e0a5bb0f788bd7e901dd8b0a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 218664,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7280f090730058f4e0a5bb0f788bd7e901dd8b0a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 218664,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4940833250927968687",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4940833250927968687",
+                "emoticons": [
+                    "📝",
+                    "🎨"
+                ]
+            }
+        },
+        {
+            "body": "💚 (Clover : Coffee Raccoon)",
             "url": "mxc://matrix.chir.rs/ef6640db346dd7cb7f95ae1f12335fc084b139c3",
             "info": {
                 "w": 208,
@@ -1814,32 +1846,256 @@
             }
         },
         {
-            "body": "🚫 (Clover : Coffee Raccoon)",
-            "url": "mxc://matrix.chir.rs/afc3bf8612cedb56acf53d1f96ac2787d11eba01",
+            "body": "😛 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/e99bcbfa5ddb62ff4ef18b145db1eccfe26f61bf",
             "info": {
-                "w": 256,
-                "h": 225,
-                "size": 149708,
+                "w": 143,
+                "h": 256,
+                "size": 121168,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/afc3bf8612cedb56acf53d1f96ac2787d11eba01",
+                "thumbnail_url": "mxc://matrix.chir.rs/e99bcbfa5ddb62ff4ef18b145db1eccfe26f61bf",
                 "thumbnail_info": {
-                    "w": 256,
-                    "h": 225,
-                    "size": 149708,
+                    "w": 143,
+                    "h": 256,
+                    "size": 121168,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5141326125351305491",
+            "id": "tg-5138738798397489784",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1587617987903356929",
                     "short_name": "CloverSage"
                 },
-                "id": "5141326125351305491",
+                "id": "5138738798397489784",
                 "emoticons": [
-                    "🚫",
-                    "❌"
+                    "😊",
+                    "🤗",
+                    "😛"
+                ]
+            }
+        },
+        {
+            "body": "🧡 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/c2d497c8fcf948546927e07561f546ee92fc7d911686715259886239744",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128299,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c2d497c8fcf948546927e07561f546ee92fc7d911686715259886239744",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128299,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4997108231722500781",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4997108231722500781",
+                "emoticons": [
+                    "💚",
+                    "💕",
+                    "🧡"
+                ]
+            }
+        },
+        {
+            "body": "💚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/937fc5e94337893ca5bd06a21b6e9a799f8305711686715259512946688",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 162514,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/937fc5e94337893ca5bd06a21b6e9a799f8305711686715259512946688",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 162514,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4997279506428331022",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4997279506428331022",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💙",
+                    "💕"
+                ]
+            }
+        },
+        {
+            "body": "🧡 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/d024bd0de7b58dfb7a2ea1de627a3da1d2ad6cea1686715260574105600",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 158286,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d024bd0de7b58dfb7a2ea1de627a3da1d2ad6cea1686715260574105600",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 158286,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994611803456537635",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4994611803456537635",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💕",
+                    "🧡"
+                ]
+            }
+        },
+        {
+            "body": "😖 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/d4acfc9626398420fd091243fc8052bc7775a355",
+            "info": {
+                "w": 209,
+                "h": 256,
+                "size": 152091,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d4acfc9626398420fd091243fc8052bc7775a355",
+                "thumbnail_info": {
+                    "w": 209,
+                    "h": 256,
+                    "size": 152091,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4974483026906972656",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4974483026906972656",
+                "emoticons": [
+                    "☺",
+                    "😖"
+                ]
+            }
+        },
+        {
+            "body": "💚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/4edf813c89c5c41f8450c32caf7a4549480f37e01686715262906138624",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 161298,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4edf813c89c5c41f8450c32caf7a4549480f37e01686715262906138624",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 161298,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5021747935113642891",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5021747935113642891",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💞"
+                ]
+            }
+        },
+        {
+            "body": "🤎 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/37c285e46fbd6538a787f11015ee5ec93ec1774f1686715260590882816",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 154801,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/37c285e46fbd6538a787f11015ee5ec93ec1774f1686715260590882816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 154801,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994919000992383983",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4994919000992383983",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💞",
+                    "🤎"
+                ]
+            }
+        },
+        {
+            "body": "🤎 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/5ec741b3cd6ddde0d163e1b8be610b1b676574311686715260842541056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 143771,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ec741b3cd6ddde0d163e1b8be610b1b676574311686715260842541056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 143771,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994938813676520193",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4994938813676520193",
+                "emoticons": [
+                    "💚",
+                    "💞",
+                    "🤎"
                 ]
             }
         },
@@ -1870,6 +2126,357 @@
                 "emoticons": [
                     "😳",
                     "🥺"
+                ]
+            }
+        },
+        {
+            "body": "❤️ (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/028fc44daf148585b1172cdeef3675cdb7718b131686715262994219008",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156678,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/028fc44daf148585b1172cdeef3675cdb7718b131686715262994219008",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156678,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994821625493849169",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4994821625493849169",
+                "emoticons": [
+                    "❤",
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/b09c6dd5c459eb8f82e3c4eb9361601373995d451686715263002607616",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159523,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b09c6dd5c459eb8f82e3c4eb9361601373995d451686715263002607616",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159523,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5001610083298182260",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5001610083298182260",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/929ace648cd584a99dd90bfe8c93c1f84761a2431686715262990024704",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 144427,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/929ace648cd584a99dd90bfe8c93c1f84761a2431686715262990024704",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 144427,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5001417655878420507",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5001417655878420507",
+                "emoticons": [
+                    "💚",
+                    "💕",
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/29e290c2e4b9fee090f3fe70abce9febb52efe6c1686715263791136768",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 152680,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/29e290c2e4b9fee090f3fe70abce9febb52efe6c1686715263791136768",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 152680,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5001671441200972833",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5001671441200972833",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💕"
+                ]
+            }
+        },
+        {
+            "body": "💚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/a4d410f6810ae140276ac5b502e8f39dee2b4e7a1686715265351417856",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 141399,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a4d410f6810ae140276ac5b502e8f39dee2b4e7a1686715265351417856",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 141399,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5003819599158838412",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5003819599158838412",
+                "emoticons": [
+                    "💚",
+                    "💕",
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "🧡 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/762dec8970656c17f92f9bed3d4d3761f4a3c6731686715262939693056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 164238,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/762dec8970656c17f92f9bed3d4d3761f4a3c6731686715262939693056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 164238,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5003682525277586321",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5003682525277586321",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "🧡"
+                ]
+            }
+        },
+        {
+            "body": "🏳️‍🌈 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/4570d3730e612e1aee454d224616dd95a2d587651686715265397555200",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159112,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4570d3730e612e1aee454d224616dd95a2d587651686715265397555200",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159112,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5021530038537815032",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5021530038537815032",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💕",
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "🧡 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/38deba51c9ce8f631412e8f4bb795e121975de431686715265414332416",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 163107,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/38deba51c9ce8f631412e8f4bb795e121975de431686715265414332416",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 163107,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5010559601142137736",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5010559601142137736",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💕",
+                    "🧡"
+                ]
+            }
+        },
+        {
+            "body": "🧡 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/39c9da6d59e52bcaf6e5a8fe9d46c2989bc576ca1686715262985830400",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 154777,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/39c9da6d59e52bcaf6e5a8fe9d46c2989bc576ca1686715262985830400",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 154777,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5003989933266830284",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5003989933266830284",
+                "emoticons": [
+                    "💚",
+                    "💕",
+                    "🧡"
+                ]
+            }
+        },
+        {
+            "body": "💚 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/c97d93bb080a026ce13655c2590f41c00cb50b441686715266391605248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 152606,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c97d93bb080a026ce13655c2590f41c00cb50b441686715266391605248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 152606,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5021624811286168354",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "5021624811286168354",
+                "emoticons": [
+                    "💚",
+                    "🏳‍🌈",
+                    "🌈",
+                    "💕",
+                    "🤍"
+                ]
+            }
+        },
+        {
+            "body": "🔖 (Clover : Coffee Raccoon)",
+            "url": "mxc://matrix.chir.rs/bf18ca22f8172e9e875af1b371fa72cabcf7afe8",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 139648,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bf18ca22f8172e9e875af1b371fa72cabcf7afe8",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 139648,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994701594042827676",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1587617987903356929",
+                    "short_name": "CloverSage"
+                },
+                "id": "4994701594042827676",
+                "emoticons": [
+                    "🔖",
+                    "📝",
+                    "📌"
                 ]
             }
         }

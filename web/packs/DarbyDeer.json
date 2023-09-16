@@ -7,6 +7,39 @@
     },
     "stickers": [
         {
+            "body": "🤤 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/85b4dba4d9fa82cfab46998530c987c41952b9a6",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 303466,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/85b4dba4d9fa82cfab46998530c987c41952b9a6",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 303466,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075938563984458081",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "5075938563984458081",
+                "emoticons": [
+                    "🤤",
+                    "🦌",
+                    "🏳",
+                    "⚧",
+                    "🏳‍🌈"
+                ]
+            }
+        },
+        {
             "body": "😌 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/3a757f065558b02b1df4677d6dba9117845df019",
             "info": {
@@ -44,6 +77,40 @@
             }
         },
         {
+            "body": "😌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/8aa29cb37ce45e217e61e9620a224ea33f457ac7",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 194595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8aa29cb37ce45e217e61e9620a224ea33f457ac7",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 194595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5129975712198951499",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "5129975712198951499",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🌸",
+                    "😌",
+                    "🌿",
+                    "✨"
+                ]
+            }
+        },
+        {
             "body": "❓ (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/3d3f2749930aad7c8b41aa6b826e3217dd1e13e0",
             "info": {
@@ -70,6 +137,39 @@
                 "emoticons": [
                     "❓",
                     "❔"
+                ]
+            }
+        },
+        {
+            "body": "🥞 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/9efc6ee9f6be3f7b467f5f83e8f3403e2b506e28",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142128,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9efc6ee9f6be3f7b467f5f83e8f3403e2b506e28",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142128,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5152444846492877077",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "5152444846492877077",
+                "emoticons": [
+                    "🦌",
+                    "🥞",
+                    "🐊",
+                    "🌙",
+                    "🌸"
                 ]
             }
         },
@@ -111,102 +211,6 @@
             }
         },
         {
-            "body": "🤤 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/85b4dba4d9fa82cfab46998530c987c41952b9a6",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 303466,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/85b4dba4d9fa82cfab46998530c987c41952b9a6",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 303466,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5075938563984458081",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "5075938563984458081",
-                "emoticons": [
-                    "🤤",
-                    "🦌",
-                    "🏳",
-                    "⚧",
-                    "🏳‍🌈"
-                ]
-            }
-        },
-        {
-            "body": "😌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/8aa29cb37ce45e217e61e9620a224ea33f457ac7",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 194595,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8aa29cb37ce45e217e61e9620a224ea33f457ac7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 194595,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5129975712198951499",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "5129975712198951499",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🌸",
-                    "😌",
-                    "🌿",
-                    "✨"
-                ]
-            }
-        },
-        {
-            "body": "ℹ️ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/af7d21424ea8cc1eea933654d28368c0fc14a3bb",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 238737,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/af7d21424ea8cc1eea933654d28368c0fc14a3bb",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 238737,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5044373225828516067",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "5044373225828516067",
-                "emoticons": [
-                    "ℹ"
-                ]
-            }
-        },
-        {
             "body": "🤗 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/cec92c10dcbc2a82b4a251df09ee91fcdfa6944f",
             "info": {
@@ -234,6 +238,40 @@
                     "🌸",
                     "🤗",
                     "🥰"
+                ]
+            }
+        },
+        {
+            "body": "👈 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/fff7f9478b5658f8c4db6463316e93354459b55b",
+            "info": {
+                "w": 217,
+                "h": 256,
+                "size": 308079,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fff7f9478b5658f8c4db6463316e93354459b55b",
+                "thumbnail_info": {
+                    "w": 217,
+                    "h": 256,
+                    "size": 308079,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904454564398236132",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "4904454564398236132",
+                "emoticons": [
+                    "🦌",
+                    "👈",
+                    "👉",
+                    "👆",
+                    "👇",
+                    "☝"
                 ]
             }
         },
@@ -275,163 +313,63 @@
             }
         },
         {
-            "body": "🥞 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/9efc6ee9f6be3f7b467f5f83e8f3403e2b506e28",
+            "body": "🦋 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/a28f96c217d696d6567245b8ab1847f0b7b48d86",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 142128,
+                "size": 167159,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9efc6ee9f6be3f7b467f5f83e8f3403e2b506e28",
+                "thumbnail_url": "mxc://matrix.chir.rs/a28f96c217d696d6567245b8ab1847f0b7b48d86",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 142128,
+                    "size": 167159,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5152444846492877077",
+            "id": "tg-2393354226295111861",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "5152444846492877077",
+                "id": "2393354226295111861",
                 "emoticons": [
-                    "🦌",
-                    "🥞",
-                    "🐊",
                     "🌙",
-                    "🌸"
+                    "🦋",
+                    "☺",
+                    "😊"
                 ]
             }
         },
         {
-            "body": "🦌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/d193557b53c8edeaa2e14f462d730597873e27fc",
-            "info": {
-                "w": 230,
-                "h": 256,
-                "size": 103366,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d193557b53c8edeaa2e14f462d730597873e27fc",
-                "thumbnail_info": {
-                    "w": 230,
-                    "h": 256,
-                    "size": 103366,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112307",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112307",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🌸",
-                    "🌿",
-                    "🍄"
-                ]
-            }
-        },
-        {
-            "body": "😏 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/86651c78b278b856e40c4e910f04a0b8e7fab7f8",
+            "body": "ℹ️ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/af7d21424ea8cc1eea933654d28368c0fc14a3bb",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 211192,
+                "size": 238737,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/86651c78b278b856e40c4e910f04a0b8e7fab7f8",
+                "thumbnail_url": "mxc://matrix.chir.rs/af7d21424ea8cc1eea933654d28368c0fc14a3bb",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 211192,
+                    "size": 238737,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111858",
+            "id": "tg-5044373225828516067",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111858",
+                "id": "5044373225828516067",
                 "emoticons": [
-                    "🌸",
-                    "😏",
-                    "😘"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/2fe6a04556c8d2f96b06a4f7745263b56b308f76",
-            "info": {
-                "w": 246,
-                "h": 256,
-                "size": 278620,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2fe6a04556c8d2f96b06a4f7745263b56b308f76",
-                "thumbnail_info": {
-                    "w": 246,
-                    "h": 256,
-                    "size": 278620,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112257",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112257",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🌸",
-                    "😃"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/236309fee20ad413ed6306d78f97cd4a862af4b5",
-            "info": {
-                "w": 246,
-                "h": 256,
-                "size": 273396,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/236309fee20ad413ed6306d78f97cd4a862af4b5",
-                "thumbnail_info": {
-                    "w": 246,
-                    "h": 256,
-                    "size": 273396,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112258",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112258",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🌸",
-                    "😃"
+                    "ℹ"
                 ]
             }
         },
@@ -466,132 +404,36 @@
             }
         },
         {
-            "body": "☺️ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/b6b941a920c9b834413af2769b457554f346d187",
-            "info": {
-                "w": 255,
-                "h": 256,
-                "size": 132055,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6b941a920c9b834413af2769b457554f346d187",
-                "thumbnail_info": {
-                    "w": 255,
-                    "h": 256,
-                    "size": 132055,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112149",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112149",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "☺",
-                    "😊"
-                ]
-            }
-        },
-        {
-            "body": "🦋 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/a28f96c217d696d6567245b8ab1847f0b7b48d86",
+            "body": "🙀 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/9ee8a809cc06fde2aa3d7c69172d00992a158ca0",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 167159,
+                "size": 189604,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a28f96c217d696d6567245b8ab1847f0b7b48d86",
+                "thumbnail_url": "mxc://matrix.chir.rs/9ee8a809cc06fde2aa3d7c69172d00992a158ca0",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 167159,
+                    "size": 189604,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111861",
+            "id": "tg-2393354226295112140",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111861",
+                "id": "2393354226295112140",
                 "emoticons": [
+                    "🦌",
                     "🌙",
-                    "🦋",
-                    "☺",
-                    "😊"
-                ]
-            }
-        },
-        {
-            "body": "👈 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/fff7f9478b5658f8c4db6463316e93354459b55b",
-            "info": {
-                "w": 217,
-                "h": 256,
-                "size": 308079,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fff7f9478b5658f8c4db6463316e93354459b55b",
-                "thumbnail_info": {
-                    "w": 217,
-                    "h": 256,
-                    "size": 308079,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4904454564398236132",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "4904454564398236132",
-                "emoticons": [
-                    "🦌",
-                    "👈",
-                    "👉",
-                    "👆",
-                    "👇",
-                    "☝"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/aaefa5bcdcb213d90dfcea36f9d66fd12a3db8d8",
-            "info": {
-                "w": 186,
-                "h": 256,
-                "size": 171644,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aaefa5bcdcb213d90dfcea36f9d66fd12a3db8d8",
-                "thumbnail_info": {
-                    "w": 186,
-                    "h": 256,
-                    "size": 171644,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111876",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295111876",
-                "emoticons": [
-                    "🦌",
-                    "🦋",
-                    "☺",
-                    "😊"
+                    "🙀",
+                    "😱",
+                    "😮",
+                    "😯"
                 ]
             }
         },
@@ -630,6 +472,102 @@
             }
         },
         {
+            "body": "😏 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/86651c78b278b856e40c4e910f04a0b8e7fab7f8",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211192,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/86651c78b278b856e40c4e910f04a0b8e7fab7f8",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211192,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111858",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111858",
+                "emoticons": [
+                    "🌸",
+                    "😏",
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "🦌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/d193557b53c8edeaa2e14f462d730597873e27fc",
+            "info": {
+                "w": 230,
+                "h": 256,
+                "size": 103366,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d193557b53c8edeaa2e14f462d730597873e27fc",
+                "thumbnail_info": {
+                    "w": 230,
+                    "h": 256,
+                    "size": 103366,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112307",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112307",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🌸",
+                    "🌿",
+                    "🍄"
+                ]
+            }
+        },
+        {
+            "body": "😃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/236309fee20ad413ed6306d78f97cd4a862af4b5",
+            "info": {
+                "w": 246,
+                "h": 256,
+                "size": 273396,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/236309fee20ad413ed6306d78f97cd4a862af4b5",
+                "thumbnail_info": {
+                    "w": 246,
+                    "h": 256,
+                    "size": 273396,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112258",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112258",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🌸",
+                    "😃"
+                ]
+            }
+        },
+        {
             "body": "🤠 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/0ec8e260357512b1dce3eb512aae02a16c3a1494",
             "info": {
@@ -656,6 +594,38 @@
                 "emoticons": [
                     "🤠",
                     "👩‍✈"
+                ]
+            }
+        },
+        {
+            "body": "😃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/2fe6a04556c8d2f96b06a4f7745263b56b308f76",
+            "info": {
+                "w": 246,
+                "h": 256,
+                "size": 278620,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2fe6a04556c8d2f96b06a4f7745263b56b308f76",
+                "thumbnail_info": {
+                    "w": 246,
+                    "h": 256,
+                    "size": 278620,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112257",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112257",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🌸",
+                    "😃"
                 ]
             }
         },
@@ -687,6 +657,38 @@
                     "🦌",
                     "🌙",
                     "🥔"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/aaefa5bcdcb213d90dfcea36f9d66fd12a3db8d8",
+            "info": {
+                "w": 186,
+                "h": 256,
+                "size": 171644,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aaefa5bcdcb213d90dfcea36f9d66fd12a3db8d8",
+                "thumbnail_info": {
+                    "w": 186,
+                    "h": 256,
+                    "size": 171644,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111876",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111876",
+                "emoticons": [
+                    "🦌",
+                    "🦋",
+                    "☺",
+                    "😊"
                 ]
             }
         },
@@ -728,97 +730,65 @@
             }
         },
         {
-            "body": "ℹ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/c5ed93565aadf419901880e18b563979694a1908",
+            "body": "☺️ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/b6b941a920c9b834413af2769b457554f346d187",
             "info": {
-                "w": 256,
+                "w": 255,
                 "h": 256,
-                "size": 294855,
+                "size": 132055,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c5ed93565aadf419901880e18b563979694a1908",
+                "thumbnail_url": "mxc://matrix.chir.rs/b6b941a920c9b834413af2769b457554f346d187",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 255,
                     "h": 256,
-                    "size": 294855,
+                    "size": 132055,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5127833305202295245",
+            "id": "tg-2393354226295112149",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "5127833305202295245",
+                "id": "2393354226295112149",
                 "emoticons": [
-                    "ℹ"
+                    "🦌",
+                    "🌙",
+                    "☺",
+                    "😊"
                 ]
             }
         },
         {
-            "body": "🐌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/698e1d7f8bef22d832663c5dab7f46adb439cd80",
+            "body": "😃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/2be788803717f2d4a2f58cd13df19f7dbbcc0bf8",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 153328,
+                "size": 173051,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/698e1d7f8bef22d832663c5dab7f46adb439cd80",
+                "thumbnail_url": "mxc://matrix.chir.rs/2be788803717f2d4a2f58cd13df19f7dbbcc0bf8",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 153328,
+                    "size": 173051,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295112308",
+            "id": "tg-5064420659992461684",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295112308",
+                "id": "5064420659992461684",
                 "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🌸",
-                    "🐌"
-                ]
-            }
-        },
-        {
-            "body": "🙀 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/9ee8a809cc06fde2aa3d7c69172d00992a158ca0",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189604,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9ee8a809cc06fde2aa3d7c69172d00992a158ca0",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189604,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112140",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112140",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🙀",
-                    "😱",
-                    "😮",
-                    "😯"
+                    "✨",
+                    "😃",
+                    "😀"
                 ]
             }
         },
@@ -856,6 +826,98 @@
             }
         },
         {
+            "body": "😏 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/fb8a6bd563ccf0ee64d837298dcc66fe10f8eb03",
+            "info": {
+                "w": 256,
+                "h": 242,
+                "size": 267739,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fb8a6bd563ccf0ee64d837298dcc66fe10f8eb03",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 242,
+                    "size": 267739,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111945",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111945",
+                "emoticons": [
+                    "🌙",
+                    "😏",
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "🐌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/698e1d7f8bef22d832663c5dab7f46adb439cd80",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 153328,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/698e1d7f8bef22d832663c5dab7f46adb439cd80",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 153328,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112308",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112308",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🌸",
+                    "🐌"
+                ]
+            }
+        },
+        {
+            "body": "ℹ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/c5ed93565aadf419901880e18b563979694a1908",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 294855,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c5ed93565aadf419901880e18b563979694a1908",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 294855,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5127833305202295245",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "5127833305202295245",
+                "emoticons": [
+                    "ℹ"
+                ]
+            }
+        },
+        {
             "body": "😇 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/bbe1552e34efd3167da8b631251c51f5efa23b53",
             "info": {
@@ -888,127 +950,33 @@
             }
         },
         {
-            "body": "🛌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/826f0eacfb892e5c6deb04c6e5fb47ef9bccaa3a",
+            "body": "👘 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/25c7ae1d22a117573638e6dda454a5b0ba3b9ca5",
             "info": {
-                "w": 256,
+                "w": 149,
                 "h": 256,
-                "size": 231847,
+                "size": 145304,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/826f0eacfb892e5c6deb04c6e5fb47ef9bccaa3a",
+                "thumbnail_url": "mxc://matrix.chir.rs/25c7ae1d22a117573638e6dda454a5b0ba3b9ca5",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 149,
                     "h": 256,
-                    "size": 231847,
+                    "size": 145304,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111935",
+            "id": "tg-2393354226295111936",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111935",
+                "id": "2393354226295111936",
                 "emoticons": [
-                    "🛌",
-                    "🛏",
-                    "💤",
-                    "😴",
-                    "😪"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/4f17b001467e60160f47087a324a2eb7134a569f",
-            "info": {
-                "w": 183,
-                "h": 256,
-                "size": 172682,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4f17b001467e60160f47087a324a2eb7134a569f",
-                "thumbnail_info": {
-                    "w": 183,
-                    "h": 256,
-                    "size": 172682,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111937",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295111937",
-                "emoticons": [
-                    "🤗",
+                    "👘",
+                    "🤩",
                     "💌"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/2be788803717f2d4a2f58cd13df19f7dbbcc0bf8",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173051,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2be788803717f2d4a2f58cd13df19f7dbbcc0bf8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173051,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5064420659992461684",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "5064420659992461684",
-                "emoticons": [
-                    "✨",
-                    "😃",
-                    "😀"
-                ]
-            }
-        },
-        {
-            "body": "💌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/7b746f650d5a686920b8156bd3d1314d1da0f474",
-            "info": {
-                "w": 256,
-                "h": 249,
-                "size": 273498,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b746f650d5a686920b8156bd3d1314d1da0f474",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 249,
-                    "size": 273498,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111948",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295111948",
-                "emoticons": [
-                    "💌",
-                    "👭",
-                    "🌄"
                 ]
             }
         },
@@ -1046,33 +1014,158 @@
             }
         },
         {
-            "body": "😏 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/fb8a6bd563ccf0ee64d837298dcc66fe10f8eb03",
+            "body": "👘 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/7b366ce7ad7479b16696030e504d980197bc71d0",
             "info": {
-                "w": 256,
-                "h": 242,
-                "size": 267739,
+                "w": 175,
+                "h": 256,
+                "size": 129615,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fb8a6bd563ccf0ee64d837298dcc66fe10f8eb03",
+                "thumbnail_url": "mxc://matrix.chir.rs/7b366ce7ad7479b16696030e504d980197bc71d0",
                 "thumbnail_info": {
-                    "w": 256,
-                    "h": 242,
-                    "size": 267739,
+                    "w": 175,
+                    "h": 256,
+                    "size": 129615,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111945",
+            "id": "tg-2393354226295112233",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111945",
+                "id": "2393354226295112233",
                 "emoticons": [
+                    "🦌",
                     "🌙",
-                    "😏",
-                    "😈"
+                    "🦋",
+                    "👘"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/352797ab14813cde8504f0cfeaf0b9024b16ad55",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 39445,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/352797ab14813cde8504f0cfeaf0b9024b16ad55",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 39445,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5127738609763352902",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "5127738609763352902",
+                "emoticons": [
+                    "ℹ"
+                ]
+            }
+        },
+        {
+            "body": "🛌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/826f0eacfb892e5c6deb04c6e5fb47ef9bccaa3a",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 231847,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/826f0eacfb892e5c6deb04c6e5fb47ef9bccaa3a",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 231847,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111935",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111935",
+                "emoticons": [
+                    "🛌",
+                    "🛏",
+                    "💤",
+                    "😴",
+                    "😪"
+                ]
+            }
+        },
+        {
+            "body": "👘 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/b5c34b6ce609c71b13d0b60d0578ba525670dac5",
+            "info": {
+                "w": 182,
+                "h": 256,
+                "size": 133767,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b5c34b6ce609c71b13d0b60d0578ba525670dac5",
+                "thumbnail_info": {
+                    "w": 182,
+                    "h": 256,
+                    "size": 133767,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112232",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112232",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🦋",
+                    "👘"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/4f17b001467e60160f47087a324a2eb7134a569f",
+            "info": {
+                "w": 183,
+                "h": 256,
+                "size": 172682,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4f17b001467e60160f47087a324a2eb7134a569f",
+                "thumbnail_info": {
+                    "w": 183,
+                    "h": 256,
+                    "size": 172682,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111937",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111937",
+                "emoticons": [
+                    "🤗",
+                    "💌"
                 ]
             }
         },
@@ -1112,62 +1205,60 @@
             }
         },
         {
-            "body": "🥤 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/568e67dc4da50ebf24c29b7b15556fa445dc591e",
+            "body": "💌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/7b746f650d5a686920b8156bd3d1314d1da0f474",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 172061,
+                "h": 249,
+                "size": 273498,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/568e67dc4da50ebf24c29b7b15556fa445dc591e",
+                "thumbnail_url": "mxc://matrix.chir.rs/7b746f650d5a686920b8156bd3d1314d1da0f474",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 172061,
+                    "h": 249,
+                    "size": 273498,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111873",
+            "id": "tg-2393354226295111948",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111873",
+                "id": "2393354226295111948",
                 "emoticons": [
-                    "🦌",
-                    "🌸",
-                    "🥤",
-                    "🚰",
-                    "🚱"
+                    "💌",
+                    "👭",
+                    "🌄"
                 ]
             }
         },
         {
             "body": "ℹ️ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/352797ab14813cde8504f0cfeaf0b9024b16ad55",
+            "url": "mxc://matrix.chir.rs/c2fe80974db91977f2dfe0c5f2e6730638ed4312",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 39445,
+                "size": 191076,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/352797ab14813cde8504f0cfeaf0b9024b16ad55",
+                "thumbnail_url": "mxc://matrix.chir.rs/c2fe80974db91977f2dfe0c5f2e6730638ed4312",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 39445,
+                    "size": 191076,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5127738609763352902",
+            "id": "tg-5125625301170127234",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "5127738609763352902",
+                "id": "5125625301170127234",
                 "emoticons": [
                     "ℹ"
                 ]
@@ -1203,129 +1294,6 @@
                     "🌸",
                     "🦋",
                     "😐"
-                ]
-            }
-        },
-        {
-            "body": "ℹ️ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/c2fe80974db91977f2dfe0c5f2e6730638ed4312",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191076,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c2fe80974db91977f2dfe0c5f2e6730638ed4312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191076,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5125625301170127234",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "5125625301170127234",
-                "emoticons": [
-                    "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "😈 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/3cc26edc63e0b085b17a06edb489277ed0d77478",
-            "info": {
-                "w": 209,
-                "h": 256,
-                "size": 167623,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3cc26edc63e0b085b17a06edb489277ed0d77478",
-                "thumbnail_info": {
-                    "w": 209,
-                    "h": 256,
-                    "size": 167623,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111874",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295111874",
-                "emoticons": [
-                    "🥰",
-                    "😈",
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "👘 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/25c7ae1d22a117573638e6dda454a5b0ba3b9ca5",
-            "info": {
-                "w": 149,
-                "h": 256,
-                "size": 145304,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/25c7ae1d22a117573638e6dda454a5b0ba3b9ca5",
-                "thumbnail_info": {
-                    "w": 149,
-                    "h": 256,
-                    "size": 145304,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111936",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295111936",
-                "emoticons": [
-                    "👘",
-                    "🤩",
-                    "💌"
-                ]
-            }
-        },
-        {
-            "body": "👘 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/7b366ce7ad7479b16696030e504d980197bc71d0",
-            "info": {
-                "w": 175,
-                "h": 256,
-                "size": 129615,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b366ce7ad7479b16696030e504d980197bc71d0",
-                "thumbnail_info": {
-                    "w": 175,
-                    "h": 256,
-                    "size": 129615,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112233",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112233",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🦋",
-                    "👘"
                 ]
             }
         },
@@ -1394,67 +1362,66 @@
             }
         },
         {
-            "body": "👘 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/b5c34b6ce609c71b13d0b60d0578ba525670dac5",
+            "body": "🥤 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/568e67dc4da50ebf24c29b7b15556fa445dc591e",
             "info": {
-                "w": 182,
+                "w": 256,
                 "h": 256,
-                "size": 133767,
+                "size": 172061,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b5c34b6ce609c71b13d0b60d0578ba525670dac5",
+                "thumbnail_url": "mxc://matrix.chir.rs/568e67dc4da50ebf24c29b7b15556fa445dc591e",
                 "thumbnail_info": {
-                    "w": 182,
+                    "w": 256,
                     "h": 256,
-                    "size": 133767,
+                    "size": 172061,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295112232",
+            "id": "tg-2393354226295111873",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295112232",
+                "id": "2393354226295111873",
                 "emoticons": [
                     "🦌",
-                    "🌙",
-                    "🦋",
-                    "👘"
+                    "🌸",
+                    "🥤",
+                    "🚰",
+                    "🚱"
                 ]
             }
         },
         {
-            "body": "🧃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/521dba4fc35ebbb93e740bfd22e4024cd6516d15",
+            "body": "😈 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/3cc26edc63e0b085b17a06edb489277ed0d77478",
             "info": {
-                "w": 206,
+                "w": 209,
                 "h": 256,
-                "size": 177492,
+                "size": 167623,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/521dba4fc35ebbb93e740bfd22e4024cd6516d15",
+                "thumbnail_url": "mxc://matrix.chir.rs/3cc26edc63e0b085b17a06edb489277ed0d77478",
                 "thumbnail_info": {
-                    "w": 206,
+                    "w": 209,
                     "h": 256,
-                    "size": 177492,
+                    "size": 167623,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295112217",
+            "id": "tg-2393354226295111874",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295112217",
+                "id": "2393354226295111874",
                 "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🥤",
-                    "🧃",
-                    "🍹"
+                    "🥰",
+                    "😈",
+                    "😳"
                 ]
             }
         },
@@ -1495,61 +1462,28 @@
         },
         {
             "body": "🧃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/129514b4023c7d4f8363a8ad5fc3d4ca07339bc8",
+            "url": "mxc://matrix.chir.rs/521dba4fc35ebbb93e740bfd22e4024cd6516d15",
             "info": {
                 "w": 206,
                 "h": 256,
-                "size": 199854,
+                "size": 177492,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/129514b4023c7d4f8363a8ad5fc3d4ca07339bc8",
+                "thumbnail_url": "mxc://matrix.chir.rs/521dba4fc35ebbb93e740bfd22e4024cd6516d15",
                 "thumbnail_info": {
                     "w": 206,
                     "h": 256,
-                    "size": 199854,
+                    "size": 177492,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295112221",
+            "id": "tg-2393354226295112217",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295112221",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🥤",
-                    "🧃",
-                    "🍹"
-                ]
-            }
-        },
-        {
-            "body": "🧃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/ddcd8b3f1cc186123ef04f44a905e18332f9773f",
-            "info": {
-                "w": 206,
-                "h": 256,
-                "size": 198629,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ddcd8b3f1cc186123ef04f44a905e18332f9773f",
-                "thumbnail_info": {
-                    "w": 206,
-                    "h": 256,
-                    "size": 198629,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112226",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112226",
+                "id": "2393354226295112217",
                 "emoticons": [
                     "🦌",
                     "🌙",
@@ -1594,6 +1528,39 @@
         },
         {
             "body": "🧃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/129514b4023c7d4f8363a8ad5fc3d4ca07339bc8",
+            "info": {
+                "w": 206,
+                "h": 256,
+                "size": 199854,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/129514b4023c7d4f8363a8ad5fc3d4ca07339bc8",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 256,
+                    "size": 199854,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112221",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112221",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🥤",
+                    "🧃",
+                    "🍹"
+                ]
+            }
+        },
+        {
+            "body": "🧃 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/155f64b2b909c44510b033f34da056565bc356b3",
             "info": {
                 "w": 206,
@@ -1627,6 +1594,72 @@
         },
         {
             "body": "🧃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/0dd22e7c2a3aa6509fd1e8e4e421f2da09bf78bd",
+            "info": {
+                "w": 206,
+                "h": 256,
+                "size": 197485,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0dd22e7c2a3aa6509fd1e8e4e421f2da09bf78bd",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 256,
+                    "size": 197485,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112218",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112218",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🥤",
+                    "🧃",
+                    "🍹"
+                ]
+            }
+        },
+        {
+            "body": "🧃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/52c9aa048129fc69ffd45bc60fe838c0a46a738a",
+            "info": {
+                "w": 206,
+                "h": 256,
+                "size": 197713,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/52c9aa048129fc69ffd45bc60fe838c0a46a738a",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 256,
+                    "size": 197713,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112224",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112224",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🥤",
+                    "🧃",
+                    "🍹"
+                ]
+            }
+        },
+        {
+            "body": "🧃 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/e630f61b1f3c96c1fce5200da3974c97d59caa2e",
             "info": {
                 "w": 206,
@@ -1649,6 +1682,105 @@
                     "short_name": "DarbyDeer"
                 },
                 "id": "2393354226295112225",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🥤",
+                    "🧃",
+                    "🍹"
+                ]
+            }
+        },
+        {
+            "body": "🧃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/ddcd8b3f1cc186123ef04f44a905e18332f9773f",
+            "info": {
+                "w": 206,
+                "h": 256,
+                "size": 198629,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ddcd8b3f1cc186123ef04f44a905e18332f9773f",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 256,
+                    "size": 198629,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112226",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112226",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🥤",
+                    "🧃",
+                    "🍹"
+                ]
+            }
+        },
+        {
+            "body": "🧃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/df1d5c663e88340ea70b312939b52238fe5fe0ef",
+            "info": {
+                "w": 206,
+                "h": 256,
+                "size": 195788,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/df1d5c663e88340ea70b312939b52238fe5fe0ef",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 256,
+                    "size": 195788,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112223",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112223",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🥤",
+                    "🧃",
+                    "🍹"
+                ]
+            }
+        },
+        {
+            "body": "🧃 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/afbf46c4f6bba927793059f358769d0485ccfdb5",
+            "info": {
+                "w": 206,
+                "h": 256,
+                "size": 198814,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/afbf46c4f6bba927793059f358769d0485ccfdb5",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 256,
+                    "size": 198814,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112222",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112222",
                 "emoticons": [
                     "🦌",
                     "🌙",
@@ -1693,131 +1825,32 @@
             }
         },
         {
-            "body": "🧃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/afbf46c4f6bba927793059f358769d0485ccfdb5",
-            "info": {
-                "w": 206,
-                "h": 256,
-                "size": 198814,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/afbf46c4f6bba927793059f358769d0485ccfdb5",
-                "thumbnail_info": {
-                    "w": 206,
-                    "h": 256,
-                    "size": 198814,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112222",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112222",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🥤",
-                    "🧃",
-                    "🍹"
-                ]
-            }
-        },
-        {
-            "body": "🧃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/0dd22e7c2a3aa6509fd1e8e4e421f2da09bf78bd",
-            "info": {
-                "w": 206,
-                "h": 256,
-                "size": 197485,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0dd22e7c2a3aa6509fd1e8e4e421f2da09bf78bd",
-                "thumbnail_info": {
-                    "w": 206,
-                    "h": 256,
-                    "size": 197485,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112218",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112218",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🥤",
-                    "🧃",
-                    "🍹"
-                ]
-            }
-        },
-        {
-            "body": "⏳ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/05f65f08f31e1c7e3e8469a5146c9b6634aa32f8",
+            "body": "⌛ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/6cc8a75682b1e5ae042316eb46292cdd7c65ab4a",
             "info": {
                 "w": 256,
                 "h": 170,
-                "size": 148748,
+                "size": 123532,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/05f65f08f31e1c7e3e8469a5146c9b6634aa32f8",
+                "thumbnail_url": "mxc://matrix.chir.rs/6cc8a75682b1e5ae042316eb46292cdd7c65ab4a",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 170,
-                    "size": 148748,
+                    "size": 123532,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4997203279348761296",
+            "id": "tg-4996977613177094670",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "4997203279348761296",
+                "id": "4996977613177094670",
                 "emoticons": [
                     "⏳",
                     "⌛"
-                ]
-            }
-        },
-        {
-            "body": "🧃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/52c9aa048129fc69ffd45bc60fe838c0a46a738a",
-            "info": {
-                "w": 206,
-                "h": 256,
-                "size": 197713,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/52c9aa048129fc69ffd45bc60fe838c0a46a738a",
-                "thumbnail_info": {
-                    "w": 206,
-                    "h": 256,
-                    "size": 197713,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112224",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112224",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🥤",
-                    "🧃",
-                    "🍹"
                 ]
             }
         },
@@ -1858,6 +1891,40 @@
             }
         },
         {
+            "body": "☺️ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/78d386cc5f5fa3285fac893c17f4f7b3b3b4242c",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185636,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/78d386cc5f5fa3285fac893c17f4f7b3b3b4242c",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185636,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5055678490284654953",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "5055678490284654953",
+                "emoticons": [
+                    "🦌",
+                    "🌙",
+                    "🌸",
+                    "😌",
+                    "☺",
+                    "😊"
+                ]
+            }
+        },
+        {
             "body": "😂 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/3d2ced9c52e349f725bdc5b1033a36e2262ec6fc",
             "info": {
@@ -1888,39 +1955,6 @@
                     "😹",
                     "🤭",
                     "💥"
-                ]
-            }
-        },
-        {
-            "body": "🧃 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/df1d5c663e88340ea70b312939b52238fe5fe0ef",
-            "info": {
-                "w": 206,
-                "h": 256,
-                "size": 195788,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/df1d5c663e88340ea70b312939b52238fe5fe0ef",
-                "thumbnail_info": {
-                    "w": 206,
-                    "h": 256,
-                    "size": 195788,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112223",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112223",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🥤",
-                    "🧃",
-                    "🍹"
                 ]
             }
         },
@@ -2031,6 +2065,67 @@
             }
         },
         {
+            "body": "🦌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/46fe1b3b9c20b6d61881506fee713645f0838a87",
+            "info": {
+                "w": 256,
+                "h": 211,
+                "size": 274918,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/46fe1b3b9c20b6d61881506fee713645f0838a87",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 211,
+                    "size": 274918,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111779",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111779",
+                "emoticons": [
+                    "🦌",
+                    "🏳‍🌈",
+                    "🌙"
+                ]
+            }
+        },
+        {
+            "body": "⏳ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/05f65f08f31e1c7e3e8469a5146c9b6634aa32f8",
+            "info": {
+                "w": 256,
+                "h": 170,
+                "size": 148748,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/05f65f08f31e1c7e3e8469a5146c9b6634aa32f8",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 170,
+                    "size": 148748,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4997203279348761296",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "4997203279348761296",
+                "emoticons": [
+                    "⏳",
+                    "⌛"
+                ]
+            }
+        },
+        {
             "body": "⬆️ (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/dc302b8862f0d096cd095a8274805f81add3c535",
             "info": {
@@ -2064,73 +2159,6 @@
             }
         },
         {
-            "body": "🙂 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/55a8889097926f9faa08bc75cf6737a680b0d603",
-            "info": {
-                "w": 153,
-                "h": 256,
-                "size": 133735,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/55a8889097926f9faa08bc75cf6737a680b0d603",
-                "thumbnail_info": {
-                    "w": 153,
-                    "h": 256,
-                    "size": 133735,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111808",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295111808",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🌸",
-                    "🙂",
-                    "🦋"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/78d386cc5f5fa3285fac893c17f4f7b3b3b4242c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 185636,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/78d386cc5f5fa3285fac893c17f4f7b3b3b4242c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 185636,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5055678490284654953",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "5055678490284654953",
-                "emoticons": [
-                    "🦌",
-                    "🌙",
-                    "🌸",
-                    "😌",
-                    "☺",
-                    "😊"
-                ]
-            }
-        },
-        {
             "body": "🌸 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/bde8115087cbe2c65c876e407bca9706c05a47bf",
             "info": {
@@ -2159,36 +2187,6 @@
                     "🌙",
                     "🌸",
                     "🦋"
-                ]
-            }
-        },
-        {
-            "body": "⌛ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/6cc8a75682b1e5ae042316eb46292cdd7c65ab4a",
-            "info": {
-                "w": 256,
-                "h": 170,
-                "size": 123532,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6cc8a75682b1e5ae042316eb46292cdd7c65ab4a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 170,
-                    "size": 123532,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4996977613177094670",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "4996977613177094670",
-                "emoticons": [
-                    "⏳",
-                    "⌛"
                 ]
             }
         },
@@ -2286,66 +2284,35 @@
             }
         },
         {
-            "body": "💗 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/05e2343d8869cb0ed70d86761db61e1f07606555",
+            "body": "🙂 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/55a8889097926f9faa08bc75cf6737a680b0d603",
             "info": {
-                "w": 204,
+                "w": 153,
                 "h": 256,
-                "size": 270769,
+                "size": 133735,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/05e2343d8869cb0ed70d86761db61e1f07606555",
+                "thumbnail_url": "mxc://matrix.chir.rs/55a8889097926f9faa08bc75cf6737a680b0d603",
                 "thumbnail_info": {
-                    "w": 204,
+                    "w": 153,
                     "h": 256,
-                    "size": 270769,
+                    "size": 133735,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111947",
+            "id": "tg-2393354226295111808",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111947",
-                "emoticons": [
-                    "🌙",
-                    "🧁",
-                    "💗",
-                    "🤳",
-                    "✍",
-                    "✏"
-                ]
-            }
-        },
-        {
-            "body": "🦌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/506ab915826e45db9a6788e002468b5bab1d1ec3",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 140535,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/506ab915826e45db9a6788e002468b5bab1d1ec3",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 140535,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4915781192021705196",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "4915781192021705196",
+                "id": "2393354226295111808",
                 "emoticons": [
                     "🦌",
-                    "🌲"
+                    "🌙",
+                    "🌸",
+                    "🙂",
+                    "🦋"
                 ]
             }
         },
@@ -2412,36 +2379,61 @@
             }
         },
         {
-            "body": "✨ (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/bfb9f18bf42558ef68aee61adf0f908667bbeaa5",
+            "body": "🦌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/ebab8668e41f810e001cb662152cdfc7dfb5c4ce",
             "info": {
                 "w": 256,
-                "h": 207,
-                "size": 207408,
+                "h": 256,
+                "size": 122059,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bfb9f18bf42558ef68aee61adf0f908667bbeaa5",
+                "thumbnail_url": "mxc://matrix.chir.rs/ebab8668e41f810e001cb662152cdfc7dfb5c4ce",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 207,
-                    "size": 207408,
+                    "h": 256,
+                    "size": 122059,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111933",
+            "id": "tg-4918130616442028593",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111933",
+                "id": "4918130616442028593",
                 "emoticons": [
-                    "🌿",
-                    "✨",
-                    "🧙",
-                    "💦",
-                    "🍇",
-                    "🍆"
+                    "🦌"
+                ]
+            }
+        },
+        {
+            "body": "🦌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/506ab915826e45db9a6788e002468b5bab1d1ec3",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 140535,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/506ab915826e45db9a6788e002468b5bab1d1ec3",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 140535,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4915781192021705196",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "4915781192021705196",
+                "emoticons": [
+                    "🦌",
+                    "🌲"
                 ]
             }
         },
@@ -2476,6 +2468,70 @@
             }
         },
         {
+            "body": "🦌 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/32218a8c41c4541e3672908319c85beedecf1d9c",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 85748,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/32218a8c41c4541e3672908319c85beedecf1d9c",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 85748,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112137",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295112137",
+                "emoticons": [
+                    "🦌",
+                    "🌙"
+                ]
+            }
+        },
+        {
+            "body": "💗 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/05e2343d8869cb0ed70d86761db61e1f07606555",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 270769,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/05e2343d8869cb0ed70d86761db61e1f07606555",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 270769,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111947",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111947",
+                "emoticons": [
+                    "🌙",
+                    "🧁",
+                    "💗",
+                    "🤳",
+                    "✍",
+                    "✏"
+                ]
+            }
+        },
+        {
             "body": "🔞 (Darby's Delights)",
             "url": "mxc://matrix.chir.rs/0895789f4429aa58e5e14956e05213baa6fbfe68",
             "info": {
@@ -2505,124 +2561,65 @@
             }
         },
         {
-            "body": "🦌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/46fe1b3b9c20b6d61881506fee713645f0838a87",
+            "body": "🔞 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/6d12048c393d05bec5091e4b23831be0380ee89e",
             "info": {
                 "w": 256,
-                "h": 211,
-                "size": 274918,
+                "h": 256,
+                "size": 54824,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/46fe1b3b9c20b6d61881506fee713645f0838a87",
+                "thumbnail_url": "mxc://matrix.chir.rs/6d12048c393d05bec5091e4b23831be0380ee89e",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 211,
-                    "size": 274918,
+                    "h": 256,
+                    "size": 54824,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111779",
+            "id": "tg-2393354226295111941",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111779",
+                "id": "2393354226295111941",
                 "emoticons": [
-                    "🦌",
-                    "🏳‍🌈",
-                    "🌙"
+                    "🔞"
                 ]
             }
         },
         {
-            "body": "🍆 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/197da2127329d9b149a774158fc5c55bf4588954",
+            "body": "✨ (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/bfb9f18bf42558ef68aee61adf0f908667bbeaa5",
             "info": {
-                "w": 149,
-                "h": 256,
-                "size": 177562,
+                "w": 256,
+                "h": 207,
+                "size": 207408,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/197da2127329d9b149a774158fc5c55bf4588954",
+                "thumbnail_url": "mxc://matrix.chir.rs/bfb9f18bf42558ef68aee61adf0f908667bbeaa5",
                 "thumbnail_info": {
-                    "w": 149,
-                    "h": 256,
-                    "size": 177562,
+                    "w": 256,
+                    "h": 207,
+                    "size": 207408,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111939",
+            "id": "tg-2393354226295111933",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111939",
+                "id": "2393354226295111933",
                 "emoticons": [
-                    "😈",
+                    "🌿",
+                    "✨",
+                    "🧙",
                     "💦",
-                    "🍆",
-                    "🥴"
-                ]
-            }
-        },
-        {
-            "body": "🥴 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/bf6f2dea58ca9cc936773e79ad78e672ba2d32fa",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 223191,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bf6f2dea58ca9cc936773e79ad78e672ba2d32fa",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 223191,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5134294898815533529",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "5134294898815533529",
-                "emoticons": [
-                    "🤤",
-                    "🥴"
-                ]
-            }
-        },
-        {
-            "body": "🦌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/ebab8668e41f810e001cb662152cdfc7dfb5c4ce",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 122059,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ebab8668e41f810e001cb662152cdfc7dfb5c4ce",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 122059,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4918130616442028593",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "4918130616442028593",
-                "emoticons": [
-                    "🦌"
+                    "🍇",
+                    "🍆"
                 ]
             }
         },
@@ -2659,94 +2656,93 @@
             }
         },
         {
-            "body": "🦌 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/32218a8c41c4541e3672908319c85beedecf1d9c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 85748,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/32218a8c41c4541e3672908319c85beedecf1d9c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 85748,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112137",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111690",
-                    "short_name": "DarbyDeer"
-                },
-                "id": "2393354226295112137",
-                "emoticons": [
-                    "🦌",
-                    "🌙"
-                ]
-            }
-        },
-        {
             "body": "🔞 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/6d12048c393d05bec5091e4b23831be0380ee89e",
+            "url": "mxc://matrix.chir.rs/2e5805efaadeb833107060bf37b4af92174b404a",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 54824,
+                "size": 24271,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6d12048c393d05bec5091e4b23831be0380ee89e",
+                "thumbnail_url": "mxc://matrix.chir.rs/2e5805efaadeb833107060bf37b4af92174b404a",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 54824,
+                    "size": 24271,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111941",
+            "id": "tg-2393354226295111942",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111941",
+                "id": "2393354226295111942",
                 "emoticons": [
                     "🔞"
                 ]
             }
         },
         {
-            "body": "😳 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/c16ea27dbf108930a5ae9d4f9162833fb67c86c2",
+            "body": "🥴 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/bf6f2dea58ca9cc936773e79ad78e672ba2d32fa",
             "info": {
                 "w": 256,
-                "h": 243,
-                "size": 238178,
+                "h": 256,
+                "size": 223191,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c16ea27dbf108930a5ae9d4f9162833fb67c86c2",
+                "thumbnail_url": "mxc://matrix.chir.rs/bf6f2dea58ca9cc936773e79ad78e672ba2d32fa",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 243,
-                    "size": 238178,
+                    "h": 256,
+                    "size": 223191,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5017091469010272751",
+            "id": "tg-5134294898815533529",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "5017091469010272751",
+                "id": "5134294898815533529",
                 "emoticons": [
                     "🤤",
-                    "😳",
+                    "🥴"
+                ]
+            }
+        },
+        {
+            "body": "🍆 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/197da2127329d9b149a774158fc5c55bf4588954",
+            "info": {
+                "w": 149,
+                "h": 256,
+                "size": 177562,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/197da2127329d9b149a774158fc5c55bf4588954",
+                "thumbnail_info": {
+                    "w": 149,
+                    "h": 256,
+                    "size": 177562,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111939",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111690",
+                    "short_name": "DarbyDeer"
+                },
+                "id": "2393354226295111939",
+                "emoticons": [
+                    "😈",
                     "💦",
-                    "🥴",
-                    "🎧"
+                    "🍆",
+                    "🥴"
                 ]
             }
         },
@@ -2784,31 +2780,35 @@
             }
         },
         {
-            "body": "🔞 (Darby's Delights)",
-            "url": "mxc://matrix.chir.rs/2e5805efaadeb833107060bf37b4af92174b404a",
+            "body": "😳 (Darby's Delights)",
+            "url": "mxc://matrix.chir.rs/c16ea27dbf108930a5ae9d4f9162833fb67c86c2",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 24271,
+                "h": 243,
+                "size": 238178,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2e5805efaadeb833107060bf37b4af92174b404a",
+                "thumbnail_url": "mxc://matrix.chir.rs/c16ea27dbf108930a5ae9d4f9162833fb67c86c2",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 24271,
+                    "h": 243,
+                    "size": 238178,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111942",
+            "id": "tg-5017091469010272751",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111690",
                     "short_name": "DarbyDeer"
                 },
-                "id": "2393354226295111942",
+                "id": "5017091469010272751",
                 "emoticons": [
-                    "🔞"
+                    "🤤",
+                    "😳",
+                    "💦",
+                    "🥴",
+                    "🎧"
                 ]
             }
         }
