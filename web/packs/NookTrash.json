@@ -8,13 +8,13 @@
     "stickers": [
         {
             "body": "😱 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d69c4ffde17f60443109f216802f7a1f1dac4090",
+            "url": "mxc://matrix.chir.rs/b9a401f76075e9518cf25b44875fbc7110e4d8221707807568220389376",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 225335,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d69c4ffde17f60443109f216802f7a1f1dac4090",
+                "thumbnail_url": "mxc://matrix.chir.rs/b9a401f76075e9518cf25b44875fbc7110e4d8221707807568220389376",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -36,43 +36,14 @@
             }
         },
         {
-            "body": "🗑 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/24871a29103707a262d14fc4b8af0b2228753929",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 265250,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/24871a29103707a262d14fc4b8af0b2228753929",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 265250,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763054",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763054",
-                "emoticons": [
-                    "🗑"
-                ]
-            }
-        },
-        {
             "body": "😛 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/1caa128e22ae43005bf1ec74c941b6d2e808d17d",
+            "url": "mxc://matrix.chir.rs/c29f35b07b9e56369a2b15c3beeb2c17371a2adb1707807570099437568",
             "info": {
                 "w": 205,
                 "h": 256,
                 "size": 285642,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1caa128e22ae43005bf1ec74c941b6d2e808d17d",
+                "thumbnail_url": "mxc://matrix.chir.rs/c29f35b07b9e56369a2b15c3beeb2c17371a2adb1707807570099437568",
                 "thumbnail_info": {
                     "w": 205,
                     "h": 256,
@@ -94,43 +65,14 @@
             }
         },
         {
-            "body": "😜 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/eafb587d2a522e3b9d1547823663ecc3484ae8b9",
-            "info": {
-                "w": 241,
-                "h": 256,
-                "size": 243115,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eafb587d2a522e3b9d1547823663ecc3484ae8b9",
-                "thumbnail_info": {
-                    "w": 241,
-                    "h": 256,
-                    "size": 243115,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763036",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763036",
-                "emoticons": [
-                    "😜"
-                ]
-            }
-        },
-        {
             "body": "💲 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/5aa7311408fff7b5933b050419632a6c2970501d",
+            "url": "mxc://matrix.chir.rs/4ce5a404c5cbbbcb95000b1e16bd96e0bc32d2d71707807576944541696",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 384106,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5aa7311408fff7b5933b050419632a6c2970501d",
+                "thumbnail_url": "mxc://matrix.chir.rs/4ce5a404c5cbbbcb95000b1e16bd96e0bc32d2d71707807576944541696",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -152,14 +94,43 @@
             }
         },
         {
+            "body": "😜 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/97aef1692acda96a4ea2c68b0367fec4b19d26001707807574700589056",
+            "info": {
+                "w": 241,
+                "h": 256,
+                "size": 243115,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/97aef1692acda96a4ea2c68b0367fec4b19d26001707807574700589056",
+                "thumbnail_info": {
+                    "w": 241,
+                    "h": 256,
+                    "size": 243115,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763036",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763036",
+                "emoticons": [
+                    "😜"
+                ]
+            }
+        },
+        {
             "body": "⌚ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/75a18fe146f717e086c3e5540eb4f10d48eaea25",
+            "url": "mxc://matrix.chir.rs/eb7babbbd9bfc15ca1bc25c6af46565ab8f342911707807570112020480",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 183946,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/75a18fe146f717e086c3e5540eb4f10d48eaea25",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb7babbbd9bfc15ca1bc25c6af46565ab8f342911707807570112020480",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -181,130 +152,14 @@
             }
         },
         {
-            "body": "😝 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/6cf27123c4a2fd8bacbf345123c5a7cbbfd55cac",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 167369,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6cf27123c4a2fd8bacbf345123c5a7cbbfd55cac",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 167369,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762980",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762980",
-                "emoticons": [
-                    "😝"
-                ]
-            }
-        },
-        {
-            "body": "⚽ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/9cbafee259c2b03f382e6399774db05b4b4326b7",
-            "info": {
-                "w": 256,
-                "h": 153,
-                "size": 140828,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9cbafee259c2b03f382e6399774db05b4b4326b7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 153,
-                    "size": 140828,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762953",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762953",
-                "emoticons": [
-                    "⚽"
-                ]
-            }
-        },
-        {
-            "body": "🍳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/74d83cecdd25a580546258058c6cf326b389ba0b",
-            "info": {
-                "w": 256,
-                "h": 63,
-                "size": 34378,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74d83cecdd25a580546258058c6cf326b389ba0b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 63,
-                    "size": 34378,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762948",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762948",
-                "emoticons": [
-                    "🍳"
-                ]
-            }
-        },
-        {
-            "body": "😡 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/db8674a1b87c1ceba104d4cf36384839efd256a7",
-            "info": {
-                "w": 256,
-                "h": 192,
-                "size": 164959,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db8674a1b87c1ceba104d4cf36384839efd256a7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 192,
-                    "size": 164959,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762945",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762945",
-                "emoticons": [
-                    "😡"
-                ]
-            }
-        },
-        {
             "body": "🍌 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d90e21e93d9e5195c04455f6fb955cea007cf6de",
+            "url": "mxc://matrix.chir.rs/71cb3b2e37cdcb0cf4ba87921cf6001156c3df0a1707807578605486080",
             "info": {
                 "w": 256,
                 "h": 173,
                 "size": 247320,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d90e21e93d9e5195c04455f6fb955cea007cf6de",
+                "thumbnail_url": "mxc://matrix.chir.rs/71cb3b2e37cdcb0cf4ba87921cf6001156c3df0a1707807578605486080",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 173,
@@ -326,43 +181,14 @@
             }
         },
         {
-            "body": "✈️ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/03948c41b68f23369e8204e3febc894a4bf772e7",
-            "info": {
-                "w": 256,
-                "h": 143,
-                "size": 236009,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/03948c41b68f23369e8204e3febc894a4bf772e7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 143,
-                    "size": 236009,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763017",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763017",
-                "emoticons": [
-                    "✈"
-                ]
-            }
-        },
-        {
             "body": "💦 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/41dd0803d741af4c1c97ada2a8072776b1b9a11e",
+            "url": "mxc://matrix.chir.rs/5a4627124f2556ccc1da904daa526d892b13ac861707807574138552320",
             "info": {
                 "w": 191,
                 "h": 256,
                 "size": 408807,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/41dd0803d741af4c1c97ada2a8072776b1b9a11e",
+                "thumbnail_url": "mxc://matrix.chir.rs/5a4627124f2556ccc1da904daa526d892b13ac861707807574138552320",
                 "thumbnail_info": {
                     "w": 191,
                     "h": 256,
@@ -384,72 +210,130 @@
             }
         },
         {
-            "body": "🍳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/8753525336a25c4d67385c653ae03588bed564e4",
+            "body": "😡 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/3d621535ef9e01d4fadb9978162f7358cec8843a1707807568325246976",
             "info": {
                 "w": 256,
-                "h": 144,
-                "size": 120601,
+                "h": 192,
+                "size": 164959,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8753525336a25c4d67385c653ae03588bed564e4",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d621535ef9e01d4fadb9978162f7358cec8843a1707807568325246976",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 144,
-                    "size": 120601,
+                    "h": 192,
+                    "size": 164959,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762959",
+            "id": "tg-519045857123762945",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762959",
+                "id": "519045857123762945",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🍳 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/7ad286c52d71d5023cfc27fa354f481744ff6b241707807573874311168",
+            "info": {
+                "w": 256,
+                "h": 63,
+                "size": 34378,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7ad286c52d71d5023cfc27fa354f481744ff6b241707807573874311168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 63,
+                    "size": 34378,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762948",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762948",
                 "emoticons": [
                     "🍳"
                 ]
             }
         },
         {
-            "body": "🏛 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/761169cc99993aeb1072bac47a3dd48617f2577b",
+            "body": "⚽ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/e17a3a766eadc8ced2992de64771cc09105058131707807575984046080",
             "info": {
                 "w": 256,
-                "h": 157,
-                "size": 242939,
+                "h": 153,
+                "size": 140828,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/761169cc99993aeb1072bac47a3dd48617f2577b",
+                "thumbnail_url": "mxc://matrix.chir.rs/e17a3a766eadc8ced2992de64771cc09105058131707807575984046080",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 157,
-                    "size": 242939,
+                    "h": 153,
+                    "size": 140828,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763000",
+            "id": "tg-519045857123762953",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763000",
+                "id": "519045857123762953",
                 "emoticons": [
-                    "🏛"
+                    "⚽"
+                ]
+            }
+        },
+        {
+            "body": "😝 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/2bf0d97fadb3854ca7c036ba930153bb4e8a24011707807573136113664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167369,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2bf0d97fadb3854ca7c036ba930153bb4e8a24011707807573136113664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167369,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762980",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762980",
+                "emoticons": [
+                    "😝"
                 ]
             }
         },
         {
             "body": "😍 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/5ca9a0b3ade4c042b69a7b754727644ee224f9f9",
+            "url": "mxc://matrix.chir.rs/47269d9504bdabedaf3ef6ca39d9137678c41b861707807583726731264",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 422560,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5ca9a0b3ade4c042b69a7b754727644ee224f9f9",
+                "thumbnail_url": "mxc://matrix.chir.rs/47269d9504bdabedaf3ef6ca39d9137678c41b861707807583726731264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -471,159 +355,72 @@
             }
         },
         {
-            "body": "🚵 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d6a1042047e256c509016ebe91e3d01ddbb515f0",
+            "body": "🗑 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/e717a397dcb6ca5565f9ad2a127b6388581712861707807567549300736",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 333818,
+                "size": 265250,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d6a1042047e256c509016ebe91e3d01ddbb515f0",
+                "thumbnail_url": "mxc://matrix.chir.rs/e717a397dcb6ca5565f9ad2a127b6388581712861707807567549300736",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 333818,
+                    "size": 265250,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762957",
+            "id": "tg-519045857123763054",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762957",
+                "id": "519045857123763054",
                 "emoticons": [
-                    "🚵"
+                    "🗑"
                 ]
             }
         },
         {
-            "body": "😢 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/2ce443d029ead427fc76f1734f7cd1dee10dacd0",
+            "body": "✈️ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/d53c7ba8cff5456bebeeaa447783cc43c63e250a1707807585190543361",
             "info": {
                 "w": 256,
-                "h": 216,
-                "size": 192156,
+                "h": 143,
+                "size": 236009,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2ce443d029ead427fc76f1734f7cd1dee10dacd0",
+                "thumbnail_url": "mxc://matrix.chir.rs/d53c7ba8cff5456bebeeaa447783cc43c63e250a1707807585190543361",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 216,
-                    "size": 192156,
+                    "h": 143,
+                    "size": 236009,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762960",
+            "id": "tg-519045857123763017",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762960",
+                "id": "519045857123763017",
                 "emoticons": [
-                    "😢"
-                ]
-            }
-        },
-        {
-            "body": "🎂 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/73082d1b852b091a749ca3004f4e05b09eac50c6",
-            "info": {
-                "w": 187,
-                "h": 256,
-                "size": 167224,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/73082d1b852b091a749ca3004f4e05b09eac50c6",
-                "thumbnail_info": {
-                    "w": 187,
-                    "h": 256,
-                    "size": 167224,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762970",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762970",
-                "emoticons": [
-                    "🎂"
-                ]
-            }
-        },
-        {
-            "body": "🚨 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/278718151a1e9bcad815a0e8f4ee8fcce1d098b8",
-            "info": {
-                "w": 256,
-                "h": 243,
-                "size": 425600,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/278718151a1e9bcad815a0e8f4ee8fcce1d098b8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 243,
-                    "size": 425600,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762969",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762969",
-                "emoticons": [
-                    "🚨"
-                ]
-            }
-        },
-        {
-            "body": "😨 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/126836fbd54b3f172e915a833cff75e2a82cfdd9",
-            "info": {
-                "w": 200,
-                "h": 256,
-                "size": 157255,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/126836fbd54b3f172e915a833cff75e2a82cfdd9",
-                "thumbnail_info": {
-                    "w": 200,
-                    "h": 256,
-                    "size": 157255,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762958",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762958",
-                "emoticons": [
-                    "😨"
+                    "✈"
                 ]
             }
         },
         {
             "body": "🍳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/60337d895555da05705fb8470f0fb24cee9b03b2",
+            "url": "mxc://matrix.chir.rs/45dffb764cf9277c13ac69660d88283d097485761707807589632311296",
             "info": {
                 "w": 256,
                 "h": 125,
                 "size": 249884,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/60337d895555da05705fb8470f0fb24cee9b03b2",
+                "thumbnail_url": "mxc://matrix.chir.rs/45dffb764cf9277c13ac69660d88283d097485761707807589632311296",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 125,
@@ -645,217 +442,101 @@
             }
         },
         {
-            "body": "😖 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/c4c3f65c11345936471a9afa825fda6c363cccc2",
+            "body": "🍳 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/7a6fb9c5d772f45f50dcb148632bd34f4316042f1707807583735119872",
             "info": {
-                "w": 144,
+                "w": 256,
+                "h": 144,
+                "size": 120601,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7a6fb9c5d772f45f50dcb148632bd34f4316042f1707807583735119872",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 144,
+                    "size": 120601,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762959",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762959",
+                "emoticons": [
+                    "🍳"
+                ]
+            }
+        },
+        {
+            "body": "😢 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/fbfa9a7227b59d5ff0e6fbac7d344ab413ea11cf1707807579565981696",
+            "info": {
+                "w": 256,
+                "h": 216,
+                "size": 192156,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fbfa9a7227b59d5ff0e6fbac7d344ab413ea11cf1707807579565981696",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 216,
+                    "size": 192156,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762960",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762960",
+                "emoticons": [
+                    "😢"
+                ]
+            }
+        },
+        {
+            "body": "🚵 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/40bed1f9e0d419d858ccc89f35805667ba0dabf21707807581583441920",
+            "info": {
+                "w": 256,
                 "h": 256,
-                "size": 316197,
+                "size": 333818,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4c3f65c11345936471a9afa825fda6c363cccc2",
+                "thumbnail_url": "mxc://matrix.chir.rs/40bed1f9e0d419d858ccc89f35805667ba0dabf21707807581583441920",
                 "thumbnail_info": {
-                    "w": 144,
+                    "w": 256,
                     "h": 256,
-                    "size": 316197,
+                    "size": 333818,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762971",
+            "id": "tg-519045857123762957",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762971",
+                "id": "519045857123762957",
                 "emoticons": [
-                    "😖"
-                ]
-            }
-        },
-        {
-            "body": "😜 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/70e5c7be4015613fe174a6d2b65bf90db4da290a",
-            "info": {
-                "w": 256,
-                "h": 130,
-                "size": 209115,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/70e5c7be4015613fe174a6d2b65bf90db4da290a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 130,
-                    "size": 209115,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762975",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762975",
-                "emoticons": [
-                    "😜"
-                ]
-            }
-        },
-        {
-            "body": "🚙 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/4e8e481c9efd31ed82498791f8e337b2c6b03a9d",
-            "info": {
-                "w": 256,
-                "h": 82,
-                "size": 166907,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e8e481c9efd31ed82498791f8e337b2c6b03a9d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 82,
-                    "size": 166907,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762977",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762977",
-                "emoticons": [
-                    "🚙"
-                ]
-            }
-        },
-        {
-            "body": "🎼 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/5f5e2c60d9de9a547e4d77feacd10498af0d5131",
-            "info": {
-                "w": 212,
-                "h": 256,
-                "size": 220325,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5f5e2c60d9de9a547e4d77feacd10498af0d5131",
-                "thumbnail_info": {
-                    "w": 212,
-                    "h": 256,
-                    "size": 220325,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762976",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762976",
-                "emoticons": [
-                    "🎼"
-                ]
-            }
-        },
-        {
-            "body": "☀ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/b16a2d7c32651ce9d08225a73d4f5df23ca3870b",
-            "info": {
-                "w": 256,
-                "h": 250,
-                "size": 236647,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b16a2d7c32651ce9d08225a73d4f5df23ca3870b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 250,
-                    "size": 236647,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762972",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762972",
-                "emoticons": [
-                    "☀"
-                ]
-            }
-        },
-        {
-            "body": "👂 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/5c800637573ee5022b509a0f5c7df15405bcd6eb",
-            "info": {
-                "w": 213,
-                "h": 256,
-                "size": 326309,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5c800637573ee5022b509a0f5c7df15405bcd6eb",
-                "thumbnail_info": {
-                    "w": 213,
-                    "h": 256,
-                    "size": 326309,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762978",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762978",
-                "emoticons": [
-                    "👂"
-                ]
-            }
-        },
-        {
-            "body": "😡 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d288c6c4e8987a9622f975523dbe778f71dfe30f",
-            "info": {
-                "w": 256,
-                "h": 190,
-                "size": 485029,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d288c6c4e8987a9622f975523dbe778f71dfe30f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 190,
-                    "size": 485029,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762973",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762973",
-                "emoticons": [
-                    "😡"
+                    "🚵"
                 ]
             }
         },
         {
             "body": "😃 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/2ba1105d8403c7e61f0ba1955753f85d7faf8f92",
+            "url": "mxc://matrix.chir.rs/94744e6fcd63a139512d8e9cf42affad4ce799ac1707807583714148352",
             "info": {
                 "w": 232,
                 "h": 256,
                 "size": 352595,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2ba1105d8403c7e61f0ba1955753f85d7faf8f92",
+                "thumbnail_url": "mxc://matrix.chir.rs/94744e6fcd63a139512d8e9cf42affad4ce799ac1707807583714148352",
                 "thumbnail_info": {
                     "w": 232,
                     "h": 256,
@@ -877,72 +558,304 @@
             }
         },
         {
-            "body": "🍳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/a5da03fa785d4876fd82654d15dd751bbb2ebb6f",
+            "body": "😡 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/5cf1c333c4e998f9817b331b9add8f488853100e1707807586901819392",
             "info": {
                 "w": 256,
-                "h": 100,
-                "size": 76287,
+                "h": 190,
+                "size": 485029,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a5da03fa785d4876fd82654d15dd751bbb2ebb6f",
+                "thumbnail_url": "mxc://matrix.chir.rs/5cf1c333c4e998f9817b331b9add8f488853100e1707807586901819392",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 100,
-                    "size": 76287,
+                    "h": 190,
+                    "size": 485029,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762981",
+            "id": "tg-519045857123762973",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762981",
+                "id": "519045857123762973",
                 "emoticons": [
-                    "🍳"
+                    "😡"
                 ]
             }
         },
         {
-            "body": "😝 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/53a25c9064d4c5c924d2c6d662953603773957be",
+            "body": "🚨 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/075f541f18ea8f4011685a0d61da52faae2d23591707807581587636224",
             "info": {
                 "w": 256,
+                "h": 243,
+                "size": 425600,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/075f541f18ea8f4011685a0d61da52faae2d23591707807581587636224",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 243,
+                    "size": 425600,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762969",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762969",
+                "emoticons": [
+                    "🚨"
+                ]
+            }
+        },
+        {
+            "body": "😖 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/72b6727c465b62462ad76216ba94ee3c6b3bcbe71707807598285160448",
+            "info": {
+                "w": 144,
                 "h": 256,
-                "size": 124202,
+                "size": 316197,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/53a25c9064d4c5c924d2c6d662953603773957be",
+                "thumbnail_url": "mxc://matrix.chir.rs/72b6727c465b62462ad76216ba94ee3c6b3bcbe71707807598285160448",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 144,
                     "h": 256,
-                    "size": 124202,
+                    "size": 316197,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762984",
+            "id": "tg-519045857123762971",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762984",
+                "id": "519045857123762971",
                 "emoticons": [
-                    "😝"
+                    "😖"
+                ]
+            }
+        },
+        {
+            "body": "☀ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/81bbc68157858624f358cb5a72a73a3f032133001707807598692007936",
+            "info": {
+                "w": 256,
+                "h": 250,
+                "size": 236647,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/81bbc68157858624f358cb5a72a73a3f032133001707807598692007936",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 250,
+                    "size": 236647,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762972",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762972",
+                "emoticons": [
+                    "☀"
+                ]
+            }
+        },
+        {
+            "body": "😜 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/9bdc0311e7f7f50d574ebde100802fd7ed824ceb1707807586616606720",
+            "info": {
+                "w": 256,
+                "h": 130,
+                "size": 209115,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9bdc0311e7f7f50d574ebde100802fd7ed824ceb1707807586616606720",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 130,
+                    "size": 209115,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762975",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762975",
+                "emoticons": [
+                    "😜"
+                ]
+            }
+        },
+        {
+            "body": "🎼 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/2c4b87914661824de4ba1c0644ae3c7be88f01d51707807599610560512",
+            "info": {
+                "w": 212,
+                "h": 256,
+                "size": 220325,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2c4b87914661824de4ba1c0644ae3c7be88f01d51707807599610560512",
+                "thumbnail_info": {
+                    "w": 212,
+                    "h": 256,
+                    "size": 220325,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762976",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762976",
+                "emoticons": [
+                    "🎼"
+                ]
+            }
+        },
+        {
+            "body": "😨 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/28dda68c51aed0e8f0fd990f5c1cc1965b0082fc1707807585190543360",
+            "info": {
+                "w": 200,
+                "h": 256,
+                "size": 157255,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/28dda68c51aed0e8f0fd990f5c1cc1965b0082fc1707807585190543360",
+                "thumbnail_info": {
+                    "w": 200,
+                    "h": 256,
+                    "size": 157255,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762958",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762958",
+                "emoticons": [
+                    "😨"
+                ]
+            }
+        },
+        {
+            "body": "👂 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/928481e5ca3c68aca731b564c332435d617e942d1707807588382408704",
+            "info": {
+                "w": 213,
+                "h": 256,
+                "size": 326309,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/928481e5ca3c68aca731b564c332435d617e942d1707807588382408704",
+                "thumbnail_info": {
+                    "w": 213,
+                    "h": 256,
+                    "size": 326309,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762978",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762978",
+                "emoticons": [
+                    "👂"
+                ]
+            }
+        },
+        {
+            "body": "🏛 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/1ee052b29573ec2208b3d55a8dfe1bd1a79005491707807576302813184",
+            "info": {
+                "w": 256,
+                "h": 157,
+                "size": 242939,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ee052b29573ec2208b3d55a8dfe1bd1a79005491707807576302813184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 157,
+                    "size": 242939,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763000",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763000",
+                "emoticons": [
+                    "🏛"
+                ]
+            }
+        },
+        {
+            "body": "🚙 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/e14a98425ef80be4f5398c5fe07a5005fbcf7d101707807590341148672",
+            "info": {
+                "w": 256,
+                "h": 82,
+                "size": 166907,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e14a98425ef80be4f5398c5fe07a5005fbcf7d101707807590341148672",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 82,
+                    "size": 166907,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762977",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762977",
+                "emoticons": [
+                    "🚙"
                 ]
             }
         },
         {
             "body": "🍳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/eea49b2373846a9c200a550426bc09aef79d0b31",
+            "url": "mxc://matrix.chir.rs/b000869f47b066e1e099acb87d45fdf19b4b785d1707807588621484032",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 127375,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eea49b2373846a9c200a550426bc09aef79d0b31",
+                "thumbnail_url": "mxc://matrix.chir.rs/b000869f47b066e1e099acb87d45fdf19b4b785d1707807588621484032",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -965,13 +878,42 @@
         },
         {
             "body": "🍳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/1c22214d211289f7660de5ad18b7969229ba7fc1",
+            "url": "mxc://matrix.chir.rs/d7a5dfc47fd9f1b7491a033c8b438922505e3b5b1707807617981612032",
+            "info": {
+                "w": 256,
+                "h": 100,
+                "size": 76287,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d7a5dfc47fd9f1b7491a033c8b438922505e3b5b1707807617981612032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 100,
+                    "size": 76287,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762981",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762981",
+                "emoticons": [
+                    "🍳"
+                ]
+            }
+        },
+        {
+            "body": "🍳 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/22f6db52516063047ddcb66e55a9fb77b02388d41707807621790040064",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 125425,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1c22214d211289f7660de5ad18b7969229ba7fc1",
+                "thumbnail_url": "mxc://matrix.chir.rs/22f6db52516063047ddcb66e55a9fb77b02388d41707807621790040064",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -994,13 +936,13 @@
         },
         {
             "body": "😱 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f4fe8c8a36f855d17db3b8bd364025c18d311b49",
+            "url": "mxc://matrix.chir.rs/952c871e736da72bd52487bd032a538fc578305a1707807594015358976",
             "info": {
                 "w": 256,
                 "h": 227,
                 "size": 428349,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f4fe8c8a36f855d17db3b8bd364025c18d311b49",
+                "thumbnail_url": "mxc://matrix.chir.rs/952c871e736da72bd52487bd032a538fc578305a1707807594015358976",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 227,
@@ -1022,43 +964,14 @@
             }
         },
         {
-            "body": "🍳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/a490f22757d48c552615a6c80bb5e84b42e0e965",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 122807,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a490f22757d48c552615a6c80bb5e84b42e0e965",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 122807,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762983",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762983",
-                "emoticons": [
-                    "🍳"
-                ]
-            }
-        },
-        {
             "body": "👔 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/4c0e258d1dba885b76e245cdb2c059a10b3ea045",
+            "url": "mxc://matrix.chir.rs/14f199309e78029815bec056087ebf9cd5fb65ad1707807592740290560",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 440886,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4c0e258d1dba885b76e245cdb2c059a10b3ea045",
+                "thumbnail_url": "mxc://matrix.chir.rs/14f199309e78029815bec056087ebf9cd5fb65ad1707807592740290560",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1080,43 +993,72 @@
             }
         },
         {
-            "body": "2️⃣ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/8a008c70dda72d194e59db2608bd64d8857c443d",
+            "body": "🍳 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/585c06215a9ee4fb74ebb6cba807edeee27eed9f1707807592346025984",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 164468,
+                "size": 122807,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8a008c70dda72d194e59db2608bd64d8857c443d",
+                "thumbnail_url": "mxc://matrix.chir.rs/585c06215a9ee4fb74ebb6cba807edeee27eed9f1707807592346025984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 164468,
+                    "size": 122807,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762993",
+            "id": "tg-519045857123762983",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762993",
+                "id": "519045857123762983",
                 "emoticons": [
-                    "2⃣"
+                    "🍳"
+                ]
+            }
+        },
+        {
+            "body": "🎂 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/25f80cf78b4f0b078462fefaea5a93bb042d097d1707807592346025985",
+            "info": {
+                "w": 187,
+                "h": 256,
+                "size": 167224,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/25f80cf78b4f0b078462fefaea5a93bb042d097d1707807592346025985",
+                "thumbnail_info": {
+                    "w": 187,
+                    "h": 256,
+                    "size": 167224,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762970",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762970",
+                "emoticons": [
+                    "🎂"
                 ]
             }
         },
         {
             "body": "💥 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/0862a3fbc4f0559976093b5626cc1d797671522d",
+            "url": "mxc://matrix.chir.rs/edcd8d8a083515241da4f9a38c26d46fa6b654b91707807597093978113",
             "info": {
                 "w": 256,
                 "h": 108,
                 "size": 213511,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0862a3fbc4f0559976093b5626cc1d797671522d",
+                "thumbnail_url": "mxc://matrix.chir.rs/edcd8d8a083515241da4f9a38c26d46fa6b654b91707807597093978113",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 108,
@@ -1138,72 +1080,43 @@
             }
         },
         {
-            "body": "🐛 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/85303e472de0b6c39aa62b9127ec8220c3abf1a1",
+            "body": "😝 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/1626547c9e1bc0ad00fdf58fbcd49e7e4c7077181707807596091539456",
             "info": {
                 "w": 256,
-                "h": 37,
-                "size": 13339,
+                "h": 256,
+                "size": 124202,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/85303e472de0b6c39aa62b9127ec8220c3abf1a1",
+                "thumbnail_url": "mxc://matrix.chir.rs/1626547c9e1bc0ad00fdf58fbcd49e7e4c7077181707807596091539456",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 37,
-                    "size": 13339,
+                    "h": 256,
+                    "size": 124202,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123762991",
+            "id": "tg-519045857123762984",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123762991",
+                "id": "519045857123762984",
                 "emoticons": [
-                    "🐛"
-                ]
-            }
-        },
-        {
-            "body": "🍜 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/2dc7ebba7363e2b3ad9f693f2195bc25182afa68",
-            "info": {
-                "w": 256,
-                "h": 171,
-                "size": 284110,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2dc7ebba7363e2b3ad9f693f2195bc25182afa68",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 171,
-                    "size": 284110,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762996",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762996",
-                "emoticons": [
-                    "🍜"
+                    "😝"
                 ]
             }
         },
         {
             "body": "1️⃣ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d262d7da16fb320b3985d65305c98321d031d52d",
+            "url": "mxc://matrix.chir.rs/8b4c8a9d20e0504d96014adfc77e53827b56e1ea1707807626823204864",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 147565,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d262d7da16fb320b3985d65305c98321d031d52d",
+                "thumbnail_url": "mxc://matrix.chir.rs/8b4c8a9d20e0504d96014adfc77e53827b56e1ea1707807626823204864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1225,43 +1138,14 @@
             }
         },
         {
-            "body": "☠️ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/ace0d32e69d498c37dda1c65cea51e3b1bb458e9",
-            "info": {
-                "w": 256,
-                "h": 165,
-                "size": 168831,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ace0d32e69d498c37dda1c65cea51e3b1bb458e9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 165,
-                    "size": 168831,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763001",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763001",
-                "emoticons": [
-                    "☠"
-                ]
-            }
-        },
-        {
             "body": "3️⃣ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/e4232126523bdacf2f6736c4bc0ac577bbcd11ff",
+            "url": "mxc://matrix.chir.rs/2ac615c064c7ee04a5bbe82aa7cd65f67cba34161707807597093978112",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 174630,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e4232126523bdacf2f6736c4bc0ac577bbcd11ff",
+                "thumbnail_url": "mxc://matrix.chir.rs/2ac615c064c7ee04a5bbe82aa7cd65f67cba34161707807597093978112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1283,43 +1167,14 @@
             }
         },
         {
-            "body": "☕️ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/efc758b5d582fd62b4c7db50f0a4c3356f434b50",
-            "info": {
-                "w": 256,
-                "h": 189,
-                "size": 332255,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/efc758b5d582fd62b4c7db50f0a4c3356f434b50",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 189,
-                    "size": 332255,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123762999",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123762999",
-                "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
             "body": "😽 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/1ea42281743c257d31f0d61716a18c2a77ff0676",
+            "url": "mxc://matrix.chir.rs/d19a3657195cc1fcd0c471634a97300de73e050a1707807604362706944",
             "info": {
                 "w": 256,
                 "h": 232,
                 "size": 337505,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1ea42281743c257d31f0d61716a18c2a77ff0676",
+                "thumbnail_url": "mxc://matrix.chir.rs/d19a3657195cc1fcd0c471634a97300de73e050a1707807604362706944",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 232,
@@ -1341,14 +1196,72 @@
             }
         },
         {
+            "body": "🍜 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/d37615812a4667c59b5b6f8b58812d101358340b1707807604383678464",
+            "info": {
+                "w": 256,
+                "h": 171,
+                "size": 284110,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d37615812a4667c59b5b6f8b58812d101358340b1707807604383678464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 171,
+                    "size": 284110,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762996",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762996",
+                "emoticons": [
+                    "🍜"
+                ]
+            }
+        },
+        {
+            "body": "2️⃣ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/048d6a130f509977a8b63134360bc4b560f274f81707807596989120512",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 164468,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/048d6a130f509977a8b63134360bc4b560f274f81707807596989120512",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 164468,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762993",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762993",
+                "emoticons": [
+                    "2⃣"
+                ]
+            }
+        },
+        {
             "body": "🌂 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/23b50df332265c567a57d5250a0790c20630f6af",
+            "url": "mxc://matrix.chir.rs/fdaba289b3b87696f9c628dea46183cc508c52441707807601175035904",
             "info": {
                 "w": 114,
                 "h": 256,
                 "size": 269987,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/23b50df332265c567a57d5250a0790c20630f6af",
+                "thumbnail_url": "mxc://matrix.chir.rs/fdaba289b3b87696f9c628dea46183cc508c52441707807601175035904",
                 "thumbnail_info": {
                     "w": 114,
                     "h": 256,
@@ -1371,13 +1284,13 @@
         },
         {
             "body": "😈 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/666b45ba7c2480f7bc3f2fb4f5dfcc8171e5eeaf",
+            "url": "mxc://matrix.chir.rs/3eb41e5f84756bed8783051306f8f763040f43e51707807613388849152",
             "info": {
                 "w": 200,
                 "h": 256,
                 "size": 168113,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/666b45ba7c2480f7bc3f2fb4f5dfcc8171e5eeaf",
+                "thumbnail_url": "mxc://matrix.chir.rs/3eb41e5f84756bed8783051306f8f763040f43e51707807613388849152",
                 "thumbnail_info": {
                     "w": 200,
                     "h": 256,
@@ -1399,14 +1312,43 @@
             }
         },
         {
+            "body": "☠️ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/8d99c58c2c3f35ef20cfeedc0a6ef379b2c68cde1707807601439277056",
+            "info": {
+                "w": 256,
+                "h": 165,
+                "size": 168831,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8d99c58c2c3f35ef20cfeedc0a6ef379b2c68cde1707807601439277056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 165,
+                    "size": 168831,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763001",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763001",
+                "emoticons": [
+                    "☠"
+                ]
+            }
+        },
+        {
             "body": "😈 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/6e2bc7626ab44e229c62c781ee96d35a993b6e8a",
+            "url": "mxc://matrix.chir.rs/4e9dcdf4390668cbe97f0556bb7c5bbead72cb641707807624671526912",
             "info": {
                 "w": 256,
                 "h": 180,
                 "size": 163228,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6e2bc7626ab44e229c62c781ee96d35a993b6e8a",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e9dcdf4390668cbe97f0556bb7c5bbead72cb641707807624671526912",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 180,
@@ -1428,101 +1370,14 @@
             }
         },
         {
-            "body": "🍆 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/8d36ad1873be8b4b20c31479f0c86ede3960ec33",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 391563,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8d36ad1873be8b4b20c31479f0c86ede3960ec33",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 391563,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763008",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763008",
-                "emoticons": [
-                    "🍆"
-                ]
-            }
-        },
-        {
-            "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f827607677ccbe4104fc690b0adfcf345e40025e",
-            "info": {
-                "w": 256,
-                "h": 223,
-                "size": 307544,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f827607677ccbe4104fc690b0adfcf345e40025e",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 223,
-                    "size": 307544,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763015",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763015",
-                "emoticons": [
-                    "🥚"
-                ]
-            }
-        },
-        {
-            "body": "🍟 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/791f3d4a3600bf142836a646c50ebc1ed1f47b2c",
-            "info": {
-                "w": 237,
-                "h": 256,
-                "size": 337402,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/791f3d4a3600bf142836a646c50ebc1ed1f47b2c",
-                "thumbnail_info": {
-                    "w": 237,
-                    "h": 256,
-                    "size": 337402,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763006",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763006",
-                "emoticons": [
-                    "🍟"
-                ]
-            }
-        },
-        {
             "body": "😳 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/170b9788f5700b0dfa8600b0fad16bcb0161a93c",
+            "url": "mxc://matrix.chir.rs/db9587862e620c2ddac989dea3afbaf1915f0e8a1707807605755215872",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 140059,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/170b9788f5700b0dfa8600b0fad16bcb0161a93c",
+                "thumbnail_url": "mxc://matrix.chir.rs/db9587862e620c2ddac989dea3afbaf1915f0e8a1707807605755215872",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1544,246 +1399,43 @@
             }
         },
         {
-            "body": "🛏 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/799c6d33ac9fe6d37c622d57a1aa0b3c982647c4",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 282929,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/799c6d33ac9fe6d37c622d57a1aa0b3c982647c4",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 282929,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763016",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763016",
-                "emoticons": [
-                    "🛏"
-                ]
-            }
-        },
-        {
             "body": "🍟 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/7b2b77352f2537d4275331c458d50d10e13bc427",
+            "url": "mxc://matrix.chir.rs/721dc43f9a9f55eac659f2ac7abf09891bf422631707807605734244352",
             "info": {
-                "w": 204,
+                "w": 237,
                 "h": 256,
-                "size": 236616,
+                "size": 337402,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b2b77352f2537d4275331c458d50d10e13bc427",
+                "thumbnail_url": "mxc://matrix.chir.rs/721dc43f9a9f55eac659f2ac7abf09891bf422631707807605734244352",
                 "thumbnail_info": {
-                    "w": 204,
+                    "w": 237,
                     "h": 256,
-                    "size": 236616,
+                    "size": 337402,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763012",
+            "id": "tg-519045857123763006",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763012",
+                "id": "519045857123763006",
                 "emoticons": [
                     "🍟"
                 ]
             }
         },
         {
-            "body": "🎤 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/de7f8b4ab862064321407f45bc2aca1a93e41035",
-            "info": {
-                "w": 213,
-                "h": 256,
-                "size": 169423,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/de7f8b4ab862064321407f45bc2aca1a93e41035",
-                "thumbnail_info": {
-                    "w": 213,
-                    "h": 256,
-                    "size": 169423,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763042",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763042",
-                "emoticons": [
-                    "🎤"
-                ]
-            }
-        },
-        {
             "body": "😨 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d43ce0ebd1303b486cbf920bd3592d5093a76ec2",
-            "info": {
-                "w": 203,
-                "h": 256,
-                "size": 199224,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d43ce0ebd1303b486cbf920bd3592d5093a76ec2",
-                "thumbnail_info": {
-                    "w": 203,
-                    "h": 256,
-                    "size": 199224,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763014",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763014",
-                "emoticons": [
-                    "😨"
-                ]
-            }
-        },
-        {
-            "body": "🏕 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/2e44b940e08375c4af42b7ab6cb0879af891ec09",
-            "info": {
-                "w": 256,
-                "h": 150,
-                "size": 198586,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2e44b940e08375c4af42b7ab6cb0879af891ec09",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 150,
-                    "size": 198586,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763043",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763043",
-                "emoticons": [
-                    "🏕"
-                ]
-            }
-        },
-        {
-            "body": "😡 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/53bab95f65ea9cc4078781499ec28de8e573ce81",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 403539,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/53bab95f65ea9cc4078781499ec28de8e573ce81",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 403539,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763046",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763046",
-                "emoticons": [
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "📎 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/c66b8c1c3c401ddb199de60870f787084281d01c",
-            "info": {
-                "w": 256,
-                "h": 158,
-                "size": 100369,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c66b8c1c3c401ddb199de60870f787084281d01c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 158,
-                    "size": 100369,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763018",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763018",
-                "emoticons": [
-                    "📎"
-                ]
-            }
-        },
-        {
-            "body": "💋 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/41be7d2b4b1b3abbc3efa6450937e6067b1413e8",
-            "info": {
-                "w": 256,
-                "h": 172,
-                "size": 188271,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/41be7d2b4b1b3abbc3efa6450937e6067b1413e8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 172,
-                    "size": 188271,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763048",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763048",
-                "emoticons": [
-                    "💋"
-                ]
-            }
-        },
-        {
-            "body": "😨 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/3d00c156dbc79462c20103b2d782f1ffef3282e7",
+            "url": "mxc://matrix.chir.rs/ac7a3b7a04c9096b17eb1f6301badf163ed4a5bf1707807611270725632",
             "info": {
                 "w": 256,
                 "h": 208,
                 "size": 258084,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d00c156dbc79462c20103b2d782f1ffef3282e7",
+                "thumbnail_url": "mxc://matrix.chir.rs/ac7a3b7a04c9096b17eb1f6301badf163ed4a5bf1707807611270725632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 208,
@@ -1805,14 +1457,188 @@
             }
         },
         {
+            "body": "🍆 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/772c91b1d585345b5b001de3a8ac0ce3cacd388e1707807608003362817",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 391563,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/772c91b1d585345b5b001de3a8ac0ce3cacd388e1707807608003362817",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 391563,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763008",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763008",
+                "emoticons": [
+                    "🍆"
+                ]
+            }
+        },
+        {
+            "body": "🍟 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/f5ff82b35888d123115f93599d4e8008f7222dc61707807613397237760",
+            "info": {
+                "w": 204,
+                "h": 256,
+                "size": 236616,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f5ff82b35888d123115f93599d4e8008f7222dc61707807613397237760",
+                "thumbnail_info": {
+                    "w": 204,
+                    "h": 256,
+                    "size": 236616,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763012",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763012",
+                "emoticons": [
+                    "🍟"
+                ]
+            }
+        },
+        {
+            "body": "🐛 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/f6ac1152ee130f87e8f0eefd2b6875f1fe234d8b1707807608003362816",
+            "info": {
+                "w": 256,
+                "h": 37,
+                "size": 13339,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f6ac1152ee130f87e8f0eefd2b6875f1fe234d8b1707807608003362816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 37,
+                    "size": 13339,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762991",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762991",
+                "emoticons": [
+                    "🐛"
+                ]
+            }
+        },
+        {
+            "body": "😨 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/2898c81453a48a6c5332d0bc1412a4b0df73690e1707807608263409664",
+            "info": {
+                "w": 203,
+                "h": 256,
+                "size": 199224,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2898c81453a48a6c5332d0bc1412a4b0df73690e1707807608263409664",
+                "thumbnail_info": {
+                    "w": 203,
+                    "h": 256,
+                    "size": 199224,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763014",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763014",
+                "emoticons": [
+                    "😨"
+                ]
+            }
+        },
+        {
+            "body": "🛏 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/3ae8488527fd123a41ed0cf757f5d87ccf51fcb91707807616660406272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 282929,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3ae8488527fd123a41ed0cf757f5d87ccf51fcb91707807616660406272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 282929,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763016",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763016",
+                "emoticons": [
+                    "🛏"
+                ]
+            }
+        },
+        {
+            "body": "📎 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/6b9fed6168cfbd5ff4592973c7f5c0bad0600a251707807609886605312",
+            "info": {
+                "w": 256,
+                "h": 158,
+                "size": 100369,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6b9fed6168cfbd5ff4592973c7f5c0bad0600a251707807609886605312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 158,
+                    "size": 100369,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763018",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763018",
+                "emoticons": [
+                    "📎"
+                ]
+            }
+        },
+        {
             "body": "😄 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/16e4dde2744a7022c7d7e1e290495f04e1aef8f5",
+            "url": "mxc://matrix.chir.rs/564406330a76d88b204f5c23ca2190c48b1f74831707807625694937088",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 306536,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/16e4dde2744a7022c7d7e1e290495f04e1aef8f5",
+                "thumbnail_url": "mxc://matrix.chir.rs/564406330a76d88b204f5c23ca2190c48b1f74831707807625694937088",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1834,43 +1660,101 @@
             }
         },
         {
-            "body": "🤴 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/4b4deab1aa04069f269db63a700f4d299a1fe848",
+            "body": "🥚 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/322737f08ddcc18c69177224d64d7365e0cab6431707807609882411008",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 345535,
+                "h": 223,
+                "size": 307544,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b4deab1aa04069f269db63a700f4d299a1fe848",
+                "thumbnail_url": "mxc://matrix.chir.rs/322737f08ddcc18c69177224d64d7365e0cab6431707807609882411008",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 345535,
+                    "h": 223,
+                    "size": 307544,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763047",
+            "id": "tg-519045857123763015",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763047",
+                "id": "519045857123763015",
                 "emoticons": [
-                    "🤴"
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "☕️ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/d684d61f292d72877971408ebebb51e06c5e67f61707807602252972032",
+            "info": {
+                "w": 256,
+                "h": 189,
+                "size": 332255,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d684d61f292d72877971408ebebb51e06c5e67f61707807602252972032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 189,
+                    "size": 332255,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123762999",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123762999",
+                "emoticons": [
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "💋 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/f139c9455e8d2772fc60361a8ac915c2b043a3291707807614911381505",
+            "info": {
+                "w": 256,
+                "h": 172,
+                "size": 188271,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f139c9455e8d2772fc60361a8ac915c2b043a3291707807614911381505",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 172,
+                    "size": 188271,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763048",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763048",
+                "emoticons": [
+                    "💋"
                 ]
             }
         },
         {
             "body": "😍 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/8346d9e9f7c48b6a5b294edbe712c49f2b545e09",
+            "url": "mxc://matrix.chir.rs/2fd88f8abb894fbde9f54da4cf1aadb467bcf0bd1707807644783214592",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 125260,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8346d9e9f7c48b6a5b294edbe712c49f2b545e09",
+                "thumbnail_url": "mxc://matrix.chir.rs/2fd88f8abb894fbde9f54da4cf1aadb467bcf0bd1707807644783214592",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1893,14 +1777,43 @@
             }
         },
         {
+            "body": "😡 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/4df9b11b4bec34105fce20c8028bdc555b53791d1707807614911381504",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 403539,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4df9b11b4bec34105fce20c8028bdc555b53791d1707807614911381504",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 403539,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763046",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763046",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
             "body": "🍋 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/9dbdc0b314df1a3d2351d4884853f8e071f86b54",
+            "url": "mxc://matrix.chir.rs/b0cb4304744d294f7db13bd120d374f5c674ef6b1707807629356564480",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 202802,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9dbdc0b314df1a3d2351d4884853f8e071f86b54",
+                "thumbnail_url": "mxc://matrix.chir.rs/b0cb4304744d294f7db13bd120d374f5c674ef6b1707807629356564480",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1922,43 +1835,14 @@
             }
         },
         {
-            "body": "😈 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/8400ca9bdffd6bd8f78ad4ab805682855e53196e",
-            "info": {
-                "w": 256,
-                "h": 235,
-                "size": 328188,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8400ca9bdffd6bd8f78ad4ab805682855e53196e",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 235,
-                    "size": 328188,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763050",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763050",
-                "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
             "body": "🖐 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/bf64fce240b9ec23db2dcaeeddf779ed9f8d4318",
+            "url": "mxc://matrix.chir.rs/bff4bb8f561fb36aeeb7f1fc2237e9c0176881821707807619915186176",
             "info": {
                 "w": 256,
                 "h": 207,
                 "size": 98371,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bf64fce240b9ec23db2dcaeeddf779ed9f8d4318",
+                "thumbnail_url": "mxc://matrix.chir.rs/bff4bb8f561fb36aeeb7f1fc2237e9c0176881821707807619915186176",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 207,
@@ -1980,101 +1864,43 @@
             }
         },
         {
-            "body": "🇸🇪 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/4b2a42595da01e7b0c1f72ed3eb034f852e24d51",
+            "body": "🎤 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/efd7a069c11bba9bb4967b420c3f418249050e821707807613376266240",
             "info": {
-                "w": 256,
+                "w": 213,
                 "h": 256,
-                "size": 207056,
+                "size": 169423,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b2a42595da01e7b0c1f72ed3eb034f852e24d51",
+                "thumbnail_url": "mxc://matrix.chir.rs/efd7a069c11bba9bb4967b420c3f418249050e821707807613376266240",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 213,
                     "h": 256,
-                    "size": 207056,
+                    "size": 169423,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763055",
+            "id": "tg-519045857123763042",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763055",
+                "id": "519045857123763042",
                 "emoticons": [
-                    "🇸🇪"
-                ]
-            }
-        },
-        {
-            "body": "🖼 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/275ac10b6743b9fb354574533828b775bf6e9fdf",
-            "info": {
-                "w": 256,
-                "h": 143,
-                "size": 266420,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/275ac10b6743b9fb354574533828b775bf6e9fdf",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 143,
-                    "size": 266420,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763066",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763066",
-                "emoticons": [
-                    "🖼"
-                ]
-            }
-        },
-        {
-            "body": "🥛 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/31d8b7b3b4cfdd8e4ecd51a5bf9acd7f59bd7b89",
-            "info": {
-                "w": 225,
-                "h": 256,
-                "size": 219986,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/31d8b7b3b4cfdd8e4ecd51a5bf9acd7f59bd7b89",
-                "thumbnail_info": {
-                    "w": 225,
-                    "h": 256,
-                    "size": 219986,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763068",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763068",
-                "emoticons": [
-                    "🥛"
+                    "🎤"
                 ]
             }
         },
         {
             "body": "👨‍🌾 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/c0761ba0f8fb37356210f772e32cd8c6d99aaa8b",
+            "url": "mxc://matrix.chir.rs/4b7af499ee739fea65148eb19158001c0ca3f8b61707807642623148032",
             "info": {
                 "w": 256,
                 "h": 89,
                 "size": 63140,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c0761ba0f8fb37356210f772e32cd8c6d99aaa8b",
+                "thumbnail_url": "mxc://matrix.chir.rs/4b7af499ee739fea65148eb19158001c0ca3f8b61707807642623148032",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 89,
@@ -2096,188 +1922,43 @@
             }
         },
         {
-            "body": "😧 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/35a8781a95994de80707ab10154b1863bfeadc9a",
+            "body": "🏕 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/47fe82f9f9b2ce176d779d7caa29eb0594757aa61707807616547160064",
             "info": {
                 "w": 256,
-                "h": 187,
-                "size": 126127,
+                "h": 150,
+                "size": 198586,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/35a8781a95994de80707ab10154b1863bfeadc9a",
+                "thumbnail_url": "mxc://matrix.chir.rs/47fe82f9f9b2ce176d779d7caa29eb0594757aa61707807616547160064",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 187,
-                    "size": 126127,
+                    "h": 150,
+                    "size": 198586,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763075",
+            "id": "tg-519045857123763043",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763075",
+                "id": "519045857123763043",
                 "emoticons": [
-                    "😧"
-                ]
-            }
-        },
-        {
-            "body": "🔈 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d395451816640fee84128dc47e3bc1a81cf46827",
-            "info": {
-                "w": 256,
-                "h": 191,
-                "size": 281203,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d395451816640fee84128dc47e3bc1a81cf46827",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 191,
-                    "size": 281203,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763063",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763063",
-                "emoticons": [
-                    "🔈"
-                ]
-            }
-        },
-        {
-            "body": "😱 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/a360320a4c412247f79fa269e0c9cb42d79fce3d",
-            "info": {
-                "w": 256,
-                "h": 246,
-                "size": 423738,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a360320a4c412247f79fa269e0c9cb42d79fce3d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 246,
-                    "size": 423738,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763061",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763061",
-                "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "🥇 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f6c5bcf699f44a0f4e9d2cc1ebbc1b0fdcbf11ef",
-            "info": {
-                "w": 203,
-                "h": 256,
-                "size": 321286,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f6c5bcf699f44a0f4e9d2cc1ebbc1b0fdcbf11ef",
-                "thumbnail_info": {
-                    "w": 203,
-                    "h": 256,
-                    "size": 321286,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763064",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763064",
-                "emoticons": [
-                    "🥇"
-                ]
-            }
-        },
-        {
-            "body": "😧 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/36f980ecb487abdd251d930955563ef0f2ee7788",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 442019,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/36f980ecb487abdd251d930955563ef0f2ee7788",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 442019,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763070",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763070",
-                "emoticons": [
-                    "😧"
-                ]
-            }
-        },
-        {
-            "body": "⏰ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/707ec6d16b544518093c51f1bafcdb4724b367ee",
-            "info": {
-                "w": 183,
-                "h": 256,
-                "size": 304985,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/707ec6d16b544518093c51f1bafcdb4724b367ee",
-                "thumbnail_info": {
-                    "w": 183,
-                    "h": 256,
-                    "size": 304985,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763057",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763057",
-                "emoticons": [
-                    "⏰"
+                    "🏕"
                 ]
             }
         },
         {
             "body": "👅 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/5e50659d9d777eceef030baf24671d9c8637a3cf",
+            "url": "mxc://matrix.chir.rs/9f934aa0fca1536c58270bfdfc73456446cbb9631707807639024435200",
             "info": {
                 "w": 190,
                 "h": 256,
                 "size": 248939,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5e50659d9d777eceef030baf24671d9c8637a3cf",
+                "thumbnail_url": "mxc://matrix.chir.rs/9f934aa0fca1536c58270bfdfc73456446cbb9631707807639024435200",
                 "thumbnail_info": {
                     "w": 190,
                     "h": 256,
@@ -2299,43 +1980,275 @@
             }
         },
         {
-            "body": "🔐 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f4fcaffd11f654a0ce1ef56d9bf036f49cb857a3",
+            "body": "⏰ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/e7fbc15f2ddf655ae50634264289e6f927681e7c1707807624084324353",
             "info": {
-                "w": 224,
+                "w": 183,
                 "h": 256,
-                "size": 242796,
+                "size": 304985,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f4fcaffd11f654a0ce1ef56d9bf036f49cb857a3",
+                "thumbnail_url": "mxc://matrix.chir.rs/e7fbc15f2ddf655ae50634264289e6f927681e7c1707807624084324353",
                 "thumbnail_info": {
-                    "w": 224,
+                    "w": 183,
                     "h": 256,
-                    "size": 242796,
+                    "size": 304985,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763065",
+            "id": "tg-519045857123763057",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763065",
+                "id": "519045857123763057",
                 "emoticons": [
-                    "🔐"
+                    "⏰"
+                ]
+            }
+        },
+        {
+            "body": "😱 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/082b703e9e94196cdc9a081415aded111bb9f6581707807622494683136",
+            "info": {
+                "w": 256,
+                "h": 246,
+                "size": 423738,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/082b703e9e94196cdc9a081415aded111bb9f6581707807622494683136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 246,
+                    "size": 423738,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763061",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763061",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "🇸🇪 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/b60a76e2173508f0a771ddbb4c0e4f75f75ef01d1707807619890020352",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 207056,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b60a76e2173508f0a771ddbb4c0e4f75f75ef01d1707807619890020352",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 207056,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763055",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763055",
+                "emoticons": [
+                    "🇸🇪"
+                ]
+            }
+        },
+        {
+            "body": "🤴 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/f67058ec077d667a2acafabc25e595921cae77621707807621806817280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 345535,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f67058ec077d667a2acafabc25e595921cae77621707807621806817280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 345535,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763047",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763047",
+                "emoticons": [
+                    "🤴"
+                ]
+            }
+        },
+        {
+            "body": "🥇 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/503684f28194200a8d4f0ff85b97c312449002121707807624084324352",
+            "info": {
+                "w": 203,
+                "h": 256,
+                "size": 321286,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/503684f28194200a8d4f0ff85b97c312449002121707807624084324352",
+                "thumbnail_info": {
+                    "w": 203,
+                    "h": 256,
+                    "size": 321286,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763064",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763064",
+                "emoticons": [
+                    "🥇"
+                ]
+            }
+        },
+        {
+            "body": "🔈 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/57d164124ff5784ff8779c7a6c061aa46697edc71707807639519363072",
+            "info": {
+                "w": 256,
+                "h": 191,
+                "size": 281203,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/57d164124ff5784ff8779c7a6c061aa46697edc71707807639519363072",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 191,
+                    "size": 281203,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763063",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763063",
+                "emoticons": [
+                    "🔈"
+                ]
+            }
+        },
+        {
+            "body": "😧 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/139dfd46e6488504c8c6c5854cd50b73e1c9fea71707807634339397632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 442019,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/139dfd46e6488504c8c6c5854cd50b73e1c9fea71707807634339397632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 442019,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763070",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763070",
+                "emoticons": [
+                    "😧"
+                ]
+            }
+        },
+        {
+            "body": "🥛 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/3242eb9341447dd00e9257adfd3c6a17f240ba361707807634591055872",
+            "info": {
+                "w": 225,
+                "h": 256,
+                "size": 219986,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3242eb9341447dd00e9257adfd3c6a17f240ba361707807634591055872",
+                "thumbnail_info": {
+                    "w": 225,
+                    "h": 256,
+                    "size": 219986,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763068",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763068",
+                "emoticons": [
+                    "🥛"
+                ]
+            }
+        },
+        {
+            "body": "🖼 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/6dbc094a88b77c6d85ad03021e696f41cea0f5131707807632825253888",
+            "info": {
+                "w": 256,
+                "h": 143,
+                "size": 266420,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6dbc094a88b77c6d85ad03021e696f41cea0f5131707807632825253888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 143,
+                    "size": 266420,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763066",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763066",
+                "emoticons": [
+                    "🖼"
                 ]
             }
         },
         {
             "body": "🚽 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f63c06bb08476c10e01d3d9d698c9b534be3b9fc",
+            "url": "mxc://matrix.chir.rs/66f8ba03768bfa56736bdc94e21519d25ad253901707807629926989824",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 396109,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f63c06bb08476c10e01d3d9d698c9b534be3b9fc",
+                "thumbnail_url": "mxc://matrix.chir.rs/66f8ba03768bfa56736bdc94e21519d25ad253901707807629926989824",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2357,43 +2270,72 @@
             }
         },
         {
-            "body": "👐 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/8ddbc043ebbcf4b0b6d01bfb7d16742b4cd0a094",
+            "body": "😧 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/66e5828ba445341ae18591520395e506c5d03dc21707807628542869504",
             "info": {
-                "w": 192,
-                "h": 256,
-                "size": 291404,
+                "w": 256,
+                "h": 187,
+                "size": 126127,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8ddbc043ebbcf4b0b6d01bfb7d16742b4cd0a094",
+                "thumbnail_url": "mxc://matrix.chir.rs/66e5828ba445341ae18591520395e506c5d03dc21707807628542869504",
                 "thumbnail_info": {
-                    "w": 192,
-                    "h": 256,
-                    "size": 291404,
+                    "w": 256,
+                    "h": 187,
+                    "size": 126127,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763074",
+            "id": "tg-519045857123763075",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763074",
+                "id": "519045857123763075",
                 "emoticons": [
-                    "👐"
+                    "😧"
+                ]
+            }
+        },
+        {
+            "body": "👨‍🏫 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/c48c03142b6c664c1108116555418c7e69090bad1707807636906311680",
+            "info": {
+                "w": 256,
+                "h": 212,
+                "size": 327400,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c48c03142b6c664c1108116555418c7e69090bad1707807636906311680",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 212,
+                    "size": 327400,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763079",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763079",
+                "emoticons": [
+                    "👨‍🏫"
                 ]
             }
         },
         {
             "body": "👵 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/60d89f7339e41802969f9e5a10181e3a8cc1acda",
+            "url": "mxc://matrix.chir.rs/76beb38b60cd8d5be9a48e683730138cf75a33ee1707807631487270912",
             "info": {
                 "w": 256,
                 "h": 200,
                 "size": 187766,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/60d89f7339e41802969f9e5a10181e3a8cc1acda",
+                "thumbnail_url": "mxc://matrix.chir.rs/76beb38b60cd8d5be9a48e683730138cf75a33ee1707807631487270912",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 200,
@@ -2415,14 +2357,43 @@
             }
         },
         {
+            "body": "👐 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/55f7f933af1f5417e8e91027dc28161c3d24bca11707807631504048128",
+            "info": {
+                "w": 192,
+                "h": 256,
+                "size": 291404,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/55f7f933af1f5417e8e91027dc28161c3d24bca11707807631504048128",
+                "thumbnail_info": {
+                    "w": 192,
+                    "h": 256,
+                    "size": 291404,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763074",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763074",
+                "emoticons": [
+                    "👐"
+                ]
+            }
+        },
+        {
             "body": "🚔 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/9a886df7a86a2316566c333a19bcf1249c654ade",
+            "url": "mxc://matrix.chir.rs/ad5c731e23553d72a4873251b2f6a8fa7c6e18fb1707807645928259584",
             "info": {
                 "w": 256,
                 "h": 200,
                 "size": 128757,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9a886df7a86a2316566c333a19bcf1249c654ade",
+                "thumbnail_url": "mxc://matrix.chir.rs/ad5c731e23553d72a4873251b2f6a8fa7c6e18fb1707807645928259584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 200,
@@ -2445,13 +2416,13 @@
         },
         {
             "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/28c4d66ba78da09dcb3a5778491f785aab351bbf",
+            "url": "mxc://matrix.chir.rs/77a06d2fed518b16d5f39d60554a73a23d4a70631707807634763022336",
             "info": {
                 "w": 243,
                 "h": 256,
                 "size": 257568,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/28c4d66ba78da09dcb3a5778491f785aab351bbf",
+                "thumbnail_url": "mxc://matrix.chir.rs/77a06d2fed518b16d5f39d60554a73a23d4a70631707807634763022336",
                 "thumbnail_info": {
                     "w": 243,
                     "h": 256,
@@ -2473,14 +2444,72 @@
             }
         },
         {
+            "body": "😈 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/54b129e5fa770dbf03704872d517530fd5a522451707807617897725952",
+            "info": {
+                "w": 256,
+                "h": 235,
+                "size": 328188,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/54b129e5fa770dbf03704872d517530fd5a522451707807617897725952",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 235,
+                    "size": 328188,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763050",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763050",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "🥚 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/6211c137f8460f8879969c60c531e81389016a4e1707807635958398976",
+            "info": {
+                "w": 256,
+                "h": 235,
+                "size": 105740,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6211c137f8460f8879969c60c531e81389016a4e1707807635958398976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 235,
+                    "size": 105740,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763082",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763082",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
             "body": "🤠 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/73139011e0092701a82400c7699606f48709d4c9",
+            "url": "mxc://matrix.chir.rs/08d558d4aa183b234af4dafe228811519aa1ab491707807643713667072",
             "info": {
                 "w": 213,
                 "h": 256,
                 "size": 311648,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/73139011e0092701a82400c7699606f48709d4c9",
+                "thumbnail_url": "mxc://matrix.chir.rs/08d558d4aa183b234af4dafe228811519aa1ab491707807643713667072",
                 "thumbnail_info": {
                     "w": 213,
                     "h": 256,
@@ -2502,43 +2531,14 @@
             }
         },
         {
-            "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/8ec1cb8aba25eb2bff25ada9b4c1c1a5fe2915d7",
-            "info": {
-                "w": 256,
-                "h": 251,
-                "size": 219330,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8ec1cb8aba25eb2bff25ada9b4c1c1a5fe2915d7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 251,
-                    "size": 219330,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763084",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763084",
-                "emoticons": [
-                    "🥚"
-                ]
-            }
-        },
-        {
             "body": "😿 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f72a82321f237026ab42bdfc58b978077ad8ba31",
+            "url": "mxc://matrix.chir.rs/188078600ac0ab5e3dcc5a3dfde2029f5aa24d411707807639880073216",
             "info": {
                 "w": 150,
                 "h": 256,
                 "size": 173800,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f72a82321f237026ab42bdfc58b978077ad8ba31",
+                "thumbnail_url": "mxc://matrix.chir.rs/188078600ac0ab5e3dcc5a3dfde2029f5aa24d411707807639880073216",
                 "thumbnail_info": {
                     "w": 150,
                     "h": 256,
@@ -2561,28 +2561,28 @@
         },
         {
             "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/c94230e1229298089f3b491eea183ec6f49a767b",
+            "url": "mxc://matrix.chir.rs/d3281c397a31dfe18878bb09197dc078702f9a801707807652462985216",
             "info": {
                 "w": 256,
-                "h": 235,
-                "size": 105740,
+                "h": 251,
+                "size": 219330,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c94230e1229298089f3b491eea183ec6f49a767b",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3281c397a31dfe18878bb09197dc078702f9a801707807652462985216",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 235,
-                    "size": 105740,
+                    "h": 251,
+                    "size": 219330,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763082",
+            "id": "tg-519045857123763084",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763082",
+                "id": "519045857123763084",
                 "emoticons": [
                     "🥚"
                 ]
@@ -2590,13 +2590,13 @@
         },
         {
             "body": "💗 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/44fd05c2bf76c85925769cc36c058b75cf5ebc7d",
+            "url": "mxc://matrix.chir.rs/fd6e8b077e498f3a42f6b651de0cc7b611a1bf8b1707807640928649216",
             "info": {
                 "w": 192,
                 "h": 256,
                 "size": 392539,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/44fd05c2bf76c85925769cc36c058b75cf5ebc7d",
+                "thumbnail_url": "mxc://matrix.chir.rs/fd6e8b077e498f3a42f6b651de0cc7b611a1bf8b1707807640928649216",
                 "thumbnail_info": {
                     "w": 192,
                     "h": 256,
@@ -2618,14 +2618,43 @@
             }
         },
         {
+            "body": "🔐 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/cff63a89c4b3ba506f49800c3b662680c6f030e91707807627464933376",
+            "info": {
+                "w": 224,
+                "h": 256,
+                "size": 242796,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cff63a89c4b3ba506f49800c3b662680c6f030e91707807627464933376",
+                "thumbnail_info": {
+                    "w": 224,
+                    "h": 256,
+                    "size": 242796,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763065",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763065",
+                "emoticons": [
+                    "🔐"
+                ]
+            }
+        },
+        {
             "body": "🥤 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/376f9e233ccdd8b99b192b453705d4e5a15d3390",
+            "url": "mxc://matrix.chir.rs/96e7a973834f98ec76a4bf1fc941018b6614bfe41707807665750540288",
             "info": {
                 "w": 256,
                 "h": 175,
                 "size": 249454,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/376f9e233ccdd8b99b192b453705d4e5a15d3390",
+                "thumbnail_url": "mxc://matrix.chir.rs/96e7a973834f98ec76a4bf1fc941018b6614bfe41707807665750540288",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 175,
@@ -2647,130 +2676,14 @@
             }
         },
         {
-            "body": "👨‍🏫 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/4778d1f987c0875588822126de02f013a54a31ec",
-            "info": {
-                "w": 256,
-                "h": 212,
-                "size": 327400,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4778d1f987c0875588822126de02f013a54a31ec",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 212,
-                    "size": 327400,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763079",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763079",
-                "emoticons": [
-                    "👨‍🏫"
-                ]
-            }
-        },
-        {
-            "body": "😦 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f9187096c57fae58cccbc81eee5bf28f004fbb23",
-            "info": {
-                "w": 256,
-                "h": 110,
-                "size": 75986,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f9187096c57fae58cccbc81eee5bf28f004fbb23",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 110,
-                    "size": 75986,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763083",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763083",
-                "emoticons": [
-                    "😦"
-                ]
-            }
-        },
-        {
-            "body": "⭐️ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/749f0d569be36edecdf429ea0a93426b9f29e8c9",
-            "info": {
-                "w": 256,
-                "h": 250,
-                "size": 156180,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/749f0d569be36edecdf429ea0a93426b9f29e8c9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 250,
-                    "size": 156180,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763094",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763094",
-                "emoticons": [
-                    "⭐"
-                ]
-            }
-        },
-        {
-            "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/5bb26b45f261ea12e0d20ca0c50b933284c72568",
-            "info": {
-                "w": 256,
-                "h": 175,
-                "size": 226143,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5bb26b45f261ea12e0d20ca0c50b933284c72568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 175,
-                    "size": 226143,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763087",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763087",
-                "emoticons": [
-                    "🥚"
-                ]
-            }
-        },
-        {
             "body": "😿 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d88e0bace0a69c7a3967b7bd39e9f363373cd3c4",
+            "url": "mxc://matrix.chir.rs/6530936291ccf2a59e82e554f210a33b5b72a9b61707807651628318720",
             "info": {
                 "w": 135,
                 "h": 256,
                 "size": 95906,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d88e0bace0a69c7a3967b7bd39e9f363373cd3c4",
+                "thumbnail_url": "mxc://matrix.chir.rs/6530936291ccf2a59e82e554f210a33b5b72a9b61707807651628318720",
                 "thumbnail_info": {
                     "w": 135,
                     "h": 256,
@@ -2792,43 +2705,72 @@
             }
         },
         {
-            "body": "😢 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/c7638c35f505bd8a0d0744f599dc30f205119252",
+            "body": "⭐️ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/de01571670d0db7b9c017d967b451b11f7825ab81707807649149485056",
             "info": {
-                "w": 190,
-                "h": 256,
-                "size": 185234,
+                "w": 256,
+                "h": 250,
+                "size": 156180,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c7638c35f505bd8a0d0744f599dc30f205119252",
+                "thumbnail_url": "mxc://matrix.chir.rs/de01571670d0db7b9c017d967b451b11f7825ab81707807649149485056",
                 "thumbnail_info": {
-                    "w": 190,
-                    "h": 256,
-                    "size": 185234,
+                    "w": 256,
+                    "h": 250,
+                    "size": 156180,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763095",
+            "id": "tg-519045857123763094",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763095",
+                "id": "519045857123763094",
                 "emoticons": [
-                    "😢"
+                    "⭐"
+                ]
+            }
+        },
+        {
+            "body": "😬 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/030fbe050306707ce7dd7162217187e29b046adb1707807643952742400",
+            "info": {
+                "w": 168,
+                "h": 256,
+                "size": 181451,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/030fbe050306707ce7dd7162217187e29b046adb1707807643952742400",
+                "thumbnail_info": {
+                    "w": 168,
+                    "h": 256,
+                    "size": 181451,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763096",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763096",
+                "emoticons": [
+                    "😬"
                 ]
             }
         },
         {
             "body": "😄 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/c3a87fef3fd230a52400352ffca7f5f201ca7f14",
+            "url": "mxc://matrix.chir.rs/7cc6c9c84530c5b46cc8206368a3cec80b3139eb1707807641771704320",
             "info": {
                 "w": 256,
                 "h": 210,
                 "size": 166334,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c3a87fef3fd230a52400352ffca7f5f201ca7f14",
+                "thumbnail_url": "mxc://matrix.chir.rs/7cc6c9c84530c5b46cc8206368a3cec80b3139eb1707807641771704320",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 210,
@@ -2850,72 +2792,43 @@
             }
         },
         {
-            "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d542397cc6cc8a6a2e60645b3dff7e2bd2b3057b",
+            "body": "😢 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/87319b47c2f33382ea76fbf20a4686be17257c5e1707807649317257216",
             "info": {
-                "w": 192,
+                "w": 190,
                 "h": 256,
-                "size": 357434,
+                "size": 185234,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d542397cc6cc8a6a2e60645b3dff7e2bd2b3057b",
+                "thumbnail_url": "mxc://matrix.chir.rs/87319b47c2f33382ea76fbf20a4686be17257c5e1707807649317257216",
                 "thumbnail_info": {
-                    "w": 192,
+                    "w": 190,
                     "h": 256,
-                    "size": 357434,
+                    "size": 185234,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763110",
+            "id": "tg-519045857123763095",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763110",
+                "id": "519045857123763095",
                 "emoticons": [
-                    "🥚"
-                ]
-            }
-        },
-        {
-            "body": "👃 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/fe8362036c55548a4412d7f2fa9618b539830c04",
-            "info": {
-                "w": 256,
-                "h": 223,
-                "size": 289931,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fe8362036c55548a4412d7f2fa9618b539830c04",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 223,
-                    "size": 289931,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763112",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763112",
-                "emoticons": [
-                    "👃"
+                    "😢"
                 ]
             }
         },
         {
             "body": "🛌 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/95b98ab777a836151ddee7f5f9f594176263099a",
+            "url": "mxc://matrix.chir.rs/15fb2e888de00335cbd69c09cd04bbef570d5c541707807662420262912",
             "info": {
                 "w": 203,
                 "h": 256,
                 "size": 227978,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/95b98ab777a836151ddee7f5f9f594176263099a",
+                "thumbnail_url": "mxc://matrix.chir.rs/15fb2e888de00335cbd69c09cd04bbef570d5c541707807662420262912",
                 "thumbnail_info": {
                     "w": 203,
                     "h": 256,
@@ -2938,13 +2851,71 @@
         },
         {
             "body": "👃 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/857ac16d8557afda76c66263cbb3fae68ae8d644",
+            "url": "mxc://matrix.chir.rs/ffb0a215c2704fd07e3263f00aff98dcd9b0c0711707807651548626945",
+            "info": {
+                "w": 256,
+                "h": 223,
+                "size": 289931,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ffb0a215c2704fd07e3263f00aff98dcd9b0c0711707807651548626945",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 223,
+                    "size": 289931,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763112",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763112",
+                "emoticons": [
+                    "👃"
+                ]
+            }
+        },
+        {
+            "body": "🥚 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/34d72d50a6e1dbb43510ebeba22de60c6ff5c1b11707807663913435136",
+            "info": {
+                "w": 192,
+                "h": 256,
+                "size": 357434,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/34d72d50a6e1dbb43510ebeba22de60c6ff5c1b11707807663913435136",
+                "thumbnail_info": {
+                    "w": 192,
+                    "h": 256,
+                    "size": 357434,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763110",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763110",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "👃 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/9da00354587964af6f2de191cb45bc25ebdf2dbc1707807649245954048",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 255023,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/857ac16d8557afda76c66263cbb3fae68ae8d644",
+                "thumbnail_url": "mxc://matrix.chir.rs/9da00354587964af6f2de191cb45bc25ebdf2dbc1707807649245954048",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2967,13 +2938,13 @@
         },
         {
             "body": "🍕 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/ef20c1af62f5ce6dd3c4faff534ec6d6d9e59b39",
+            "url": "mxc://matrix.chir.rs/e05c4d19a73ddda9f27169e2211d4706bedaad0e1707807676064333824",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 240455,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ef20c1af62f5ce6dd3c4faff534ec6d6d9e59b39",
+                "thumbnail_url": "mxc://matrix.chir.rs/e05c4d19a73ddda9f27169e2211d4706bedaad0e1707807676064333824",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2995,246 +2966,14 @@
             }
         },
         {
-            "body": "✅ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/601d5b46cc0c07fa9ca1e5265e5c2955a2726b63",
-            "info": {
-                "w": 256,
-                "h": 93,
-                "size": 67970,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/601d5b46cc0c07fa9ca1e5265e5c2955a2726b63",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 93,
-                    "size": 67970,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763117",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763117",
-                "emoticons": [
-                    "✅"
-                ]
-            }
-        },
-        {
-            "body": "🔑 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/98e01e7c9877263c3b9b303a253cedef45acaf36",
-            "info": {
-                "w": 256,
-                "h": 169,
-                "size": 227586,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/98e01e7c9877263c3b9b303a253cedef45acaf36",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 169,
-                    "size": 227586,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763121",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763121",
-                "emoticons": [
-                    "🔑"
-                ]
-            }
-        },
-        {
             "body": "😇 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/411a9e338a53c2b3f516557607ae1e0eacfa0fef",
-            "info": {
-                "w": 256,
-                "h": 165,
-                "size": 239086,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/411a9e338a53c2b3f516557607ae1e0eacfa0fef",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 165,
-                    "size": 239086,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763119",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763119",
-                "emoticons": [
-                    "😇"
-                ]
-            }
-        },
-        {
-            "body": "😬 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/4b6f9e111043da2e31986fba73013db144531f92",
-            "info": {
-                "w": 168,
-                "h": 256,
-                "size": 181451,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b6f9e111043da2e31986fba73013db144531f92",
-                "thumbnail_info": {
-                    "w": 168,
-                    "h": 256,
-                    "size": 181451,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763096",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763096",
-                "emoticons": [
-                    "😬"
-                ]
-            }
-        },
-        {
-            "body": "💨 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/084f08125eff17dea285416d645bca80ce9dc1cc",
-            "info": {
-                "w": 192,
-                "h": 256,
-                "size": 186478,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/084f08125eff17dea285416d645bca80ce9dc1cc",
-                "thumbnail_info": {
-                    "w": 192,
-                    "h": 256,
-                    "size": 186478,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763114",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763114",
-                "emoticons": [
-                    "💨"
-                ]
-            }
-        },
-        {
-            "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/26fdffd0cfea2d8d46e4f56934afc0f03a8dde2a",
-            "info": {
-                "w": 256,
-                "h": 127,
-                "size": 277108,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26fdffd0cfea2d8d46e4f56934afc0f03a8dde2a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 127,
-                    "size": 277108,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763123",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763123",
-                "emoticons": [
-                    "🥚"
-                ]
-            }
-        },
-        {
-            "body": "🚬 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d45392e31d65a442b2d1f79af88ba762ce7ea67d",
-            "info": {
-                "w": 246,
-                "h": 256,
-                "size": 156057,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d45392e31d65a442b2d1f79af88ba762ce7ea67d",
-                "thumbnail_info": {
-                    "w": 246,
-                    "h": 256,
-                    "size": 156057,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763122",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763122",
-                "emoticons": [
-                    "🚬"
-                ]
-            }
-        },
-        {
-            "body": "⛪️ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/4d3f559f07204ccd0e58e0501394243b3303f440",
-            "info": {
-                "w": 256,
-                "h": 224,
-                "size": 274664,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4d3f559f07204ccd0e58e0501394243b3303f440",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 224,
-                    "size": 274664,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763118",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763118",
-                "emoticons": [
-                    "⛪"
-                ]
-            }
-        },
-        {
-            "body": "😇 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/f8bcba8b64ddbcb855785748dde63384bcb588ea",
+            "url": "mxc://matrix.chir.rs/abc015863f985739d85fd34d9585644832597d641707807651548626944",
             "info": {
                 "w": 256,
                 "h": 252,
                 "size": 342455,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f8bcba8b64ddbcb855785748dde63384bcb588ea",
+                "thumbnail_url": "mxc://matrix.chir.rs/abc015863f985739d85fd34d9585644832597d641707807651548626944",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 252,
@@ -3256,101 +2995,159 @@
             }
         },
         {
-            "body": "👋 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/ba2b6b8e8855dde78a4be3b62160d40ad048a4a5",
-            "info": {
-                "w": 171,
-                "h": 256,
-                "size": 274243,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ba2b6b8e8855dde78a4be3b62160d40ad048a4a5",
-                "thumbnail_info": {
-                    "w": 171,
-                    "h": 256,
-                    "size": 274243,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763124",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763124",
-                "emoticons": [
-                    "👋"
-                ]
-            }
-        },
-        {
-            "body": "😱 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/d86ec9da6c24bc5c7a3a904d192c69d9fc83d4ee",
-            "info": {
-                "w": 223,
-                "h": 256,
-                "size": 212051,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d86ec9da6c24bc5c7a3a904d192c69d9fc83d4ee",
-                "thumbnail_info": {
-                    "w": 223,
-                    "h": 256,
-                    "size": 212051,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763120",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763120",
-                "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "⬅️ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/7ea610aedf4499affa964327d541635da5a8a348",
+            "body": "✅ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/4e6783aa3b9c4fce6217e7257041d2701c86a0c81707807655105396736",
             "info": {
                 "w": 256,
-                "h": 161,
-                "size": 242229,
+                "h": 93,
+                "size": 67970,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7ea610aedf4499affa964327d541635da5a8a348",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e6783aa3b9c4fce6217e7257041d2701c86a0c81707807655105396736",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 161,
-                    "size": 242229,
+                    "h": 93,
+                    "size": 67970,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763020",
+            "id": "tg-519045857123763117",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763020",
+                "id": "519045857123763117",
                 "emoticons": [
-                    "⬅"
+                    "✅"
                 ]
             }
         },
         {
             "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/e5f752604fe8dda3f8458453c076f70ce31eb5cb",
+            "url": "mxc://matrix.chir.rs/0e4ad31169aaeb24877cf95661de73d4f0eea9ad1707807647593398272",
+            "info": {
+                "w": 256,
+                "h": 175,
+                "size": 226143,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0e4ad31169aaeb24877cf95661de73d4f0eea9ad1707807647593398272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 175,
+                    "size": 226143,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763087",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763087",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "😦 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/54b1e4ba7c57beb88a4a1bcdb654ef85ee49c0ef1707807637841641472",
+            "info": {
+                "w": 256,
+                "h": 110,
+                "size": 75986,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/54b1e4ba7c57beb88a4a1bcdb654ef85ee49c0ef1707807637841641472",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 110,
+                    "size": 75986,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763083",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763083",
+                "emoticons": [
+                    "😦"
+                ]
+            }
+        },
+        {
+            "body": "🥚 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/ef9882c7ed29f446be667e5d2ecf236588219cb01707807664714547200",
+            "info": {
+                "w": 256,
+                "h": 127,
+                "size": 277108,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ef9882c7ed29f446be667e5d2ecf236588219cb01707807664714547200",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 127,
+                    "size": 277108,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763123",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763123",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "🥚 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/4cc48a7f88bb176152a277edf6538357fa9a90f31707807658557308928",
+            "info": {
+                "w": 256,
+                "h": 209,
+                "size": 210229,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4cc48a7f88bb176152a277edf6538357fa9a90f31707807658557308928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 209,
+                    "size": 210229,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763126",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763126",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "🥚 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/dcaf0a3442a177a0103736fedbe48e21585a7e921707807662378319872",
             "info": {
                 "w": 181,
                 "h": 256,
                 "size": 473134,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e5f752604fe8dda3f8458453c076f70ce31eb5cb",
+                "thumbnail_url": "mxc://matrix.chir.rs/dcaf0a3442a177a0103736fedbe48e21585a7e921707807662378319872",
                 "thumbnail_info": {
                     "w": 181,
                     "h": 256,
@@ -3372,43 +3169,72 @@
             }
         },
         {
-            "body": "2️⃣ (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/77f95dcc5403df3c0750d1dc10fa7441537bb437",
+            "body": "🔑 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/f27f7f2df0361912e4e72177f180aa765c03781a1707807671240884224",
             "info": {
                 "w": 256,
-                "h": 192,
-                "size": 256471,
+                "h": 169,
+                "size": 227586,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/77f95dcc5403df3c0750d1dc10fa7441537bb437",
+                "thumbnail_url": "mxc://matrix.chir.rs/f27f7f2df0361912e4e72177f180aa765c03781a1707807671240884224",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 192,
-                    "size": 256471,
+                    "h": 169,
+                    "size": 227586,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-519045857123763158",
+            "id": "tg-519045857123763121",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "519045857123762179",
                     "short_name": "NookTrash"
                 },
-                "id": "519045857123763158",
+                "id": "519045857123763121",
                 "emoticons": [
-                    "2⃣"
+                    "🔑"
+                ]
+            }
+        },
+        {
+            "body": "⛪️ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/7cea46522d66974f09cdd9c6ee7fd6db2fb6249b1707807654178455552",
+            "info": {
+                "w": 256,
+                "h": 224,
+                "size": 274664,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7cea46522d66974f09cdd9c6ee7fd6db2fb6249b1707807654178455552",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 224,
+                    "size": 274664,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763118",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763118",
+                "emoticons": [
+                    "⛪"
                 ]
             }
         },
         {
             "body": "🤗 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/71a625e1e4b32903c5cc6051ae31d3c432fc4a93",
+            "url": "mxc://matrix.chir.rs/04a5b08967358ef5138694fab7acd53509d7086c1707807660893536256",
             "info": {
                 "w": 256,
                 "h": 182,
                 "size": 290606,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/71a625e1e4b32903c5cc6051ae31d3c432fc4a93",
+                "thumbnail_url": "mxc://matrix.chir.rs/04a5b08967358ef5138694fab7acd53509d7086c1707807660893536256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 182,
@@ -3430,14 +3256,217 @@
             }
         },
         {
+            "body": "👋 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/e41305cc410056392cc9bd4e916e06d1408d30421707807657017999360",
+            "info": {
+                "w": 171,
+                "h": 256,
+                "size": 274243,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e41305cc410056392cc9bd4e916e06d1408d30421707807657017999360",
+                "thumbnail_info": {
+                    "w": 171,
+                    "h": 256,
+                    "size": 274243,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763124",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763124",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "⬅️ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/3a74f81614489c0d86475fd81525257e33de05351707807660608323584",
+            "info": {
+                "w": 256,
+                "h": 161,
+                "size": 242229,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3a74f81614489c0d86475fd81525257e33de05351707807660608323584",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 161,
+                    "size": 242229,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763020",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763020",
+                "emoticons": [
+                    "⬅"
+                ]
+            }
+        },
+        {
+            "body": "😱 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/f35f2d4aacd108765d6d78d8b1b9342935e443e31707807653280874496",
+            "info": {
+                "w": 223,
+                "h": 256,
+                "size": 212051,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f35f2d4aacd108765d6d78d8b1b9342935e443e31707807653280874496",
+                "thumbnail_info": {
+                    "w": 223,
+                    "h": 256,
+                    "size": 212051,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763120",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763120",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "💨 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/4a9fc94957b232541d75d88952554c76b0ef39e21707807655717765120",
+            "info": {
+                "w": 192,
+                "h": 256,
+                "size": 186478,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4a9fc94957b232541d75d88952554c76b0ef39e21707807655717765120",
+                "thumbnail_info": {
+                    "w": 192,
+                    "h": 256,
+                    "size": 186478,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763114",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763114",
+                "emoticons": [
+                    "💨"
+                ]
+            }
+        },
+        {
+            "body": "2️⃣ (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/84d7910a04d192693370b33f4c06b859307eeb591707807672742445056",
+            "info": {
+                "w": 256,
+                "h": 192,
+                "size": 256471,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/84d7910a04d192693370b33f4c06b859307eeb591707807672742445056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 192,
+                    "size": 256471,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763158",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763158",
+                "emoticons": [
+                    "2⃣"
+                ]
+            }
+        },
+        {
+            "body": "😇 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/0a13463f0f8c594e40bfc70a57af4e0cd664cabc1707807658523754496",
+            "info": {
+                "w": 256,
+                "h": 165,
+                "size": 239086,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0a13463f0f8c594e40bfc70a57af4e0cd664cabc1707807658523754496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 165,
+                    "size": 239086,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763119",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763119",
+                "emoticons": [
+                    "😇"
+                ]
+            }
+        },
+        {
+            "body": "🚬 (WeaselTrash)",
+            "url": "mxc://matrix.chir.rs/04278b0f86119ac98c6a8db3da36d39bee6705a91707807669076623361",
+            "info": {
+                "w": 246,
+                "h": 256,
+                "size": 156057,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/04278b0f86119ac98c6a8db3da36d39bee6705a91707807669076623361",
+                "thumbnail_info": {
+                    "w": 246,
+                    "h": 256,
+                    "size": 156057,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-519045857123763122",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "519045857123762179",
+                    "short_name": "NookTrash"
+                },
+                "id": "519045857123763122",
+                "emoticons": [
+                    "🚬"
+                ]
+            }
+        },
+        {
             "body": "🎖 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/e5d7d1c624c59cc37bfd456feab53404c9a59768",
+            "url": "mxc://matrix.chir.rs/d560afc6852982492b9cadfe243e3488a2d0f6041707807660520243200",
             "info": {
                 "w": 256,
                 "h": 223,
                 "size": 123008,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e5d7d1c624c59cc37bfd456feab53404c9a59768",
+                "thumbnail_url": "mxc://matrix.chir.rs/d560afc6852982492b9cadfe243e3488a2d0f6041707807660520243200",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 223,
@@ -3455,35 +3484,6 @@
                 "id": "519045857123763021",
                 "emoticons": [
                     "🎖"
-                ]
-            }
-        },
-        {
-            "body": "🥚 (WeaselTrash)",
-            "url": "mxc://matrix.chir.rs/2564fda29f0ada21747abf31cc417d05e9efe53b",
-            "info": {
-                "w": 256,
-                "h": 209,
-                "size": 210229,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2564fda29f0ada21747abf31cc417d05e9efe53b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 209,
-                    "size": 210229,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-519045857123763126",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "519045857123762179",
-                    "short_name": "NookTrash"
-                },
-                "id": "519045857123763126",
-                "emoticons": [
-                    "🥚"
                 ]
             }
         }

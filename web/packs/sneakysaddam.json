@@ -7,14 +7,43 @@
     },
     "stickers": [
         {
+            "body": "👺 (SADDAM'S HIDING PLACE)",
+            "url": "mxc://matrix.chir.rs/e240bcffd779ae5fc86c62743c14ecf5929743e21707820366602174464",
+            "info": {
+                "w": 256,
+                "h": 148,
+                "size": 95586,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e240bcffd779ae5fc86c62743c14ecf5929743e21707820366602174464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 148,
+                    "size": 95586,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6008276848985770548",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971786",
+                    "short_name": "sneakysaddam"
+                },
+                "id": "6008276848985770548",
+                "emoticons": [
+                    "👺"
+                ]
+            }
+        },
+        {
             "body": "😶 (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/49ba5402c93fa8183fc3e8c31105b2b70ed13fae",
+            "url": "mxc://matrix.chir.rs/9195d09f267cb3869d5550fd4067e214d25054071707820366660894720",
             "info": {
                 "w": 241,
                 "h": 256,
                 "size": 125948,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/49ba5402c93fa8183fc3e8c31105b2b70ed13fae",
+                "thumbnail_url": "mxc://matrix.chir.rs/9195d09f267cb3869d5550fd4067e214d25054071707820366660894720",
                 "thumbnail_info": {
                     "w": 241,
                     "h": 256,
@@ -37,102 +66,43 @@
             }
         },
         {
-            "body": "👺 (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/cc46bcc7300dc4f6fad283a34866859eebde838b",
+            "body": "‼️ (SADDAM'S HIDING PLACE)",
+            "url": "mxc://matrix.chir.rs/faecaed6de48a9cb4d2536b7c0790de88b7bd83f1707820369412358144",
             "info": {
                 "w": 256,
-                "h": 148,
-                "size": 95586,
+                "h": 116,
+                "size": 161429,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cc46bcc7300dc4f6fad283a34866859eebde838b",
+                "thumbnail_url": "mxc://matrix.chir.rs/faecaed6de48a9cb4d2536b7c0790de88b7bd83f1707820369412358144",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 148,
-                    "size": 95586,
+                    "h": 116,
+                    "size": 161429,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6008276848985770548",
+            "id": "tg-6005729602666761607",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971786",
                     "short_name": "sneakysaddam"
                 },
-                "id": "6008276848985770548",
+                "id": "6005729602666761607",
                 "emoticons": [
-                    "👺"
-                ]
-            }
-        },
-        {
-            "body": "🔰 (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/a2d90a8bff8db269920216ec925b983ca56c88a4",
-            "info": {
-                "w": 24,
-                "h": 256,
-                "size": 9502,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a2d90a8bff8db269920216ec925b983ca56c88a4",
-                "thumbnail_info": {
-                    "w": 24,
-                    "h": 256,
-                    "size": 9502,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6005783886758414580",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971786",
-                    "short_name": "sneakysaddam"
-                },
-                "id": "6005783886758414580",
-                "emoticons": [
-                    "🔰"
-                ]
-            }
-        },
-        {
-            "body": "🚪 (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/1582022a5a4e0c599c1a07fba0a0a8a00783867c",
-            "info": {
-                "w": 256,
-                "h": 81,
-                "size": 82744,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1582022a5a4e0c599c1a07fba0a0a8a00783867c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 81,
-                    "size": 82744,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6005623370945661377",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971786",
-                    "short_name": "sneakysaddam"
-                },
-                "id": "6005623370945661377",
-                "emoticons": [
-                    "🚪",
-                    "🕳"
+                    "‼"
                 ]
             }
         },
         {
             "body": "🌍 (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/c464adb40edb7b9b487516c25ef9276a83891fd4",
+            "url": "mxc://matrix.chir.rs/60a9b58dfb0b8a541ca6c26fa4aec818ea54b7fe1707820372298039296",
             "info": {
                 "w": 256,
                 "h": 21,
                 "size": 18733,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c464adb40edb7b9b487516c25ef9276a83891fd4",
+                "thumbnail_url": "mxc://matrix.chir.rs/60a9b58dfb0b8a541ca6c26fa4aec818ea54b7fe1707820372298039296",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 21,
@@ -155,13 +125,13 @@
         },
         {
             "body": "🔰 (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/787b152c49d535fa11c9d40f7c246114403a0c57",
+            "url": "mxc://matrix.chir.rs/ca9ed58976ad7b566f5fdbee0a0be15a2b7b004d1707820373157871616",
             "info": {
                 "w": 23,
                 "h": 256,
                 "size": 12108,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/787b152c49d535fa11c9d40f7c246114403a0c57",
+                "thumbnail_url": "mxc://matrix.chir.rs/ca9ed58976ad7b566f5fdbee0a0be15a2b7b004d1707820373157871616",
                 "thumbnail_info": {
                     "w": 23,
                     "h": 256,
@@ -184,13 +154,13 @@
         },
         {
             "body": "👺 (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/a06277ed7ec2ae3aa13f7b56c0c2145a4531cd95",
+            "url": "mxc://matrix.chir.rs/ad6b662d80efbddebf45a36a1dd26040296969921707820376542674944",
             "info": {
                 "w": 256,
                 "h": 48,
                 "size": 45622,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a06277ed7ec2ae3aa13f7b56c0c2145a4531cd95",
+                "thumbnail_url": "mxc://matrix.chir.rs/ad6b662d80efbddebf45a36a1dd26040296969921707820376542674944",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 48,
@@ -212,43 +182,44 @@
             }
         },
         {
-            "body": "‼️ (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/e7ac75b174ea67ea2f88ab74b3486d0d16930973",
+            "body": "🚪 (SADDAM'S HIDING PLACE)",
+            "url": "mxc://matrix.chir.rs/472663c144a744a126a1400093fcfa1fce5f115c1707820376542674945",
             "info": {
                 "w": 256,
-                "h": 116,
-                "size": 161429,
+                "h": 81,
+                "size": 82744,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e7ac75b174ea67ea2f88ab74b3486d0d16930973",
+                "thumbnail_url": "mxc://matrix.chir.rs/472663c144a744a126a1400093fcfa1fce5f115c1707820376542674945",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 116,
-                    "size": 161429,
+                    "h": 81,
+                    "size": 82744,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6005729602666761607",
+            "id": "tg-6005623370945661377",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971786",
                     "short_name": "sneakysaddam"
                 },
-                "id": "6005729602666761607",
+                "id": "6005623370945661377",
                 "emoticons": [
-                    "‼"
+                    "🚪",
+                    "🕳"
                 ]
             }
         },
         {
             "body": "‼️ (SADDAM'S HIDING PLACE)",
-            "url": "mxc://matrix.chir.rs/fbbc92dfcf8d3676892c02fb1f920620f2da4e2b",
+            "url": "mxc://matrix.chir.rs/2b881d207e0e8d5b33efdf0da6b03a356fee60671707820379579351040",
             "info": {
                 "w": 256,
                 "h": 52,
                 "size": 86741,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fbbc92dfcf8d3676892c02fb1f920620f2da4e2b",
+                "thumbnail_url": "mxc://matrix.chir.rs/2b881d207e0e8d5b33efdf0da6b03a356fee60671707820379579351040",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 52,
@@ -266,6 +237,35 @@
                 "id": "6005751640143956695",
                 "emoticons": [
                     "‼"
+                ]
+            }
+        },
+        {
+            "body": "🔰 (SADDAM'S HIDING PLACE)",
+            "url": "mxc://matrix.chir.rs/c8894fb3f659cff2b754ad1b44dd69e884580baa1707820381026385920",
+            "info": {
+                "w": 24,
+                "h": 256,
+                "size": 9502,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c8894fb3f659cff2b754ad1b44dd69e884580baa1707820381026385920",
+                "thumbnail_info": {
+                    "w": 24,
+                    "h": 256,
+                    "size": 9502,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6005783886758414580",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971786",
+                    "short_name": "sneakysaddam"
+                },
+                "id": "6005783886758414580",
+                "emoticons": [
+                    "🔰"
                 ]
             }
         }

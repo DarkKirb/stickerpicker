@@ -7,14 +7,43 @@
     },
     "stickers": [
         {
+            "body": "😵 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/1cb358a393c44155a2b77e73fa15d26656be532d1707803192026202112",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159831,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1cb358a393c44155a2b77e73fa15d26656be532d1707803192026202112",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159831,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044535",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044535",
+                "emoticons": [
+                    "😵"
+                ]
+            }
+        },
+        {
             "body": "💩 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/62e05286c797fd7adf661aee56618ba657393fac",
+            "url": "mxc://matrix.chir.rs/c96a81dd21385c33819425b585217b4ac08abfa41707803197071949824",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 186908,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/62e05286c797fd7adf661aee56618ba657393fac",
+                "thumbnail_url": "mxc://matrix.chir.rs/c96a81dd21385c33819425b585217b4ac08abfa41707803197071949824",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -36,72 +65,14 @@
             }
         },
         {
-            "body": "💦 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/70db10cc1086b2d26fc70afedc7394f413f46ceb",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 164183,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/70db10cc1086b2d26fc70afedc7394f413f46ceb",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 164183,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044530",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044530",
-                "emoticons": [
-                    "💦"
-                ]
-            }
-        },
-        {
-            "body": "😮 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/4056a942f585b530f36daae2357b6cf9538a477f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 144073,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4056a942f585b530f36daae2357b6cf9538a477f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 144073,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044534",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044534",
-                "emoticons": [
-                    "😮"
-                ]
-            }
-        },
-        {
             "body": "😻 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/0027aa06e7622ca847e6be6f85ca4319829f91b4",
+            "url": "mxc://matrix.chir.rs/ba3b176a84bf4bd1799b4e4991f46b0ed452bbad1707803191971676160",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 164676,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0027aa06e7622ca847e6be6f85ca4319829f91b4",
+                "thumbnail_url": "mxc://matrix.chir.rs/ba3b176a84bf4bd1799b4e4991f46b0ed452bbad1707803191971676160",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -123,14 +94,130 @@
             }
         },
         {
+            "body": "💦 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/d9fefda33efc19f02499f032fa44f3e0ed58f36a1707803187899006976",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 164183,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d9fefda33efc19f02499f032fa44f3e0ed58f36a1707803187899006976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 164183,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044530",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044530",
+                "emoticons": [
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "🍗 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/7cb34d856ca2899a61135a8790774e4641e1a93a1707803195541028864",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 210667,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7cb34d856ca2899a61135a8790774e4641e1a93a1707803195541028864",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 210667,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044531",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044531",
+                "emoticons": [
+                    "🍗"
+                ]
+            }
+        },
+        {
+            "body": "😳 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/aaee52574a664b6913e4063da61ca13a6d39c75a1707803198921637888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 168377,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aaee52574a664b6913e4063da61ca13a6d39c75a1707803198921637888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 168377,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044529",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044529",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😮 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/3cd8b0999326425565f91be6f0334186d23195621707803195578777600",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 144073,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3cd8b0999326425565f91be6f0334186d23195621707803195578777600",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 144073,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044534",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044534",
+                "emoticons": [
+                    "😮"
+                ]
+            }
+        },
+        {
             "body": "💧 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/f5877c7a26e58eccb6d8377c60ab02bedf10a0a3",
+            "url": "mxc://matrix.chir.rs/c7c6f1283a9dd373588a02f0c8b9bade16c881191707803190151348224",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 182732,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f5877c7a26e58eccb6d8377c60ab02bedf10a0a3",
+                "thumbnail_url": "mxc://matrix.chir.rs/c7c6f1283a9dd373588a02f0c8b9bade16c881191707803190151348224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -153,13 +240,13 @@
         },
         {
             "body": "🧀 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/bdeaa3d3a385d9c258b6dc5a9ec0e8284c54f69b",
+            "url": "mxc://matrix.chir.rs/841635ac0a011404ff0171b3a49f871e196355d71707803193792004096",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 195185,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bdeaa3d3a385d9c258b6dc5a9ec0e8284c54f69b",
+                "thumbnail_url": "mxc://matrix.chir.rs/841635ac0a011404ff0171b3a49f871e196355d71707803193792004096",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -181,188 +268,14 @@
             }
         },
         {
-            "body": "😵 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/a6f4661eabb7c7e52541e4eb9b5e1746f1ca98f7",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 159831,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a6f4661eabb7c7e52541e4eb9b5e1746f1ca98f7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 159831,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044535",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044535",
-                "emoticons": [
-                    "😵"
-                ]
-            }
-        },
-        {
-            "body": "😳 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/b65fd03c96f435619f9cc9cf5fdfd391b659e846",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 168377,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b65fd03c96f435619f9cc9cf5fdfd391b659e846",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 168377,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044529",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044529",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "🍗 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/e2e0142235b4002945a78a96f25786099691fe95",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210667,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2e0142235b4002945a78a96f25786099691fe95",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210667,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044531",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044531",
-                "emoticons": [
-                    "🍗"
-                ]
-            }
-        },
-        {
             "body": "💩 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/228c6988b4442ddbe1af33243f0bb4d50d517e28",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 171600,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/228c6988b4442ddbe1af33243f0bb4d50d517e28",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 171600,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044536",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044536",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
-            "body": "💩 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/ebb94d9668f7f67aeea42b9e4369755118b0f193",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 178243,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ebb94d9668f7f67aeea42b9e4369755118b0f193",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 178243,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044540",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044540",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
-            "body": "💩 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/4138e56d2accf8d29dcbcb2149301a491c20e25f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 165261,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4138e56d2accf8d29dcbcb2149301a491c20e25f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 165261,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1560755703361044538",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1560755703361044485",
-                    "short_name": "BadLemur"
-                },
-                "id": "1560755703361044538",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
-            "body": "💩 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/4710f7421d5a1c8bfd54eb0717c139ab19478da1",
+            "url": "mxc://matrix.chir.rs/561d739445feafab156e035247b1a776ff1fd3011707803198422515712",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 201598,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4710f7421d5a1c8bfd54eb0717c139ab19478da1",
+                "thumbnail_url": "mxc://matrix.chir.rs/561d739445feafab156e035247b1a776ff1fd3011707803198422515712",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -385,13 +298,100 @@
         },
         {
             "body": "💩 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/b8be73aa3380ca554e1203de984ad434aae20e1f",
+            "url": "mxc://matrix.chir.rs/f84ad0c67ec1d587aa22038921b932ee83653bbe1707803193779421184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 171600,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f84ad0c67ec1d587aa22038921b932ee83653bbe1707803193779421184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 171600,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044536",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044536",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "💩 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/77deb273865f49f8bc75aa1a9182e30d0fa7494f1707803196971286528",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 165261,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/77deb273865f49f8bc75aa1a9182e30d0fa7494f1707803196971286528",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 165261,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044538",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044538",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "💩 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/6e434e209ade7e2463fccc7d21793efb0d0e4e521707803209700999168",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 178243,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6e434e209ade7e2463fccc7d21793efb0d0e4e521707803209700999168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 178243,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1560755703361044540",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1560755703361044485",
+                    "short_name": "BadLemur"
+                },
+                "id": "1560755703361044540",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "💩 (BadLemur)",
+            "url": "mxc://matrix.chir.rs/5b3b4d33604f7107192e64cd6e685c721b0e99871707803216441245696",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 162870,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b8be73aa3380ca554e1203de984ad434aae20e1f",
+                "thumbnail_url": "mxc://matrix.chir.rs/5b3b4d33604f7107192e64cd6e685c721b0e99871707803216441245696",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -414,13 +414,13 @@
         },
         {
             "body": "🙊 (BadLemur)",
-            "url": "mxc://matrix.chir.rs/b413f650b617b2bb4fe5a573d290372a9e327c08",
+            "url": "mxc://matrix.chir.rs/e9a0178b8bfca60aa51eea7595270a7c2192eaf41707803201866039296",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 166325,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b413f650b617b2bb4fe5a573d290372a9e327c08",
+                "thumbnail_url": "mxc://matrix.chir.rs/e9a0178b8bfca60aa51eea7595270a7c2192eaf41707803201866039296",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,

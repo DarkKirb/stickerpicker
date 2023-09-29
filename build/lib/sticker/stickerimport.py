@@ -39,8 +39,8 @@ async def reupload_document(client: TelegramClient, document: Document) -> matri
         try:
             mxc = await matrix.upload(data, "image/png", f"{document.id}.png")
             break
-        except:
-            print("E", end="", flush=True)
+        except Exception as e:
+            print(f"{document}: {e}")
     print(".", flush=True)
     return util.make_sticker(mxc, width, height, len(data))
 

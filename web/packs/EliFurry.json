@@ -7,14 +7,43 @@
     },
     "stickers": [
         {
+            "body": "🤗 (Eli)",
+            "url": "mxc://matrix.chir.rs/4046e4bb4bd06abdec2e8bc2269eba0d8eab72771707805583039528960",
+            "info": {
+                "w": 225,
+                "h": 256,
+                "size": 164784,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4046e4bb4bd06abdec2e8bc2269eba0d8eab72771707805583039528960",
+                "thumbnail_info": {
+                    "w": 225,
+                    "h": 256,
+                    "size": 164784,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-336907117417990143",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "336907117417988141",
+                    "short_name": "EliFurry"
+                },
+                "id": "336907117417990143",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
             "body": "😎 (Eli)",
-            "url": "mxc://matrix.chir.rs/56891a77067cc4e87329501d677e622406efd0f2",
+            "url": "mxc://matrix.chir.rs/1526d9e8b05ac0fb8716c366b6842ae58d22fde61707805588022362112",
             "info": {
                 "w": 256,
                 "h": 183,
                 "size": 126175,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/56891a77067cc4e87329501d677e622406efd0f2",
+                "thumbnail_url": "mxc://matrix.chir.rs/1526d9e8b05ac0fb8716c366b6842ae58d22fde61707805588022362112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 183,
@@ -37,136 +66,14 @@
             }
         },
         {
-            "body": "© (Eli)",
-            "url": "mxc://matrix.chir.rs/0bf3626c17f6f12d1612b818056ad4b60ebe5bc9",
-            "info": {
-                "w": 256,
-                "h": 170,
-                "size": 180079,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0bf3626c17f6f12d1612b818056ad4b60ebe5bc9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 170,
-                    "size": 180079,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-336907117417990142",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "336907117417988141",
-                    "short_name": "EliFurry"
-                },
-                "id": "336907117417990142",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
             "body": "☁️ (Eli)",
-            "url": "mxc://matrix.chir.rs/5969d98214be672d21145d4bd66350e521aa0c41",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 144219,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5969d98214be672d21145d4bd66350e521aa0c41",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 144219,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5679448844224430100",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "336907117417988141",
-                    "short_name": "EliFurry"
-                },
-                "id": "5679448844224430100",
-                "emoticons": [
-                    "☁",
-                    "😾",
-                    "😠",
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Eli)",
-            "url": "mxc://matrix.chir.rs/d9cea25e7923bce6bfe54fc82955d3a2dc7d3fe2",
-            "info": {
-                "w": 225,
-                "h": 256,
-                "size": 164784,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d9cea25e7923bce6bfe54fc82955d3a2dc7d3fe2",
-                "thumbnail_info": {
-                    "w": 225,
-                    "h": 256,
-                    "size": 164784,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-336907117417990143",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "336907117417988141",
-                    "short_name": "EliFurry"
-                },
-                "id": "336907117417990143",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "☁️ (Eli)",
-            "url": "mxc://matrix.chir.rs/fcdaad86c263c3374f0e9c326fd33ba6a4fe7c0c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 151239,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fcdaad86c263c3374f0e9c326fd33ba6a4fe7c0c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 151239,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5753776019240648707",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "336907117417988141",
-                    "short_name": "EliFurry"
-                },
-                "id": "5753776019240648707",
-                "emoticons": [
-                    "☁",
-                    "😾",
-                    "😠",
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "☁️ (Eli)",
-            "url": "mxc://matrix.chir.rs/5f6c41781fd2d8fc7f6de2901133cf9d6f92ad36",
+            "url": "mxc://matrix.chir.rs/69cd305cfcdab763c9a82ea1762a065fd54739f71707805586566938624",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 149144,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5f6c41781fd2d8fc7f6de2901133cf9d6f92ad36",
+                "thumbnail_url": "mxc://matrix.chir.rs/69cd305cfcdab763c9a82ea1762a065fd54739f71707805586566938624",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -191,43 +98,14 @@
             }
         },
         {
-            "body": "😔 (Eli)",
-            "url": "mxc://matrix.chir.rs/d794e88c7e834d7a63280facb45575fe6bea426b",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 187389,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d794e88c7e834d7a63280facb45575fe6bea426b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 187389,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-336907117417990140",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "336907117417988141",
-                    "short_name": "EliFurry"
-                },
-                "id": "336907117417990140",
-                "emoticons": [
-                    "😔"
-                ]
-            }
-        },
-        {
             "body": "🤗 (Eli)",
-            "url": "mxc://matrix.chir.rs/bfae74fc1a4a0ab873e48628dc8d8a985b0d6650",
+            "url": "mxc://matrix.chir.rs/59eeb8cf697b09f7af52c4827dd9b12bc8421a951707805600160677888",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 218310,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bfae74fc1a4a0ab873e48628dc8d8a985b0d6650",
+                "thumbnail_url": "mxc://matrix.chir.rs/59eeb8cf697b09f7af52c4827dd9b12bc8421a951707805600160677888",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -250,58 +128,58 @@
             }
         },
         {
-            "body": "🥞 (Eli)",
-            "url": "mxc://matrix.chir.rs/3c4190e6d20c5e691770ce62f6047c0b85fab45b",
+            "body": "© (Eli)",
+            "url": "mxc://matrix.chir.rs/140825aa4e8d8b7948c3d2ac7eb1eb8cb6c2c4c01707805598818500608",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 137165,
+                "h": 170,
+                "size": 180079,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3c4190e6d20c5e691770ce62f6047c0b85fab45b",
+                "thumbnail_url": "mxc://matrix.chir.rs/140825aa4e8d8b7948c3d2ac7eb1eb8cb6c2c4c01707805598818500608",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 137165,
+                    "h": 170,
+                    "size": 180079,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5726520461722910727",
+            "id": "tg-336907117417990142",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "336907117417988141",
                     "short_name": "EliFurry"
                 },
-                "id": "5726520461722910727",
+                "id": "336907117417990142",
                 "emoticons": [
-                    "🥞"
+                    "©"
                 ]
             }
         },
         {
             "body": "☁️ (Eli)",
-            "url": "mxc://matrix.chir.rs/809b6ff64a73f80854272fe81645852f63df3358",
+            "url": "mxc://matrix.chir.rs/799de9f32a7e5b4586d4f57cb1e14a19a6c809301707805584910188544",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 162962,
+                "size": 151239,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/809b6ff64a73f80854272fe81645852f63df3358",
+                "thumbnail_url": "mxc://matrix.chir.rs/799de9f32a7e5b4586d4f57cb1e14a19a6c809301707805584910188544",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 162962,
+                    "size": 151239,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5755910459072970757",
+            "id": "tg-5753776019240648707",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "336907117417988141",
                     "short_name": "EliFurry"
                 },
-                "id": "5755910459072970757",
+                "id": "5753776019240648707",
                 "emoticons": [
                     "☁",
                     "😾",
@@ -311,72 +189,44 @@
             }
         },
         {
-            "body": "©️ (Eli)",
-            "url": "mxc://matrix.chir.rs/80ecfc08b5f4cf0f3438b7f898cefbd41fd1eae4",
+            "body": "🥺 (Eli)",
+            "url": "mxc://matrix.chir.rs/d213fa5b3ef68b538d7d0615fa14dfa716d824151707805591717543936",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 203761,
+                "size": 183520,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/80ecfc08b5f4cf0f3438b7f898cefbd41fd1eae4",
+                "thumbnail_url": "mxc://matrix.chir.rs/d213fa5b3ef68b538d7d0615fa14dfa716d824151707805591717543936",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 203761,
+                    "size": 183520,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5676856865821032480",
+            "id": "tg-5589433875957809154",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "336907117417988141",
                     "short_name": "EliFurry"
                 },
-                "id": "5676856865821032480",
+                "id": "5589433875957809154",
                 "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "👩‍🚀 (Eli)",
-            "url": "mxc://matrix.chir.rs/840ae7b4811522110ab82b4afe764b579a50732a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 119252,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/840ae7b4811522110ab82b4afe764b579a50732a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 119252,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5623197279591596043",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "336907117417988141",
-                    "short_name": "EliFurry"
-                },
-                "id": "5623197279591596043",
-                "emoticons": [
-                    "👩‍🚀"
+                    "🥺",
+                    "📞"
                 ]
             }
         },
         {
             "body": "😯 (Eli)",
-            "url": "mxc://matrix.chir.rs/28c4e7adc771a69f056aa3c597ae3da421928fe7",
+            "url": "mxc://matrix.chir.rs/64ed32a241d89a3a4b0149afdd51241cfd4a17951707805597711204352",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 191096,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/28c4e7adc771a69f056aa3c597ae3da421928fe7",
+                "thumbnail_url": "mxc://matrix.chir.rs/64ed32a241d89a3a4b0149afdd51241cfd4a17951707805597711204352",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -400,14 +250,43 @@
             }
         },
         {
+            "body": "😔 (Eli)",
+            "url": "mxc://matrix.chir.rs/e4e7ebb9257e41c1b5193bf5bdc81812dcb65e411707805605416140800",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187389,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e4e7ebb9257e41c1b5193bf5bdc81812dcb65e411707805605416140800",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187389,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-336907117417990140",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "336907117417988141",
+                    "short_name": "EliFurry"
+                },
+                "id": "336907117417990140",
+                "emoticons": [
+                    "😔"
+                ]
+            }
+        },
+        {
             "body": "👨‍🍳 (Eli)",
-            "url": "mxc://matrix.chir.rs/8f0a620f1574ee65d9939e8a89eeb0142862fc50",
+            "url": "mxc://matrix.chir.rs/b51b15cde7b732505dfa8b72ba9f95390c0482ac1707805593625952256",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 184471,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8f0a620f1574ee65d9939e8a89eeb0142862fc50",
+                "thumbnail_url": "mxc://matrix.chir.rs/b51b15cde7b732505dfa8b72ba9f95390c0482ac1707805593625952256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -429,44 +308,14 @@
             }
         },
         {
-            "body": "🥺 (Eli)",
-            "url": "mxc://matrix.chir.rs/837255d46d725c9188cd834ca6b9db5e6331461f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 183520,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/837255d46d725c9188cd834ca6b9db5e6331461f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 183520,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5589433875957809154",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "336907117417988141",
-                    "short_name": "EliFurry"
-                },
-                "id": "5589433875957809154",
-                "emoticons": [
-                    "🥺",
-                    "📞"
-                ]
-            }
-        },
-        {
             "body": "🛏 (Eli)",
-            "url": "mxc://matrix.chir.rs/2cb783c09131744adaa5ee4333c5518a0261adb9",
+            "url": "mxc://matrix.chir.rs/e6b44b170fc37ac7746e613768bc1d60b08575fa1707805602127806464",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 109697,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2cb783c09131744adaa5ee4333c5518a0261adb9",
+                "thumbnail_url": "mxc://matrix.chir.rs/e6b44b170fc37ac7746e613768bc1d60b08575fa1707805602127806464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -484,6 +333,157 @@
                 "id": "5620886634430988294",
                 "emoticons": [
                     "🛏"
+                ]
+            }
+        },
+        {
+            "body": "👩‍🚀 (Eli)",
+            "url": "mxc://matrix.chir.rs/68cd7da0c639b047596246519af37f9b8730ccb91707805595014266880",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 119252,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/68cd7da0c639b047596246519af37f9b8730ccb91707805595014266880",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 119252,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5623197279591596043",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "336907117417988141",
+                    "short_name": "EliFurry"
+                },
+                "id": "5623197279591596043",
+                "emoticons": [
+                    "👩‍🚀"
+                ]
+            }
+        },
+        {
+            "body": "©️ (Eli)",
+            "url": "mxc://matrix.chir.rs/83f39715deadc51231bc590ab06678373257ccd31707805593575620608",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 203761,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/83f39715deadc51231bc590ab06678373257ccd31707805593575620608",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 203761,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5676856865821032480",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "336907117417988141",
+                    "short_name": "EliFurry"
+                },
+                "id": "5676856865821032480",
+                "emoticons": [
+                    "©"
+                ]
+            }
+        },
+        {
+            "body": "☁️ (Eli)",
+            "url": "mxc://matrix.chir.rs/b9310a12bb64ac9001a91ef7228d40b29f6d1fb41707805589456814080",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 144219,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b9310a12bb64ac9001a91ef7228d40b29f6d1fb41707805589456814080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 144219,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5679448844224430100",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "336907117417988141",
+                    "short_name": "EliFurry"
+                },
+                "id": "5679448844224430100",
+                "emoticons": [
+                    "☁",
+                    "😾",
+                    "😠",
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🥞 (Eli)",
+            "url": "mxc://matrix.chir.rs/9126bac4ded4b4968ba543d5d6d81322563df1f81707805591709155328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 137165,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9126bac4ded4b4968ba543d5d6d81322563df1f81707805591709155328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 137165,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5726520461722910727",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "336907117417988141",
+                    "short_name": "EliFurry"
+                },
+                "id": "5726520461722910727",
+                "emoticons": [
+                    "🥞"
+                ]
+            }
+        },
+        {
+            "body": "☁️ (Eli)",
+            "url": "mxc://matrix.chir.rs/aa4f02f77b2b13fa3a2cf9af2e01895b130e7d2c1707805595018461184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 162962,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aa4f02f77b2b13fa3a2cf9af2e01895b130e7d2c1707805595018461184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 162962,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5755910459072970757",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "336907117417988141",
+                    "short_name": "EliFurry"
+                },
+                "id": "5755910459072970757",
+                "emoticons": [
+                    "☁",
+                    "😾",
+                    "😠",
+                    "😡"
                 ]
             }
         }

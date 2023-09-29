@@ -7,14 +7,46 @@
     },
     "stickers": [
         {
+            "body": "🥞 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/048d64178f316bbe24925049f9ceced4c559d1851707803503092563968",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142949,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/048d64178f316bbe24925049f9ceced4c559d1851707803503092563968",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142949,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5154427347562135931",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "5154427347562135931",
+                "emoticons": [
+                    "🦊",
+                    "🥞",
+                    "🐊",
+                    "🌻"
+                ]
+            }
+        },
+        {
             "body": "🤤 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/c4966a8664be74200ebb281b8878189cad6bf300",
+            "url": "mxc://matrix.chir.rs/20a1564cda410f3b191584e2c5fc3debb54916ba1707803501653917696",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 276368,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4966a8664be74200ebb281b8878189cad6bf300",
+                "thumbnail_url": "mxc://matrix.chir.rs/20a1564cda410f3b191584e2c5fc3debb54916ba1707803501653917696",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -40,78 +72,48 @@
             }
         },
         {
-            "body": "🥞 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/b341dedc180c0902224aeb7bc66622ee99e7e5e8",
+            "body": "🙌 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/28fad80331aa6f88471e1a8fd41b3b4ef877a21e1707803511124656128",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 142949,
+                "size": 143661,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b341dedc180c0902224aeb7bc66622ee99e7e5e8",
+                "thumbnail_url": "mxc://matrix.chir.rs/28fad80331aa6f88471e1a8fd41b3b4ef877a21e1707803511124656128",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 142949,
+                    "size": 143661,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5154427347562135931",
+            "id": "tg-5120878623573672462",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "5154427347562135931",
+                "id": "5120878623573672462",
                 "emoticons": [
-                    "🦊",
-                    "🥞",
-                    "🐊",
-                    "🌻"
-                ]
-            }
-        },
-        {
-            "body": "😔 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/e2f8b006e5de3726ca9f0348389c6a83662bc77c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166979,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2f8b006e5de3726ca9f0348389c6a83662bc77c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166979,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5122960011969954285",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "5122960011969954285",
-                "emoticons": [
-                    "🦊",
                     "🌻",
-                    "😔",
-                    "🤠"
+                    "🙌",
+                    "👐",
+                    "🔥",
+                    "😀",
+                    "😃"
                 ]
             }
         },
         {
             "body": "✨ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/ac3f701a09c4648bc4a7b9917b8030680c25fadf",
+            "url": "mxc://matrix.chir.rs/d431d8fc6de82cb2f34b7008062199c4e23cf0eb1707803534407237632",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 163902,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ac3f701a09c4648bc4a7b9917b8030680c25fadf",
+                "thumbnail_url": "mxc://matrix.chir.rs/d431d8fc6de82cb2f34b7008062199c4e23cf0eb1707803534407237632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -143,29 +145,95 @@
             }
         },
         {
-            "body": "🙌 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/b4f4ae0d95dfad568caba166b386e5ede75aa5c7",
+            "body": "😔 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/df979b25c8d3c53037cf45daf0d9a9385c8e05281707803507546914816",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 143661,
+                "size": 166979,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b4f4ae0d95dfad568caba166b386e5ede75aa5c7",
+                "thumbnail_url": "mxc://matrix.chir.rs/df979b25c8d3c53037cf45daf0d9a9385c8e05281707803507546914816",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 143661,
+                    "size": 166979,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5120878623573672462",
+            "id": "tg-5122960011969954285",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "5120878623573672462",
+                "id": "5122960011969954285",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "😔",
+                    "🤠"
+                ]
+            }
+        },
+        {
+            "body": "🎄 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/2a9a457e3161bf406e69e45e1b0bdb08bb39e9411707803525083299840",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190320,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2a9a457e3161bf406e69e45e1b0bdb08bb39e9411707803525083299840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190320,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5049006683792081483",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "5049006683792081483",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "🎄",
+                    "💝",
+                    "🎁",
+                    "🌹"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/0e297c092f2f756b44ac4e0c3f865971d410eb851707803509144944640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209181,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0e297c092f2f756b44ac4e0c3f865971d410eb851707803509144944640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209181,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5120711257288081733",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "5120711257288081733",
                 "emoticons": [
                     "🌻",
                     "🙌",
@@ -177,46 +245,14 @@
             }
         },
         {
-            "body": "🎄 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/4e47216810b0da0b957309a174128a1266bd615f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184240,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e47216810b0da0b957309a174128a1266bd615f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184240,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5060146901244969421",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "5060146901244969421",
-                "emoticons": [
-                    "🦊",
-                    "🎄",
-                    "💝",
-                    "🎁"
-                ]
-            }
-        },
-        {
             "body": "👌 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/d5d5b34c1d25d313def6bf8f544f0b53b1cd1622",
+            "url": "mxc://matrix.chir.rs/0ed608840adfb5a6cc1c1975560f9b5995b7d0971707803505021943808",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 186950,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d5d5b34c1d25d313def6bf8f544f0b53b1cd1622",
+                "thumbnail_url": "mxc://matrix.chir.rs/0ed608840adfb5a6cc1c1975560f9b5995b7d0971707803505021943808",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -243,14 +279,80 @@
             }
         },
         {
+            "body": "🤩 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/37ee395677e0932376175260fe0bc2a69d147e4e1707803513842565120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 248312,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/37ee395677e0932376175260fe0bc2a69d147e4e1707803513842565120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 248312,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111892",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111892",
+                "emoticons": [
+                    "🌻",
+                    "😃",
+                    "🤩",
+                    "😍",
+                    "🥰",
+                    "🧡"
+                ]
+            }
+        },
+        {
+            "body": "🎄 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/0d42d04a1ecf1afcb8505c04a07388c63c967c131707803515943911424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 184240,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0d42d04a1ecf1afcb8505c04a07388c63c967c131707803515943911424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 184240,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5060146901244969421",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "5060146901244969421",
+                "emoticons": [
+                    "🦊",
+                    "🎄",
+                    "💝",
+                    "🎁"
+                ]
+            }
+        },
+        {
             "body": "🎉 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/46b3733c3b577b4f0c27daa402d759ad4022b219",
+            "url": "mxc://matrix.chir.rs/37b95c7951dda4d38e1ae2cf716a1eef580220331707803506473172992",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 194999,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/46b3733c3b577b4f0c27daa402d759ad4022b219",
+                "thumbnail_url": "mxc://matrix.chir.rs/37b95c7951dda4d38e1ae2cf716a1eef580220331707803506473172992",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -281,13 +383,13 @@
         },
         {
             "body": "🤗 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/8dd5e6c26e3cc13727eff6f85c5179d52a9d10d2",
+            "url": "mxc://matrix.chir.rs/f803c1370e5189d4629268fc8c74028bd66164521707803524848418816",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 271358,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8dd5e6c26e3cc13727eff6f85c5179d52a9d10d2",
+                "thumbnail_url": "mxc://matrix.chir.rs/f803c1370e5189d4629268fc8c74028bd66164521707803524848418816",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -311,151 +413,14 @@
             }
         },
         {
-            "body": "🎄 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/260537931e716f39961329e4d7afda64c8f56eea",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190320,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/260537931e716f39961329e4d7afda64c8f56eea",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190320,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5049006683792081483",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "5049006683792081483",
-                "emoticons": [
-                    "🦊",
-                    "🌻",
-                    "🎄",
-                    "💝",
-                    "🎁",
-                    "🌹"
-                ]
-            }
-        },
-        {
-            "body": "🙌 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/84fbe5b8f753fa00443bc37101e953c8f1fb3ef8",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209181,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/84fbe5b8f753fa00443bc37101e953c8f1fb3ef8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209181,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5120711257288081733",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "5120711257288081733",
-                "emoticons": [
-                    "🌻",
-                    "🙌",
-                    "👐",
-                    "🔥",
-                    "😀",
-                    "😃"
-                ]
-            }
-        },
-        {
-            "body": "🤩 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/af6b869e7aaae7873492154f0ed957d43832c8b6",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 248312,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/af6b869e7aaae7873492154f0ed957d43832c8b6",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 248312,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111892",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111892",
-                "emoticons": [
-                    "🌻",
-                    "😃",
-                    "🤩",
-                    "😍",
-                    "🥰",
-                    "🧡"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/50ee65950fcee64df16e3fa255e3f8c95bda868f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220159,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/50ee65950fcee64df16e3fa255e3f8c95bda868f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220159,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111805",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111805",
-                "emoticons": [
-                    "🌻",
-                    "👌",
-                    "🥰",
-                    "☺",
-                    "😊",
-                    "🐝",
-                    "🧚"
-                ]
-            }
-        },
-        {
             "body": "😌 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/49fdc61578e98fbbadaeae91b383113f0311d65c",
+            "url": "mxc://matrix.chir.rs/cc53eb32f0a86002bce284cd84622997f2c138d21707803512420696064",
             "info": {
                 "w": 191,
                 "h": 256,
                 "size": 141633,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/49fdc61578e98fbbadaeae91b383113f0311d65c",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc53eb32f0a86002bce284cd84622997f2c138d21707803512420696064",
                 "thumbnail_info": {
                     "w": 191,
                     "h": 256,
@@ -484,47 +449,14 @@
             }
         },
         {
-            "body": "🧡 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/7e2588aeb918cce43e0203723ecfdf2a0146e659",
-            "info": {
-                "w": 225,
-                "h": 256,
-                "size": 228147,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7e2588aeb918cce43e0203723ecfdf2a0146e659",
-                "thumbnail_info": {
-                    "w": 225,
-                    "h": 256,
-                    "size": 228147,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111772",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111772",
-                "emoticons": [
-                    "🏳‍🌈",
-                    "🌻",
-                    "😀",
-                    "🧡",
-                    "💚"
-                ]
-            }
-        },
-        {
             "body": "ℹ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/ab5c8b4264f3708d8dcbd69cf0f2965c25bb0936",
+            "url": "mxc://matrix.chir.rs/2c04729184695cfb55fab8a568d4de7fc3fda3db1707803523372023808",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 203846,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ab5c8b4264f3708d8dcbd69cf0f2965c25bb0936",
+                "thumbnail_url": "mxc://matrix.chir.rs/2c04729184695cfb55fab8a568d4de7fc3fda3db1707803523372023808",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -546,80 +478,49 @@
             }
         },
         {
-            "body": "🤠 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/b3a90a5b25d2c8163027e7a777bf7174a7a42bf5",
+            "body": "☺️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/3aa68c39f9a386630a18159a60383430a353d25a1707803514694008832",
             "info": {
-                "w": 216,
+                "w": 256,
                 "h": 256,
-                "size": 221575,
+                "size": 220159,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b3a90a5b25d2c8163027e7a777bf7174a7a42bf5",
+                "thumbnail_url": "mxc://matrix.chir.rs/3aa68c39f9a386630a18159a60383430a353d25a1707803514694008832",
                 "thumbnail_info": {
-                    "w": 216,
+                    "w": 256,
                     "h": 256,
-                    "size": 221575,
+                    "size": 220159,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111693",
+            "id": "tg-2393354226295111805",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111693",
+                "id": "2393354226295111805",
                 "emoticons": [
                     "🌻",
-                    "🤠",
-                    "🔫",
-                    "🦋"
-                ]
-            }
-        },
-        {
-            "body": "🏳️‍🌈 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/26e12d52628fce4b4805ee4d677399b6bcf31e6d",
-            "info": {
-                "w": 192,
-                "h": 256,
-                "size": 180874,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26e12d52628fce4b4805ee4d677399b6bcf31e6d",
-                "thumbnail_info": {
-                    "w": 192,
-                    "h": 256,
-                    "size": 180874,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111774",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111774",
-                "emoticons": [
-                    "🏳‍🌈",
-                    "🌻",
-                    "🧡",
-                    "💚",
-                    "😉",
-                    "😘"
+                    "👌",
+                    "🥰",
+                    "☺",
+                    "😊",
+                    "🐝",
+                    "🧚"
                 ]
             }
         },
         {
             "body": "🎆 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/173e12564a3a04efe6a27e53355c647298cece54",
+            "url": "mxc://matrix.chir.rs/a4e066aeee7c30152bda166753550008fcc4a6be1707803521170014208",
             "info": {
                 "w": 256,
                 "h": 235,
                 "size": 309773,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/173e12564a3a04efe6a27e53355c647298cece54",
+                "thumbnail_url": "mxc://matrix.chir.rs/a4e066aeee7c30152bda166753550008fcc4a6be1707803521170014208",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 235,
@@ -646,46 +547,14 @@
             }
         },
         {
-            "body": "💗 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/e463f316943d911bb26e919e66a4b8b4b7490955",
-            "info": {
-                "w": 256,
-                "h": 216,
-                "size": 329913,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e463f316943d911bb26e919e66a4b8b4b7490955",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 216,
-                    "size": 329913,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111759",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111759",
-                "emoticons": [
-                    "🦊",
-                    "🌻",
-                    "💗",
-                    "🧁"
-                ]
-            }
-        },
-        {
             "body": "🎄 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/abc15c32ffd187e889d5c58dc6daaa1d5c38d748",
+            "url": "mxc://matrix.chir.rs/afdae16c0936e397b629c3220d8dd5ee06f71cfa1707803515939717120",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 363179,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/abc15c32ffd187e889d5c58dc6daaa1d5c38d748",
+                "thumbnail_url": "mxc://matrix.chir.rs/afdae16c0936e397b629c3220d8dd5ee06f71cfa1707803515939717120",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -714,14 +583,43 @@
             }
         },
         {
+            "body": "ℹ️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/3e883ba73eb895de828d08c17968f79c25d293f51707803519194497024",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 39572,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3e883ba73eb895de828d08c17968f79c25d293f51707803519194497024",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 39572,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111776",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111776",
+                "emoticons": [
+                    "ℹ"
+                ]
+            }
+        },
+        {
             "body": "🎄 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/2fcbce8812a34707a400097871324383497de463",
+            "url": "mxc://matrix.chir.rs/056db25b5f6df432a8c2673c27d825427a151bf61707803521144848384",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 391781,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2fcbce8812a34707a400097871324383497de463",
+                "thumbnail_url": "mxc://matrix.chir.rs/056db25b5f6df432a8c2673c27d825427a151bf61707803521144848384",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -748,172 +646,113 @@
             }
         },
         {
-            "body": "ℹ️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/4396d20a27d33fd9689dc10a5419b23e1b9f46b0",
+            "body": "🏳️‍🌈 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/556fb6d68d20cadfe696a39a92d34b4842e234841707803530603003904",
             "info": {
-                "w": 256,
+                "w": 192,
                 "h": 256,
-                "size": 39572,
+                "size": 180874,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4396d20a27d33fd9689dc10a5419b23e1b9f46b0",
+                "thumbnail_url": "mxc://matrix.chir.rs/556fb6d68d20cadfe696a39a92d34b4842e234841707803530603003904",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 192,
                     "h": 256,
-                    "size": 39572,
+                    "size": 180874,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111776",
+            "id": "tg-2393354226295111774",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111776",
+                "id": "2393354226295111774",
                 "emoticons": [
-                    "ℹ"
+                    "🏳‍🌈",
+                    "🌻",
+                    "🧡",
+                    "💚",
+                    "😉",
+                    "😘"
                 ]
             }
         },
         {
-            "body": "🏖️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/e14bf12cc77a8d0fa773656e562d91f405ce0681",
+            "body": "🤠 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/336842595970cbd39922676d276c78a277f81ac81707803518393384960",
             "info": {
-                "w": 230,
+                "w": 216,
                 "h": 256,
-                "size": 242497,
+                "size": 221575,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e14bf12cc77a8d0fa773656e562d91f405ce0681",
+                "thumbnail_url": "mxc://matrix.chir.rs/336842595970cbd39922676d276c78a277f81ac81707803518393384960",
                 "thumbnail_info": {
-                    "w": 230,
+                    "w": 216,
                     "h": 256,
-                    "size": 242497,
+                    "size": 221575,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111802",
+            "id": "tg-2393354226295111693",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111802",
+                "id": "2393354226295111693",
                 "emoticons": [
                     "🌻",
-                    "🧁",
-                    "🏖",
-                    "⛱",
-                    "👙"
+                    "🤠",
+                    "🔫",
+                    "🦋"
                 ]
             }
         },
         {
-            "body": "😻 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/88b253c36b78aea5561586b928d1aa7ac67f5d18",
+            "body": "🧡 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/a324d09d0b4399215d47049582fddb905aa3cea61707803517059596288",
             "info": {
-                "w": 256,
-                "h": 153,
-                "size": 158661,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/88b253c36b78aea5561586b928d1aa7ac67f5d18",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 153,
-                    "size": 158661,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111803",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111803",
-                "emoticons": [
-                    "🌻",
-                    "🧁",
-                    "😻",
-                    "😽",
-                    "😼"
-                ]
-            }
-        },
-        {
-            "body": "ℹ️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/ba1c8fae47e9c73d85465a39a897ab8cf7793a3f",
-            "info": {
-                "w": 256,
+                "w": 225,
                 "h": 256,
-                "size": 302765,
+                "size": 228147,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ba1c8fae47e9c73d85465a39a897ab8cf7793a3f",
+                "thumbnail_url": "mxc://matrix.chir.rs/a324d09d0b4399215d47049582fddb905aa3cea61707803517059596288",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 225,
                     "h": 256,
-                    "size": 302765,
+                    "size": 228147,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111909",
+            "id": "tg-2393354226295111772",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111909",
+                "id": "2393354226295111772",
                 "emoticons": [
-                    "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "👅 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/26c1a6eac6dca047e8bae44f2056226116dde9e7",
-            "info": {
-                "w": 256,
-                "h": 219,
-                "size": 172960,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26c1a6eac6dca047e8bae44f2056226116dde9e7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 219,
-                    "size": 172960,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112294",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112294",
-                "emoticons": [
-                    "👅",
-                    "😛",
-                    "😝",
-                    "😜",
-                    "😋",
-                    "🤪"
+                    "🏳‍🌈",
+                    "🌻",
+                    "😀",
+                    "🧡",
+                    "💚"
                 ]
             }
         },
         {
             "body": "😒 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/86e6c4aff5ac4c50dee946c150fb26368551f8ce",
+            "url": "mxc://matrix.chir.rs/08972fd5896ca7b3b58c1a6737870a78c1e11b7f1707803526098321408",
             "info": {
                 "w": 201,
                 "h": 256,
                 "size": 257769,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/86e6c4aff5ac4c50dee946c150fb26368551f8ce",
+                "thumbnail_url": "mxc://matrix.chir.rs/08972fd5896ca7b3b58c1a6737870a78c1e11b7f1707803526098321408",
                 "thumbnail_info": {
                     "w": 201,
                     "h": 256,
@@ -941,14 +780,146 @@
             }
         },
         {
+            "body": "👅 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/eb9b3016d5ec2574aa054da4d2725422f76dd9981707803545333399552",
+            "info": {
+                "w": 256,
+                "h": 219,
+                "size": 172960,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb9b3016d5ec2574aa054da4d2725422f76dd9981707803545333399552",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 219,
+                    "size": 172960,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112294",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112294",
+                "emoticons": [
+                    "👅",
+                    "😛",
+                    "😝",
+                    "😜",
+                    "😋",
+                    "🤪"
+                ]
+            }
+        },
+        {
+            "body": "🏖️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/0780ba9286bc7073d2f79f2f38d74dcdee28035e1707803527729905664",
+            "info": {
+                "w": 230,
+                "h": 256,
+                "size": 242497,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0780ba9286bc7073d2f79f2f38d74dcdee28035e1707803527729905664",
+                "thumbnail_info": {
+                    "w": 230,
+                    "h": 256,
+                    "size": 242497,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111802",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111802",
+                "emoticons": [
+                    "🌻",
+                    "🧁",
+                    "🏖",
+                    "⛱",
+                    "👙"
+                ]
+            }
+        },
+        {
+            "body": "😻 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/e385a40f7b205e8508904cf2363f9b8edea427b31707803568708255744",
+            "info": {
+                "w": 256,
+                "h": 153,
+                "size": 158661,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e385a40f7b205e8508904cf2363f9b8edea427b31707803568708255744",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 153,
+                    "size": 158661,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111803",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111803",
+                "emoticons": [
+                    "🌻",
+                    "🧁",
+                    "😻",
+                    "😽",
+                    "😼"
+                ]
+            }
+        },
+        {
             "body": "💗 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/c3acb34d02b5ebc8bf1f3af41d388f6df646812a",
+            "url": "mxc://matrix.chir.rs/34591625afa7bb5f35d559ae8d03823914df9e151707803523321692160",
+            "info": {
+                "w": 256,
+                "h": 216,
+                "size": 329913,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/34591625afa7bb5f35d559ae8d03823914df9e151707803523321692160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 216,
+                    "size": 329913,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111759",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111759",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "💗",
+                    "🧁"
+                ]
+            }
+        },
+        {
+            "body": "💗 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/d6ae81de1576bc5ea841c29ac7f3406231d460861707803531328618496",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 231856,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c3acb34d02b5ebc8bf1f3af41d388f6df646812a",
+                "thumbnail_url": "mxc://matrix.chir.rs/d6ae81de1576bc5ea841c29ac7f3406231d460861707803531328618496",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -977,229 +948,14 @@
             }
         },
         {
-            "body": "ℹ️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/f412fa92856acad9afce965b16fc6510ac906273",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190018,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f412fa92856acad9afce965b16fc6510ac906273",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190018,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111771",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111771",
-                "emoticons": [
-                    "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "😋 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/e190cd89aaebb7145b941c9fe0f2bae03afbff83",
-            "info": {
-                "w": 256,
-                "h": 162,
-                "size": 295920,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e190cd89aaebb7145b941c9fe0f2bae03afbff83",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 162,
-                    "size": 295920,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111906",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111906",
-                "emoticons": [
-                    "🌻",
-                    "☺",
-                    "😊",
-                    "😌",
-                    "😋",
-                    "🧘‍♂"
-                ]
-            }
-        },
-        {
-            "body": "🍊 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/0f3a35a96ef15ef4087d090e11fc399b4042c99a",
-            "info": {
-                "w": 170,
-                "h": 256,
-                "size": 137033,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0f3a35a96ef15ef4087d090e11fc399b4042c99a",
-                "thumbnail_info": {
-                    "w": 170,
-                    "h": 256,
-                    "size": 137033,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112142",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112142",
-                "emoticons": [
-                    "🌻",
-                    "🍊",
-                    "😄"
-                ]
-            }
-        },
-        {
-            "body": "ℹ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/8c2bf82139a49c72153c9ff31fae8b1a1e9a3c76",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 237986,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8c2bf82139a49c72153c9ff31fae8b1a1e9a3c76",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 237986,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111916",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111916",
-                "emoticons": [
-                    "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "🕓 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/6da686f575c8c6b9eaa2a91d20272f3f9e16da08",
-            "info": {
-                "w": 256,
-                "h": 206,
-                "size": 146958,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6da686f575c8c6b9eaa2a91d20272f3f9e16da08",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 206,
-                    "size": 146958,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112150",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112150",
-                "emoticons": [
-                    "🕓",
-                    "🕟",
-                    "🌳",
-                    "👽"
-                ]
-            }
-        },
-        {
-            "body": "ℹ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/ea99391050bf75133bbe553f63d5a15d006e75af",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 185166,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ea99391050bf75133bbe553f63d5a15d006e75af",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 185166,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112211",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112211",
-                "emoticons": [
-                    "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "🐌 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/04d37e528be1b08653d8c8e92437daf096ac255b",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 120948,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/04d37e528be1b08653d8c8e92437daf096ac255b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 120948,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112309",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112309",
-                "emoticons": [
-                    "🦊",
-                    "🌻",
-                    "🐌"
-                ]
-            }
-        },
-        {
             "body": "🏴‍☠️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/c774ec9c174c1ffcbcf10f1efe4ba350441b3354",
+            "url": "mxc://matrix.chir.rs/da691aec8e9858d631c7ce6b251c7c3f5f783c0b1707803537213227008",
             "info": {
                 "w": 256,
                 "h": 222,
                 "size": 454016,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c774ec9c174c1ffcbcf10f1efe4ba350441b3354",
+                "thumbnail_url": "mxc://matrix.chir.rs/da691aec8e9858d631c7ce6b251c7c3f5f783c0b1707803537213227008",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 222,
@@ -1229,13 +985,13 @@
         },
         {
             "body": "ℹ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/443556188fe8688abc1faa379c806f07399712c2",
+            "url": "mxc://matrix.chir.rs/3245d5d7c3ca7847472121bf0cdcb6123d4882ba1707803552660848640",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 319542,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/443556188fe8688abc1faa379c806f07399712c2",
+                "thumbnail_url": "mxc://matrix.chir.rs/3245d5d7c3ca7847472121bf0cdcb6123d4882ba1707803552660848640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1257,50 +1013,258 @@
             }
         },
         {
-            "body": "😟 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/c459e925172263e02dcbb79a562b7cb4972e6133",
+            "body": "ℹ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/db76ce8eb5037a3fd0a27c065b091de4c91d169d1707803527780237312",
             "info": {
                 "w": 256,
-                "h": 248,
-                "size": 331032,
+                "h": 256,
+                "size": 237986,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c459e925172263e02dcbb79a562b7cb4972e6133",
+                "thumbnail_url": "mxc://matrix.chir.rs/db76ce8eb5037a3fd0a27c065b091de4c91d169d1707803527780237312",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 248,
-                    "size": 331032,
+                    "h": 256,
+                    "size": 237986,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295112273",
+            "id": "tg-2393354226295111916",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295112273",
+                "id": "2393354226295111916",
+                "emoticons": [
+                    "ℹ"
+                ]
+            }
+        },
+        {
+            "body": "🍊 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/b2e3ff0c6b5ba385decd7f9c6e9c28326cc185e41707803529315352576",
+            "info": {
+                "w": 170,
+                "h": 256,
+                "size": 137033,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b2e3ff0c6b5ba385decd7f9c6e9c28326cc185e41707803529315352576",
+                "thumbnail_info": {
+                    "w": 170,
+                    "h": 256,
+                    "size": 137033,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112142",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112142",
                 "emoticons": [
                     "🌻",
-                    "😟",
-                    "🙁",
-                    "😕",
-                    "😬",
-                    "🐞",
-                    "🌿",
-                    "🌼"
+                    "🍊",
+                    "😄"
+                ]
+            }
+        },
+        {
+            "body": "😋 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/cb28cea1f046c004c333e585d65dba584f884df41707803533492879360",
+            "info": {
+                "w": 256,
+                "h": 162,
+                "size": 295920,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cb28cea1f046c004c333e585d65dba584f884df41707803533492879360",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 162,
+                    "size": 295920,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111906",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111906",
+                "emoticons": [
+                    "🌻",
+                    "☺",
+                    "😊",
+                    "😌",
+                    "😋",
+                    "🧘‍♂"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/016fa8e2758b4da6da9e0f8b0a4262b02821a0821707803523351052288",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190018,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/016fa8e2758b4da6da9e0f8b0a4262b02821a0821707803523351052288",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190018,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111771",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111771",
+                "emoticons": [
+                    "ℹ"
+                ]
+            }
+        },
+        {
+            "body": "ℹ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/0eff0518e005584acd73aef9aab821211e7dec6f1707803541512388608",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185166,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0eff0518e005584acd73aef9aab821211e7dec6f1707803541512388608",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185166,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112211",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112211",
+                "emoticons": [
+                    "ℹ"
+                ]
+            }
+        },
+        {
+            "body": "🐌 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/4f96be4d93d97a1284d8d63ed86371744762c5bc1707803532691767296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 120948,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4f96be4d93d97a1284d8d63ed86371744762c5bc1707803532691767296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 120948,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112309",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112309",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "🐌"
+                ]
+            }
+        },
+        {
+            "body": "🕓 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/25e2e9b44e66d0816ca29261239574a0edc08a791707803529323741184",
+            "info": {
+                "w": 256,
+                "h": 206,
+                "size": 146958,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/25e2e9b44e66d0816ca29261239574a0edc08a791707803529323741184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 206,
+                    "size": 146958,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112150",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112150",
+                "emoticons": [
+                    "🕓",
+                    "🕟",
+                    "🌳",
+                    "👽"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/3c31ed63ae737e65ff74117b26f6280feecba1ce1707803551436111872",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 302765,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3c31ed63ae737e65ff74117b26f6280feecba1ce1707803551436111872",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 302765,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111909",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111909",
+                "emoticons": [
+                    "ℹ"
                 ]
             }
         },
         {
             "body": "😏 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/da6736367adfe6c1c270e4ebf40354d452d56906",
+            "url": "mxc://matrix.chir.rs/6ca566fa4f1be3f0e494329b381fafa699391a7c1707803532284919808",
             "info": {
                 "w": 249,
                 "h": 256,
                 "size": 378482,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/da6736367adfe6c1c270e4ebf40354d452d56906",
+                "thumbnail_url": "mxc://matrix.chir.rs/6ca566fa4f1be3f0e494329b381fafa699391a7c1707803532284919808",
                 "thumbnail_info": {
                     "w": 249,
                     "h": 256,
@@ -1330,13 +1294,13 @@
         },
         {
             "body": "ℹ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/c5ed93565aadf419901880e18b563979694a1908",
+            "url": "mxc://matrix.chir.rs/e387c45167d62f856a46b7a5d1291d11f6e33f711707803535971713024",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 294855,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c5ed93565aadf419901880e18b563979694a1908",
+                "thumbnail_url": "mxc://matrix.chir.rs/e387c45167d62f856a46b7a5d1291d11f6e33f711707803535971713024",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1358,14 +1322,50 @@
             }
         },
         {
+            "body": "😟 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/cbf97a743ed14c770e9d1bde2d045255e43315b61707803539293601792",
+            "info": {
+                "w": 256,
+                "h": 248,
+                "size": 331032,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cbf97a743ed14c770e9d1bde2d045255e43315b61707803539293601792",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 248,
+                    "size": 331032,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112273",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112273",
+                "emoticons": [
+                    "🌻",
+                    "😟",
+                    "🙁",
+                    "😕",
+                    "😬",
+                    "🐞",
+                    "🌿",
+                    "🌼"
+                ]
+            }
+        },
+        {
             "body": "🐴 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/384e02a31b6ff8f6d34bdc95bc42e97ec599cb37",
+            "url": "mxc://matrix.chir.rs/6366710d00121059d559d674e94c47de816e6d2c1707803544762974208",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 261286,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/384e02a31b6ff8f6d34bdc95bc42e97ec599cb37",
+                "thumbnail_url": "mxc://matrix.chir.rs/6366710d00121059d559d674e94c47de816e6d2c1707803544762974208",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1391,140 +1391,14 @@
             }
         },
         {
-            "body": "😉 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/7b518c41bc39f20efa183e0622cfda8394868aff",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 290829,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b518c41bc39f20efa183e0622cfda8394868aff",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 290829,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112117",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112117",
-                "emoticons": [
-                    "🌹",
-                    "😉",
-                    "😘",
-                    "😜"
-                ]
-            }
-        },
-        {
-            "body": "💀 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/0c0f385df26dc4a8427c20dc7ed227368ec75dfa",
-            "info": {
-                "w": 191,
-                "h": 256,
-                "size": 180145,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0c0f385df26dc4a8427c20dc7ed227368ec75dfa",
-                "thumbnail_info": {
-                    "w": 191,
-                    "h": 256,
-                    "size": 180145,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111792",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111792",
-                "emoticons": [
-                    "🌻",
-                    "💀",
-                    "☠",
-                    "⚰",
-                    "💉"
-                ]
-            }
-        },
-        {
-            "body": "🌄 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/c57a3743431417910940a3e73973c7546d7a2787",
-            "info": {
-                "w": 190,
-                "h": 256,
-                "size": 203405,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c57a3743431417910940a3e73973c7546d7a2787",
-                "thumbnail_info": {
-                    "w": 190,
-                    "h": 256,
-                    "size": 203405,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111685",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111685",
-                "emoticons": [
-                    "🌻",
-                    "🌄"
-                ]
-            }
-        },
-        {
-            "body": "😊 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/e00c4c3da848c76d05efb547411a6747fc13ffc7",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 147325,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e00c4c3da848c76d05efb547411a6747fc13ffc7",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 147325,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111687",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111687",
-                "emoticons": [
-                    "🌻",
-                    "😊",
-                    "🐝"
-                ]
-            }
-        },
-        {
             "body": "🧚‍♂️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/db8c036ad6c5c0fa2c5ce92cd832929f0967b7fb",
+            "url": "mxc://matrix.chir.rs/f40f43bd9316639e7963f393957559cbd1b1190e1707803535837495296",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 386557,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db8c036ad6c5c0fa2c5ce92cd832929f0967b7fb",
+                "thumbnail_url": "mxc://matrix.chir.rs/f40f43bd9316639e7963f393957559cbd1b1190e1707803535837495296",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1552,47 +1426,108 @@
             }
         },
         {
-            "body": "🛂 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/2fe66851416e141549e6a1a056992466212dc34b",
+            "body": "🌄 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/1aa9eff5e16585199469b60122c164f978613ec71707803558201524224",
             "info": {
-                "w": 256,
-                "h": 164,
-                "size": 323152,
+                "w": 190,
+                "h": 256,
+                "size": 203405,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2fe66851416e141549e6a1a056992466212dc34b",
+                "thumbnail_url": "mxc://matrix.chir.rs/1aa9eff5e16585199469b60122c164f978613ec71707803558201524224",
                 "thumbnail_info": {
-                    "w": 256,
-                    "h": 164,
-                    "size": 323152,
+                    "w": 190,
+                    "h": 256,
+                    "size": 203405,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111769",
+            "id": "tg-2393354226295111685",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111769",
+                "id": "2393354226295111685",
                 "emoticons": [
                     "🌻",
-                    "🌌",
-                    "🛂",
-                    "🆔",
-                    "🧬"
+                    "🌄"
+                ]
+            }
+        },
+        {
+            "body": "💀 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/c684021ea9d77e380d65930e058282e170857df41707803542200254464",
+            "info": {
+                "w": 191,
+                "h": 256,
+                "size": 180145,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c684021ea9d77e380d65930e058282e170857df41707803542200254464",
+                "thumbnail_info": {
+                    "w": 191,
+                    "h": 256,
+                    "size": 180145,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111792",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111792",
+                "emoticons": [
+                    "🌻",
+                    "💀",
+                    "☠",
+                    "⚰",
+                    "💉"
+                ]
+            }
+        },
+        {
+            "body": "😊 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/8d683ce87f6c9b058fbabc2f14a6810bf77d4beb1707803539457179648",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 147325,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8d683ce87f6c9b058fbabc2f14a6810bf77d4beb1707803539457179648",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 147325,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111687",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111687",
+                "emoticons": [
+                    "🌻",
+                    "😊",
+                    "🐝"
                 ]
             }
         },
         {
             "body": "🐺 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/455b718912e598e4e23b9fa32fb2721aab8c9369",
+            "url": "mxc://matrix.chir.rs/73f3969943bd76061065a525e9c4a6ce59c01fa11707803540577058816",
             "info": {
                 "w": 161,
                 "h": 256,
                 "size": 289947,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/455b718912e598e4e23b9fa32fb2721aab8c9369",
+                "thumbnail_url": "mxc://matrix.chir.rs/73f3969943bd76061065a525e9c4a6ce59c01fa11707803540577058816",
                 "thumbnail_info": {
                     "w": 161,
                     "h": 256,
@@ -1619,14 +1554,112 @@
             }
         },
         {
+            "body": "😉 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/5ff24839bcf887e673321975cd87c40e1422679a1707803539394265088",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 290829,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ff24839bcf887e673321975cd87c40e1422679a1707803539394265088",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 290829,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112117",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112117",
+                "emoticons": [
+                    "🌹",
+                    "😉",
+                    "😘",
+                    "😜"
+                ]
+            }
+        },
+        {
+            "body": "🦴 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/47f7c7443181b57d81153ec6c49aefd93db8a5641707803568712450048",
+            "info": {
+                "w": 211,
+                "h": 256,
+                "size": 204678,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/47f7c7443181b57d81153ec6c49aefd93db8a5641707803568712450048",
+                "thumbnail_info": {
+                    "w": 211,
+                    "h": 256,
+                    "size": 204678,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112271",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112271",
+                "emoticons": [
+                    "🌻",
+                    "🦴",
+                    "🐶",
+                    "🐕"
+                ]
+            }
+        },
+        {
+            "body": "⚾️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/7764347d07c74e5856d9b5ae39b18172977b714e1707803547711569920",
+            "info": {
+                "w": 226,
+                "h": 256,
+                "size": 163876,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7764347d07c74e5856d9b5ae39b18172977b714e1707803547711569920",
+                "thumbnail_info": {
+                    "w": 226,
+                    "h": 256,
+                    "size": 163876,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5174738819135570291",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "5174738819135570291",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "🩸",
+                    "⚾",
+                    "🧢",
+                    "🏏"
+                ]
+            }
+        },
+        {
             "body": "😋 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/e02a9785937713cddf52d210b1f6eb2c129191d3",
+            "url": "mxc://matrix.chir.rs/1e3f6bd0d32349cc1ee7a97acea3fb2ee743b5691707803542770679808",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 249151,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e02a9785937713cddf52d210b1f6eb2c129191d3",
+                "thumbnail_url": "mxc://matrix.chir.rs/1e3f6bd0d32349cc1ee7a97acea3fb2ee743b5691707803542770679808",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1649,14 +1682,138 @@
             }
         },
         {
+            "body": "🥔 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/d3bde097dca197fdafe734d83290f99c3dc7c3b51707803554594422785",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 91874,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3bde097dca197fdafe734d83290f99c3dc7c3b51707803554594422785",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 91874,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111688",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111688",
+                "emoticons": [
+                    "🌻",
+                    "🥔"
+                ]
+            }
+        },
+        {
+            "body": "🍨 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/cc54981f8f12fcce922044fe7ced9d85501f5e831707803546012876800",
+            "info": {
+                "w": 176,
+                "h": 256,
+                "size": 138661,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc54981f8f12fcce922044fe7ced9d85501f5e831707803546012876800",
+                "thumbnail_info": {
+                    "w": 176,
+                    "h": 256,
+                    "size": 138661,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111789",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111789",
+                "emoticons": [
+                    "🌻",
+                    "🍨",
+                    "🍧",
+                    "🍦",
+                    "🥵"
+                ]
+            }
+        },
+        {
+            "body": "🥔 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/c3c34e487e80d94407abdd04aae37fcb815a31b91707803550253318144",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 93972,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c3c34e487e80d94407abdd04aae37fcb815a31b91707803550253318144",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 93972,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5156803804506620325",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "5156803804506620325",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "🥔"
+                ]
+            }
+        },
+        {
+            "body": "😛 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/a116199a0d6cdc03301122ca5e09c0f3f55d45fa1707803576543215616",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 232090,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a116199a0d6cdc03301122ca5e09c0f3f55d45fa1707803576543215616",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 232090,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112118",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112118",
+                "emoticons": [
+                    "🌻",
+                    "😛"
+                ]
+            }
+        },
+        {
             "body": "😤 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/6cfc9a7216186002343a286cee392538c433796d",
+            "url": "mxc://matrix.chir.rs/39153d7f6472affeeb791385af63b79d246520131707803546960789504",
             "info": {
                 "w": 256,
                 "h": 252,
                 "size": 263629,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6cfc9a7216186002343a286cee392538c433796d",
+                "thumbnail_url": "mxc://matrix.chir.rs/39153d7f6472affeeb791385af63b79d246520131707803546960789504",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 252,
@@ -1687,13 +1844,13 @@
         },
         {
             "body": "🛂 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/6f1d00476a97eadc777ece218fab7352941cd6d0",
+            "url": "mxc://matrix.chir.rs/64097d5344baf2f2614dcee760b99c55a4cfb0f21707803543915724800",
             "info": {
                 "w": 256,
                 "h": 164,
                 "size": 338561,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6f1d00476a97eadc777ece218fab7352941cd6d0",
+                "thumbnail_url": "mxc://matrix.chir.rs/64097d5344baf2f2614dcee760b99c55a4cfb0f21707803543915724800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 164,
@@ -1719,204 +1876,14 @@
             }
         },
         {
-            "body": "🦴 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/ced2068828e20d062cf61f80e64aa1a70b6ecda4",
-            "info": {
-                "w": 211,
-                "h": 256,
-                "size": 204678,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ced2068828e20d062cf61f80e64aa1a70b6ecda4",
-                "thumbnail_info": {
-                    "w": 211,
-                    "h": 256,
-                    "size": 204678,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112271",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112271",
-                "emoticons": [
-                    "🌻",
-                    "🦴",
-                    "🐶",
-                    "🐕"
-                ]
-            }
-        },
-        {
-            "body": "💁‍♂️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/0fe491d88a4b90794b01c3130941ac99868a707f",
-            "info": {
-                "w": 158,
-                "h": 256,
-                "size": 137984,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0fe491d88a4b90794b01c3130941ac99868a707f",
-                "thumbnail_info": {
-                    "w": 158,
-                    "h": 256,
-                    "size": 137984,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111915",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111915",
-                "emoticons": [
-                    "🌻",
-                    "💁‍♂",
-                    "💁"
-                ]
-            }
-        },
-        {
-            "body": "⚾️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/b8aa5338f8d9a86ee6cca53c7aaa8c9510f991d8",
-            "info": {
-                "w": 226,
-                "h": 256,
-                "size": 163876,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b8aa5338f8d9a86ee6cca53c7aaa8c9510f991d8",
-                "thumbnail_info": {
-                    "w": 226,
-                    "h": 256,
-                    "size": 163876,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5174738819135570291",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "5174738819135570291",
-                "emoticons": [
-                    "🦊",
-                    "🌻",
-                    "🩸",
-                    "⚾",
-                    "🧢",
-                    "🏏"
-                ]
-            }
-        },
-        {
-            "body": "🍨 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/703ddcb08ed92a8fc257cf96d39885d85d13d1af",
-            "info": {
-                "w": 176,
-                "h": 256,
-                "size": 138661,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/703ddcb08ed92a8fc257cf96d39885d85d13d1af",
-                "thumbnail_info": {
-                    "w": 176,
-                    "h": 256,
-                    "size": 138661,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111789",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111789",
-                "emoticons": [
-                    "🌻",
-                    "🍨",
-                    "🍧",
-                    "🍦",
-                    "🥵"
-                ]
-            }
-        },
-        {
-            "body": "🥔 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/26685ef4eca2aa16bdc8aad2e277ee201e21b446",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 91874,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26685ef4eca2aa16bdc8aad2e277ee201e21b446",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 91874,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111688",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111688",
-                "emoticons": [
-                    "🌻",
-                    "🥔"
-                ]
-            }
-        },
-        {
-            "body": "😛 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/3682535ce2d3033f493833dca333681b833d18d9",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 232090,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3682535ce2d3033f493833dca333681b833d18d9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 232090,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112118",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112118",
-                "emoticons": [
-                    "🌻",
-                    "😛"
-                ]
-            }
-        },
-        {
             "body": "☺️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/8719086e3d851d861457878e2177a5c6e97c8637",
+            "url": "mxc://matrix.chir.rs/9d9cf71a115b699d956f2be8c32247799f1bca671707803556100177920",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 113802,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8719086e3d851d861457878e2177a5c6e97c8637",
+                "thumbnail_url": "mxc://matrix.chir.rs/9d9cf71a115b699d956f2be8c32247799f1bca671707803556100177920",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1941,45 +1908,47 @@
             }
         },
         {
-            "body": "🌻 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/3214e1e616a83897f5d8e121664d7d60e9e2a7d2",
+            "body": "🛂 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/23437a64a0fc9b333689eccc452bd5626ad871a41707803554594422784",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 244534,
+                "h": 164,
+                "size": 323152,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3214e1e616a83897f5d8e121664d7d60e9e2a7d2",
+                "thumbnail_url": "mxc://matrix.chir.rs/23437a64a0fc9b333689eccc452bd5626ad871a41707803554594422784",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 244534,
+                    "h": 164,
+                    "size": 323152,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111684",
+            "id": "tg-2393354226295111769",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111684",
+                "id": "2393354226295111769",
                 "emoticons": [
                     "🌻",
-                    "🐝",
-                    "😁"
+                    "🌌",
+                    "🛂",
+                    "🆔",
+                    "🧬"
                 ]
             }
         },
         {
             "body": "🙂 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/573e2d3b7942c4b770cc20867caacdece50668ee",
+            "url": "mxc://matrix.chir.rs/eb04d31c6c85ae67ef138a0c334f7d30b7265e3c1707803552757317632",
             "info": {
                 "w": 256,
                 "h": 192,
                 "size": 69469,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/573e2d3b7942c4b770cc20867caacdece50668ee",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb04d31c6c85ae67ef138a0c334f7d30b7265e3c1707803552757317632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 192,
@@ -2004,14 +1973,45 @@
             }
         },
         {
+            "body": "🌻 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/dc6e02d5eec365eeeec42008b47c8e01a9e057a81707803567613542400",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 244534,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dc6e02d5eec365eeeec42008b47c8e01a9e057a81707803567613542400",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 244534,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111684",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111684",
+                "emoticons": [
+                    "🌻",
+                    "🐝",
+                    "😁"
+                ]
+            }
+        },
+        {
             "body": "🌹 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/5a6e1499f40edee7d524add71c1c1ac85fc362b2",
+            "url": "mxc://matrix.chir.rs/224ef5543ac7510c2ed71d2383c6ffb090f2d7221707803564924993536",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 442032,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5a6e1499f40edee7d524add71c1c1ac85fc362b2",
+                "thumbnail_url": "mxc://matrix.chir.rs/224ef5543ac7510c2ed71d2383c6ffb090f2d7221707803564924993536",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2035,44 +2035,14 @@
             }
         },
         {
-            "body": "⛏️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/60a103f686dbd891e0e1558b2cbdc073dc771471",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 106428,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/60a103f686dbd891e0e1558b2cbdc073dc771471",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 106428,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295112287",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295112287",
-                "emoticons": [
-                    "🌻",
-                    "⛏"
-                ]
-            }
-        },
-        {
             "body": "🐝 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/de492b5cacdfac2878af01b039683209df59df1d",
+            "url": "mxc://matrix.chir.rs/0f305301326c3234751a864121df6d2ad516b8361707803579936407552",
             "info": {
                 "w": 256,
                 "h": 217,
                 "size": 148246,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/de492b5cacdfac2878af01b039683209df59df1d",
+                "thumbnail_url": "mxc://matrix.chir.rs/0f305301326c3234751a864121df6d2ad516b8361707803579936407552",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 217,
@@ -2097,14 +2067,44 @@
             }
         },
         {
+            "body": "⛏️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/491ea39912698280254ced3a804f6d3598b7aa071707803550307844096",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 106428,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/491ea39912698280254ced3a804f6d3598b7aa071707803550307844096",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 106428,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295112287",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295112287",
+                "emoticons": [
+                    "🌻",
+                    "⛏"
+                ]
+            }
+        },
+        {
             "body": "🦊 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/e8230df5f0d070c14224fc3b6854fceeb0571f39",
+            "url": "mxc://matrix.chir.rs/a4999af48c924f275c3845cec2d7a85592121a501707803560621637632",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 85907,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e8230df5f0d070c14224fc3b6854fceeb0571f39",
+                "thumbnail_url": "mxc://matrix.chir.rs/a4999af48c924f275c3845cec2d7a85592121a501707803560621637632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2127,45 +2127,14 @@
             }
         },
         {
-            "body": "🦊 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/f3edecedddce48246059e45f8c200f74c3424c5d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 121445,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f3edecedddce48246059e45f8c200f74c3424c5d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 121445,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111883",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111883",
-                "emoticons": [
-                    "🦊",
-                    "🔥",
-                    "📐"
-                ]
-            }
-        },
-        {
             "body": "🐝 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/f9eda114828230044cc4b891974dccddd7331a1d",
+            "url": "mxc://matrix.chir.rs/cb63b839691a55a5e50abccea005d45f51aef2e41707803557098422272",
             "info": {
                 "w": 256,
                 "h": 217,
                 "size": 97823,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f9eda114828230044cc4b891974dccddd7331a1d",
+                "thumbnail_url": "mxc://matrix.chir.rs/cb63b839691a55a5e50abccea005d45f51aef2e41707803557098422272",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 217,
@@ -2191,77 +2160,76 @@
             }
         },
         {
-            "body": "🍑 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/af3c404f2a0881a0fc7e15e5cd7932ecb9cf56b2",
+            "body": "🦊 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/4ec1b7cd8f96f7b034fc4a2543cc9682e3a6133b1707803555965960192",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 196722,
+                "size": 121445,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/af3c404f2a0881a0fc7e15e5cd7932ecb9cf56b2",
+                "thumbnail_url": "mxc://matrix.chir.rs/4ec1b7cd8f96f7b034fc4a2543cc9682e3a6133b1707803555965960192",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 196722,
+                    "size": 121445,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111711",
+            "id": "tg-2393354226295111883",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111711",
+                "id": "2393354226295111883",
                 "emoticons": [
-                    "🌻",
-                    "🧡",
-                    "🍑",
-                    "🎀"
+                    "🦊",
+                    "🔥",
+                    "📐"
                 ]
             }
         },
         {
-            "body": "🦊 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/bff0ad5f6e1c6da305a09ca8548e4143c21fc26f",
+            "body": "💁‍♂️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/ac58226800a80fda4d3b8727161f31ae30d1a60d1707803548789506048",
             "info": {
-                "w": 253,
+                "w": 158,
                 "h": 256,
-                "size": 434362,
+                "size": 137984,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bff0ad5f6e1c6da305a09ca8548e4143c21fc26f",
+                "thumbnail_url": "mxc://matrix.chir.rs/ac58226800a80fda4d3b8727161f31ae30d1a60d1707803548789506048",
                 "thumbnail_info": {
-                    "w": 253,
+                    "w": 158,
                     "h": 256,
-                    "size": 434362,
+                    "size": 137984,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2393354226295111722",
+            "id": "tg-2393354226295111915",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2393354226295111683",
                     "short_name": "Asterbotanist"
                 },
-                "id": "2393354226295111722",
+                "id": "2393354226295111915",
                 "emoticons": [
-                    "🦊",
                     "🌻",
-                    "🌿"
+                    "💁‍♂",
+                    "💁"
                 ]
             }
         },
         {
             "body": "🍑 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/262314493a836c64e510ad129fd76c89c19c3ecb",
+            "url": "mxc://matrix.chir.rs/bc6e75bd9923bf0e9c3ee5559ab262b3315c6d851707803571308724224",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 196658,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/262314493a836c64e510ad129fd76c89c19c3ecb",
+                "thumbnail_url": "mxc://matrix.chir.rs/bc6e75bd9923bf0e9c3ee5559ab262b3315c6d851707803571308724224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2286,14 +2254,78 @@
             }
         },
         {
+            "body": "🥴 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/63c1d0e246efefed2ec4620850fc333ff84bb5511707803562903339008",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 241876,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/63c1d0e246efefed2ec4620850fc333ff84bb5511707803562903339008",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 241876,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111900",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111900",
+                "emoticons": [
+                    "🌻",
+                    "🦋",
+                    "🥴",
+                    "💦",
+                    "🍆",
+                    "🌮"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/062c66f63fd7f2b161a2a3ac38f88bc5da07bea31707803575393976320",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 88255,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/062c66f63fd7f2b161a2a3ac38f88bc5da07bea31707803575393976320",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 88255,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111777",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111777",
+                "emoticons": [
+                    "ℹ",
+                    "🍑"
+                ]
+            }
+        },
+        {
             "body": "🦊 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/7f9a6ff421ea24ff68f6837fb09a033c0516d6d2",
+            "url": "mxc://matrix.chir.rs/88091f0f6eda721526fc1bc61109f57cfc9f0eb41707803561703768064",
             "info": {
                 "w": 255,
                 "h": 256,
                 "size": 359085,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7f9a6ff421ea24ff68f6837fb09a033c0516d6d2",
+                "thumbnail_url": "mxc://matrix.chir.rs/88091f0f6eda721526fc1bc61109f57cfc9f0eb41707803561703768064",
                 "thumbnail_info": {
                     "w": 255,
                     "h": 256,
@@ -2317,14 +2349,141 @@
             }
         },
         {
+            "body": "🦊 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/e47fa1086fd928dcb1595ec2767196e21527854c1707803559069745152",
+            "info": {
+                "w": 253,
+                "h": 256,
+                "size": 434362,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e47fa1086fd928dcb1595ec2767196e21527854c1707803559069745152",
+                "thumbnail_info": {
+                    "w": 253,
+                    "h": 256,
+                    "size": 434362,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111722",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111722",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "🌿"
+                ]
+            }
+        },
+        {
+            "body": "🦊 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/d4c46aea35caa22bc8da08bf566829d306e3e64f1707803563092082688",
+            "info": {
+                "w": 203,
+                "h": 256,
+                "size": 389497,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d4c46aea35caa22bc8da08bf566829d306e3e64f1707803563092082688",
+                "thumbnail_info": {
+                    "w": 203,
+                    "h": 256,
+                    "size": 389497,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111926",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111926",
+                "emoticons": [
+                    "🦊",
+                    "🌻",
+                    "🌄"
+                ]
+            }
+        },
+        {
+            "body": "😰 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/d97ecb9a2f5ca112defef43d946371ad920e354a1707803564924993537",
+            "info": {
+                "w": 237,
+                "h": 256,
+                "size": 102484,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d97ecb9a2f5ca112defef43d946371ad920e354a1707803564924993537",
+                "thumbnail_info": {
+                    "w": 237,
+                    "h": 256,
+                    "size": 102484,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5019274257289446118",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "5019274257289446118",
+                "emoticons": [
+                    "🌻",
+                    "😰",
+                    "😓",
+                    "😨",
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "🍑 (@Asterbotanist)",
+            "url": "mxc://matrix.chir.rs/394eeca964d5ab236e39e7d862d65ec7bc461d971707803560705523712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196722,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/394eeca964d5ab236e39e7d862d65ec7bc461d971707803560705523712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196722,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2393354226295111711",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2393354226295111683",
+                    "short_name": "Asterbotanist"
+                },
+                "id": "2393354226295111711",
+                "emoticons": [
+                    "🌻",
+                    "🧡",
+                    "🍑",
+                    "🎀"
+                ]
+            }
+        },
+        {
             "body": "😏 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/aeda14914b09611583f61204bef1cafac426202c",
+            "url": "mxc://matrix.chir.rs/4633ac4a815de3bb86b8e4cad13de96d7f5f92621707803566409777152",
             "info": {
                 "w": 235,
                 "h": 256,
                 "size": 202775,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aeda14914b09611583f61204bef1cafac426202c",
+                "thumbnail_url": "mxc://matrix.chir.rs/4633ac4a815de3bb86b8e4cad13de96d7f5f92621707803566409777152",
                 "thumbnail_info": {
                     "w": 235,
                     "h": 256,
@@ -2350,44 +2509,14 @@
             }
         },
         {
-            "body": "ℹ️ (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/b9c5fe82492ac6b012f088c799f0feba81c0486f",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 88255,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b9c5fe82492ac6b012f088c799f0feba81c0486f",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 88255,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111777",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111777",
-                "emoticons": [
-                    "ℹ",
-                    "🍑"
-                ]
-            }
-        },
-        {
             "body": "🥴 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/884f719d8598b065fdfba8fefb6561250c98875a",
+            "url": "mxc://matrix.chir.rs/3b8ca517cce64ed565fc72b6240ad2cf77bcaf711707803566422360064",
             "info": {
                 "w": 256,
                 "h": 229,
                 "size": 227603,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/884f719d8598b065fdfba8fefb6561250c98875a",
+                "thumbnail_url": "mxc://matrix.chir.rs/3b8ca517cce64ed565fc72b6240ad2cf77bcaf711707803566422360064",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 229,
@@ -2418,78 +2547,14 @@
             }
         },
         {
-            "body": "🦊 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/3109cf58c81b56f4853f69cd1ca31fc84574fac4",
-            "info": {
-                "w": 203,
-                "h": 256,
-                "size": 389497,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3109cf58c81b56f4853f69cd1ca31fc84574fac4",
-                "thumbnail_info": {
-                    "w": 203,
-                    "h": 256,
-                    "size": 389497,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111926",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111926",
-                "emoticons": [
-                    "🦊",
-                    "🌻",
-                    "🌄"
-                ]
-            }
-        },
-        {
-            "body": "😰 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/a60399d8d55dee84a5d2d5d609f23c8682600327",
-            "info": {
-                "w": 237,
-                "h": 256,
-                "size": 102484,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a60399d8d55dee84a5d2d5d609f23c8682600327",
-                "thumbnail_info": {
-                    "w": 237,
-                    "h": 256,
-                    "size": 102484,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5019274257289446118",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "5019274257289446118",
-                "emoticons": [
-                    "🌻",
-                    "😰",
-                    "😓",
-                    "😨",
-                    "😱"
-                ]
-            }
-        },
-        {
             "body": "👀 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/617cb88131792d3236327dd7127ae3d364c9360a",
+            "url": "mxc://matrix.chir.rs/5b5150640aadc9e9c7de70c99fd8790cfb23c07e1707803569891049472",
             "info": {
                 "w": 256,
                 "h": 253,
                 "size": 38172,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/617cb88131792d3236327dd7127ae3d364c9360a",
+                "thumbnail_url": "mxc://matrix.chir.rs/5b5150640aadc9e9c7de70c99fd8790cfb23c07e1707803569891049472",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 253,
@@ -2509,71 +2574,6 @@
                     "👀",
                     "👁",
                     "🥺"
-                ]
-            }
-        },
-        {
-            "body": "🥴 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/b0587653bb5b2a6d458fae7b846abdffb63bac0c",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241876,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b0587653bb5b2a6d458fae7b846abdffb63bac0c",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241876,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2393354226295111900",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "2393354226295111900",
-                "emoticons": [
-                    "🌻",
-                    "🦋",
-                    "🥴",
-                    "💦",
-                    "🍆",
-                    "🌮"
-                ]
-            }
-        },
-        {
-            "body": "🥔 (@Asterbotanist)",
-            "url": "mxc://matrix.chir.rs/92b5d22b8f695ee1cc2d5caff8276655e85083df",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 93972,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/92b5d22b8f695ee1cc2d5caff8276655e85083df",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 93972,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5156803804506620325",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2393354226295111683",
-                    "short_name": "Asterbotanist"
-                },
-                "id": "5156803804506620325",
-                "emoticons": [
-                    "🦊",
-                    "🌻",
-                    "🥔"
                 ]
             }
         }

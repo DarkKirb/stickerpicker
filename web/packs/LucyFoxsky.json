@@ -7,43 +7,14 @@
     },
     "stickers": [
         {
-            "body": "🎁 (Lucy)",
-            "url": "mxc://matrix.chir.rs/9dc3afff68c6154d23eda596fe44a2216513b58d",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 208524,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9dc3afff68c6154d23eda596fe44a2216513b58d",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 208524,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5805194384160852687",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "5100069648758472715",
-                    "short_name": "LucyFoxsky"
-                },
-                "id": "5805194384160852687",
-                "emoticons": [
-                    "🎁"
-                ]
-            }
-        },
-        {
             "body": "😮 (Lucy)",
-            "url": "mxc://matrix.chir.rs/d6e4351a8927d1d37e1868f3d370503c4f668de1",
+            "url": "mxc://matrix.chir.rs/404fdb1dea2caa8968c9167f7dbd56264c5e03891707806737987272704",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 116744,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d6e4351a8927d1d37e1868f3d370503c4f668de1",
+                "thumbnail_url": "mxc://matrix.chir.rs/404fdb1dea2caa8968c9167f7dbd56264c5e03891707806737987272704",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -61,6 +32,35 @@
                 "id": "5805146430850992943",
                 "emoticons": [
                     "😮"
+                ]
+            }
+        },
+        {
+            "body": "🎁 (Lucy)",
+            "url": "mxc://matrix.chir.rs/76e29461b74ccb7df7cbfd278db20aaaf455d66f1707806741762146304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 208524,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/76e29461b74ccb7df7cbfd278db20aaaf455d66f1707806741762146304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 208524,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5805194384160852687",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5100069648758472715",
+                    "short_name": "LucyFoxsky"
+                },
+                "id": "5805194384160852687",
+                "emoticons": [
+                    "🎁"
                 ]
             }
         }

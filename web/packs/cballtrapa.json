@@ -8,13 +8,13 @@
     "stickers": [
         {
             "body": "🚗 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/4d6bb2025e4257a3015aeab75b15f4c33d807866",
+            "url": "mxc://matrix.chir.rs/8e64824e79ba6756e41687c2a7d113740b3609341707819024722690048",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 212687,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4d6bb2025e4257a3015aeab75b15f4c33d807866",
+                "thumbnail_url": "mxc://matrix.chir.rs/8e64824e79ba6756e41687c2a7d113740b3609341707819024722690048",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -36,14 +36,72 @@
             }
         },
         {
+            "body": "🍝 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/410f6fdb3a10bfdb2799e07b198a8704e9509fe21707819028904411136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 222687,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/410f6fdb3a10bfdb2799e07b198a8704e9509fe21707819028904411136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 222687,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764592",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764592",
+                "emoticons": [
+                    "🍝"
+                ]
+            }
+        },
+        {
+            "body": "💚 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/961acd5b1c7ac0314a878e12036c8a9ca89718611707819032796725248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167221,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/961acd5b1c7ac0314a878e12036c8a9ca89718611707819032796725248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167221,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764597",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764597",
+                "emoticons": [
+                    "💚"
+                ]
+            }
+        },
+        {
             "body": "🍪 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/65b664f7bb80fdf05c947fb4766310aae862c6fa",
+            "url": "mxc://matrix.chir.rs/3ebc32d68c585a02ba44a3649ce9652bf37056c81707819033904021504",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 204867,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/65b664f7bb80fdf05c947fb4766310aae862c6fa",
+                "thumbnail_url": "mxc://matrix.chir.rs/3ebc32d68c585a02ba44a3649ce9652bf37056c81707819033904021504",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -66,71 +124,13 @@
         },
         {
             "body": "😏 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/02876670ad25c0c73f06eff9305398d2eecea9e8",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 186796,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02876670ad25c0c73f06eff9305398d2eecea9e8",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 186796,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764594",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764594",
-                "emoticons": [
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "💚 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/5952abac0bf4a0c2eb98722de44efd8cf0617333",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 167221,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5952abac0bf4a0c2eb98722de44efd8cf0617333",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 167221,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764597",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764597",
-                "emoticons": [
-                    "💚"
-                ]
-            }
-        },
-        {
-            "body": "😏 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/153fa832854b20e7983d4ceb45ef032bb4d37dd9",
+            "url": "mxc://matrix.chir.rs/8cb254ca221dd1e8b4ac78a2e94eecdb7b4768d81707819035585937408",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 192805,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/153fa832854b20e7983d4ceb45ef032bb4d37dd9",
+                "thumbnail_url": "mxc://matrix.chir.rs/8cb254ca221dd1e8b4ac78a2e94eecdb7b4768d81707819035585937408",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -152,101 +152,43 @@
             }
         },
         {
-            "body": "💙 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/1990fe682fc62861385457f9ee8bff0644926a87",
+            "body": "😏 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/5ef32fe5c51f146099ebc0f8e715a9601aba3c4b1707819035577548800",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 140745,
+                "size": 186796,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1990fe682fc62861385457f9ee8bff0644926a87",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ef32fe5c51f146099ebc0f8e715a9601aba3c4b1707819035577548800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 140745,
+                    "size": 186796,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764598",
+            "id": "tg-448618190289764594",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764370",
                     "short_name": "cballtrapa"
                 },
-                "id": "448618190289764598",
+                "id": "448618190289764594",
                 "emoticons": [
-                    "💙"
-                ]
-            }
-        },
-        {
-            "body": "🍝 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/cb320f2d990d26e3db84ce0f7a69707f0f0cee46",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 222687,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cb320f2d990d26e3db84ce0f7a69707f0f0cee46",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 222687,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764592",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764592",
-                "emoticons": [
-                    "🍝"
-                ]
-            }
-        },
-        {
-            "body": "🤢 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/ac2729bcc7ca6147736aae913a330a3447a6ca8b",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 222088,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ac2729bcc7ca6147736aae913a330a3447a6ca8b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 222088,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764596",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764596",
-                "emoticons": [
-                    "🤢"
+                    "😏"
                 ]
             }
         },
         {
             "body": "😖 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/7a90443bdcb515b23a25f465d234f05ca48a1968",
+            "url": "mxc://matrix.chir.rs/fed496390f6ab3cb429ddf5459d820c0acd123681707819037234298880",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 203284,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7a90443bdcb515b23a25f465d234f05ca48a1968",
+                "thumbnail_url": "mxc://matrix.chir.rs/fed496390f6ab3cb429ddf5459d820c0acd123681707819037234298880",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -268,101 +210,14 @@
             }
         },
         {
-            "body": "😐 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/cb948575723ec29c6e191a18bf2827ef37202dbb",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 157575,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cb948575723ec29c6e191a18bf2827ef37202dbb",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 157575,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764603",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764603",
-                "emoticons": [
-                    "😐"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/268f2d66986b6d0d06c2ca42a81c7f59f736179b",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 240806,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/268f2d66986b6d0d06c2ca42a81c7f59f736179b",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 240806,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764601",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764601",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/d3275a6fb0a812ecc776a196a0673057a8cd74d5",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 156685,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d3275a6fb0a812ecc776a196a0673057a8cd74d5",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 156685,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764602",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764602",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
             "body": "💕 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/dfcdd305ab9f9fa3391f09e72a28143139a18f35",
+            "url": "mxc://matrix.chir.rs/86dff98d1a51a1bf740d7bb69a1f7ce3ebf2ed931707819037263659008",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 251922,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dfcdd305ab9f9fa3391f09e72a28143139a18f35",
+                "thumbnail_url": "mxc://matrix.chir.rs/86dff98d1a51a1bf740d7bb69a1f7ce3ebf2ed931707819037263659008",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -384,43 +239,43 @@
             }
         },
         {
-            "body": "😠 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/187076bac9a8f6555293a92445a1e82c87b2e023",
+            "body": "💙 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/fc29772a1433f05e2b5e388340d49c478c29245c1707819039163678720",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 196910,
+                "size": 140745,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/187076bac9a8f6555293a92445a1e82c87b2e023",
+                "thumbnail_url": "mxc://matrix.chir.rs/fc29772a1433f05e2b5e388340d49c478c29245c1707819039163678720",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 196910,
+                    "size": 140745,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764600",
+            "id": "tg-448618190289764598",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764370",
                     "short_name": "cballtrapa"
                 },
-                "id": "448618190289764600",
+                "id": "448618190289764598",
                 "emoticons": [
-                    "😠"
+                    "💙"
                 ]
             }
         },
         {
             "body": "⬆ (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/cb1c89d92a025cc5ef96805563116ea684d12dc8",
+            "url": "mxc://matrix.chir.rs/9c82150722ce6bf41e9e6414bece3ecc80f877a91707819039163678721",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 162166,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cb1c89d92a025cc5ef96805563116ea684d12dc8",
+                "thumbnail_url": "mxc://matrix.chir.rs/9c82150722ce6bf41e9e6414bece3ecc80f877a91707819039163678721",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -442,14 +297,159 @@
             }
         },
         {
+            "body": "😔 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/177497bc5ea29b4eb9735acbf240a2f2656a0d1e1707819040526827520",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227395,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/177497bc5ea29b4eb9735acbf240a2f2656a0d1e1707819040526827520",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227395,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764899",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764899",
+                "emoticons": [
+                    "😔"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/d8ac08f0a16b1462c8f52252ec2411636de81db61707819040644268032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 220197,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d8ac08f0a16b1462c8f52252ec2411636de81db61707819040644268032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 220197,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764900",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764900",
+                "emoticons": [
+                    "🙌"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/787b49928da239a41c169fd6f18d725e0eba528a1707819042317795328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156685,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/787b49928da239a41c169fd6f18d725e0eba528a1707819042317795328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156685,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764602",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764602",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "😐 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/5633ded293034f6f4a25be5d51cdb087a970ca821707819042368126976",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 157575,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5633ded293034f6f4a25be5d51cdb087a970ca821707819042368126976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 157575,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764603",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764603",
+                "emoticons": [
+                    "😐"
+                ]
+            }
+        },
+        {
+            "body": "💧 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/abb50a7b82da78d567b8b03ca9111740e9401fbd1707819043504783360",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 184381,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/abb50a7b82da78d567b8b03ca9111740e9401fbd1707819043504783360",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 184381,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764901",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764901",
+                "emoticons": [
+                    "💧"
+                ]
+            }
+        },
+        {
             "body": "⬆️ (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/7b23e6fe523bf7228cb0e04e3573c0049b4d2544",
+            "url": "mxc://matrix.chir.rs/cdf503266dfe2423987aa570548f7ef216f095931707819043727081472",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 265652,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b23e6fe523bf7228cb0e04e3573c0049b4d2544",
+                "thumbnail_url": "mxc://matrix.chir.rs/cdf503266dfe2423987aa570548f7ef216f095931707819043727081472",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -472,13 +472,13 @@
         },
         {
             "body": "🔼 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/8fa161e8616b16fbe65f3f12dcc40210f704fa77",
+            "url": "mxc://matrix.chir.rs/98e122169913c742c1e9bb62f26a38c259e39e321707819044641439744",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 263521,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8fa161e8616b16fbe65f3f12dcc40210f704fa77",
+                "thumbnail_url": "mxc://matrix.chir.rs/98e122169913c742c1e9bb62f26a38c259e39e321707819044641439744",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -500,72 +500,14 @@
             }
         },
         {
-            "body": "❕ (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/af36947feccdb58102af8828e0483fbbbcffe3c9",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 291137,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/af36947feccdb58102af8828e0483fbbbcffe3c9",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 291137,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764903",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764903",
-                "emoticons": [
-                    "❕"
-                ]
-            }
-        },
-        {
-            "body": "🙌 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/2beceea63fe6bf79ba3029d8c9d015a607696308",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220197,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2beceea63fe6bf79ba3029d8c9d015a607696308",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220197,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764900",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764900",
-                "emoticons": [
-                    "🙌"
-                ]
-            }
-        },
-        {
             "body": "😑 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/deffa232d1e09b6dea2577318c4b7477b7a1533a",
+            "url": "mxc://matrix.chir.rs/bd06110ae7936d259a0173d900e30f882495bf421707819046465961984",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 184774,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/deffa232d1e09b6dea2577318c4b7477b7a1533a",
+                "thumbnail_url": "mxc://matrix.chir.rs/bd06110ae7936d259a0173d900e30f882495bf421707819046465961984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -587,43 +529,14 @@
             }
         },
         {
-            "body": "💧 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/51acd368584ca3d9e4f6ef86320f4cc6c26e326a",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184381,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/51acd368584ca3d9e4f6ef86320f4cc6c26e326a",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184381,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764901",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764901",
-                "emoticons": [
-                    "💧"
-                ]
-            }
-        },
-        {
             "body": "😳 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/50e73cbfb7a10f5ab3883dfb8b144809666e4ba1",
+            "url": "mxc://matrix.chir.rs/b2d4442f47c9dc69ed622f62a6d6820237f5714c1707819047137050624",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 183606,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/50e73cbfb7a10f5ab3883dfb8b144809666e4ba1",
+                "thumbnail_url": "mxc://matrix.chir.rs/b2d4442f47c9dc69ed622f62a6d6820237f5714c1707819047137050624",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -645,43 +558,14 @@
             }
         },
         {
-            "body": "😔 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/1bba404c91618600d8ba7d092b54e55d10c1d6d0",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 227395,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1bba404c91618600d8ba7d092b54e55d10c1d6d0",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 227395,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764899",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764370",
-                    "short_name": "cballtrapa"
-                },
-                "id": "448618190289764899",
-                "emoticons": [
-                    "😔"
-                ]
-            }
-        },
-        {
             "body": "🍴 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/32ebd6572f3f10753093764dd9ab0d3fc2bb1d8f",
+            "url": "mxc://matrix.chir.rs/d6f19d97e8f63fd4070513b40038d0a47d67333c1707819049104179200",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 231857,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/32ebd6572f3f10753093764dd9ab0d3fc2bb1d8f",
+                "thumbnail_url": "mxc://matrix.chir.rs/d6f19d97e8f63fd4070513b40038d0a47d67333c1707819049104179200",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -704,13 +588,13 @@
         },
         {
             "body": "👐 (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/9068162d0701765aeac92d39ec1038167f8f520b",
+            "url": "mxc://matrix.chir.rs/44ddab001c4987ec4fc62dc929a622058309d1f91707819049141927936",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 198774,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9068162d0701765aeac92d39ec1038167f8f520b",
+                "thumbnail_url": "mxc://matrix.chir.rs/44ddab001c4987ec4fc62dc929a622058309d1f91707819049141927936",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -733,13 +617,13 @@
         },
         {
             "body": "ℹ (Trapa & Cball)",
-            "url": "mxc://matrix.chir.rs/affb97d258735204a9c7e9f9f41c8cc15219aca6",
+            "url": "mxc://matrix.chir.rs/74e64b5f5adbe91d7b80b6d8397c4b69f20041bc1707819050437967872",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 270313,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/affb97d258735204a9c7e9f9f41c8cc15219aca6",
+                "thumbnail_url": "mxc://matrix.chir.rs/74e64b5f5adbe91d7b80b6d8397c4b69f20041bc1707819050437967872",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -758,6 +642,122 @@
                 "emoticons": [
                     "ℹ",
                     "©"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/209d7fc0256f91c1471801c2cb650ce11ff1af4b1707819050429579264",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240806,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/209d7fc0256f91c1471801c2cb650ce11ff1af4b1707819050429579264",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240806,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764601",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764601",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/d34f7ef61851ee49a9cc2ff69a43e3f65e3a6c4b1707819054170898432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196910,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d34f7ef61851ee49a9cc2ff69a43e3f65e3a6c4b1707819054170898432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196910,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764600",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764600",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "❕ (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/453bfcb9831beb1435b363cc58e2586d6770566d1707819055953477632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 291137,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/453bfcb9831beb1435b363cc58e2586d6770566d1707819055953477632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 291137,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764903",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764903",
+                "emoticons": [
+                    "❕"
+                ]
+            }
+        },
+        {
+            "body": "🤢 (Trapa & Cball)",
+            "url": "mxc://matrix.chir.rs/ade3a608c0fe9aae3d082eff1e2490c13b960ed61707819060630126592",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 222088,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ade3a608c0fe9aae3d082eff1e2490c13b960ed61707819060630126592",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 222088,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764596",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764370",
+                    "short_name": "cballtrapa"
+                },
+                "id": "448618190289764596",
+                "emoticons": [
+                    "🤢"
                 ]
             }
         }
