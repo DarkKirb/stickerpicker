@@ -118,6 +118,9 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
             doc["net.maunium.telegram.sticker"]["emoticons"].append(sticker.emoticon)
 
     with util.open_utf8(pack_path, "w") as pack_file:
+        stickers = []
+        for id in sorted(reuploaded_documents.keys()):
+            stickers.append(reuploaded_documents[id])
         json.dump({
             "title": pack.set.title,
             "id": f"tg-{pack.set.id}",
@@ -125,7 +128,7 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
                 "short_name": pack.set.short_name,
                 "hash": str(pack.set.hash),
             },
-            "stickers": list(reuploaded_documents.values()),
+            "stickers": stickers,
         }, pack_file, ensure_ascii=False, indent=4)
     print(f"Saved {pack.set.title} as {pack.set.short_name}.json")
 

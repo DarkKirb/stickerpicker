@@ -7,31 +7,31 @@
     },
     "stickers": [
         {
-            "body": "😱 (Ferris [rust])",
-            "url": "mxc://matrix.chir.rs/812a8365e7069f034c72844eccacb048139ceb711707819047648755712",
+            "body": "😄 (Ferris [rust])",
+            "url": "mxc://matrix.chir.rs/e6b3aa07e884c296dfadc4b814e4b2df59e3c5ad1707819055982837760",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 153117,
+                "size": 81707,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/812a8365e7069f034c72844eccacb048139ceb711707819047648755712",
+                "thumbnail_url": "mxc://matrix.chir.rs/e6b3aa07e884c296dfadc4b814e4b2df59e3c5ad1707819055982837760",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 153117,
+                    "size": 81707,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5771571696540584133",
+            "id": "tg-5771432359211567156",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "4669484501431222273",
                     "short_name": "crustacean"
                 },
-                "id": "5771571696540584133",
+                "id": "5771432359211567156",
                 "emoticons": [
-                    "😱"
+                    "😄"
                 ]
             }
         },
@@ -65,31 +65,31 @@
             }
         },
         {
-            "body": "😄 (Ferris [rust])",
-            "url": "mxc://matrix.chir.rs/e6b3aa07e884c296dfadc4b814e4b2df59e3c5ad1707819055982837760",
+            "body": "😱 (Ferris [rust])",
+            "url": "mxc://matrix.chir.rs/812a8365e7069f034c72844eccacb048139ceb711707819047648755712",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 81707,
+                "size": 153117,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e6b3aa07e884c296dfadc4b814e4b2df59e3c5ad1707819055982837760",
+                "thumbnail_url": "mxc://matrix.chir.rs/812a8365e7069f034c72844eccacb048139ceb711707819047648755712",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 81707,
+                    "size": 153117,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5771432359211567156",
+            "id": "tg-5771571696540584133",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "4669484501431222273",
                     "short_name": "crustacean"
                 },
-                "id": "5771432359211567156",
+                "id": "5771571696540584133",
                 "emoticons": [
-                    "😄"
+                    "😱"
                 ]
             }
         },

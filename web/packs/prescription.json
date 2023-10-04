@@ -7,36 +7,6 @@
     },
     "stickers": [
         {
-            "body": "🐈 (rx)",
-            "url": "mxc://matrix.chir.rs/599a165302c6df61ccbdd76decd254513ce48f961707820116026064897",
-            "info": {
-                "w": 256,
-                "h": 124,
-                "size": 69347,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/599a165302c6df61ccbdd76decd254513ce48f961707820116026064897",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 124,
-                    "size": 69347,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534216",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534216",
-                "emoticons": [
-                    "🐈",
-                    "🥝"
-                ]
-            }
-        },
-        {
             "body": "🐺 (rx)",
             "url": "mxc://matrix.chir.rs/32eaa5dbd74c2b68c17ff2a2e5831e20316849811707820117531820032",
             "info": {
@@ -63,6 +33,66 @@
                 "emoticons": [
                     "🐺",
                     "♨"
+                ]
+            }
+        },
+        {
+            "body": "💦 (rx)",
+            "url": "mxc://matrix.chir.rs/c49e10d0e5c1c2375a648c3544cb50f55b20d2ee1707820116034453504",
+            "info": {
+                "w": 256,
+                "h": 128,
+                "size": 28659,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c49e10d0e5c1c2375a648c3544cb50f55b20d2ee1707820116034453504",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 128,
+                    "size": 28659,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534215",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534215",
+                "emoticons": [
+                    "💦",
+                    "🛁"
+                ]
+            }
+        },
+        {
+            "body": "🐈 (rx)",
+            "url": "mxc://matrix.chir.rs/599a165302c6df61ccbdd76decd254513ce48f961707820116026064897",
+            "info": {
+                "w": 256,
+                "h": 124,
+                "size": 69347,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/599a165302c6df61ccbdd76decd254513ce48f961707820116026064897",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 124,
+                    "size": 69347,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534216",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534216",
+                "emoticons": [
+                    "🐈",
+                    "🥝"
                 ]
             }
         },
@@ -98,66 +128,6 @@
         },
         {
             "body": "💦 (rx)",
-            "url": "mxc://matrix.chir.rs/c49e10d0e5c1c2375a648c3544cb50f55b20d2ee1707820116034453504",
-            "info": {
-                "w": 256,
-                "h": 128,
-                "size": 28659,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c49e10d0e5c1c2375a648c3544cb50f55b20d2ee1707820116034453504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 128,
-                    "size": 28659,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534215",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534215",
-                "emoticons": [
-                    "💦",
-                    "🛁"
-                ]
-            }
-        },
-        {
-            "body": "💩 (rx)",
-            "url": "mxc://matrix.chir.rs/24087e66742e5067f914c7a09308859a76341e981707820136859172864",
-            "info": {
-                "w": 256,
-                "h": 135,
-                "size": 77019,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/24087e66742e5067f914c7a09308859a76341e981707820136859172864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 135,
-                    "size": 77019,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534220",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534220",
-                "emoticons": [
-                    "💩",
-                    "📦"
-                ]
-            }
-        },
-        {
-            "body": "💦 (rx)",
             "url": "mxc://matrix.chir.rs/bdaede9d63c7ec65266bc45514c8a7fd9f797b6a1707820130894872576",
             "info": {
                 "w": 256,
@@ -183,36 +153,6 @@
                 "emoticons": [
                     "💦",
                     "🍺"
-                ]
-            }
-        },
-        {
-            "body": "🐺 (rx)",
-            "url": "mxc://matrix.chir.rs/123fbe3b485eb8c6222ac20a9235bf444e4fc0681707820141456130048",
-            "info": {
-                "w": 256,
-                "h": 126,
-                "size": 30978,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/123fbe3b485eb8c6222ac20a9235bf444e4fc0681707820141456130048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 126,
-                    "size": 30978,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534221",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534221",
-                "emoticons": [
-                    "🐺",
-                    "🐶"
                 ]
             }
         },
@@ -247,6 +187,66 @@
             }
         },
         {
+            "body": "💩 (rx)",
+            "url": "mxc://matrix.chir.rs/24087e66742e5067f914c7a09308859a76341e981707820136859172864",
+            "info": {
+                "w": 256,
+                "h": 135,
+                "size": 77019,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/24087e66742e5067f914c7a09308859a76341e981707820136859172864",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 135,
+                    "size": 77019,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534220",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534220",
+                "emoticons": [
+                    "💩",
+                    "📦"
+                ]
+            }
+        },
+        {
+            "body": "🐺 (rx)",
+            "url": "mxc://matrix.chir.rs/123fbe3b485eb8c6222ac20a9235bf444e4fc0681707820141456130048",
+            "info": {
+                "w": 256,
+                "h": 126,
+                "size": 30978,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/123fbe3b485eb8c6222ac20a9235bf444e4fc0681707820141456130048",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 126,
+                    "size": 30978,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534221",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534221",
+                "emoticons": [
+                    "🐺",
+                    "🐶"
+                ]
+            }
+        },
+        {
             "body": "🌞 (rx)",
             "url": "mxc://matrix.chir.rs/7b22c6e451b2fb6c372c12fad2d3f07255e6cd621707820116885897216",
             "info": {
@@ -277,37 +277,6 @@
             }
         },
         {
-            "body": "🐰 (rx)",
-            "url": "mxc://matrix.chir.rs/f4318913b4d354d516abd983c1b333dd71171e231707820119150821376",
-            "info": {
-                "w": 256,
-                "h": 127,
-                "size": 67557,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f4318913b4d354d516abd983c1b333dd71171e231707820119150821376",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 127,
-                    "size": 67557,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534225",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534225",
-                "emoticons": [
-                    "🐰",
-                    "🌵",
-                    "😈"
-                ]
-            }
-        },
-        {
             "body": "👩 (rx)",
             "url": "mxc://matrix.chir.rs/b4ec87e6146758cad75497b50e46f6d73c2e8f751707820151442767872",
             "info": {
@@ -334,35 +303,6 @@
                 "emoticons": [
                     "👩",
                     "👧"
-                ]
-            }
-        },
-        {
-            "body": "🐩 (rx)",
-            "url": "mxc://matrix.chir.rs/3bf292f537abb62582a0488aefbdca9b33b376b61707820125631021056",
-            "info": {
-                "w": 256,
-                "h": 133,
-                "size": 87866,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3bf292f537abb62582a0488aefbdca9b33b376b61707820125631021056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 133,
-                    "size": 87866,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534228",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534228",
-                "emoticons": [
-                    "🐩"
                 ]
             }
         },
@@ -398,31 +338,120 @@
             }
         },
         {
-            "body": "🚶 (rx)",
-            "url": "mxc://matrix.chir.rs/698d01f08825fef4c1d47b986fb37820238c61581707820123911356416",
+            "body": "🐰 (rx)",
+            "url": "mxc://matrix.chir.rs/f4318913b4d354d516abd983c1b333dd71171e231707820119150821376",
             "info": {
                 "w": 256,
-                "h": 125,
-                "size": 71285,
+                "h": 127,
+                "size": 67557,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/698d01f08825fef4c1d47b986fb37820238c61581707820123911356416",
+                "thumbnail_url": "mxc://matrix.chir.rs/f4318913b4d354d516abd983c1b333dd71171e231707820119150821376",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 125,
-                    "size": 71285,
+                    "h": 127,
+                    "size": 67557,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-313929811183534233",
+            "id": "tg-313929811183534225",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "313929811183534085",
                     "short_name": "prescription"
                 },
-                "id": "313929811183534233",
+                "id": "313929811183534225",
                 "emoticons": [
-                    "🚶"
+                    "🐰",
+                    "🌵",
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "💩 (rx)",
+            "url": "mxc://matrix.chir.rs/ae0700cac6a400c3fa2b468d223df29cd7a2c3701707820130265726976",
+            "info": {
+                "w": 256,
+                "h": 131,
+                "size": 78184,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ae0700cac6a400c3fa2b468d223df29cd7a2c3701707820130265726976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 131,
+                    "size": 78184,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534226",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534226",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "🚑 (rx)",
+            "url": "mxc://matrix.chir.rs/8b464064f4d34b5f6beea7cc058a24d37be48b7c1707820120035819520",
+            "info": {
+                "w": 256,
+                "h": 125,
+                "size": 25631,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8b464064f4d34b5f6beea7cc058a24d37be48b7c1707820120035819520",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 125,
+                    "size": 25631,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534227",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534227",
+                "emoticons": [
+                    "🚑"
+                ]
+            }
+        },
+        {
+            "body": "🐩 (rx)",
+            "url": "mxc://matrix.chir.rs/3bf292f537abb62582a0488aefbdca9b33b376b61707820125631021056",
+            "info": {
+                "w": 256,
+                "h": 133,
+                "size": 87866,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3bf292f537abb62582a0488aefbdca9b33b376b61707820125631021056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 133,
+                    "size": 87866,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534228",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534228",
+                "emoticons": [
+                    "🐩"
                 ]
             }
         },
@@ -485,240 +514,6 @@
             }
         },
         {
-            "body": "😮 (rx)",
-            "url": "mxc://matrix.chir.rs/22d7e2e7f8e62789856eccbe0932c052c93e911b1707820120794988544",
-            "info": {
-                "w": 256,
-                "h": 66,
-                "size": 44439,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/22d7e2e7f8e62789856eccbe0932c052c93e911b1707820120794988544",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 66,
-                    "size": 44439,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534234",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534234",
-                "emoticons": [
-                    "😮"
-                ]
-            }
-        },
-        {
-            "body": "🚑 (rx)",
-            "url": "mxc://matrix.chir.rs/8b464064f4d34b5f6beea7cc058a24d37be48b7c1707820120035819520",
-            "info": {
-                "w": 256,
-                "h": 125,
-                "size": 25631,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8b464064f4d34b5f6beea7cc058a24d37be48b7c1707820120035819520",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 125,
-                    "size": 25631,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534227",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534227",
-                "emoticons": [
-                    "🚑"
-                ]
-            }
-        },
-        {
-            "body": "🍸 (rx)",
-            "url": "mxc://matrix.chir.rs/aaf2ffd495f1f8093a85996154a9bdf994ff701d1707820143372926976",
-            "info": {
-                "w": 256,
-                "h": 144,
-                "size": 87854,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aaf2ffd495f1f8093a85996154a9bdf994ff701d1707820143372926976",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 144,
-                    "size": 87854,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534239",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534239",
-                "emoticons": [
-                    "💦",
-                    "🍸"
-                ]
-            }
-        },
-        {
-            "body": "🙀 (rx)",
-            "url": "mxc://matrix.chir.rs/f6cddbafac655a76c191f12be87cd03a58c649ee1707820127476514816",
-            "info": {
-                "w": 256,
-                "h": 149,
-                "size": 78041,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f6cddbafac655a76c191f12be87cd03a58c649ee1707820127476514816",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 149,
-                    "size": 78041,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534243",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534243",
-                "emoticons": [
-                    "🙀"
-                ]
-            }
-        },
-        {
-            "body": "💩 (rx)",
-            "url": "mxc://matrix.chir.rs/74e334fff8f7e16cfa456ad6e994225a3ab331b21707820144807378944",
-            "info": {
-                "w": 256,
-                "h": 140,
-                "size": 66455,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74e334fff8f7e16cfa456ad6e994225a3ab331b21707820144807378944",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 140,
-                    "size": 66455,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534242",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534242",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
-            "body": "🕳 (rx)",
-            "url": "mxc://matrix.chir.rs/d33cf91e80d42a9b70f1645475e75b9d101973321707820133159796736",
-            "info": {
-                "w": 256,
-                "h": 67,
-                "size": 41402,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d33cf91e80d42a9b70f1645475e75b9d101973321707820133159796736",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 67,
-                    "size": 41402,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534244",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534244",
-                "emoticons": [
-                    "🕳"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (rx)",
-            "url": "mxc://matrix.chir.rs/da0129b1ff64745a1abba3a88cae94d6dbb354951707820132870389760",
-            "info": {
-                "w": 256,
-                "h": 125,
-                "size": 73971,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/da0129b1ff64745a1abba3a88cae94d6dbb354951707820132870389760",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 125,
-                    "size": 73971,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534247",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534247",
-                "emoticons": [
-                    "🐶"
-                ]
-            }
-        },
-        {
-            "body": "💉 (rx)",
-            "url": "mxc://matrix.chir.rs/b212a2bbb68628e173a915146223a3ba20bd3d4c1707820131796647936",
-            "info": {
-                "w": 256,
-                "h": 80,
-                "size": 51821,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b212a2bbb68628e173a915146223a3ba20bd3d4c1707820131796647936",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 80,
-                    "size": 51821,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-313929811183534245",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "313929811183534085",
-                    "short_name": "prescription"
-                },
-                "id": "313929811183534245",
-                "emoticons": [
-                    "💉",
-                    "💊"
-                ]
-            }
-        },
-        {
             "body": "👇 (rx)",
             "url": "mxc://matrix.chir.rs/b36460a838020082ce5bdb951967b70f5e8aaab81707820126490853376",
             "info": {
@@ -749,60 +544,60 @@
             }
         },
         {
-            "body": "💊 (rx)",
-            "url": "mxc://matrix.chir.rs/64b5b79b0285cb50b17582d90bed3e77b13b19f21707820139245731840",
+            "body": "🚶 (rx)",
+            "url": "mxc://matrix.chir.rs/698d01f08825fef4c1d47b986fb37820238c61581707820123911356416",
             "info": {
                 "w": 256,
-                "h": 142,
-                "size": 88321,
+                "h": 125,
+                "size": 71285,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/64b5b79b0285cb50b17582d90bed3e77b13b19f21707820139245731840",
+                "thumbnail_url": "mxc://matrix.chir.rs/698d01f08825fef4c1d47b986fb37820238c61581707820123911356416",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 142,
-                    "size": 88321,
+                    "h": 125,
+                    "size": 71285,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-313929811183534246",
+            "id": "tg-313929811183534233",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "313929811183534085",
                     "short_name": "prescription"
                 },
-                "id": "313929811183534246",
+                "id": "313929811183534233",
                 "emoticons": [
-                    "💊"
+                    "🚶"
                 ]
             }
         },
         {
-            "body": "💉 (rx)",
-            "url": "mxc://matrix.chir.rs/aae14f16782801701d99a39dec588439b7a69df11707820135198228480",
+            "body": "😮 (rx)",
+            "url": "mxc://matrix.chir.rs/22d7e2e7f8e62789856eccbe0932c052c93e911b1707820120794988544",
             "info": {
                 "w": 256,
-                "h": 71,
-                "size": 65741,
+                "h": 66,
+                "size": 44439,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aae14f16782801701d99a39dec588439b7a69df11707820135198228480",
+                "thumbnail_url": "mxc://matrix.chir.rs/22d7e2e7f8e62789856eccbe0932c052c93e911b1707820120794988544",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 71,
-                    "size": 65741,
+                    "h": 66,
+                    "size": 44439,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-313929811183534238",
+            "id": "tg-313929811183534234",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "313929811183534085",
                     "short_name": "prescription"
                 },
-                "id": "313929811183534238",
+                "id": "313929811183534234",
                 "emoticons": [
-                    "💉"
+                    "😮"
                 ]
             }
         },
@@ -866,31 +661,61 @@
             }
         },
         {
-            "body": "💩 (rx)",
-            "url": "mxc://matrix.chir.rs/ae0700cac6a400c3fa2b468d223df29cd7a2c3701707820130265726976",
+            "body": "💉 (rx)",
+            "url": "mxc://matrix.chir.rs/aae14f16782801701d99a39dec588439b7a69df11707820135198228480",
             "info": {
                 "w": 256,
-                "h": 131,
-                "size": 78184,
+                "h": 71,
+                "size": 65741,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ae0700cac6a400c3fa2b468d223df29cd7a2c3701707820130265726976",
+                "thumbnail_url": "mxc://matrix.chir.rs/aae14f16782801701d99a39dec588439b7a69df11707820135198228480",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 131,
-                    "size": 78184,
+                    "h": 71,
+                    "size": 65741,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-313929811183534226",
+            "id": "tg-313929811183534238",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "313929811183534085",
                     "short_name": "prescription"
                 },
-                "id": "313929811183534226",
+                "id": "313929811183534238",
                 "emoticons": [
-                    "💩"
+                    "💉"
+                ]
+            }
+        },
+        {
+            "body": "🍸 (rx)",
+            "url": "mxc://matrix.chir.rs/aaf2ffd495f1f8093a85996154a9bdf994ff701d1707820143372926976",
+            "info": {
+                "w": 256,
+                "h": 144,
+                "size": 87854,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aaf2ffd495f1f8093a85996154a9bdf994ff701d1707820143372926976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 144,
+                    "size": 87854,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534239",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534239",
+                "emoticons": [
+                    "💦",
+                    "🍸"
                 ]
             }
         },
@@ -949,6 +774,181 @@
                 "id": "313929811183534241",
                 "emoticons": [
                     "👫"
+                ]
+            }
+        },
+        {
+            "body": "💩 (rx)",
+            "url": "mxc://matrix.chir.rs/74e334fff8f7e16cfa456ad6e994225a3ab331b21707820144807378944",
+            "info": {
+                "w": 256,
+                "h": 140,
+                "size": 66455,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/74e334fff8f7e16cfa456ad6e994225a3ab331b21707820144807378944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 140,
+                    "size": 66455,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534242",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534242",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "🙀 (rx)",
+            "url": "mxc://matrix.chir.rs/f6cddbafac655a76c191f12be87cd03a58c649ee1707820127476514816",
+            "info": {
+                "w": 256,
+                "h": 149,
+                "size": 78041,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f6cddbafac655a76c191f12be87cd03a58c649ee1707820127476514816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 149,
+                    "size": 78041,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534243",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534243",
+                "emoticons": [
+                    "🙀"
+                ]
+            }
+        },
+        {
+            "body": "🕳 (rx)",
+            "url": "mxc://matrix.chir.rs/d33cf91e80d42a9b70f1645475e75b9d101973321707820133159796736",
+            "info": {
+                "w": 256,
+                "h": 67,
+                "size": 41402,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d33cf91e80d42a9b70f1645475e75b9d101973321707820133159796736",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 67,
+                    "size": 41402,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534244",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534244",
+                "emoticons": [
+                    "🕳"
+                ]
+            }
+        },
+        {
+            "body": "💉 (rx)",
+            "url": "mxc://matrix.chir.rs/b212a2bbb68628e173a915146223a3ba20bd3d4c1707820131796647936",
+            "info": {
+                "w": 256,
+                "h": 80,
+                "size": 51821,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b212a2bbb68628e173a915146223a3ba20bd3d4c1707820131796647936",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 80,
+                    "size": 51821,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534245",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534245",
+                "emoticons": [
+                    "💉",
+                    "💊"
+                ]
+            }
+        },
+        {
+            "body": "💊 (rx)",
+            "url": "mxc://matrix.chir.rs/64b5b79b0285cb50b17582d90bed3e77b13b19f21707820139245731840",
+            "info": {
+                "w": 256,
+                "h": 142,
+                "size": 88321,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/64b5b79b0285cb50b17582d90bed3e77b13b19f21707820139245731840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 142,
+                    "size": 88321,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534246",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534246",
+                "emoticons": [
+                    "💊"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (rx)",
+            "url": "mxc://matrix.chir.rs/da0129b1ff64745a1abba3a88cae94d6dbb354951707820132870389760",
+            "info": {
+                "w": 256,
+                "h": 125,
+                "size": 73971,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/da0129b1ff64745a1abba3a88cae94d6dbb354951707820132870389760",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 125,
+                    "size": 73971,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-313929811183534247",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "313929811183534085",
+                    "short_name": "prescription"
+                },
+                "id": "313929811183534247",
+                "emoticons": [
+                    "🐶"
                 ]
             }
         }

@@ -7,64 +7,6 @@
     },
     "stickers": [
         {
-            "body": "🥺 (Dain)",
-            "url": "mxc://matrix.chir.rs/db2e75099f90c26b1eb94bc95863c3b12b8d21e11707805334715760640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 216190,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db2e75099f90c26b1eb94bc95863c3b12b8d21e11707805334715760640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 216190,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141571",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141571",
-                "emoticons": [
-                    "🥺"
-                ]
-            }
-        },
-        {
-            "body": "🐱 (Dain)",
-            "url": "mxc://matrix.chir.rs/0307092b08ab5511cf4f551a11053133034e27701707805331024773120",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192442,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0307092b08ab5511cf4f551a11053133034e27701707805331024773120",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192442,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141572",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141572",
-                "emoticons": [
-                    "🐱"
-                ]
-            }
-        },
-        {
             "body": "👍 (Dain)",
             "url": "mxc://matrix.chir.rs/fefea7ca25ad904696fa9c5adef3b915883b38481707805322678108160",
             "info": {
@@ -123,6 +65,64 @@
             }
         },
         {
+            "body": "🥺 (Dain)",
+            "url": "mxc://matrix.chir.rs/db2e75099f90c26b1eb94bc95863c3b12b8d21e11707805334715760640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216190,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/db2e75099f90c26b1eb94bc95863c3b12b8d21e11707805334715760640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216190,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141571",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141571",
+                "emoticons": [
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "🐱 (Dain)",
+            "url": "mxc://matrix.chir.rs/0307092b08ab5511cf4f551a11053133034e27701707805331024773120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192442,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0307092b08ab5511cf4f551a11053133034e27701707805331024773120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192442,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141572",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141572",
+                "emoticons": [
+                    "🐱"
+                ]
+            }
+        },
+        {
             "body": "😊 (Dain)",
             "url": "mxc://matrix.chir.rs/de11a8bc08508704d58387e9e2adcaec454e1eb71707805329917476864",
             "info": {
@@ -148,6 +148,93 @@
                 "id": "532015945393141573",
                 "emoticons": [
                     "😊"
+                ]
+            }
+        },
+        {
+            "body": "🥴 (Dain)",
+            "url": "mxc://matrix.chir.rs/25794e0cf8f18f9d682373dba0bf5de4a6f96dd01707805330726977536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 241221,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/25794e0cf8f18f9d682373dba0bf5de4a6f96dd01707805330726977536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 241221,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141574",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141574",
+                "emoticons": [
+                    "🥴"
+                ]
+            }
+        },
+        {
+            "body": "😏 (Dain)",
+            "url": "mxc://matrix.chir.rs/5a61ba1ad8b1b1c810acfb17cc97308c98896dba1707805329913282560",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 169613,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5a61ba1ad8b1b1c810acfb17cc97308c98896dba1707805329913282560",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 169613,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141575",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141575",
+                "emoticons": [
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "💢 (Dain)",
+            "url": "mxc://matrix.chir.rs/ad2614087cb2ff14431006fe0d0c11ad1c2e2d7a1707805334938058752",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 251591,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ad2614087cb2ff14431006fe0d0c11ad1c2e2d7a1707805334938058752",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 251591,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141576",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141576",
+                "emoticons": [
+                    "💢"
                 ]
             }
         },
@@ -210,60 +297,31 @@
             }
         },
         {
-            "body": "😏 (Dain)",
-            "url": "mxc://matrix.chir.rs/5a61ba1ad8b1b1c810acfb17cc97308c98896dba1707805329913282560",
+            "body": "🦌 (Dain)",
+            "url": "mxc://matrix.chir.rs/e56c7348d15a2e25cbdf6d865a98c7cf57903de31707805339954446336",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 169613,
+                "size": 200649,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5a61ba1ad8b1b1c810acfb17cc97308c98896dba1707805329913282560",
+                "thumbnail_url": "mxc://matrix.chir.rs/e56c7348d15a2e25cbdf6d865a98c7cf57903de31707805339954446336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 169613,
+                    "size": 200649,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393141575",
+            "id": "tg-532015945393141579",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "532015945393141575",
+                "id": "532015945393141579",
                 "emoticons": [
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Dain)",
-            "url": "mxc://matrix.chir.rs/42cf60f60269d93b0a1f7ea392747a590984f9b11707805339690205184",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 227049,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/42cf60f60269d93b0a1f7ea392747a590984f9b11707805339690205184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 227049,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141581",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141581",
-                "emoticons": [
-                    "😴"
+                    "🦌"
                 ]
             }
         },
@@ -297,60 +355,31 @@
             }
         },
         {
-            "body": "🥰 (Dain)",
-            "url": "mxc://matrix.chir.rs/b8b65cd94cbb92bdbfb70d24b4650c7bf20a4fa81707805333243559936",
+            "body": "😴 (Dain)",
+            "url": "mxc://matrix.chir.rs/42cf60f60269d93b0a1f7ea392747a590984f9b11707805339690205184",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 223180,
+                "size": 227049,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b8b65cd94cbb92bdbfb70d24b4650c7bf20a4fa81707805333243559936",
+                "thumbnail_url": "mxc://matrix.chir.rs/42cf60f60269d93b0a1f7ea392747a590984f9b11707805339690205184",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 223180,
+                    "size": 227049,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393141583",
+            "id": "tg-532015945393141581",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "532015945393141583",
+                "id": "532015945393141581",
                 "emoticons": [
-                    "🥰"
-                ]
-            }
-        },
-        {
-            "body": "💢 (Dain)",
-            "url": "mxc://matrix.chir.rs/ad2614087cb2ff14431006fe0d0c11ad1c2e2d7a1707805334938058752",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 251591,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ad2614087cb2ff14431006fe0d0c11ad1c2e2d7a1707805334938058752",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 251591,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141576",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141576",
-                "emoticons": [
-                    "💢"
+                    "😴"
                 ]
             }
         },
@@ -384,6 +413,35 @@
             }
         },
         {
+            "body": "🥰 (Dain)",
+            "url": "mxc://matrix.chir.rs/b8b65cd94cbb92bdbfb70d24b4650c7bf20a4fa81707805333243559936",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 223180,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b8b65cd94cbb92bdbfb70d24b4650c7bf20a4fa81707805333243559936",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 223180,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141583",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141583",
+                "emoticons": [
+                    "🥰"
+                ]
+            }
+        },
+        {
             "body": "💦 (Dain)",
             "url": "mxc://matrix.chir.rs/c263f07bf69ef3971cc606d0e447fa64b9dfa7961707805335751753728",
             "info": {
@@ -413,6 +471,35 @@
             }
         },
         {
+            "body": "😶 (Dain)",
+            "url": "mxc://matrix.chir.rs/84ca94ec8473444484afd86ae0afa2c0448a39541707805339639873536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159479,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/84ca94ec8473444484afd86ae0afa2c0448a39541707805339639873536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159479,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141585",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141585",
+                "emoticons": [
+                    "😶"
+                ]
+            }
+        },
+        {
             "body": "😊 (Dain)",
             "url": "mxc://matrix.chir.rs/15ef1d4ec05561443c06f4b67813c6d5952397591707805343729319936",
             "info": {
@@ -438,64 +525,6 @@
                 "id": "532015945393141586",
                 "emoticons": [
                     "😊"
-                ]
-            }
-        },
-        {
-            "body": "🥴 (Dain)",
-            "url": "mxc://matrix.chir.rs/25794e0cf8f18f9d682373dba0bf5de4a6f96dd01707805330726977536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241221,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/25794e0cf8f18f9d682373dba0bf5de4a6f96dd01707805330726977536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241221,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141574",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141574",
-                "emoticons": [
-                    "🥴"
-                ]
-            }
-        },
-        {
-            "body": "🦌 (Dain)",
-            "url": "mxc://matrix.chir.rs/e56c7348d15a2e25cbdf6d865a98c7cf57903de31707805339954446336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200649,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e56c7348d15a2e25cbdf6d865a98c7cf57903de31707805339954446336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200649,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141579",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141579",
-                "emoticons": [
-                    "🦌"
                 ]
             }
         },
@@ -559,35 +588,6 @@
         },
         {
             "body": "💦 (Dain)",
-            "url": "mxc://matrix.chir.rs/f7d79de075774e9b7cab13c5b571de2c1bed66811707805350003998720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 217006,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f7d79de075774e9b7cab13c5b571de2c1bed66811707805350003998720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 217006,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141590",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141590",
-                "emoticons": [
-                    "💦"
-                ]
-            }
-        },
-        {
-            "body": "💦 (Dain)",
             "url": "mxc://matrix.chir.rs/1ef9116b72c53f3c47107d23b7c596cb99771a7f1707805343758680064",
             "info": {
                 "w": 256,
@@ -610,6 +610,35 @@
                     "short_name": "Dain88758NaL"
                 },
                 "id": "532015945393141589",
+                "emoticons": [
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "💦 (Dain)",
+            "url": "mxc://matrix.chir.rs/f7d79de075774e9b7cab13c5b571de2c1bed66811707805350003998720",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 217006,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f7d79de075774e9b7cab13c5b571de2c1bed66811707805350003998720",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 217006,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141590",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141590",
                 "emoticons": [
                     "💦"
                 ]
@@ -674,31 +703,60 @@
             }
         },
         {
-            "body": "😏 (Dain)",
-            "url": "mxc://matrix.chir.rs/f3c1edbb118b99e44bf8515142ae052a0fe0925b1707805346300428288",
+            "body": "💦 (Dain)",
+            "url": "mxc://matrix.chir.rs/eb28e8ce31287a37e2cfc88048a3dbda6d2f68a61707805349844615168",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 233318,
+                "size": 197684,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f3c1edbb118b99e44bf8515142ae052a0fe0925b1707805346300428288",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb28e8ce31287a37e2cfc88048a3dbda6d2f68a61707805349844615168",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 233318,
+                    "size": 197684,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143755",
+            "id": "tg-532015945393141593",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "532015945393143755",
+                "id": "532015945393141593",
                 "emoticons": [
-                    "😏"
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (Dain)",
+            "url": "mxc://matrix.chir.rs/31b89413b02e32c5038554f87dd72bc6e18f77b91707805361978736640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175642,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/31b89413b02e32c5038554f87dd72bc6e18f77b91707805361978736640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175642,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393141594",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393141594",
+                "emoticons": [
+                    "ℹ"
                 ]
             }
         },
@@ -732,118 +790,31 @@
             }
         },
         {
-            "body": "🙄 (Dain)",
-            "url": "mxc://matrix.chir.rs/7d3d5b8a4389ca3152257f4ddee012cf8a9c69581707805346929573888",
+            "body": "😏 (Dain)",
+            "url": "mxc://matrix.chir.rs/f3c1edbb118b99e44bf8515142ae052a0fe0925b1707805346300428288",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 178741,
+                "size": 233318,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7d3d5b8a4389ca3152257f4ddee012cf8a9c69581707805346929573888",
+                "thumbnail_url": "mxc://matrix.chir.rs/f3c1edbb118b99e44bf8515142ae052a0fe0925b1707805346300428288",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 178741,
+                    "size": 233318,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143760",
+            "id": "tg-532015945393143755",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "532015945393143760",
+                "id": "532015945393143755",
                 "emoticons": [
-                    "🙄"
-                ]
-            }
-        },
-        {
-            "body": "😶 (Dain)",
-            "url": "mxc://matrix.chir.rs/84ca94ec8473444484afd86ae0afa2c0448a39541707805339639873536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 159479,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/84ca94ec8473444484afd86ae0afa2c0448a39541707805339639873536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 159479,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141585",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141585",
-                "emoticons": [
-                    "😶"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Dain)",
-            "url": "mxc://matrix.chir.rs/264bae8e05a5443f8ab13d017fc54f679bb1f44e1707805353812426753",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 281655,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/264bae8e05a5443f8ab13d017fc54f679bb1f44e1707805353812426753",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 281655,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393143762",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393143762",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "😘 (Dain)",
-            "url": "mxc://matrix.chir.rs/73df603e6c76eaed5f428da7c023a841da9a692e1707805351748829184",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184665,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/73df603e6c76eaed5f428da7c023a841da9a692e1707805351748829184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184665,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393143761",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393143761",
-                "emoticons": [
-                    "😘"
+                    "😏"
                 ]
             }
         },
@@ -935,31 +906,176 @@
             }
         },
         {
-            "body": "💦 (Dain)",
-            "url": "mxc://matrix.chir.rs/eb28e8ce31287a37e2cfc88048a3dbda6d2f68a61707805349844615168",
+            "body": "😭 (Dain)",
+            "url": "mxc://matrix.chir.rs/08209cae5356fe64f00c944ca2f2c57e5417ca3e1707805348292722688",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 197684,
+                "size": 173210,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb28e8ce31287a37e2cfc88048a3dbda6d2f68a61707805349844615168",
+                "thumbnail_url": "mxc://matrix.chir.rs/08209cae5356fe64f00c944ca2f2c57e5417ca3e1707805348292722688",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 197684,
+                    "size": 173210,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393141593",
+            "id": "tg-532015945393143759",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "532015945393141593",
+                "id": "532015945393143759",
                 "emoticons": [
-                    "💦"
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "🙄 (Dain)",
+            "url": "mxc://matrix.chir.rs/7d3d5b8a4389ca3152257f4ddee012cf8a9c69581707805346929573888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 178741,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7d3d5b8a4389ca3152257f4ddee012cf8a9c69581707805346929573888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 178741,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143760",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393143760",
+                "emoticons": [
+                    "🙄"
+                ]
+            }
+        },
+        {
+            "body": "😘 (Dain)",
+            "url": "mxc://matrix.chir.rs/73df603e6c76eaed5f428da7c023a841da9a692e1707805351748829184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 184665,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/73df603e6c76eaed5f428da7c023a841da9a692e1707805351748829184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 184665,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143761",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393143761",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Dain)",
+            "url": "mxc://matrix.chir.rs/264bae8e05a5443f8ab13d017fc54f679bb1f44e1707805353812426753",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 281655,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/264bae8e05a5443f8ab13d017fc54f679bb1f44e1707805353812426753",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 281655,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143762",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393143762",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🍑 (Dain)",
+            "url": "mxc://matrix.chir.rs/75fd38f2985538aee8fb64d103470585626aef5f1707805359747366912",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190492,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/75fd38f2985538aee8fb64d103470585626aef5f1707805359747366912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190492,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143763",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393143763",
+                "emoticons": [
+                    "🍑"
+                ]
+            }
+        },
+        {
+            "body": "😣 (Dain)",
+            "url": "mxc://matrix.chir.rs/898cbecb5496854d4e7d531383cf16cfe60d3d861707805354156359680",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 174738,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/898cbecb5496854d4e7d531383cf16cfe60d3d861707805354156359680",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 174738,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393144735",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "532015945393144735",
+                "emoticons": [
+                    "😣"
                 ]
             }
         },
@@ -1022,31 +1138,31 @@
             }
         },
         {
-            "body": "😣 (Dain)",
-            "url": "mxc://matrix.chir.rs/898cbecb5496854d4e7d531383cf16cfe60d3d861707805354156359680",
+            "body": "🚫 (Dain)",
+            "url": "mxc://matrix.chir.rs/4825cddedc08de71c53c55d29aa57c28801dce501707805385236152320",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 174738,
+                "size": 218619,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/898cbecb5496854d4e7d531383cf16cfe60d3d861707805354156359680",
+                "thumbnail_url": "mxc://matrix.chir.rs/4825cddedc08de71c53c55d29aa57c28801dce501707805385236152320",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 174738,
+                    "size": 218619,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393144735",
+            "id": "tg-532015945393144738",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "532015945393144735",
+                "id": "532015945393144738",
                 "emoticons": [
-                    "😣"
+                    "🚫"
                 ]
             }
         },
@@ -1080,31 +1196,31 @@
             }
         },
         {
-            "body": "😐 (Dain)",
-            "url": "mxc://matrix.chir.rs/34670f0e9bddbdff1d0b82fd09dd62021347ddd11707805355607588864",
+            "body": "👋 (Dain)",
+            "url": "mxc://matrix.chir.rs/56f570ccc785fc1eb5fbbfc1973dc2ffbfdbfa991707805368609931264",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 203072,
+                "size": 237889,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/34670f0e9bddbdff1d0b82fd09dd62021347ddd11707805355607588864",
+                "thumbnail_url": "mxc://matrix.chir.rs/56f570ccc785fc1eb5fbbfc1973dc2ffbfdbfa991707805368609931264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 203072,
+                    "size": 237889,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5017155481202852430",
+            "id": "tg-5014833222450676502",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "5017155481202852430",
+                "id": "5014833222450676502",
                 "emoticons": [
-                    "😐"
+                    "👋"
                 ]
             }
         },
@@ -1138,35 +1254,6 @@
             }
         },
         {
-            "body": "😳 (Dain)",
-            "url": "mxc://matrix.chir.rs/81f67203622d81c4c03020c344dfd14b70dfbf891707805374653923328",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 237635,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81f67203622d81c4c03020c344dfd14b70dfbf891707805374653923328",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 237635,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5017132614796968696",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "5017132614796968696",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
             "body": "😇 (Dain)",
             "url": "mxc://matrix.chir.rs/d69bf85b0be84cbd90b95b14c48e5d5f309709911707805365552283648",
             "info": {
@@ -1192,151 +1279,6 @@
                 "id": "5014992625866900968",
                 "emoticons": [
                     "😇"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (Dain)",
-            "url": "mxc://matrix.chir.rs/d97b867441a3ba0254bf073f6617e900a833092e1707805372682600448",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 233494,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d97b867441a3ba0254bf073f6617e900a833092e1707805372682600448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 233494,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5017113317508907697",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "5017113317508907697",
-                "emoticons": [
-                    "🔥"
-                ]
-            }
-        },
-        {
-            "body": "💦 (Dain)",
-            "url": "mxc://matrix.chir.rs/25b483903302158019e250512a4408195ee2cdfd1707805361953570816",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210622,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/25b483903302158019e250512a4408195ee2cdfd1707805361953570816",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210622,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5015103139670393757",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "5015103139670393757",
-                "emoticons": [
-                    "💦"
-                ]
-            }
-        },
-        {
-            "body": "💦 (Dain)",
-            "url": "mxc://matrix.chir.rs/d15394c059883a4190d92fc3eb0c1266e6940a751707805357553745920",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200876,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d15394c059883a4190d92fc3eb0c1266e6940a751707805357553745920",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200876,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5017066081458586046",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "5017066081458586046",
-                "emoticons": [
-                    "💦"
-                ]
-            }
-        },
-        {
-            "body": "🍑 (Dain)",
-            "url": "mxc://matrix.chir.rs/75fd38f2985538aee8fb64d103470585626aef5f1707805359747366912",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190492,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/75fd38f2985538aee8fb64d103470585626aef5f1707805359747366912",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190492,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393143763",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393143763",
-                "emoticons": [
-                    "🍑"
-                ]
-            }
-        },
-        {
-            "body": "🚫 (Dain)",
-            "url": "mxc://matrix.chir.rs/4825cddedc08de71c53c55d29aa57c28801dce501707805385236152320",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 218619,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4825cddedc08de71c53c55d29aa57c28801dce501707805385236152320",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 218619,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393144738",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393144738",
-                "emoticons": [
-                    "🚫"
                 ]
             }
         },
@@ -1370,89 +1312,31 @@
             }
         },
         {
-            "body": "😭 (Dain)",
-            "url": "mxc://matrix.chir.rs/08209cae5356fe64f00c944ca2f2c57e5417ca3e1707805348292722688",
+            "body": "💦 (Dain)",
+            "url": "mxc://matrix.chir.rs/25b483903302158019e250512a4408195ee2cdfd1707805361953570816",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 173210,
+                "size": 210622,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/08209cae5356fe64f00c944ca2f2c57e5417ca3e1707805348292722688",
+                "thumbnail_url": "mxc://matrix.chir.rs/25b483903302158019e250512a4408195ee2cdfd1707805361953570816",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 173210,
+                    "size": 210622,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143759",
+            "id": "tg-5015103139670393757",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393112249",
                     "short_name": "Dain88758NaL"
                 },
-                "id": "532015945393143759",
+                "id": "5015103139670393757",
                 "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "👋 (Dain)",
-            "url": "mxc://matrix.chir.rs/56f570ccc785fc1eb5fbbfc1973dc2ffbfdbfa991707805368609931264",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 237889,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/56f570ccc785fc1eb5fbbfc1973dc2ffbfdbfa991707805368609931264",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 237889,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5014833222450676502",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "5014833222450676502",
-                "emoticons": [
-                    "👋"
-                ]
-            }
-        },
-        {
-            "body": "ℹ️ (Dain)",
-            "url": "mxc://matrix.chir.rs/31b89413b02e32c5038554f87dd72bc6e18f77b91707805361978736640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 175642,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/31b89413b02e32c5038554f87dd72bc6e18f77b91707805361978736640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 175642,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393141594",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393112249",
-                    "short_name": "Dain88758NaL"
-                },
-                "id": "532015945393141594",
-                "emoticons": [
-                    "ℹ"
+                    "💦"
                 ]
             }
         },
@@ -1482,6 +1366,122 @@
                 "id": "5017052019735659485",
                 "emoticons": [
                     "🤩"
+                ]
+            }
+        },
+        {
+            "body": "💦 (Dain)",
+            "url": "mxc://matrix.chir.rs/d15394c059883a4190d92fc3eb0c1266e6940a751707805357553745920",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200876,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d15394c059883a4190d92fc3eb0c1266e6940a751707805357553745920",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200876,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017066081458586046",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "5017066081458586046",
+                "emoticons": [
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "🔥 (Dain)",
+            "url": "mxc://matrix.chir.rs/d97b867441a3ba0254bf073f6617e900a833092e1707805372682600448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 233494,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d97b867441a3ba0254bf073f6617e900a833092e1707805372682600448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 233494,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017113317508907697",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "5017113317508907697",
+                "emoticons": [
+                    "🔥"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Dain)",
+            "url": "mxc://matrix.chir.rs/81f67203622d81c4c03020c344dfd14b70dfbf891707805374653923328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237635,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/81f67203622d81c4c03020c344dfd14b70dfbf891707805374653923328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237635,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017132614796968696",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "5017132614796968696",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😐 (Dain)",
+            "url": "mxc://matrix.chir.rs/34670f0e9bddbdff1d0b82fd09dd62021347ddd11707805355607588864",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 203072,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/34670f0e9bddbdff1d0b82fd09dd62021347ddd11707805355607588864",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 203072,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017155481202852430",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393112249",
+                    "short_name": "Dain88758NaL"
+                },
+                "id": "5017155481202852430",
+                "emoticons": [
+                    "😐"
                 ]
             }
         }

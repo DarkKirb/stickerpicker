@@ -36,6 +36,35 @@
             }
         },
         {
+            "body": "🍼 (Takun)",
+            "url": "mxc://matrix.chir.rs/35233058e5e75f287b20da21cf486181edaf6a761707820842420797440",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156514,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/35233058e5e75f287b20da21cf486181edaf6a761707820842420797440",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156514,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393120871",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111310",
+                    "short_name": "wowashibeenu"
+                },
+                "id": "532015945393120871",
+                "emoticons": [
+                    "🍼"
+                ]
+            }
+        },
+        {
             "body": "😲 (Takun)",
             "url": "mxc://matrix.chir.rs/9057f33591274aa0ec8b34d59d707dfe979a17c31707820846162116608",
             "info": {
@@ -61,35 +90,6 @@
                 "id": "532015945393120873",
                 "emoticons": [
                     "😲"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Takun)",
-            "url": "mxc://matrix.chir.rs/ee9302c7420b144c9bc55c5744a7443f355503351707820876612763648",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 137452,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ee9302c7420b144c9bc55c5744a7443f355503351707820876612763648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 137452,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393120877",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111310",
-                    "short_name": "wowashibeenu"
-                },
-                "id": "532015945393120877",
-                "emoticons": [
-                    "😠"
                 ]
             }
         },
@@ -123,31 +123,118 @@
             }
         },
         {
-            "body": "🍼 (Takun)",
-            "url": "mxc://matrix.chir.rs/35233058e5e75f287b20da21cf486181edaf6a761707820842420797440",
+            "body": "😠 (Takun)",
+            "url": "mxc://matrix.chir.rs/ee9302c7420b144c9bc55c5744a7443f355503351707820876612763648",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 156514,
+                "size": 137452,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/35233058e5e75f287b20da21cf486181edaf6a761707820842420797440",
+                "thumbnail_url": "mxc://matrix.chir.rs/ee9302c7420b144c9bc55c5744a7443f355503351707820876612763648",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 156514,
+                    "size": 137452,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393120871",
+            "id": "tg-532015945393120877",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111310",
                     "short_name": "wowashibeenu"
                 },
-                "id": "532015945393120871",
+                "id": "532015945393120877",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🎮 (Takun)",
+            "url": "mxc://matrix.chir.rs/516fa2bd37a84c9c871221ae6bd8fa9221edf4401707820847005171712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 150089,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/516fa2bd37a84c9c871221ae6bd8fa9221edf4401707820847005171712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 150089,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393120879",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111310",
+                    "short_name": "wowashibeenu"
+                },
+                "id": "532015945393120879",
+                "emoticons": [
+                    "🎮"
+                ]
+            }
+        },
+        {
+            "body": "🍼 (Takun)",
+            "url": "mxc://matrix.chir.rs/f9f341663cf6f552cdd648e1206d31d769c925411707820848481566720",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167927,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f9f341663cf6f552cdd648e1206d31d769c925411707820848481566720",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167927,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393120881",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111310",
+                    "short_name": "wowashibeenu"
+                },
+                "id": "532015945393120881",
                 "emoticons": [
                     "🍼"
+                ]
+            }
+        },
+        {
+            "body": "🙀 (Takun)",
+            "url": "mxc://matrix.chir.rs/96dc2a43cae1d36662c94c60645c65e1c3173f6a1707820866575794176",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 150140,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/96dc2a43cae1d36662c94c60645c65e1c3173f6a1707820866575794176",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 150140,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393120883",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111310",
+                    "short_name": "wowashibeenu"
+                },
+                "id": "532015945393120883",
+                "emoticons": [
+                    "🙀"
                 ]
             }
         },
@@ -239,35 +326,6 @@
             }
         },
         {
-            "body": "❤ (Takun)",
-            "url": "mxc://matrix.chir.rs/1e6b492cccbaf57ecbac24f2401d5a1a6772a9f81707820853330182144",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 113291,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1e6b492cccbaf57ecbac24f2401d5a1a6772a9f81707820853330182144",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 113291,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393120893",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111310",
-                    "short_name": "wowashibeenu"
-                },
-                "id": "532015945393120893",
-                "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
             "body": "💋 (Takun)",
             "url": "mxc://matrix.chir.rs/82485c3eff60568a3b2431727a803e53ede7dfef1707820857033752576",
             "info": {
@@ -297,60 +355,60 @@
             }
         },
         {
-            "body": "🙀 (Takun)",
-            "url": "mxc://matrix.chir.rs/96dc2a43cae1d36662c94c60645c65e1c3173f6a1707820866575794176",
+            "body": "❤ (Takun)",
+            "url": "mxc://matrix.chir.rs/1e6b492cccbaf57ecbac24f2401d5a1a6772a9f81707820853330182144",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 150140,
+                "size": 113291,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/96dc2a43cae1d36662c94c60645c65e1c3173f6a1707820866575794176",
+                "thumbnail_url": "mxc://matrix.chir.rs/1e6b492cccbaf57ecbac24f2401d5a1a6772a9f81707820853330182144",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 150140,
+                    "size": 113291,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393120883",
+            "id": "tg-532015945393120893",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111310",
                     "short_name": "wowashibeenu"
                 },
-                "id": "532015945393120883",
+                "id": "532015945393120893",
                 "emoticons": [
-                    "🙀"
+                    "❤"
                 ]
             }
         },
         {
-            "body": "🍼 (Takun)",
-            "url": "mxc://matrix.chir.rs/f9f341663cf6f552cdd648e1206d31d769c925411707820848481566720",
+            "body": "🍭 (Takun)",
+            "url": "mxc://matrix.chir.rs/f699c90f70d3028d195ffe4c1514b4024a5b4e711707820852134805504",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 167927,
+                "size": 172791,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f9f341663cf6f552cdd648e1206d31d769c925411707820848481566720",
+                "thumbnail_url": "mxc://matrix.chir.rs/f699c90f70d3028d195ffe4c1514b4024a5b4e711707820852134805504",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 167927,
+                    "size": 172791,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393120881",
+            "id": "tg-532015945393120895",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111310",
                     "short_name": "wowashibeenu"
                 },
-                "id": "532015945393120881",
+                "id": "532015945393120895",
                 "emoticons": [
-                    "🍼"
+                    "🍭"
                 ]
             }
         },
@@ -413,6 +471,35 @@
             }
         },
         {
+            "body": "🐶 (Takun)",
+            "url": "mxc://matrix.chir.rs/0591556d5c7304f779da022819ba75977b2c7ebc1707820865372028928",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142495,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0591556d5c7304f779da022819ba75977b2c7ebc1707820865372028928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142495,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393120901",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111310",
+                    "short_name": "wowashibeenu"
+                },
+                "id": "532015945393120901",
+                "emoticons": [
+                    "🐶"
+                ]
+            }
+        },
+        {
             "body": "👍 (Takun)",
             "url": "mxc://matrix.chir.rs/ff18c0c47d86891ef174965ad00cd31ad96efb161707820855523803136",
             "info": {
@@ -442,60 +529,31 @@
             }
         },
         {
-            "body": "🎮 (Takun)",
-            "url": "mxc://matrix.chir.rs/516fa2bd37a84c9c871221ae6bd8fa9221edf4401707820847005171712",
+            "body": "❤ (Takun)",
+            "url": "mxc://matrix.chir.rs/86f8b865df6a7bdad2308015547cf806904bcc0b1707820863782387712",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 150089,
+                "size": 120536,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/516fa2bd37a84c9c871221ae6bd8fa9221edf4401707820847005171712",
+                "thumbnail_url": "mxc://matrix.chir.rs/86f8b865df6a7bdad2308015547cf806904bcc0b1707820863782387712",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 150089,
+                    "size": 120536,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393120879",
+            "id": "tg-532015945393120905",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111310",
                     "short_name": "wowashibeenu"
                 },
-                "id": "532015945393120879",
+                "id": "532015945393120905",
                 "emoticons": [
-                    "🎮"
-                ]
-            }
-        },
-        {
-            "body": "🍭 (Takun)",
-            "url": "mxc://matrix.chir.rs/f699c90f70d3028d195ffe4c1514b4024a5b4e711707820852134805504",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172791,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f699c90f70d3028d195ffe4c1514b4024a5b4e711707820852134805504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172791,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393120895",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111310",
-                    "short_name": "wowashibeenu"
-                },
-                "id": "532015945393120895",
-                "emoticons": [
-                    "🍭"
+                    "❤"
                 ]
             }
         },
@@ -529,35 +587,6 @@
             }
         },
         {
-            "body": "🐶 (Takun)",
-            "url": "mxc://matrix.chir.rs/0591556d5c7304f779da022819ba75977b2c7ebc1707820865372028928",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142495,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0591556d5c7304f779da022819ba75977b2c7ebc1707820865372028928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142495,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393120901",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111310",
-                    "short_name": "wowashibeenu"
-                },
-                "id": "532015945393120901",
-                "emoticons": [
-                    "🐶"
-                ]
-            }
-        },
-        {
             "body": "😫 (Takun)",
             "url": "mxc://matrix.chir.rs/f870a9d0888fe417f08fc09f6c4137f52a30f7661707820861978836992",
             "info": {
@@ -583,6 +612,35 @@
                 "id": "532015945393120909",
                 "emoticons": [
                     "😫"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Takun)",
+            "url": "mxc://matrix.chir.rs/76791516661cd4518aaf8d03a97f5b698e691c111707820860515024896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 165268,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/76791516661cd4518aaf8d03a97f5b698e691c111707820860515024896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 165268,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393120911",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111310",
+                    "short_name": "wowashibeenu"
+                },
+                "id": "532015945393120911",
+                "emoticons": [
+                    "🤗"
                 ]
             }
         },
@@ -645,35 +703,6 @@
             }
         },
         {
-            "body": "🤗 (Takun)",
-            "url": "mxc://matrix.chir.rs/76791516661cd4518aaf8d03a97f5b698e691c111707820860515024896",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 165268,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/76791516661cd4518aaf8d03a97f5b698e691c111707820860515024896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 165268,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393120911",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111310",
-                    "short_name": "wowashibeenu"
-                },
-                "id": "532015945393120911",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
             "body": "❓ (Takun)",
             "url": "mxc://matrix.chir.rs/c6261b83c54bc7877c420839430003821fc5d7bc1707820880744153088",
             "info": {
@@ -728,35 +757,6 @@
                 "id": "532015945393120921",
                 "emoticons": [
                     "😑"
-                ]
-            }
-        },
-        {
-            "body": "❤ (Takun)",
-            "url": "mxc://matrix.chir.rs/86f8b865df6a7bdad2308015547cf806904bcc0b1707820863782387712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 120536,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/86f8b865df6a7bdad2308015547cf806904bcc0b1707820863782387712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 120536,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393120905",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111310",
-                    "short_name": "wowashibeenu"
-                },
-                "id": "532015945393120905",
-                "emoticons": [
-                    "❤"
                 ]
             }
         }

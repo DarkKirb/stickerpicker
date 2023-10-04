@@ -7,127 +7,64 @@
     },
     "stickers": [
         {
-            "body": "👍 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/9fe1b46ea07fcc2259b96fad8fa5cae2cbcb71a01707805863672020992",
+            "body": "😂 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/8de6042b7de636e5e9f70f4f23ab3a788a792fc61707805897553608704",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 204508,
+                "size": 200243,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9fe1b46ea07fcc2259b96fad8fa5cae2cbcb71a01707805863672020992",
+                "thumbnail_url": "mxc://matrix.chir.rs/8de6042b7de636e5e9f70f4f23ab3a788a792fc61707805897553608704",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 204508,
+                    "size": 200243,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245918",
+            "id": "tg-151353307481245842",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245918",
+                "id": "151353307481245842",
+                "emoticons": [
+                    "😂",
+                    "😆",
+                    "👍",
+                    "🤣"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/c6e456f07468300242e51b9ed148dbce599cf4741707805878989619200",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 180200,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c6e456f07468300242e51b9ed148dbce599cf4741707805878989619200",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 180200,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245844",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245844",
                 "emoticons": [
                     "👍",
-                    "🙂"
-                ]
-            }
-        },
-        {
-            "body": "😘 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/b45a2e2023f20fe3ff0b54d1c9e490087513f9a41707805866780000256",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215714,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b45a2e2023f20fe3ff0b54d1c9e490087513f9a41707805866780000256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215714,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245875",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245875",
-                "emoticons": [
-                    "😘"
-                ]
-            }
-        },
-        {
-            "body": "😨 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/0145b5b70d2f0fa9cc1623b0fd475ccdffe39d361707805859335110656",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 275309,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0145b5b70d2f0fa9cc1623b0fd475ccdffe39d361707805859335110656",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 275309,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245919",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245919",
-                "emoticons": [
-                    "😨",
-                    "😱",
-                    "😰",
-                    "🍎",
-                    "🍏"
-                ]
-            }
-        },
-        {
-            "body": "👋 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/9d93a6ee4828ba245f3f999507bccb5671d3d6fc1707805865077112832",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 260214,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9d93a6ee4828ba245f3f999507bccb5671d3d6fc1707805865077112832",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 260214,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245925",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245925",
-                "emoticons": [
-                    "👋",
-                    "✋",
-                    "🤚",
-                    "🖐",
-                    "🖖"
+                    "😕"
                 ]
             }
         },
@@ -162,37 +99,6 @@
             }
         },
         {
-            "body": "😂 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/a76d2606b22a1a6c59bebe90d3e30049cdbcfb431707805857057603584",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 246933,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a76d2606b22a1a6c59bebe90d3e30049cdbcfb431707805857057603584",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 246933,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245866",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245866",
-                "emoticons": [
-                    "😂",
-                    "😆",
-                    "😁"
-                ]
-            }
-        },
-        {
             "body": "😉 (Great Minds)",
             "url": "mxc://matrix.chir.rs/545798c9b0763b8f79a4066e9b0b98fad2ea10671707805901198458880",
             "info": {
@@ -223,124 +129,94 @@
             }
         },
         {
-            "body": "👍 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/6abe6713fd7e1ed16a015aaf9b24593cd1f2693a1707805869640515584",
+            "body": "☺️ (Great Minds)",
+            "url": "mxc://matrix.chir.rs/36f3bd4e0bed4858188f7b8b72810e8ac09fdb3c1707805871301459968",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 240900,
+                "size": 223217,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6abe6713fd7e1ed16a015aaf9b24593cd1f2693a1707805869640515584",
+                "thumbnail_url": "mxc://matrix.chir.rs/36f3bd4e0bed4858188f7b8b72810e8ac09fdb3c1707805871301459968",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 240900,
+                    "size": 223217,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245922",
+            "id": "tg-151353307481245854",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245922",
+                "id": "151353307481245854",
                 "emoticons": [
-                    "👍",
-                    "🙂"
+                    "☺",
+                    "😌",
+                    "😳"
                 ]
             }
         },
         {
-            "body": "✊️ (Great Minds)",
-            "url": "mxc://matrix.chir.rs/6b79c7cde9535cb42ff0f335851afa2d98fac9251707805873792876544",
+            "body": "🧐 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/83e84ab35e1134bdc681331b3045e631e79bb8f91707805894529515520",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 214024,
+                "size": 236687,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6b79c7cde9535cb42ff0f335851afa2d98fac9251707805873792876544",
+                "thumbnail_url": "mxc://matrix.chir.rs/83e84ab35e1134bdc681331b3045e631e79bb8f91707805894529515520",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 214024,
+                    "size": 236687,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245874",
+            "id": "tg-151353307481245857",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245874",
+                "id": "151353307481245857",
                 "emoticons": [
-                    "💪",
-                    "✊"
+                    "🧐",
+                    "🤝",
+                    "🍷"
                 ]
             }
         },
         {
-            "body": "😤 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/f4c4072bf8f81845edd9e125fe817642803454f91707805868076040192",
+            "body": "😂 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/460266432a01510eca719dae78502176223e8e2c1707805880222744576",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 192253,
+                "size": 216995,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f4c4072bf8f81845edd9e125fe817642803454f91707805868076040192",
+                "thumbnail_url": "mxc://matrix.chir.rs/460266432a01510eca719dae78502176223e8e2c1707805880222744576",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 192253,
+                    "size": 216995,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245877",
+            "id": "tg-151353307481245859",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245877",
+                "id": "151353307481245859",
                 "emoticons": [
-                    "😤",
-                    "😠",
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "😏 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/2b493d107613f08d5a1c1be5f8ed5904818ad8e21707805870076723200",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209352,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2b493d107613f08d5a1c1be5f8ed5904818ad8e21707805870076723200",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209352,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245862",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245862",
-                "emoticons": [
-                    "😏",
-                    "👏",
-                    "🙏"
+                    "😂",
+                    "🤣"
                 ]
             }
         },
@@ -380,408 +256,93 @@
             }
         },
         {
-            "body": "😔 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/92d6aaf76292b22fb59754a5b8a4254a893634701707805873318920192",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 168456,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/92d6aaf76292b22fb59754a5b8a4254a893634701707805873318920192",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 168456,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245905",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245905",
-                "emoticons": [
-                    "😔",
-                    "😥",
-                    "😓"
-                ]
-            }
-        },
-        {
             "body": "😏 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/ece89986f59656620026ef230ce6e2b92c2f68651707805875390906368",
+            "url": "mxc://matrix.chir.rs/2b493d107613f08d5a1c1be5f8ed5904818ad8e21707805870076723200",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 219692,
+                "size": 209352,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ece89986f59656620026ef230ce6e2b92c2f68651707805875390906368",
+                "thumbnail_url": "mxc://matrix.chir.rs/2b493d107613f08d5a1c1be5f8ed5904818ad8e21707805870076723200",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 219692,
+                    "size": 209352,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245913",
+            "id": "tg-151353307481245862",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245913",
+                "id": "151353307481245862",
                 "emoticons": [
                     "😏",
-                    "🍆",
-                    "🍓",
-                    "🍑",
-                    "🚇"
+                    "👏",
+                    "🙏"
                 ]
             }
         },
         {
-            "body": "👍 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/c6e456f07468300242e51b9ed148dbce599cf4741707805878989619200",
+            "body": "😑 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/205650fb1983038c7031bb5eea338d95926948a61707805905673781248",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 180200,
+                "size": 178782,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c6e456f07468300242e51b9ed148dbce599cf4741707805878989619200",
+                "thumbnail_url": "mxc://matrix.chir.rs/205650fb1983038c7031bb5eea338d95926948a61707805905673781248",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 180200,
+                    "size": 178782,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245844",
+            "id": "tg-151353307481245863",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245844",
+                "id": "151353307481245863",
                 "emoticons": [
-                    "👍",
-                    "😕"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Great Minds)",
-            "url": "mxc://matrix.chir.rs/36f3bd4e0bed4858188f7b8b72810e8ac09fdb3c1707805871301459968",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 223217,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/36f3bd4e0bed4858188f7b8b72810e8ac09fdb3c1707805871301459968",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 223217,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245854",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245854",
-                "emoticons": [
-                    "☺",
-                    "😌",
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "😂 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/8de6042b7de636e5e9f70f4f23ab3a788a792fc61707805897553608704",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200243,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8de6042b7de636e5e9f70f4f23ab3a788a792fc61707805897553608704",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200243,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245842",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245842",
-                "emoticons": [
-                    "😂",
-                    "😆",
-                    "👍",
-                    "🤣"
-                ]
-            }
-        },
-        {
-            "body": "👐 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/61091b3a0acc031c808e63405ad718d0f4beaa6d1707805882647052288",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 271575,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/61091b3a0acc031c808e63405ad718d0f4beaa6d1707805882647052288",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 271575,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245908",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245908",
-                "emoticons": [
-                    "🙂",
-                    "👋",
-                    "👐"
-                ]
-            }
-        },
-        {
-            "body": "😍 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/0f08051cde823597f00bf2738935d1365c04084d1707805881602670592",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 230107,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0f08051cde823597f00bf2738935d1365c04084d1707805881602670592",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 230107,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245924",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245924",
-                "emoticons": [
-                    "😍",
-                    "🥰",
-                    "♥",
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "👎 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/696683bc83ad7d7a45239e9139b1e2b4191254b41707805875961331712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 246257,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/696683bc83ad7d7a45239e9139b1e2b4191254b41707805875961331712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 246257,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245923",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245923",
-                "emoticons": [
-                    "😕",
-                    "👎",
-                    "🙁"
-                ]
-            }
-        },
-        {
-            "body": "😕 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/af60eb9d5e2c91f4745a2e08c9a1fa376fd9be661707805878054289408",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 225613,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/af60eb9d5e2c91f4745a2e08c9a1fa376fd9be661707805878054289408",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 225613,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245903",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245903",
-                "emoticons": [
-                    "😕",
-                    "😐",
                     "😑"
                 ]
             }
         },
         {
-            "body": "😎 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/9f2d5ca5a67788fe49fd3f110b8bded19ad5ba9d1707805879681679360",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 224587,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9f2d5ca5a67788fe49fd3f110b8bded19ad5ba9d1707805879681679360",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 224587,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245920",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245920",
-                "emoticons": [
-                    "👋",
-                    "😎",
-                    "👐",
-                    "💪"
-                ]
-            }
-        },
-        {
             "body": "😂 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/460266432a01510eca719dae78502176223e8e2c1707805880222744576",
+            "url": "mxc://matrix.chir.rs/a76d2606b22a1a6c59bebe90d3e30049cdbcfb431707805857057603584",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 216995,
+                "size": 246933,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/460266432a01510eca719dae78502176223e8e2c1707805880222744576",
+                "thumbnail_url": "mxc://matrix.chir.rs/a76d2606b22a1a6c59bebe90d3e30049cdbcfb431707805857057603584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 216995,
+                    "size": 246933,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245859",
+            "id": "tg-151353307481245866",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245859",
+                "id": "151353307481245866",
                 "emoticons": [
                     "😂",
-                    "🤣"
-                ]
-            }
-        },
-        {
-            "body": "🧐 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/83e84ab35e1134bdc681331b3045e631e79bb8f91707805894529515520",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 236687,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/83e84ab35e1134bdc681331b3045e631e79bb8f91707805894529515520",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 236687,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245857",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245857",
-                "emoticons": [
-                    "🧐",
-                    "🤝",
-                    "🍷"
-                ]
-            }
-        },
-        {
-            "body": "🙌 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/5fe27cc2fd4ab271a916a5fa34d3307ec9f1c5681707805875931971584",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 246682,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5fe27cc2fd4ab271a916a5fa34d3307ec9f1c5681707805875931971584",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 246682,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245907",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245907",
-                "emoticons": [
-                    "😏",
-                    "🙌",
-                    "👨‍🔬"
+                    "😆",
+                    "😁"
                 ]
             }
         },
@@ -850,62 +411,124 @@
             }
         },
         {
-            "body": "💪 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/911e0fb5e7f1fabd5852578579b9f204f19bfca61707805878079455232",
+            "body": "😮 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/35f5ed384aa57a6a2e3731e255e4052e3f58e7ac1707805881908854784",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 252663,
+                "size": 253647,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/911e0fb5e7f1fabd5852578579b9f204f19bfca61707805878079455232",
+                "thumbnail_url": "mxc://matrix.chir.rs/35f5ed384aa57a6a2e3731e255e4052e3f58e7ac1707805881908854784",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 252663,
+                    "size": 253647,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245914",
+            "id": "tg-151353307481245870",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245914",
+                "id": "151353307481245870",
                 "emoticons": [
-                    "💪",
-                    "👩"
+                    "😱",
+                    "😮",
+                    "😲",
+                    "🐙",
+                    "🦑"
                 ]
             }
         },
         {
-            "body": "😤 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/9357bdf2a601457147d6784a7d0c1c0d57861c8f1707805884471574528",
+            "body": "☺️ (Great Minds)",
+            "url": "mxc://matrix.chir.rs/bbefac8916c0d33d20b5ecb214d488d85ea741661707805886929436672",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 160977,
+                "size": 192136,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9357bdf2a601457147d6784a7d0c1c0d57861c8f1707805884471574528",
+                "thumbnail_url": "mxc://matrix.chir.rs/bbefac8916c0d33d20b5ecb214d488d85ea741661707805886929436672",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 160977,
+                    "size": 192136,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245921",
+            "id": "tg-151353307481245873",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245921",
+                "id": "151353307481245873",
                 "emoticons": [
-                    "😤",
-                    "😠"
+                    "☺",
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "✊️ (Great Minds)",
+            "url": "mxc://matrix.chir.rs/6b79c7cde9535cb42ff0f335851afa2d98fac9251707805873792876544",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214024,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6b79c7cde9535cb42ff0f335851afa2d98fac9251707805873792876544",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214024,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245874",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245874",
+                "emoticons": [
+                    "💪",
+                    "✊"
+                ]
+            }
+        },
+        {
+            "body": "😘 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/b45a2e2023f20fe3ff0b54d1c9e490087513f9a41707805866780000256",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215714,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b45a2e2023f20fe3ff0b54d1c9e490087513f9a41707805866780000256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215714,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245875",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245875",
+                "emoticons": [
+                    "😘"
                 ]
             }
         },
@@ -941,6 +564,37 @@
             }
         },
         {
+            "body": "😤 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/f4c4072bf8f81845edd9e125fe817642803454f91707805868076040192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192253,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f4c4072bf8f81845edd9e125fe817642803454f91707805868076040192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192253,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245877",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245877",
+                "emoticons": [
+                    "😤",
+                    "😠",
+                    "😡"
+                ]
+            }
+        },
+        {
             "body": "😑 (Great Minds)",
             "url": "mxc://matrix.chir.rs/bcf716084842fc9dd06854189a305562a848abef1707805896555364352",
             "info": {
@@ -972,35 +626,90 @@
             }
         },
         {
-            "body": "😮 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/35f5ed384aa57a6a2e3731e255e4052e3f58e7ac1707805881908854784",
+            "body": "😕 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/5ca4ddb943d695c5a798aa58904265f4c3d1d7091707805888514883584",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 253647,
+                "size": 172513,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/35f5ed384aa57a6a2e3731e255e4052e3f58e7ac1707805881908854784",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ca4ddb943d695c5a798aa58904265f4c3d1d7091707805888514883584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 253647,
+                    "size": 172513,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245870",
+            "id": "tg-151353307481245880",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245870",
+                "id": "151353307481245880",
                 "emoticons": [
-                    "😱",
-                    "😮",
-                    "😲",
-                    "🐙",
-                    "🦑"
+                    "😕"
+                ]
+            }
+        },
+        {
+            "body": "😑 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/c430f5f96aaaa8818327f7d779789809a1d2b4471707805890817556480",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175666,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c430f5f96aaaa8818327f7d779789809a1d2b4471707805890817556480",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175666,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245881",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245881",
+                "emoticons": [
+                    "😑",
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/f805adb318cba2e25737914c0d0a45d2c54a3ee81707805886442897408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173626,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f805adb318cba2e25737914c0d0a45d2c54a3ee81707805886442897408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173626,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245882",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245882",
+                "emoticons": [
+                    "🤔"
                 ]
             }
         },
@@ -1036,31 +745,63 @@
             }
         },
         {
-            "body": "🤔 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/f805adb318cba2e25737914c0d0a45d2c54a3ee81707805886442897408",
+            "body": "👏 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/09af0c7ee49c828888713d7cbbe2ca8a8ebe8fd81707805889622179840",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 173626,
+                "size": 210453,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f805adb318cba2e25737914c0d0a45d2c54a3ee81707805886442897408",
+                "thumbnail_url": "mxc://matrix.chir.rs/09af0c7ee49c828888713d7cbbe2ca8a8ebe8fd81707805889622179840",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 173626,
+                    "size": 210453,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245882",
+            "id": "tg-151353307481245884",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245882",
+                "id": "151353307481245884",
                 "emoticons": [
-                    "🤔"
+                    "😏",
+                    "👏"
+                ]
+            }
+        },
+        {
+            "body": "🤦‍♂️ (Great Minds)",
+            "url": "mxc://matrix.chir.rs/649d2e9ae358ff0eb8c08df4220ba5daa5b100cc1707805893023760384",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 217860,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/649d2e9ae358ff0eb8c08df4220ba5daa5b100cc1707805893023760384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 217860,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245885",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245885",
+                "emoticons": [
+                    "🤦‍♂",
+                    "😖",
+                    "😣"
                 ]
             }
         },
@@ -1091,36 +832,6 @@
                 "emoticons": [
                     "😱",
                     "😠"
-                ]
-            }
-        },
-        {
-            "body": "👏 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/09af0c7ee49c828888713d7cbbe2ca8a8ebe8fd81707805889622179840",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210453,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/09af0c7ee49c828888713d7cbbe2ca8a8ebe8fd81707805889622179840",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210453,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245884",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245884",
-                "emoticons": [
-                    "😏",
-                    "👏"
                 ]
             }
         },
@@ -1189,65 +900,6 @@
             }
         },
         {
-            "body": "😑 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/c430f5f96aaaa8818327f7d779789809a1d2b4471707805890817556480",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 175666,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c430f5f96aaaa8818327f7d779789809a1d2b4471707805890817556480",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 175666,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245881",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245881",
-                "emoticons": [
-                    "😑",
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "😕 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/5ca4ddb943d695c5a798aa58904265f4c3d1d7091707805888514883584",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172513,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5ca4ddb943d695c5a798aa58904265f4c3d1d7091707805888514883584",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172513,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245880",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245880",
-                "emoticons": [
-                    "😕"
-                ]
-            }
-        },
-        {
             "body": "😅 (Great Minds)",
             "url": "mxc://matrix.chir.rs/2e4116867be1ea3c59244e566bc2b8490970c75e1707805892784685056",
             "info": {
@@ -1275,36 +927,6 @@
                     "😂",
                     "😁",
                     "😅"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Great Minds)",
-            "url": "mxc://matrix.chir.rs/bbefac8916c0d33d20b5ecb214d488d85ea741661707805886929436672",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192136,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bbefac8916c0d33d20b5ecb214d488d85ea741661707805886929436672",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192136,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245873",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245873",
-                "emoticons": [
-                    "☺",
-                    "😳"
                 ]
             }
         },
@@ -1341,6 +963,161 @@
             }
         },
         {
+            "body": "😕 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/af60eb9d5e2c91f4745a2e08c9a1fa376fd9be661707805878054289408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 225613,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/af60eb9d5e2c91f4745a2e08c9a1fa376fd9be661707805878054289408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 225613,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245903",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245903",
+                "emoticons": [
+                    "😕",
+                    "😐",
+                    "😑"
+                ]
+            }
+        },
+        {
+            "body": "😔 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/92d6aaf76292b22fb59754a5b8a4254a893634701707805873318920192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 168456,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/92d6aaf76292b22fb59754a5b8a4254a893634701707805873318920192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 168456,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245905",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245905",
+                "emoticons": [
+                    "😔",
+                    "😥",
+                    "😓"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/5fe27cc2fd4ab271a916a5fa34d3307ec9f1c5681707805875931971584",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 246682,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5fe27cc2fd4ab271a916a5fa34d3307ec9f1c5681707805875931971584",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 246682,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245907",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245907",
+                "emoticons": [
+                    "😏",
+                    "🙌",
+                    "👨‍🔬"
+                ]
+            }
+        },
+        {
+            "body": "👐 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/61091b3a0acc031c808e63405ad718d0f4beaa6d1707805882647052288",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 271575,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/61091b3a0acc031c808e63405ad718d0f4beaa6d1707805882647052288",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 271575,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245908",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245908",
+                "emoticons": [
+                    "🙂",
+                    "👋",
+                    "👐"
+                ]
+            }
+        },
+        {
+            "body": "😮 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/b9e7f20165b1d0fd182fc543cddbe468d4a6e9d01707805907926122496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 183951,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b9e7f20165b1d0fd182fc543cddbe468d4a6e9d01707805907926122496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 183951,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245909",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245909",
+                "emoticons": [
+                    "😮",
+                    "😯",
+                    "😦"
+                ]
+            }
+        },
+        {
             "body": "😄 (Great Minds)",
             "url": "mxc://matrix.chir.rs/07e1e297877350171c01f3b4c3cf3d1f881da44a1707805919296880640",
             "info": {
@@ -1369,6 +1146,38 @@
                     "😏",
                     "😄",
                     "😅"
+                ]
+            }
+        },
+        {
+            "body": "👿 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/b5a7b0c4f8896640bf2619a07fa15b770931150c1707805899311022080",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 258554,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b5a7b0c4f8896640bf2619a07fa15b770931150c1707805899311022080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 258554,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245911",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245911",
+                "emoticons": [
+                    "😱",
+                    "😡",
+                    "👿",
+                    "👺"
                 ]
             }
         },
@@ -1403,6 +1212,69 @@
             }
         },
         {
+            "body": "😏 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/ece89986f59656620026ef230ce6e2b92c2f68651707805875390906368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 219692,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ece89986f59656620026ef230ce6e2b92c2f68651707805875390906368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 219692,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245913",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245913",
+                "emoticons": [
+                    "😏",
+                    "🍆",
+                    "🍓",
+                    "🍑",
+                    "🚇"
+                ]
+            }
+        },
+        {
+            "body": "💪 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/911e0fb5e7f1fabd5852578579b9f204f19bfca61707805878079455232",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 252663,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/911e0fb5e7f1fabd5852578579b9f204f19bfca61707805878079455232",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 252663,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245914",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245914",
+                "emoticons": [
+                    "💪",
+                    "👩"
+                ]
+            }
+        },
+        {
             "body": "😤 (Great Minds)",
             "url": "mxc://matrix.chir.rs/e6d09c11ba7542536f17eeaba67a8014e5c68f8b1707805899466211328",
             "info": {
@@ -1430,6 +1302,286 @@
                     "😤",
                     "😠",
                     "☹"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/9fe1b46ea07fcc2259b96fad8fa5cae2cbcb71a01707805863672020992",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204508,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9fe1b46ea07fcc2259b96fad8fa5cae2cbcb71a01707805863672020992",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204508,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245918",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245918",
+                "emoticons": [
+                    "👍",
+                    "🙂"
+                ]
+            }
+        },
+        {
+            "body": "😨 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/0145b5b70d2f0fa9cc1623b0fd475ccdffe39d361707805859335110656",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 275309,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0145b5b70d2f0fa9cc1623b0fd475ccdffe39d361707805859335110656",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 275309,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245919",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245919",
+                "emoticons": [
+                    "😨",
+                    "😱",
+                    "😰",
+                    "🍎",
+                    "🍏"
+                ]
+            }
+        },
+        {
+            "body": "😎 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/9f2d5ca5a67788fe49fd3f110b8bded19ad5ba9d1707805879681679360",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224587,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9f2d5ca5a67788fe49fd3f110b8bded19ad5ba9d1707805879681679360",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224587,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245920",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245920",
+                "emoticons": [
+                    "👋",
+                    "😎",
+                    "👐",
+                    "💪"
+                ]
+            }
+        },
+        {
+            "body": "😤 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/9357bdf2a601457147d6784a7d0c1c0d57861c8f1707805884471574528",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 160977,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9357bdf2a601457147d6784a7d0c1c0d57861c8f1707805884471574528",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 160977,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245921",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245921",
+                "emoticons": [
+                    "😤",
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/6abe6713fd7e1ed16a015aaf9b24593cd1f2693a1707805869640515584",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240900,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6abe6713fd7e1ed16a015aaf9b24593cd1f2693a1707805869640515584",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240900,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245922",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245922",
+                "emoticons": [
+                    "👍",
+                    "🙂"
+                ]
+            }
+        },
+        {
+            "body": "👎 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/696683bc83ad7d7a45239e9139b1e2b4191254b41707805875961331712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 246257,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/696683bc83ad7d7a45239e9139b1e2b4191254b41707805875961331712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 246257,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245923",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245923",
+                "emoticons": [
+                    "😕",
+                    "👎",
+                    "🙁"
+                ]
+            }
+        },
+        {
+            "body": "😍 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/0f08051cde823597f00bf2738935d1365c04084d1707805881602670592",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 230107,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0f08051cde823597f00bf2738935d1365c04084d1707805881602670592",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 230107,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245924",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245924",
+                "emoticons": [
+                    "😍",
+                    "🥰",
+                    "♥",
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "👋 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/9d93a6ee4828ba245f3f999507bccb5671d3d6fc1707805865077112832",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 260214,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9d93a6ee4828ba245f3f999507bccb5671d3d6fc1707805865077112832",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 260214,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245925",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245925",
+                "emoticons": [
+                    "👋",
+                    "✋",
+                    "🤚",
+                    "🖐",
+                    "🖖"
+                ]
+            }
+        },
+        {
+            "body": "💪 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/ce03fe1dd44095a86b20e8fecb9d0cd7fe3e668c1707805903253667840",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 247210,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ce03fe1dd44095a86b20e8fecb9d0cd7fe3e668c1707805903253667840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 247210,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-151353307481245935",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "151353307481243663",
+                    "short_name": "GreatMindsColor"
+                },
+                "id": "151353307481245935",
+                "emoticons": [
+                    "💪"
                 ]
             }
         },
@@ -1495,63 +1647,32 @@
             }
         },
         {
-            "body": "👿 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/b5a7b0c4f8896640bf2619a07fa15b770931150c1707805899311022080",
+            "body": "🥴 (Great Minds)",
+            "url": "mxc://matrix.chir.rs/b7ff019aecbbb74cac64e349857ad0f11c688d401707805903912173568",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 258554,
+                "size": 261308,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b5a7b0c4f8896640bf2619a07fa15b770931150c1707805899311022080",
+                "thumbnail_url": "mxc://matrix.chir.rs/b7ff019aecbbb74cac64e349857ad0f11c688d401707805903912173568",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 258554,
+                    "size": 261308,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-151353307481245911",
+            "id": "tg-151353307481245938",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "151353307481243663",
                     "short_name": "GreatMindsColor"
                 },
-                "id": "151353307481245911",
+                "id": "151353307481245938",
                 "emoticons": [
-                    "😱",
-                    "😡",
-                    "👿",
-                    "👺"
-                ]
-            }
-        },
-        {
-            "body": "💪 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/ce03fe1dd44095a86b20e8fecb9d0cd7fe3e668c1707805903253667840",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 247210,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ce03fe1dd44095a86b20e8fecb9d0cd7fe3e668c1707805903253667840",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 247210,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245935",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245935",
-                "emoticons": [
-                    "💪"
+                    "🥴",
+                    "🍃"
                 ]
             }
         },
@@ -1650,96 +1771,6 @@
             }
         },
         {
-            "body": "🥴 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/b7ff019aecbbb74cac64e349857ad0f11c688d401707805903912173568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 261308,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b7ff019aecbbb74cac64e349857ad0f11c688d401707805903912173568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 261308,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245938",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245938",
-                "emoticons": [
-                    "🥴",
-                    "🍃"
-                ]
-            }
-        },
-        {
-            "body": "😮 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/b9e7f20165b1d0fd182fc543cddbe468d4a6e9d01707805907926122496",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 183951,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b9e7f20165b1d0fd182fc543cddbe468d4a6e9d01707805907926122496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 183951,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245909",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245909",
-                "emoticons": [
-                    "😮",
-                    "😯",
-                    "😦"
-                ]
-            }
-        },
-        {
-            "body": "😑 (Great Minds)",
-            "url": "mxc://matrix.chir.rs/205650fb1983038c7031bb5eea338d95926948a61707805905673781248",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 178782,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/205650fb1983038c7031bb5eea338d95926948a61707805905673781248",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 178782,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245863",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245863",
-                "emoticons": [
-                    "😑"
-                ]
-            }
-        },
-        {
             "body": "⭐️ (Great Minds)",
             "url": "mxc://matrix.chir.rs/f000eac7aa1e395a4ccecd558a25c73d51b84eb71707805912703434752",
             "info": {
@@ -1770,37 +1801,6 @@
                     "🌛",
                     "🌜",
                     "😴"
-                ]
-            }
-        },
-        {
-            "body": "🤦‍♂️ (Great Minds)",
-            "url": "mxc://matrix.chir.rs/649d2e9ae358ff0eb8c08df4220ba5daa5b100cc1707805893023760384",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 217860,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/649d2e9ae358ff0eb8c08df4220ba5daa5b100cc1707805893023760384",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 217860,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-151353307481245885",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "151353307481243663",
-                    "short_name": "GreatMindsColor"
-                },
-                "id": "151353307481245885",
-                "emoticons": [
-                    "🤦‍♂",
-                    "😖",
-                    "😣"
                 ]
             }
         },

@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "❤️ (Just Finn)",
+            "url": "mxc://matrix.chir.rs/a2abcb7bee4e7764ef208856823e9d2ad7351b1e1707806348466454529",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206828,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a2abcb7bee4e7764ef208856823e9d2ad7351b1e1707806348466454529",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206828,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086145",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086145",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
             "body": "🤷‍♂ (Just Finn)",
             "url": "mxc://matrix.chir.rs/c1d353ac5e17ca7508f66f7a08756b59e276019d1707806348466454528",
             "info": {
@@ -94,35 +123,6 @@
             }
         },
         {
-            "body": "🤗 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/b5c5d7eff14e95db69c62bc8bd5de442b04255841707806372592091136",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 247233,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b5c5d7eff14e95db69c62bc8bd5de442b04255841707806372592091136",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 247233,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086151",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086151",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
             "body": "👋 (Just Finn)",
             "url": "mxc://matrix.chir.rs/4330eb37acc56f650927fd9cd27c07223268a65a1707806367068192768",
             "info": {
@@ -152,6 +152,35 @@
             }
         },
         {
+            "body": "🤗 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/b5c5d7eff14e95db69c62bc8bd5de442b04255841707806372592091136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 247233,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b5c5d7eff14e95db69c62bc8bd5de442b04255841707806372592091136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 247233,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086151",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086151",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
             "body": "😘 (Just Finn)",
             "url": "mxc://matrix.chir.rs/e64a1c5410cd6d3c7471fc5be6a46b4bd5efe85d1707806355663880192",
             "info": {
@@ -177,35 +206,6 @@
                 "id": "2181071426126086152",
                 "emoticons": [
                     "😘"
-                ]
-            }
-        },
-        {
-            "body": "😔 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/527c9836289d54b88046ca888aa4b796a0826b961707806357123497984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 228758,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/527c9836289d54b88046ca888aa4b796a0826b961707806357123497984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 228758,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086155",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086155",
-                "emoticons": [
-                    "😔"
                 ]
             }
         },
@@ -268,31 +268,60 @@
             }
         },
         {
-            "body": "❤️ (Just Finn)",
-            "url": "mxc://matrix.chir.rs/a2abcb7bee4e7764ef208856823e9d2ad7351b1e1707806348466454529",
+            "body": "😔 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/527c9836289d54b88046ca888aa4b796a0826b961707806357123497984",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 206828,
+                "size": 228758,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a2abcb7bee4e7764ef208856823e9d2ad7351b1e1707806348466454529",
+                "thumbnail_url": "mxc://matrix.chir.rs/527c9836289d54b88046ca888aa4b796a0826b961707806357123497984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 206828,
+                    "size": 228758,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086145",
+            "id": "tg-2181071426126086155",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086145",
+                "id": "2181071426126086155",
                 "emoticons": [
-                    "❤"
+                    "😔"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/9cc43eab71d426313cb74b2016987ee0ccd20d821707806356880228352",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 203351,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9cc43eab71d426313cb74b2016987ee0ccd20d821707806356880228352",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 203351,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086156",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086156",
+                "emoticons": [
+                    "😡"
                 ]
             }
         },
@@ -358,6 +387,94 @@
             }
         },
         {
+            "body": "🗯 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/e233aaa6bc1b57cfdebba4360d7499feaa36ea211707806360755765248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 236189,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e233aaa6bc1b57cfdebba4360d7499feaa36ea211707806360755765248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 236189,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086159",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086159",
+                "emoticons": [
+                    "🗯"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/eb8446ba147671c2ae6a0fc2256b73574b712d5d1707806358763470848",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 231483,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb8446ba147671c2ae6a0fc2256b73574b712d5d1707806358763470848",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 231483,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086160",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086160",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "® (Just Finn)",
+            "url": "mxc://matrix.chir.rs/cda05ec58d43e6af878bf014a6fcecdbb39344931707806370419441664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 195689,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cda05ec58d43e6af878bf014a6fcecdbb39344931707806370419441664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 195689,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086162",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086162",
+                "emoticons": [
+                    "®",
+                    "™"
+                ]
+            }
+        },
+        {
             "body": "🖥 (Just Finn)",
             "url": "mxc://matrix.chir.rs/7b37011670915b8da9eb1a81ab928e55d70c5b171707806366170611712",
             "info": {
@@ -419,35 +536,6 @@
             }
         },
         {
-            "body": "😊 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/eb8446ba147671c2ae6a0fc2256b73574b712d5d1707806358763470848",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 231483,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb8446ba147671c2ae6a0fc2256b73574b712d5d1707806358763470848",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 231483,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086160",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086160",
-                "emoticons": [
-                    "😊"
-                ]
-            }
-        },
-        {
             "body": "📱 (Just Finn)",
             "url": "mxc://matrix.chir.rs/bb1f172ad9042229a84a046840de9b1761c191381707806373019910144",
             "info": {
@@ -478,32 +566,32 @@
             }
         },
         {
-            "body": "® (Just Finn)",
-            "url": "mxc://matrix.chir.rs/cda05ec58d43e6af878bf014a6fcecdbb39344931707806370419441664",
+            "body": "👹 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/2fce568e601b0dc89b127e192651f9bc9677db031707806364924903424",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 195689,
+                "size": 291532,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cda05ec58d43e6af878bf014a6fcecdbb39344931707806370419441664",
+                "thumbnail_url": "mxc://matrix.chir.rs/2fce568e601b0dc89b127e192651f9bc9677db031707806364924903424",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 195689,
+                    "size": 291532,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086162",
+            "id": "tg-2181071426126086166",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086162",
+                "id": "2181071426126086166",
                 "emoticons": [
-                    "®",
-                    "™"
+                    "👹",
+                    "🚬"
                 ]
             }
         },
@@ -538,35 +626,6 @@
         },
         {
             "body": "🍕 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/8f6db1d11dca348063844be5ae7fc735429a72ac1707806364929097728",
-            "info": {
-                "w": 256,
-                "h": 164,
-                "size": 98746,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8f6db1d11dca348063844be5ae7fc735429a72ac1707806364929097728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 164,
-                    "size": 98746,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086169",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086169",
-                "emoticons": [
-                    "🍕"
-                ]
-            }
-        },
-        {
-            "body": "🍕 (Just Finn)",
             "url": "mxc://matrix.chir.rs/949ab1f95a5ce8046eb1e0bf9086f15e640c50981707806395899838464",
             "info": {
                 "w": 256,
@@ -595,32 +654,31 @@
             }
         },
         {
-            "body": "👹 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/2fce568e601b0dc89b127e192651f9bc9677db031707806364924903424",
+            "body": "🍕 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/8f6db1d11dca348063844be5ae7fc735429a72ac1707806364929097728",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 291532,
+                "h": 164,
+                "size": 98746,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2fce568e601b0dc89b127e192651f9bc9677db031707806364924903424",
+                "thumbnail_url": "mxc://matrix.chir.rs/8f6db1d11dca348063844be5ae7fc735429a72ac1707806364929097728",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 291532,
+                    "h": 164,
+                    "size": 98746,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086166",
+            "id": "tg-2181071426126086169",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086166",
+                "id": "2181071426126086169",
                 "emoticons": [
-                    "👹",
-                    "🚬"
+                    "🍕"
                 ]
             }
         },
@@ -683,118 +741,60 @@
             }
         },
         {
-            "body": "😡 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/9cc43eab71d426313cb74b2016987ee0ccd20d821707806356880228352",
+            "body": "😇 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/db757b8c859da957214caeecdbcad5feab8286c91707806378388619264",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 203351,
+                "size": 163666,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9cc43eab71d426313cb74b2016987ee0ccd20d821707806356880228352",
+                "thumbnail_url": "mxc://matrix.chir.rs/db757b8c859da957214caeecdbcad5feab8286c91707806378388619264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 203351,
+                    "size": 163666,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086156",
+            "id": "tg-2181071426126086172",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086156",
+                "id": "2181071426126086172",
                 "emoticons": [
-                    "😡"
+                    "😇"
                 ]
             }
         },
         {
-            "body": "🗯 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/e233aaa6bc1b57cfdebba4360d7499feaa36ea211707806360755765248",
+            "body": "✌️ (Just Finn)",
+            "url": "mxc://matrix.chir.rs/bd630514341f9b83d716f2ddfe4dda7da73d77751707806366300635136",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 236189,
+                "size": 135053,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e233aaa6bc1b57cfdebba4360d7499feaa36ea211707806360755765248",
+                "thumbnail_url": "mxc://matrix.chir.rs/bd630514341f9b83d716f2ddfe4dda7da73d77751707806366300635136",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 236189,
+                    "size": 135053,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086159",
+            "id": "tg-2181071426126086173",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086159",
+                "id": "2181071426126086173",
                 "emoticons": [
-                    "🗯"
-                ]
-            }
-        },
-        {
-            "body": "🗑️ (Just Finn)",
-            "url": "mxc://matrix.chir.rs/7d4055fec6e5a96de83e8bf9353c2821f07358951707806368125157376",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 197893,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7d4055fec6e5a96de83e8bf9353c2821f07358951707806368125157376",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 197893,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086177",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086177",
-                "emoticons": [
-                    "🗑"
-                ]
-            }
-        },
-        {
-            "body": "ℹ️ (Just Finn)",
-            "url": "mxc://matrix.chir.rs/c68b55cd991a4e43e52855b45c4accfa0da4fec41707806369685438464",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 275163,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c68b55cd991a4e43e52855b45c4accfa0da4fec41707806369685438464",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 275163,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086176",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086176",
-                "emoticons": [
-                    "ℹ"
+                    "✌"
                 ]
             }
         },
@@ -857,60 +857,89 @@
             }
         },
         {
-            "body": "😇 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/db757b8c859da957214caeecdbcad5feab8286c91707806378388619264",
+            "body": "ℹ️ (Just Finn)",
+            "url": "mxc://matrix.chir.rs/c68b55cd991a4e43e52855b45c4accfa0da4fec41707806369685438464",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 163666,
+                "size": 275163,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db757b8c859da957214caeecdbcad5feab8286c91707806378388619264",
+                "thumbnail_url": "mxc://matrix.chir.rs/c68b55cd991a4e43e52855b45c4accfa0da4fec41707806369685438464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 163666,
+                    "size": 275163,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086172",
+            "id": "tg-2181071426126086176",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086172",
+                "id": "2181071426126086176",
                 "emoticons": [
-                    "😇"
+                    "ℹ"
                 ]
             }
         },
         {
-            "body": "✌️ (Just Finn)",
-            "url": "mxc://matrix.chir.rs/bd630514341f9b83d716f2ddfe4dda7da73d77751707806366300635136",
+            "body": "🗑️ (Just Finn)",
+            "url": "mxc://matrix.chir.rs/7d4055fec6e5a96de83e8bf9353c2821f07358951707806368125157376",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 135053,
+                "size": 197893,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bd630514341f9b83d716f2ddfe4dda7da73d77751707806366300635136",
+                "thumbnail_url": "mxc://matrix.chir.rs/7d4055fec6e5a96de83e8bf9353c2821f07358951707806368125157376",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 135053,
+                    "size": 197893,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086173",
+            "id": "tg-2181071426126086177",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086173",
+                "id": "2181071426126086177",
                 "emoticons": [
-                    "✌"
+                    "🗑"
+                ]
+            }
+        },
+        {
+            "body": "🤨 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/3bb92f685d0ad4528930b555b66919bdbc99ad361707806375293222912",
+            "info": {
+                "w": 256,
+                "h": 207,
+                "size": 100115,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3bb92f685d0ad4528930b555b66919bdbc99ad361707806375293222912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 207,
+                    "size": 100115,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086178",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086178",
+                "emoticons": [
+                    "🤨"
                 ]
             }
         },
@@ -944,6 +973,35 @@
             }
         },
         {
+            "body": "😝 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/d968dc20bd17112a9e4b10a3053accc294a7c4861707806398198317056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 219611,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d968dc20bd17112a9e4b10a3053accc294a7c4861707806398198317056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 219611,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086181",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086181",
+                "emoticons": [
+                    "😝"
+                ]
+            }
+        },
+        {
             "body": "🔫 (Just Finn)",
             "url": "mxc://matrix.chir.rs/c96270fa9fd68e153e0b6022f8f2d36d97dd8abe1707806371753230336",
             "info": {
@@ -973,31 +1031,70 @@
             }
         },
         {
-            "body": "😝 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/d968dc20bd17112a9e4b10a3053accc294a7c4861707806398198317056",
+            "body": "😢 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/176a2cb6af55a21923cbb255dcb22ab3691230531707806382201241600",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 219611,
+                "size": 151641,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d968dc20bd17112a9e4b10a3053accc294a7c4861707806398198317056",
+                "thumbnail_url": "mxc://matrix.chir.rs/176a2cb6af55a21923cbb255dcb22ab3691230531707806382201241600",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 219611,
+                    "size": 151641,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086181",
+            "id": "tg-2181071426126086183",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086181",
+                "id": "2181071426126086183",
                 "emoticons": [
-                    "😝"
+                    "😢",
+                    "😕",
+                    "😞",
+                    "😓",
+                    "😥",
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "😱 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/0933e70cd8b31eda4418798d5349db6828f61c3d1707806382176075776",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 140505,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0933e70cd8b31eda4418798d5349db6828f61c3d1707806382176075776",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 140505,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086184",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086184",
+                "emoticons": [
+                    "😱",
+                    "😳",
+                    "😍",
+                    "🤩",
+                    "😬",
+                    "😮"
                 ]
             }
         },
@@ -1035,36 +1132,68 @@
             }
         },
         {
-            "body": "😱 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/0933e70cd8b31eda4418798d5349db6828f61c3d1707806382176075776",
+            "body": "📝 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/a238df367f1062661c5c187dff150dc665fd9ff91707806374219481088",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 140505,
+                "size": 157981,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0933e70cd8b31eda4418798d5349db6828f61c3d1707806382176075776",
+                "thumbnail_url": "mxc://matrix.chir.rs/a238df367f1062661c5c187dff150dc665fd9ff91707806374219481088",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 140505,
+                    "size": 157981,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086184",
+            "id": "tg-2181071426126086186",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086184",
+                "id": "2181071426126086186",
                 "emoticons": [
-                    "😱",
-                    "😳",
-                    "😍",
-                    "🤩",
-                    "😬",
-                    "😮"
+                    "❤",
+                    "📲",
+                    "ℹ",
+                    "📝",
+                    "❗"
+                ]
+            }
+        },
+        {
+            "body": "😇 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/9b38d50b24d14bac13298da94c743f3079f4e8871707806388035518464",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216570,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9b38d50b24d14bac13298da94c743f3079f4e8871707806388035518464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216570,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086187",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086187",
+                "emoticons": [
+                    "😇",
+                    "🙌",
+                    "👌",
+                    "🙏",
+                    "🏳‍🌈"
                 ]
             }
         },
@@ -1139,65 +1268,36 @@
             }
         },
         {
-            "body": "😢 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/176a2cb6af55a21923cbb255dcb22ab3691230531707806382201241600",
+            "body": "😌 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/65151785051a76cccf1d641d86677c58ce27ec721707806377100967936",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 151641,
+                "size": 128780,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/176a2cb6af55a21923cbb255dcb22ab3691230531707806382201241600",
+                "thumbnail_url": "mxc://matrix.chir.rs/65151785051a76cccf1d641d86677c58ce27ec721707806377100967936",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 151641,
+                    "size": 128780,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086183",
+            "id": "tg-2181071426126086190",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086183",
+                "id": "2181071426126086190",
                 "emoticons": [
-                    "😢",
-                    "😕",
-                    "😞",
-                    "😓",
-                    "😥",
-                    "😰"
-                ]
-            }
-        },
-        {
-            "body": "🤨 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/3bb92f685d0ad4528930b555b66919bdbc99ad361707806375293222912",
-            "info": {
-                "w": 256,
-                "h": 207,
-                "size": 100115,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3bb92f685d0ad4528930b555b66919bdbc99ad361707806375293222912",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 207,
-                    "size": 100115,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086178",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086178",
-                "emoticons": [
-                    "🤨"
+                    "😡",
+                    "😬",
+                    "🥴",
+                    "😌",
+                    "🙄",
+                    "🤬"
                 ]
             }
         },
@@ -1236,197 +1336,6 @@
             }
         },
         {
-            "body": "😇 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/9b38d50b24d14bac13298da94c743f3079f4e8871707806388035518464",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 216570,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b38d50b24d14bac13298da94c743f3079f4e8871707806388035518464",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 216570,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086187",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086187",
-                "emoticons": [
-                    "😇",
-                    "🙌",
-                    "👌",
-                    "🙏",
-                    "🏳‍🌈"
-                ]
-            }
-        },
-        {
-            "body": "📝 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/a238df367f1062661c5c187dff150dc665fd9ff91707806374219481088",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 157981,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a238df367f1062661c5c187dff150dc665fd9ff91707806374219481088",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 157981,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086186",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086186",
-                "emoticons": [
-                    "❤",
-                    "📲",
-                    "ℹ",
-                    "📝",
-                    "❗"
-                ]
-            }
-        },
-        {
-            "body": "🤩 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/90d5fbd8d7d71952ddfbf571cb460ab4566947a91707806399020400640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 160019,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/90d5fbd8d7d71952ddfbf571cb460ab4566947a91707806399020400640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 160019,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086194",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086194",
-                "emoticons": [
-                    "😱",
-                    "🤩",
-                    "🥰"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/2107724911472c72b01b6d230ed48e162711f6051707806421904523264",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 118366,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2107724911472c72b01b6d230ed48e162711f6051707806421904523264",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 118366,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086199",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086199",
-                "emoticons": [
-                    "😴",
-                    "🥱"
-                ]
-            }
-        },
-        {
-            "body": "🥰 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/2cf0af26f9e4d956f1e769052b5cac14ffd8d1f21707806394750599168",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 174091,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2cf0af26f9e4d956f1e769052b5cac14ffd8d1f21707806394750599168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 174091,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086197",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086197",
-                "emoticons": [
-                    "🤗",
-                    "🥰",
-                    "💐",
-                    "🌷",
-                    "🌹",
-                    "🌺"
-                ]
-            }
-        },
-        {
-            "body": "ℹ️ (Just Finn)",
-            "url": "mxc://matrix.chir.rs/487f00f3a3c0d76e971a1d2296cbca12082e5c171707806384436805632",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 89032,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/487f00f3a3c0d76e971a1d2296cbca12082e5c171707806384436805632",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 89032,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086193",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086193",
-                "emoticons": [
-                    "ℹ",
-                    "📢"
-                ]
-            }
-        },
-        {
             "body": "😌 (Just Finn)",
             "url": "mxc://matrix.chir.rs/461ea599ae82cc20a0035b8a3d2e8cc8494625971707806385955143680",
             "info": {
@@ -1461,67 +1370,63 @@
             }
         },
         {
-            "body": "😏 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/63c06e0d4fd0a6d95caa6e074233e543b3f081021707806387788054528",
+            "body": "ℹ️ (Just Finn)",
+            "url": "mxc://matrix.chir.rs/487f00f3a3c0d76e971a1d2296cbca12082e5c171707806384436805632",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 122270,
+                "size": 89032,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/63c06e0d4fd0a6d95caa6e074233e543b3f081021707806387788054528",
+                "thumbnail_url": "mxc://matrix.chir.rs/487f00f3a3c0d76e971a1d2296cbca12082e5c171707806384436805632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 122270,
+                    "size": 89032,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086196",
+            "id": "tg-2181071426126086193",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086196",
+                "id": "2181071426126086193",
                 "emoticons": [
-                    "😏",
-                    "😉",
-                    "🙃"
+                    "ℹ",
+                    "📢"
                 ]
             }
         },
         {
-            "body": "😌 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/65151785051a76cccf1d641d86677c58ce27ec721707806377100967936",
+            "body": "🤩 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/90d5fbd8d7d71952ddfbf571cb460ab4566947a91707806399020400640",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 128780,
+                "size": 160019,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/65151785051a76cccf1d641d86677c58ce27ec721707806377100967936",
+                "thumbnail_url": "mxc://matrix.chir.rs/90d5fbd8d7d71952ddfbf571cb460ab4566947a91707806399020400640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 128780,
+                    "size": 160019,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086190",
+            "id": "tg-2181071426126086194",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086190",
+                "id": "2181071426126086194",
                 "emoticons": [
-                    "😡",
-                    "😬",
-                    "🥴",
-                    "😌",
-                    "🙄",
-                    "🤬"
+                    "😱",
+                    "🤩",
+                    "🥰"
                 ]
             }
         },
@@ -1560,6 +1465,71 @@
             }
         },
         {
+            "body": "😏 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/63c06e0d4fd0a6d95caa6e074233e543b3f081021707806387788054528",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 122270,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/63c06e0d4fd0a6d95caa6e074233e543b3f081021707806387788054528",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 122270,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086196",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086196",
+                "emoticons": [
+                    "😏",
+                    "😉",
+                    "🙃"
+                ]
+            }
+        },
+        {
+            "body": "🥰 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/2cf0af26f9e4d956f1e769052b5cac14ffd8d1f21707806394750599168",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 174091,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2cf0af26f9e4d956f1e769052b5cac14ffd8d1f21707806394750599168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 174091,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086197",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086197",
+                "emoticons": [
+                    "🤗",
+                    "🥰",
+                    "💐",
+                    "🌷",
+                    "🌹",
+                    "🌺"
+                ]
+            }
+        },
+        {
             "body": "🏳️‍🌈 (Just Finn)",
             "url": "mxc://matrix.chir.rs/e919b5cb589acc747918bd7f3053234abb2bdca41707806384680075264",
             "info": {
@@ -1592,38 +1562,32 @@
             }
         },
         {
-            "body": "🍪 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/12021d79ec4481510b5fd1943f78331fdf83ee761707806389604188160",
+            "body": "😴 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/2107724911472c72b01b6d230ed48e162711f6051707806421904523264",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 139204,
+                "size": 118366,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/12021d79ec4481510b5fd1943f78331fdf83ee761707806389604188160",
+                "thumbnail_url": "mxc://matrix.chir.rs/2107724911472c72b01b6d230ed48e162711f6051707806421904523264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 139204,
+                    "size": 118366,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086205",
+            "id": "tg-2181071426126086199",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086205",
+                "id": "2181071426126086199",
                 "emoticons": [
-                    "🍪",
-                    "🍩",
-                    "🍫",
-                    "🍮",
-                    "🍰",
-                    "🥧",
-                    "🍦",
-                    "🥠"
+                    "😴",
+                    "🥱"
                 ]
             }
         },
@@ -1695,123 +1659,33 @@
             }
         },
         {
-            "body": "🥵 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/9723334377106dc12e302d0119347336fad7c78a1707806393936904192",
+            "body": "😨 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/8fbc40284e621f7f325c35a88cb009efab79b16b1707806390858285056",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 124537,
+                "size": 118850,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9723334377106dc12e302d0119347336fad7c78a1707806393936904192",
+                "thumbnail_url": "mxc://matrix.chir.rs/8fbc40284e621f7f325c35a88cb009efab79b16b1707806390858285056",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 124537,
+                    "size": 118850,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086208",
+            "id": "tg-2181071426126086202",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086208",
+                "id": "2181071426126086202",
                 "emoticons": [
-                    "😳",
-                    "🥵"
-                ]
-            }
-        },
-        {
-            "body": "🦝 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/6d3fbe9cd305d95ba188b6eb673209df91e25e571707806399959924736",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 75956,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6d3fbe9cd305d95ba188b6eb673209df91e25e571707806399959924736",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 75956,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086207",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086207",
-                "emoticons": [
-                    "🦝",
-                    "🐾"
-                ]
-            }
-        },
-        {
-            "body": "🤩 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/92f5f36902296facb14945a89801d8fb8f1eacce1707806408214315008",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173654,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/92f5f36902296facb14945a89801d8fb8f1eacce1707806408214315008",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173654,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086210",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086210",
-                "emoticons": [
-                    "😍",
-                    "🤩"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/e60a1d7f715a552275831b7bd88cec55dc95aba81707806389730017280",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 123576,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e60a1d7f715a552275831b7bd88cec55dc95aba81707806389730017280",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 123576,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086204",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086204",
-                "emoticons": [
-                    "🤯",
-                    "😱",
-                    "😳",
+                    "😓",
+                    "😥",
+                    "😰",
                     "😨"
                 ]
             }
@@ -1850,34 +1724,70 @@
             }
         },
         {
-            "body": "🥳 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/d943295c05316b124174f20097e497cf4b3a94601707806400865894400",
+            "body": "😳 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/e60a1d7f715a552275831b7bd88cec55dc95aba81707806389730017280",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 150610,
+                "size": 123576,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d943295c05316b124174f20097e497cf4b3a94601707806400865894400",
+                "thumbnail_url": "mxc://matrix.chir.rs/e60a1d7f715a552275831b7bd88cec55dc95aba81707806389730017280",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 150610,
+                    "size": 123576,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2181071426126086211",
+            "id": "tg-2181071426126086204",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2181071426126086145",
                     "short_name": "JustFinnMate"
                 },
-                "id": "2181071426126086211",
+                "id": "2181071426126086204",
                 "emoticons": [
-                    "🥳",
-                    "🎉",
-                    "🎊",
-                    "🎈"
+                    "🤯",
+                    "😱",
+                    "😳",
+                    "😨"
+                ]
+            }
+        },
+        {
+            "body": "🍪 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/12021d79ec4481510b5fd1943f78331fdf83ee761707806389604188160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 139204,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/12021d79ec4481510b5fd1943f78331fdf83ee761707806389604188160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 139204,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086205",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086205",
+                "emoticons": [
+                    "🍪",
+                    "🍩",
+                    "🍫",
+                    "🍮",
+                    "🍰",
+                    "🥧",
+                    "🍦",
+                    "🥠"
                 ]
             }
         },
@@ -1911,6 +1821,192 @@
                     "💿",
                     "🎵",
                     "🎶"
+                ]
+            }
+        },
+        {
+            "body": "🦝 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/6d3fbe9cd305d95ba188b6eb673209df91e25e571707806399959924736",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 75956,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6d3fbe9cd305d95ba188b6eb673209df91e25e571707806399959924736",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 75956,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086207",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086207",
+                "emoticons": [
+                    "🦝",
+                    "🐾"
+                ]
+            }
+        },
+        {
+            "body": "🥵 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/9723334377106dc12e302d0119347336fad7c78a1707806393936904192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 124537,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9723334377106dc12e302d0119347336fad7c78a1707806393936904192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 124537,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086208",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086208",
+                "emoticons": [
+                    "😳",
+                    "🥵"
+                ]
+            }
+        },
+        {
+            "body": "🤨 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/468b9129c0f432407b64d377cf45d1832f6d36131707806404120674304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 96915,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/468b9129c0f432407b64d377cf45d1832f6d36131707806404120674304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 96915,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086209",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086209",
+                "emoticons": [
+                    "🤨",
+                    "🧐",
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "🤩 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/92f5f36902296facb14945a89801d8fb8f1eacce1707806408214315008",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173654,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/92f5f36902296facb14945a89801d8fb8f1eacce1707806408214315008",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173654,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086210",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086210",
+                "emoticons": [
+                    "😍",
+                    "🤩"
+                ]
+            }
+        },
+        {
+            "body": "🥳 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/d943295c05316b124174f20097e497cf4b3a94601707806400865894400",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 150610,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d943295c05316b124174f20097e497cf4b3a94601707806400865894400",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 150610,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086211",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086211",
+                "emoticons": [
+                    "🥳",
+                    "🎉",
+                    "🎊",
+                    "🎈"
+                ]
+            }
+        },
+        {
+            "body": "😎 (Just Finn)",
+            "url": "mxc://matrix.chir.rs/5e28d0d8d0ed85f9982803601a3d96c0e148f0331707806402426175488",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 148742,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5e28d0d8d0ed85f9982803601a3d96c0e148f0331707806402426175488",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 148742,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2181071426126086212",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2181071426126086145",
+                    "short_name": "JustFinnMate"
+                },
+                "id": "2181071426126086212",
+                "emoticons": [
+                    "😎",
+                    "👌",
+                    "😉",
+                    "😗",
+                    "😙"
                 ]
             }
         },
@@ -2005,102 +2101,6 @@
                     "😠",
                     "🤨",
                     "😳"
-                ]
-            }
-        },
-        {
-            "body": "😨 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/8fbc40284e621f7f325c35a88cb009efab79b16b1707806390858285056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 118850,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8fbc40284e621f7f325c35a88cb009efab79b16b1707806390858285056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 118850,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086202",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086202",
-                "emoticons": [
-                    "😓",
-                    "😥",
-                    "😰",
-                    "😨"
-                ]
-            }
-        },
-        {
-            "body": "😎 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/5e28d0d8d0ed85f9982803601a3d96c0e148f0331707806402426175488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 148742,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5e28d0d8d0ed85f9982803601a3d96c0e148f0331707806402426175488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 148742,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086212",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086212",
-                "emoticons": [
-                    "😎",
-                    "👌",
-                    "😉",
-                    "😗",
-                    "😙"
-                ]
-            }
-        },
-        {
-            "body": "🤨 (Just Finn)",
-            "url": "mxc://matrix.chir.rs/468b9129c0f432407b64d377cf45d1832f6d36131707806404120674304",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 96915,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/468b9129c0f432407b64d377cf45d1832f6d36131707806404120674304",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 96915,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2181071426126086209",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2181071426126086145",
-                    "short_name": "JustFinnMate"
-                },
-                "id": "2181071426126086209",
-                "emoticons": [
-                    "🤨",
-                    "🧐",
-                    "🤔"
                 ]
             }
         }

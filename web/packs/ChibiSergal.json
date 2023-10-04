@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "😄 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/2fc4482d5def5e2bdafa88ab2a4e4a3091a70da91707804900844371968",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142415,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2fc4482d5def5e2bdafa88ab2a4e4a3091a70da91707804900844371968",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142415,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681106",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681106",
+                "emoticons": [
+                    "😄"
+                ]
+            }
+        },
+        {
             "body": "🤔 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/ece3f43ffbbb65eaafec205e8c3ddfbcc353d5d71707804888320180224",
             "info": {
@@ -65,35 +94,6 @@
             }
         },
         {
-            "body": "😄 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/2fc4482d5def5e2bdafa88ab2a4e4a3091a70da91707804900844371968",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142415,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2fc4482d5def5e2bdafa88ab2a4e4a3091a70da91707804900844371968",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142415,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681106",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681106",
-                "emoticons": [
-                    "😄"
-                ]
-            }
-        },
-        {
             "body": "💤 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/75d2e2a630d46ab18ffec1dd57a5ffc564ce16591707804892447375361",
             "info": {
@@ -119,35 +119,6 @@
                 "id": "190076509283681109",
                 "emoticons": [
                     "💤"
-                ]
-            }
-        },
-        {
-            "body": "☹ (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/a1b4f41a2e012b9230a5496ac692454ebae95a941707804896092225536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 110352,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a1b4f41a2e012b9230a5496ac692454ebae95a941707804896092225536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 110352,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681111",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681111",
-                "emoticons": [
-                    "☹"
                 ]
             }
         },
@@ -181,60 +152,31 @@
             }
         },
         {
-            "body": "😱 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/a56744c191d522e4c826c9c7c782605a2aa9e5f01707804894653579264",
+            "body": "☹ (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/a1b4f41a2e012b9230a5496ac692454ebae95a941707804896092225536",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 116757,
+                "size": 110352,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a56744c191d522e4c826c9c7c782605a2aa9e5f01707804894653579264",
+                "thumbnail_url": "mxc://matrix.chir.rs/a1b4f41a2e012b9230a5496ac692454ebae95a941707804896092225536",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 116757,
+                    "size": 110352,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681113",
+            "id": "tg-190076509283681111",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681113",
+                "id": "190076509283681111",
                 "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "😮 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/ac18730dd7debd40d9befaa3e09f03f8c97aa8b41707804923707523072",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 121291,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ac18730dd7debd40d9befaa3e09f03f8c97aa8b41707804923707523072",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 121291,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681148",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681148",
-                "emoticons": [
-                    "😮"
+                    "☹"
                 ]
             }
         },
@@ -268,31 +210,31 @@
             }
         },
         {
-            "body": "👶 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/84b29bade696ba440fd05d66727a446e3bea69f41707804899539943424",
+            "body": "😱 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/a56744c191d522e4c826c9c7c782605a2aa9e5f01707804894653579264",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 112839,
+                "size": 116757,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/84b29bade696ba440fd05d66727a446e3bea69f41707804899539943424",
+                "thumbnail_url": "mxc://matrix.chir.rs/a56744c191d522e4c826c9c7c782605a2aa9e5f01707804894653579264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 112839,
+                    "size": 116757,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681222",
+            "id": "tg-190076509283681113",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681222",
+                "id": "190076509283681113",
                 "emoticons": [
-                    "👶"
+                    "😱"
                 ]
             }
         },
@@ -326,31 +268,31 @@
             }
         },
         {
-            "body": "😆 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/ac90f66faa426066e63d1931784253d1f801b2361707804913620221952",
+            "body": "😮 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/ac18730dd7debd40d9befaa3e09f03f8c97aa8b41707804923707523072",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 146414,
+                "size": 121291,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ac90f66faa426066e63d1931784253d1f801b2361707804913620221952",
+                "thumbnail_url": "mxc://matrix.chir.rs/ac18730dd7debd40d9befaa3e09f03f8c97aa8b41707804923707523072",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 146414,
+                    "size": 121291,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681223",
+            "id": "tg-190076509283681148",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681223",
+                "id": "190076509283681148",
                 "emoticons": [
-                    "😆"
+                    "😮"
                 ]
             }
         },
@@ -384,89 +326,89 @@
             }
         },
         {
-            "body": "😨 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/45d6e3e64d5777116add814bbb0e13a4734e945a1707804902840860672",
+            "body": "👤 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/3de32d0747a5c4e82a388e376f2b2c21f169a0011707804936651145216",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 132302,
+                "size": 248113,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/45d6e3e64d5777116add814bbb0e13a4734e945a1707804902840860672",
+                "thumbnail_url": "mxc://matrix.chir.rs/3de32d0747a5c4e82a388e376f2b2c21f169a0011707804936651145216",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 132302,
+                    "size": 248113,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681225",
+            "id": "tg-190076509283681167",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681225",
+                "id": "190076509283681167",
                 "emoticons": [
-                    "😨"
+                    "👤"
                 ]
             }
         },
         {
-            "body": "🍪 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/407281881ea9f1964cda02caae86478c044e547b1707804906900946944",
+            "body": "👶 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/84b29bade696ba440fd05d66727a446e3bea69f41707804899539943424",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 207272,
+                "size": 112839,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/407281881ea9f1964cda02caae86478c044e547b1707804906900946944",
+                "thumbnail_url": "mxc://matrix.chir.rs/84b29bade696ba440fd05d66727a446e3bea69f41707804899539943424",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 207272,
+                    "size": 112839,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681495",
+            "id": "tg-190076509283681222",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681495",
+                "id": "190076509283681222",
                 "emoticons": [
-                    "🍪"
+                    "👶"
                 ]
             }
         },
         {
-            "body": "👏 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/c3db99bab9c5f30dc982e6ef5cb2ef164de5634b1707804919529996288",
+            "body": "😆 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/ac90f66faa426066e63d1931784253d1f801b2361707804913620221952",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 148216,
+                "size": 146414,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c3db99bab9c5f30dc982e6ef5cb2ef164de5634b1707804919529996288",
+                "thumbnail_url": "mxc://matrix.chir.rs/ac90f66faa426066e63d1931784253d1f801b2361707804913620221952",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 148216,
+                    "size": 146414,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681251",
+            "id": "tg-190076509283681223",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681251",
+                "id": "190076509283681223",
                 "emoticons": [
-                    "👏"
+                    "😆"
                 ]
             }
         },
@@ -500,6 +442,35 @@
             }
         },
         {
+            "body": "😨 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/45d6e3e64d5777116add814bbb0e13a4734e945a1707804902840860672",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 132302,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/45d6e3e64d5777116add814bbb0e13a4734e945a1707804902840860672",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 132302,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681225",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681225",
+                "emoticons": [
+                    "😨"
+                ]
+            }
+        },
+        {
             "body": "🍤 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/4e73c4e303859d779cd94dc7013b61aae397bef11707804904208203776",
             "info": {
@@ -529,6 +500,35 @@
             }
         },
         {
+            "body": "😑 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/7b2b9833cf4538ee3aaf41758d81a0cdc39fbc621707804905453912064",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 107220,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7b2b9833cf4538ee3aaf41758d81a0cdc39fbc621707804905453912064",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 107220,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681248",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681248",
+                "emoticons": [
+                    "😑"
+                ]
+            }
+        },
+        {
             "body": "😒 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/e2fe19baf57efa79b0e2f118f7adf499817958961707804915381829632",
             "info": {
@@ -554,6 +554,151 @@
                 "id": "190076509283681249",
                 "emoticons": [
                     "😒"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/ca907a028b1d05bc523d4ef97fa84c62199fb9801707804906687037440",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133989,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ca907a028b1d05bc523d4ef97fa84c62199fb9801707804906687037440",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133989,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681250",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681250",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "👏 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/c3db99bab9c5f30dc982e6ef5cb2ef164de5634b1707804919529996288",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 148216,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c3db99bab9c5f30dc982e6ef5cb2ef164de5634b1707804919529996288",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 148216,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681251",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681251",
+                "emoticons": [
+                    "👏"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/deb62e93417903dcae5d8e9f58627e1b661215bf1707804909262340096",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128970,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/deb62e93417903dcae5d8e9f58627e1b661215bf1707804909262340096",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128970,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681252",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681252",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😴 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/581e1f28c89db9f00ef4f4299072b4bfd7f411a91707804915327303680",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 114616,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/581e1f28c89db9f00ef4f4299072b4bfd7f411a91707804915327303680",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 114616,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681253",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681253",
+                "emoticons": [
+                    "😴"
+                ]
+            }
+        },
+        {
+            "body": "🐱 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/998b8b832eec7b8bc2a2a4522f1a8bd9218ba7991707804907764973568",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 124092,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/998b8b832eec7b8bc2a2a4522f1a8bd9218ba7991707804907764973568",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 124092,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681489",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681489",
+                "emoticons": [
+                    "🐱"
                 ]
             }
         },
@@ -616,60 +761,31 @@
             }
         },
         {
-            "body": "🐱 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/998b8b832eec7b8bc2a2a4522f1a8bd9218ba7991707804907764973568",
+            "body": "🧦 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/81fc1c1628372f7632d33a9b9c9669578d4f36031707804922700890112",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 124092,
+                "size": 125277,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/998b8b832eec7b8bc2a2a4522f1a8bd9218ba7991707804907764973568",
+                "thumbnail_url": "mxc://matrix.chir.rs/81fc1c1628372f7632d33a9b9c9669578d4f36031707804922700890112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 124092,
+                    "size": 125277,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681489",
+            "id": "tg-190076509283681492",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681489",
+                "id": "190076509283681492",
                 "emoticons": [
-                    "🐱"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/581e1f28c89db9f00ef4f4299072b4bfd7f411a91707804915327303680",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 114616,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/581e1f28c89db9f00ef4f4299072b4bfd7f411a91707804915327303680",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 114616,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681253",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681253",
-                "emoticons": [
-                    "😴"
+                    "🧦"
                 ]
             }
         },
@@ -732,60 +848,60 @@
             }
         },
         {
-            "body": "🧦 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/81fc1c1628372f7632d33a9b9c9669578d4f36031707804922700890112",
+            "body": "🍪 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/407281881ea9f1964cda02caae86478c044e547b1707804906900946944",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 125277,
+                "size": 207272,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81fc1c1628372f7632d33a9b9c9669578d4f36031707804922700890112",
+                "thumbnail_url": "mxc://matrix.chir.rs/407281881ea9f1964cda02caae86478c044e547b1707804906900946944",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 125277,
+                    "size": 207272,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681492",
+            "id": "tg-190076509283681495",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681492",
+                "id": "190076509283681495",
                 "emoticons": [
-                    "🧦"
+                    "🍪"
                 ]
             }
         },
         {
-            "body": "😊 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/ca907a028b1d05bc523d4ef97fa84c62199fb9801707804906687037440",
+            "body": "💋 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/056c375c6b0bf60c56d855169afb7125da792e3c1707804928824573952",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 133989,
+                "size": 127860,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ca907a028b1d05bc523d4ef97fa84c62199fb9801707804906687037440",
+                "thumbnail_url": "mxc://matrix.chir.rs/056c375c6b0bf60c56d855169afb7125da792e3c1707804928824573952",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 133989,
+                    "size": 127860,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-190076509283681250",
+            "id": "tg-190076509283681496",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "190076509283680282",
                     "short_name": "ChibiSergal"
                 },
-                "id": "190076509283681250",
+                "id": "190076509283681496",
                 "emoticons": [
-                    "😊"
+                    "💋"
                 ]
             }
         },
@@ -848,64 +964,6 @@
             }
         },
         {
-            "body": "😑 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/7b2b9833cf4538ee3aaf41758d81a0cdc39fbc621707804905453912064",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 107220,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b2b9833cf4538ee3aaf41758d81a0cdc39fbc621707804905453912064",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 107220,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681248",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681248",
-                "emoticons": [
-                    "😑"
-                ]
-            }
-        },
-        {
-            "body": "😊 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/58c08e0d7eddc048911eb6099ea0cdb457a953f71707804930850422784",
-            "info": {
-                "w": 181,
-                "h": 256,
-                "size": 111727,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/58c08e0d7eddc048911eb6099ea0cdb457a953f71707804930850422784",
-                "thumbnail_info": {
-                    "w": 181,
-                    "h": 256,
-                    "size": 111727,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681503",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681503",
-                "emoticons": [
-                    "😊"
-                ]
-            }
-        },
-        {
             "body": "🤷‍♂️ (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/c14e0bf220c6c5d11fde7e3a317dcb1b4bbed4cc1707804917147631616",
             "info": {
@@ -931,6 +989,35 @@
                 "id": "190076509283681499",
                 "emoticons": [
                     "🤷‍♂"
+                ]
+            }
+        },
+        {
+            "body": "😁 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/fa68ac069da990a2bb04e84cddfc4f03356ce56a1707804920150753280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 131220,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fa68ac069da990a2bb04e84cddfc4f03356ce56a1707804920150753280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 131220,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681500",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681500",
+                "emoticons": [
+                    "😁"
                 ]
             }
         },
@@ -993,6 +1080,35 @@
             }
         },
         {
+            "body": "😊 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/58c08e0d7eddc048911eb6099ea0cdb457a953f71707804930850422784",
+            "info": {
+                "w": 181,
+                "h": 256,
+                "size": 111727,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/58c08e0d7eddc048911eb6099ea0cdb457a953f71707804930850422784",
+                "thumbnail_info": {
+                    "w": 181,
+                    "h": 256,
+                    "size": 111727,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681503",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681503",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
             "body": "😇 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/c8c280ecca62112fe7c706f961b15db4bc92fe701707804944444162048",
             "info": {
@@ -1018,64 +1134,6 @@
                 "id": "190076509283681504",
                 "emoticons": [
                     "😇"
-                ]
-            }
-        },
-        {
-            "body": "👋 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/d40409c1b96b60faaa5a28802a733daa715e19af1707804925968252928",
-            "info": {
-                "w": 256,
-                "h": 239,
-                "size": 114223,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d40409c1b96b60faaa5a28802a733daa715e19af1707804925968252928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 239,
-                    "size": 114223,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681643",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681643",
-                "emoticons": [
-                    "👋"
-                ]
-            }
-        },
-        {
-            "body": "🛁 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/824bd1b5451ae9b4a2effa0c6c1b70716ecce99a1707804925532045312",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200599,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/824bd1b5451ae9b4a2effa0c6c1b70716ecce99a1707804925532045312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200599,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681642",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681642",
-                "emoticons": [
-                    "🛁"
                 ]
             }
         },
@@ -1109,6 +1167,93 @@
             }
         },
         {
+            "body": "🐷 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/eac2e9938cc5e883b89a9761be841c1343b1048b1707804937754247168",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 152970,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eac2e9938cc5e883b89a9761be841c1343b1048b1707804937754247168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 152970,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681641",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681641",
+                "emoticons": [
+                    "🐷"
+                ]
+            }
+        },
+        {
+            "body": "🛁 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/824bd1b5451ae9b4a2effa0c6c1b70716ecce99a1707804925532045312",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200599,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/824bd1b5451ae9b4a2effa0c6c1b70716ecce99a1707804925532045312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200599,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681642",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681642",
+                "emoticons": [
+                    "🛁"
+                ]
+            }
+        },
+        {
+            "body": "👋 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/d40409c1b96b60faaa5a28802a733daa715e19af1707804925968252928",
+            "info": {
+                "w": 256,
+                "h": 239,
+                "size": 114223,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d40409c1b96b60faaa5a28802a733daa715e19af1707804925968252928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 239,
+                    "size": 114223,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681643",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681643",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
             "body": "👋 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/b5b25b694adf72f4531a53d4079dde5145932ac71707804932876271616",
             "info": {
@@ -1138,64 +1283,6 @@
             }
         },
         {
-            "body": "😁 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/fa68ac069da990a2bb04e84cddfc4f03356ce56a1707804920150753280",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131220,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fa68ac069da990a2bb04e84cddfc4f03356ce56a1707804920150753280",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131220,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681500",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681500",
-                "emoticons": [
-                    "😁"
-                ]
-            }
-        },
-        {
-            "body": "💋 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/056c375c6b0bf60c56d855169afb7125da792e3c1707804928824573952",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 127860,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/056c375c6b0bf60c56d855169afb7125da792e3c1707804928824573952",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 127860,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681496",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681496",
-                "emoticons": [
-                    "💋"
-                ]
-            }
-        },
-        {
             "body": "👉 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/66f28185e5726f84d09bcee406ba14ec728cbe4a1707804926895194112",
             "info": {
@@ -1219,6 +1306,35 @@
                     "short_name": "ChibiSergal"
                 },
                 "id": "190076509283681645",
+                "emoticons": [
+                    "👉"
+                ]
+            }
+        },
+        {
+            "body": "👉 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/721244890dc81ea7d05fcf3d43f62d671e1356951707804938588913664",
+            "info": {
+                "w": 256,
+                "h": 244,
+                "size": 160269,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/721244890dc81ea7d05fcf3d43f62d671e1356951707804938588913664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 244,
+                    "size": 160269,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-190076509283681646",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "190076509283681646",
                 "emoticons": [
                     "👉"
                 ]
@@ -1254,6 +1370,64 @@
             }
         },
         {
+            "body": "😍 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/f3c6f3ec10fc19a3374dc60719430d097b7766301707804939373248512",
+            "info": {
+                "w": 256,
+                "h": 235,
+                "size": 119681,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f3c6f3ec10fc19a3374dc60719430d097b7766301707804939373248512",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 235,
+                    "size": 119681,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4942819948180276081",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "4942819948180276081",
+                "emoticons": [
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🪑 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/3b19cfed4fa912acbfa19808a0867131c5524bb61707804936974106624",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 147091,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3b19cfed4fa912acbfa19808a0867131c5524bb61707804936974106624",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 147091,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4945050578100159308",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "4945050578100159308",
+                "emoticons": [
+                    "🪑"
+                ]
+            }
+        },
+        {
             "body": "☺️ (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/f095500d3b8cbcd4132e69535453dc1197ffc6651707804935195721728",
             "info": {
@@ -1279,6 +1453,64 @@
                 "id": "4945074513952899638",
                 "emoticons": [
                     "☺"
+                ]
+            }
+        },
+        {
+            "body": "😎 (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/c70cc92d641f397a92d76d821a48d35b85f93d671707804931974496256",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 131686,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c70cc92d641f397a92d76d821a48d35b85f93d671707804931974496256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 131686,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4945076498227790404",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "4945076498227790404",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "☕️ (Chibi Sergal)",
+            "url": "mxc://matrix.chir.rs/5f66f7fce406c65e04da33730ad4435367b2ef8e1707804941873053696",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 139480,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5f66f7fce406c65e04da33730ad4435367b2ef8e1707804941873053696",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 139480,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4945113160068628982",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "190076509283680282",
+                    "short_name": "ChibiSergal"
+                },
+                "id": "4945113160068628982",
+                "emoticons": [
+                    "☕"
                 ]
             }
         },
@@ -1341,122 +1573,6 @@
             }
         },
         {
-            "body": "🐷 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/eac2e9938cc5e883b89a9761be841c1343b1048b1707804937754247168",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 152970,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eac2e9938cc5e883b89a9761be841c1343b1048b1707804937754247168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 152970,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681641",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681641",
-                "emoticons": [
-                    "🐷"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/deb62e93417903dcae5d8e9f58627e1b661215bf1707804909262340096",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 128970,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/deb62e93417903dcae5d8e9f58627e1b661215bf1707804909262340096",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 128970,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681252",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681252",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "😎 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/c70cc92d641f397a92d76d821a48d35b85f93d671707804931974496256",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131686,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c70cc92d641f397a92d76d821a48d35b85f93d671707804931974496256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131686,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4945076498227790404",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "4945076498227790404",
-                "emoticons": [
-                    "😎"
-                ]
-            }
-        },
-        {
-            "body": "👉 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/721244890dc81ea7d05fcf3d43f62d671e1356951707804938588913664",
-            "info": {
-                "w": 256,
-                "h": 244,
-                "size": 160269,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/721244890dc81ea7d05fcf3d43f62d671e1356951707804938588913664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 244,
-                    "size": 160269,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681646",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681646",
-                "emoticons": [
-                    "👉"
-                ]
-            }
-        },
-        {
             "body": "💁 (Chibi Sergal)",
             "url": "mxc://matrix.chir.rs/cedfca08eba908f9415d92ae5ace4d68692b229f1707804942904852480",
             "info": {
@@ -1482,122 +1598,6 @@
                 "id": "4945427998351295321",
                 "emoticons": [
                     "💁"
-                ]
-            }
-        },
-        {
-            "body": "😍 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/f3c6f3ec10fc19a3374dc60719430d097b7766301707804939373248512",
-            "info": {
-                "w": 256,
-                "h": 235,
-                "size": 119681,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f3c6f3ec10fc19a3374dc60719430d097b7766301707804939373248512",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 235,
-                    "size": 119681,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4942819948180276081",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "4942819948180276081",
-                "emoticons": [
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "☕️ (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/5f66f7fce406c65e04da33730ad4435367b2ef8e1707804941873053696",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 139480,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5f66f7fce406c65e04da33730ad4435367b2ef8e1707804941873053696",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 139480,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4945113160068628982",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "4945113160068628982",
-                "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "🪑 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/3b19cfed4fa912acbfa19808a0867131c5524bb61707804936974106624",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 147091,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3b19cfed4fa912acbfa19808a0867131c5524bb61707804936974106624",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 147091,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4945050578100159308",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "4945050578100159308",
-                "emoticons": [
-                    "🪑"
-                ]
-            }
-        },
-        {
-            "body": "👤 (Chibi Sergal)",
-            "url": "mxc://matrix.chir.rs/3de32d0747a5c4e82a388e376f2b2c21f169a0011707804936651145216",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 248113,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3de32d0747a5c4e82a388e376f2b2c21f169a0011707804936651145216",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 248113,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-190076509283681167",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "190076509283680282",
-                    "short_name": "ChibiSergal"
-                },
-                "id": "190076509283681167",
-                "emoticons": [
-                    "👤"
                 ]
             }
         }

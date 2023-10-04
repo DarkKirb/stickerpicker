@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "💑 (Gamma)",
+            "url": "mxc://matrix.chir.rs/964b270b88998e0c7ff521cd72c5587e796cb2821707819362385133568",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227847,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/964b270b88998e0c7ff521cd72c5587e796cb2821707819362385133568",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227847,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675393",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675393",
+                "emoticons": [
+                    "💑"
+                ]
+            }
+        },
+        {
             "body": "😥 (Gamma)",
             "url": "mxc://matrix.chir.rs/bff5d0446f5b36c8008b24bf57c180969922191c1707819343028420608",
             "info": {
@@ -32,35 +61,6 @@
                 "id": "3960616663375675394",
                 "emoticons": [
                     "😥"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Gamma)",
-            "url": "mxc://matrix.chir.rs/6541fa8dcafbbde33f4e7fe08273c530bdd171a31707819347327582208",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 194185,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6541fa8dcafbbde33f4e7fe08273c530bdd171a31707819347327582208",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 194185,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675397",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675397",
-                "emoticons": [
-                    "😴"
                 ]
             }
         },
@@ -94,31 +94,31 @@
             }
         },
         {
-            "body": "😌 (Gamma)",
-            "url": "mxc://matrix.chir.rs/7a9cab97e8b4cb534f09988971f37190202000b01707819338754424832",
+            "body": "😴 (Gamma)",
+            "url": "mxc://matrix.chir.rs/6541fa8dcafbbde33f4e7fe08273c530bdd171a31707819347327582208",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 232871,
+                "size": 194185,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7a9cab97e8b4cb534f09988971f37190202000b01707819338754424832",
+                "thumbnail_url": "mxc://matrix.chir.rs/6541fa8dcafbbde33f4e7fe08273c530bdd171a31707819347327582208",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 232871,
+                    "size": 194185,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675399",
+            "id": "tg-3960616663375675397",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675399",
+                "id": "3960616663375675397",
                 "emoticons": [
-                    "😌"
+                    "😴"
                 ]
             }
         },
@@ -152,6 +152,35 @@
             }
         },
         {
+            "body": "😌 (Gamma)",
+            "url": "mxc://matrix.chir.rs/7a9cab97e8b4cb534f09988971f37190202000b01707819338754424832",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 232871,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7a9cab97e8b4cb534f09988971f37190202000b01707819338754424832",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 232871,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675399",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675399",
+                "emoticons": [
+                    "😌"
+                ]
+            }
+        },
+        {
             "body": "😘 (Gamma)",
             "url": "mxc://matrix.chir.rs/904001f0693b67ba2a47ceb2f58e1eb1cbebdfc91707819340885131265",
             "info": {
@@ -181,60 +210,89 @@
             }
         },
         {
-            "body": "💑 (Gamma)",
-            "url": "mxc://matrix.chir.rs/964b270b88998e0c7ff521cd72c5587e796cb2821707819362385133568",
+            "body": "😳 (Gamma)",
+            "url": "mxc://matrix.chir.rs/e378d07da9e80555586153cc6322061d7a3cda901707819346090262528",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 227847,
+                "size": 189074,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/964b270b88998e0c7ff521cd72c5587e796cb2821707819362385133568",
+                "thumbnail_url": "mxc://matrix.chir.rs/e378d07da9e80555586153cc6322061d7a3cda901707819346090262528",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 227847,
+                    "size": 189074,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675393",
+            "id": "tg-3960616663375675401",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675393",
+                "id": "3960616663375675401",
                 "emoticons": [
-                    "💑"
+                    "😳"
                 ]
             }
         },
         {
-            "body": "📞 (Gamma)",
-            "url": "mxc://matrix.chir.rs/c2eff6348a8d6c01b8217a8a83aa712cce1e27d91707819355900739584",
+            "body": "💏 (Gamma)",
+            "url": "mxc://matrix.chir.rs/b177b4c1c3741e9fe4c0cc4c2c9a15013e96b9031707819349152104448",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 197237,
+                "size": 197294,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c2eff6348a8d6c01b8217a8a83aa712cce1e27d91707819355900739584",
+                "thumbnail_url": "mxc://matrix.chir.rs/b177b4c1c3741e9fe4c0cc4c2c9a15013e96b9031707819349152104448",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 197237,
+                    "size": 197294,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675406",
+            "id": "tg-3960616663375675402",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675406",
+                "id": "3960616663375675402",
                 "emoticons": [
-                    "📞"
+                    "💏"
+                ]
+            }
+        },
+        {
+            "body": "😖 (Gamma)",
+            "url": "mxc://matrix.chir.rs/9cad8f34086687891a8b4f09e42df206ff509b4f1707819343384936448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 263028,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9cad8f34086687891a8b4f09e42df206ff509b4f1707819343384936448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 263028,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675403",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675403",
+                "emoticons": [
+                    "😖"
                 ]
             }
         },
@@ -297,6 +355,64 @@
             }
         },
         {
+            "body": "📞 (Gamma)",
+            "url": "mxc://matrix.chir.rs/c2eff6348a8d6c01b8217a8a83aa712cce1e27d91707819355900739584",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197237,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c2eff6348a8d6c01b8217a8a83aa712cce1e27d91707819355900739584",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197237,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675406",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675406",
+                "emoticons": [
+                    "📞"
+                ]
+            }
+        },
+        {
+            "body": "😉 (Gamma)",
+            "url": "mxc://matrix.chir.rs/6994a78d02f2e48fb36b4da39ad780d0a7a30b961707819405016039424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 226941,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6994a78d02f2e48fb36b4da39ad780d0a7a30b961707819405016039424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 226941,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675407",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675407",
+                "emoticons": [
+                    "😉"
+                ]
+            }
+        },
+        {
             "body": "👋 (Gamma)",
             "url": "mxc://matrix.chir.rs/582ac041b614076b526482ebbce4f02daff7ac691707819349949022208",
             "info": {
@@ -322,93 +438,6 @@
                 "id": "3960616663375675408",
                 "emoticons": [
                     "👋"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Gamma)",
-            "url": "mxc://matrix.chir.rs/e378d07da9e80555586153cc6322061d7a3cda901707819346090262528",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189074,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e378d07da9e80555586153cc6322061d7a3cda901707819346090262528",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189074,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675401",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675401",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Gamma)",
-            "url": "mxc://matrix.chir.rs/77342892f6a5dedb1b756763564aef6e3f5ee4df1707819382916251648",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 204515,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/77342892f6a5dedb1b756763564aef6e3f5ee4df1707819382916251648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 204515,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675412",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675412",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "📢 (Gamma)",
-            "url": "mxc://matrix.chir.rs/e7cc36a505e752cf6c9f8692c05f0d0b9581f5c31707819359210045440",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 238203,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e7cc36a505e752cf6c9f8692c05f0d0b9581f5c31707819359210045440",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 238203,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675410",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675410",
-                "emoticons": [
-                    "📢"
                 ]
             }
         },
@@ -442,60 +471,31 @@
             }
         },
         {
-            "body": "😖 (Gamma)",
-            "url": "mxc://matrix.chir.rs/9cad8f34086687891a8b4f09e42df206ff509b4f1707819343384936448",
+            "body": "📢 (Gamma)",
+            "url": "mxc://matrix.chir.rs/e7cc36a505e752cf6c9f8692c05f0d0b9581f5c31707819359210045440",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 263028,
+                "size": 238203,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9cad8f34086687891a8b4f09e42df206ff509b4f1707819343384936448",
+                "thumbnail_url": "mxc://matrix.chir.rs/e7cc36a505e752cf6c9f8692c05f0d0b9581f5c31707819359210045440",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 263028,
+                    "size": 238203,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675403",
+            "id": "tg-3960616663375675410",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675403",
+                "id": "3960616663375675410",
                 "emoticons": [
-                    "😖"
-                ]
-            }
-        },
-        {
-            "body": "👍 (Gamma)",
-            "url": "mxc://matrix.chir.rs/91186ffe4800fd2330d5beef717e54700759340b1707819366961119232",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189927,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/91186ffe4800fd2330d5beef717e54700759340b1707819366961119232",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189927,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675414",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675414",
-                "emoticons": [
-                    "👍"
+                    "📢"
                 ]
             }
         },
@@ -525,6 +525,93 @@
                 "id": "3960616663375675411",
                 "emoticons": [
                     "😏"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Gamma)",
+            "url": "mxc://matrix.chir.rs/77342892f6a5dedb1b756763564aef6e3f5ee4df1707819382916251648",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204515,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/77342892f6a5dedb1b756763564aef6e3f5ee4df1707819382916251648",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204515,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675412",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675412",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "😝 (Gamma)",
+            "url": "mxc://matrix.chir.rs/cc80010167ce0bb4373273ed5385155ed9cbe0fa1707819354285932544",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204100,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc80010167ce0bb4373273ed5385155ed9cbe0fa1707819354285932544",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204100,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675413",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675413",
+                "emoticons": [
+                    "😝"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Gamma)",
+            "url": "mxc://matrix.chir.rs/91186ffe4800fd2330d5beef717e54700759340b1707819366961119232",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189927,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/91186ffe4800fd2330d5beef717e54700759340b1707819366961119232",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189927,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675414",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675414",
+                "emoticons": [
+                    "👍"
                 ]
             }
         },
@@ -587,64 +674,6 @@
             }
         },
         {
-            "body": "😬 (Gamma)",
-            "url": "mxc://matrix.chir.rs/73f8fee2e0b11b78df7bbf57a0b39d8b19650c6f1707819359075827712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205332,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/73f8fee2e0b11b78df7bbf57a0b39d8b19650c6f1707819359075827712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205332,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675419",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675419",
-                "emoticons": [
-                    "😬"
-                ]
-            }
-        },
-        {
-            "body": "😉 (Gamma)",
-            "url": "mxc://matrix.chir.rs/6994a78d02f2e48fb36b4da39ad780d0a7a30b961707819405016039424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 226941,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6994a78d02f2e48fb36b4da39ad780d0a7a30b961707819405016039424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 226941,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675407",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675407",
-                "emoticons": [
-                    "😉"
-                ]
-            }
-        },
-        {
             "body": "😓 (Gamma)",
             "url": "mxc://matrix.chir.rs/7c1b4b995c6434cb036d95dc100f20e11fd8b28d1707819356735406080",
             "info": {
@@ -703,6 +732,35 @@
             }
         },
         {
+            "body": "😬 (Gamma)",
+            "url": "mxc://matrix.chir.rs/73f8fee2e0b11b78df7bbf57a0b39d8b19650c6f1707819359075827712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 205332,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/73f8fee2e0b11b78df7bbf57a0b39d8b19650c6f1707819359075827712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 205332,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675419",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675419",
+                "emoticons": [
+                    "😬"
+                ]
+            }
+        },
+        {
             "body": "👣 (Gamma)",
             "url": "mxc://matrix.chir.rs/8dee946caa8f6d7912b8c17a8d7e1dac66d2a08f1707819355993014272",
             "info": {
@@ -728,35 +786,6 @@
                 "id": "3960616663375675420",
                 "emoticons": [
                     "👣"
-                ]
-            }
-        },
-        {
-            "body": "🛀 (Gamma)",
-            "url": "mxc://matrix.chir.rs/986f690b9d94d1283ef6e2c96d13ff9ad2d3f2cd1707819363932831744",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 236564,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/986f690b9d94d1283ef6e2c96d13ff9ad2d3f2cd1707819363932831744",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 236564,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675422",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675422",
-                "emoticons": [
-                    "🛀"
                 ]
             }
         },
@@ -790,31 +819,31 @@
             }
         },
         {
-            "body": "😤 (Gamma)",
-            "url": "mxc://matrix.chir.rs/ea97015184858c2a94564209381015881379b2fa1707819377946001408",
+            "body": "🛀 (Gamma)",
+            "url": "mxc://matrix.chir.rs/986f690b9d94d1283ef6e2c96d13ff9ad2d3f2cd1707819363932831744",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 234794,
+                "size": 236564,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ea97015184858c2a94564209381015881379b2fa1707819377946001408",
+                "thumbnail_url": "mxc://matrix.chir.rs/986f690b9d94d1283ef6e2c96d13ff9ad2d3f2cd1707819363932831744",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 234794,
+                    "size": 236564,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675425",
+            "id": "tg-3960616663375675422",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675425",
+                "id": "3960616663375675422",
                 "emoticons": [
-                    "😤"
+                    "🛀"
                 ]
             }
         },
@@ -848,6 +877,64 @@
             }
         },
         {
+            "body": "😱 (Gamma)",
+            "url": "mxc://matrix.chir.rs/97c8fdf4d745a3418d0438d068ab91eef1f11ed91707819360988430336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 245701,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/97c8fdf4d745a3418d0438d068ab91eef1f11ed91707819360988430336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 245701,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675424",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675424",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "😤 (Gamma)",
+            "url": "mxc://matrix.chir.rs/ea97015184858c2a94564209381015881379b2fa1707819377946001408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 234794,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ea97015184858c2a94564209381015881379b2fa1707819377946001408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 234794,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675425",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675425",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
             "body": "♻ (Gamma)",
             "url": "mxc://matrix.chir.rs/f29ba216788295938886926a51ce9eea6eec24a21707819366768181248",
             "info": {
@@ -873,6 +960,35 @@
                 "id": "3960616663375675426",
                 "emoticons": [
                     "♻"
+                ]
+            }
+        },
+        {
+            "body": "😐 (Gamma)",
+            "url": "mxc://matrix.chir.rs/2ed48f160e246259082ed2d9fa695657c06e9ec21707819370664689664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202800,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2ed48f160e246259082ed2d9fa695657c06e9ec21707819370664689664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202800,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675427",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675427",
+                "emoticons": [
+                    "😐"
                 ]
             }
         },
@@ -964,35 +1080,6 @@
             }
         },
         {
-            "body": "😝 (Gamma)",
-            "url": "mxc://matrix.chir.rs/cc80010167ce0bb4373273ed5385155ed9cbe0fa1707819354285932544",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 204100,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cc80010167ce0bb4373273ed5385155ed9cbe0fa1707819354285932544",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 204100,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675413",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675413",
-                "emoticons": [
-                    "😝"
-                ]
-            }
-        },
-        {
             "body": "✔ (Gamma)",
             "url": "mxc://matrix.chir.rs/78be51d2689dfc07f1586b93c931c0686fd3156c1707819384677859328",
             "info": {
@@ -1051,6 +1138,64 @@
             }
         },
         {
+            "body": "😂 (Gamma)",
+            "url": "mxc://matrix.chir.rs/84c22be32c121b6dc62541adfe1dea83955abfab1707819368513011712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211511,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/84c22be32c121b6dc62541adfe1dea83955abfab1707819368513011712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211511,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675433",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675433",
+                "emoticons": [
+                    "😂"
+                ]
+            }
+        },
+        {
+            "body": "🐷 (Gamma)",
+            "url": "mxc://matrix.chir.rs/e2a84e6e1b3e10c58152ee052c1cdacbd8f564681707819378810028032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 265961,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e2a84e6e1b3e10c58152ee052c1cdacbd8f564681707819378810028032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 265961,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675434",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675434",
+                "emoticons": [
+                    "🐷"
+                ]
+            }
+        },
+        {
             "body": "💐 (Gamma)",
             "url": "mxc://matrix.chir.rs/bbc21f39336d861718b25487eff95edd38a09f881707819369452535808",
             "info": {
@@ -1076,6 +1221,35 @@
                 "id": "3960616663375675435",
                 "emoticons": [
                     "💐"
+                ]
+            }
+        },
+        {
+            "body": "💨 (Gamma)",
+            "url": "mxc://matrix.chir.rs/41ea94b47150565c020208c2ddc954a79d88e2811707819371721654272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 210246,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/41ea94b47150565c020208c2ddc954a79d88e2811707819371721654272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 210246,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675436",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675436",
+                "emoticons": [
+                    "💨"
                 ]
             }
         },
@@ -1109,31 +1283,31 @@
             }
         },
         {
-            "body": "💏 (Gamma)",
-            "url": "mxc://matrix.chir.rs/b177b4c1c3741e9fe4c0cc4c2c9a15013e96b9031707819349152104448",
+            "body": "👈 (Gamma)",
+            "url": "mxc://matrix.chir.rs/16ab65c32932e6679792303876b937e2e3a0d7d21707819376159227904",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 197294,
+                "size": 210352,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b177b4c1c3741e9fe4c0cc4c2c9a15013e96b9031707819349152104448",
+                "thumbnail_url": "mxc://matrix.chir.rs/16ab65c32932e6679792303876b937e2e3a0d7d21707819376159227904",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 197294,
+                    "size": 210352,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675402",
+            "id": "tg-3960616663375675438",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675402",
+                "id": "3960616663375675438",
                 "emoticons": [
-                    "💏"
+                    "👈"
                 ]
             }
         },
@@ -1167,31 +1341,31 @@
             }
         },
         {
-            "body": "😂 (Gamma)",
-            "url": "mxc://matrix.chir.rs/84c22be32c121b6dc62541adfe1dea83955abfab1707819368513011712",
+            "body": "📦 (Gamma)",
+            "url": "mxc://matrix.chir.rs/11b79a1755ae58c6bb40a96f75a9b014217dc17d1707819377958584320",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 211511,
+                "size": 134225,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/84c22be32c121b6dc62541adfe1dea83955abfab1707819368513011712",
+                "thumbnail_url": "mxc://matrix.chir.rs/11b79a1755ae58c6bb40a96f75a9b014217dc17d1707819377958584320",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 211511,
+                    "size": 134225,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675433",
+            "id": "tg-3960616663375675440",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675433",
+                "id": "3960616663375675440",
                 "emoticons": [
-                    "😂"
+                    "📦"
                 ]
             }
         },
@@ -1221,35 +1395,6 @@
                 "id": "3960616663375675441",
                 "emoticons": [
                     "😽"
-                ]
-            }
-        },
-        {
-            "body": "🐷 (Gamma)",
-            "url": "mxc://matrix.chir.rs/e2a84e6e1b3e10c58152ee052c1cdacbd8f564681707819378810028032",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 265961,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2a84e6e1b3e10c58152ee052c1cdacbd8f564681707819378810028032",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 265961,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675434",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675434",
-                "emoticons": [
-                    "🐷"
                 ]
             }
         },
@@ -1341,64 +1486,6 @@
             }
         },
         {
-            "body": "💨 (Gamma)",
-            "url": "mxc://matrix.chir.rs/41ea94b47150565c020208c2ddc954a79d88e2811707819371721654272",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210246,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/41ea94b47150565c020208c2ddc954a79d88e2811707819371721654272",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210246,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675436",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675436",
-                "emoticons": [
-                    "💨"
-                ]
-            }
-        },
-        {
-            "body": "😐 (Gamma)",
-            "url": "mxc://matrix.chir.rs/2ed48f160e246259082ed2d9fa695657c06e9ec21707819370664689664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 202800,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2ed48f160e246259082ed2d9fa695657c06e9ec21707819370664689664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 202800,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675427",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675427",
-                "emoticons": [
-                    "😐"
-                ]
-            }
-        },
-        {
             "body": "😈 (Gamma)",
             "url": "mxc://matrix.chir.rs/5958d9d69c19ed89a7e52e99d507f682223e9ed71707819401929031680",
             "info": {
@@ -1424,64 +1511,6 @@
                 "id": "3960616663375675445",
                 "emoticons": [
                     "😈"
-                ]
-            }
-        },
-        {
-            "body": "💗 (Gamma)",
-            "url": "mxc://matrix.chir.rs/3aa4fc120bc4f31fd2b6ea5281711b184919132d1707819384837242880",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 229420,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3aa4fc120bc4f31fd2b6ea5281711b184919132d1707819384837242880",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 229420,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675447",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675447",
-                "emoticons": [
-                    "💗"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Gamma)",
-            "url": "mxc://matrix.chir.rs/97c8fdf4d745a3418d0438d068ab91eef1f11ed91707819360988430336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 245701,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/97c8fdf4d745a3418d0438d068ab91eef1f11ed91707819360988430336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 245701,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675424",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675424",
-                "emoticons": [
-                    "😱"
                 ]
             }
         },
@@ -1515,118 +1544,31 @@
             }
         },
         {
-            "body": "😛 (Gamma)",
-            "url": "mxc://matrix.chir.rs/52ce95c1972466511fd8b208daefbf10c63033711707819390344364032",
+            "body": "💗 (Gamma)",
+            "url": "mxc://matrix.chir.rs/3aa4fc120bc4f31fd2b6ea5281711b184919132d1707819384837242880",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 210417,
+                "size": 229420,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/52ce95c1972466511fd8b208daefbf10c63033711707819390344364032",
+                "thumbnail_url": "mxc://matrix.chir.rs/3aa4fc120bc4f31fd2b6ea5281711b184919132d1707819384837242880",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 210417,
+                    "size": 229420,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675451",
+            "id": "tg-3960616663375675447",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675451",
+                "id": "3960616663375675447",
                 "emoticons": [
-                    "😛"
-                ]
-            }
-        },
-        {
-            "body": "🍗 (Gamma)",
-            "url": "mxc://matrix.chir.rs/c51d6d393c87312eae35d4594e2d619325f546961707819397000724480",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 221375,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c51d6d393c87312eae35d4594e2d619325f546961707819397000724480",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 221375,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675454",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675454",
-                "emoticons": [
-                    "🍗"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Gamma)",
-            "url": "mxc://matrix.chir.rs/3a4615ed38eaf64be7c62f94f0be3a8060f0b6df1707819397919277056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 211622,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3a4615ed38eaf64be7c62f94f0be3a8060f0b6df1707819397919277056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 211622,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675455",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675455",
-                "emoticons": [
-                    "😃"
-                ]
-            }
-        },
-        {
-            "body": "📦 (Gamma)",
-            "url": "mxc://matrix.chir.rs/11b79a1755ae58c6bb40a96f75a9b014217dc17d1707819377958584320",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 134225,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/11b79a1755ae58c6bb40a96f75a9b014217dc17d1707819377958584320",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 134225,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3960616663375675440",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3960616663375675393",
-                    "short_name": "gammabynicoles"
-                },
-                "id": "3960616663375675440",
-                "emoticons": [
-                    "📦"
+                    "💗"
                 ]
             }
         },
@@ -1660,31 +1602,31 @@
             }
         },
         {
-            "body": "👈 (Gamma)",
-            "url": "mxc://matrix.chir.rs/16ab65c32932e6679792303876b937e2e3a0d7d21707819376159227904",
+            "body": "⬆ (Gamma)",
+            "url": "mxc://matrix.chir.rs/61b6ff572ce09d6d67a7a2a7e8496e238a5b4acc1707819386456244224",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 210352,
+                "size": 187414,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/16ab65c32932e6679792303876b937e2e3a0d7d21707819376159227904",
+                "thumbnail_url": "mxc://matrix.chir.rs/61b6ff572ce09d6d67a7a2a7e8496e238a5b4acc1707819386456244224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 210352,
+                    "size": 187414,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675438",
+            "id": "tg-3960616663375675449",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675438",
+                "id": "3960616663375675449",
                 "emoticons": [
-                    "👈"
+                    "⬆"
                 ]
             }
         },
@@ -1718,31 +1660,31 @@
             }
         },
         {
-            "body": "⬆ (Gamma)",
-            "url": "mxc://matrix.chir.rs/61b6ff572ce09d6d67a7a2a7e8496e238a5b4acc1707819386456244224",
+            "body": "😛 (Gamma)",
+            "url": "mxc://matrix.chir.rs/52ce95c1972466511fd8b208daefbf10c63033711707819390344364032",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 187414,
+                "size": 210417,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/61b6ff572ce09d6d67a7a2a7e8496e238a5b4acc1707819386456244224",
+                "thumbnail_url": "mxc://matrix.chir.rs/52ce95c1972466511fd8b208daefbf10c63033711707819390344364032",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 187414,
+                    "size": 210417,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-3960616663375675449",
+            "id": "tg-3960616663375675451",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "3960616663375675393",
                     "short_name": "gammabynicoles"
                 },
-                "id": "3960616663375675449",
+                "id": "3960616663375675451",
                 "emoticons": [
-                    "⬆"
+                    "😛"
                 ]
             }
         },
@@ -1801,6 +1743,64 @@
                 "id": "3960616663375675453",
                 "emoticons": [
                     "😋"
+                ]
+            }
+        },
+        {
+            "body": "🍗 (Gamma)",
+            "url": "mxc://matrix.chir.rs/c51d6d393c87312eae35d4594e2d619325f546961707819397000724480",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 221375,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c51d6d393c87312eae35d4594e2d619325f546961707819397000724480",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 221375,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675454",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675454",
+                "emoticons": [
+                    "🍗"
+                ]
+            }
+        },
+        {
+            "body": "😃 (Gamma)",
+            "url": "mxc://matrix.chir.rs/3a4615ed38eaf64be7c62f94f0be3a8060f0b6df1707819397919277056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211622,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3a4615ed38eaf64be7c62f94f0be3a8060f0b6df1707819397919277056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211622,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3960616663375675455",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3960616663375675393",
+                    "short_name": "gammabynicoles"
+                },
+                "id": "3960616663375675455",
+                "emoticons": [
+                    "😃"
                 ]
             }
         }

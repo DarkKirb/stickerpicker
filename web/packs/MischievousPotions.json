@@ -7,36 +7,6 @@
     },
     "stickers": [
         {
-            "body": "📜 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/c223fb672aeba8112ca34d6f3e2c42df8de3a5dd1707807476625178624",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 84996,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c223fb672aeba8112ca34d6f3e2c42df8de3a5dd1707807476625178624",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 84996,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769564",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769564",
-                "emoticons": [
-                    "📜",
-                    "⬆"
-                ]
-            }
-        },
-        {
             "body": "🍯 (Mischievous Potions)",
             "url": "mxc://matrix.chir.rs/f841d3055acf799bc99feaee74b846c788ffa4871707807471831089152",
             "info": {
@@ -63,36 +33,6 @@
                 "emoticons": [
                     "🍯",
                     "🍕"
-                ]
-            }
-        },
-        {
-            "body": "💉 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/0dd997353b338c5240149150f3cac21f6f0e8af31707807478709747712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 157659,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0dd997353b338c5240149150f3cac21f6f0e8af31707807478709747712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 157659,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769563",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769563",
-                "emoticons": [
-                    "💉",
-                    "🍰"
                 ]
             }
         },
@@ -127,32 +67,92 @@
             }
         },
         {
-            "body": "👛 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/c08c5c1babc4b64095260dc800a2b3f083a6b03b1707807480685264896",
+            "body": "💉 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/0dd997353b338c5240149150f3cac21f6f0e8af31707807478709747712",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 121004,
+                "size": 157659,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c08c5c1babc4b64095260dc800a2b3f083a6b03b1707807480685264896",
+                "thumbnail_url": "mxc://matrix.chir.rs/0dd997353b338c5240149150f3cac21f6f0e8af31707807478709747712",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 121004,
+                    "size": 157659,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-138307065146769594",
+            "id": "tg-138307065146769563",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "138307065146769410",
                     "short_name": "MischievousPotions"
                 },
-                "id": "138307065146769594",
+                "id": "138307065146769563",
                 "emoticons": [
-                    "👛",
-                    "🐻"
+                    "💉",
+                    "🍰"
+                ]
+            }
+        },
+        {
+            "body": "📜 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/c223fb672aeba8112ca34d6f3e2c42df8de3a5dd1707807476625178624",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 84996,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c223fb672aeba8112ca34d6f3e2c42df8de3a5dd1707807476625178624",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 84996,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769564",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769564",
+                "emoticons": [
+                    "📜",
+                    "⬆"
+                ]
+            }
+        },
+        {
+            "body": "📜 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/dfff28d1f436ed6298614f7b88eac67842de4f161707807488637665280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 84240,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dfff28d1f436ed6298614f7b88eac67842de4f161707807488637665280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 84240,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769565",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769565",
+                "emoticons": [
+                    "📜",
+                    "⬇"
                 ]
             }
         },
@@ -183,36 +183,6 @@
                 "emoticons": [
                     "📜",
                     "↕"
-                ]
-            }
-        },
-        {
-            "body": "♠ (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/03c1fb4c49874a2ad6e115d891aecfcba1de16f01707807479498276864",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 106535,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/03c1fb4c49874a2ad6e115d891aecfcba1de16f01707807479498276864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 106535,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769569",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769569",
-                "emoticons": [
-                    "♠",
-                    "✒"
                 ]
             }
         },
@@ -277,6 +247,36 @@
             }
         },
         {
+            "body": "♠ (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/03c1fb4c49874a2ad6e115d891aecfcba1de16f01707807479498276864",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 106535,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/03c1fb4c49874a2ad6e115d891aecfcba1de16f01707807479498276864",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 106535,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769569",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769569",
+                "emoticons": [
+                    "♠",
+                    "✒"
+                ]
+            }
+        },
+        {
             "body": "⛺ (Mischievous Potions)",
             "url": "mxc://matrix.chir.rs/1fcf41a737d0e0a4fad08faae94ade11dd1dfe491707807502076215296",
             "info": {
@@ -303,36 +303,6 @@
                 "emoticons": [
                     "⛺",
                     "🐾"
-                ]
-            }
-        },
-        {
-            "body": "📜 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/dfff28d1f436ed6298614f7b88eac67842de4f161707807488637665280",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 84240,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dfff28d1f436ed6298614f7b88eac67842de4f161707807488637665280",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 84240,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769565",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769565",
-                "emoticons": [
-                    "📜",
-                    "⬇"
                 ]
             }
         },
@@ -367,6 +337,36 @@
             }
         },
         {
+            "body": "🌡 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/7a2482d66a34751c2495061933aaba5490ff649e1707807502147518464",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 87657,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7a2482d66a34751c2495061933aaba5490ff649e1707807502147518464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 87657,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769572",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769572",
+                "emoticons": [
+                    "🌡",
+                    "🍆"
+                ]
+            }
+        },
+        {
             "body": "📐 (Mischievous Potions)",
             "url": "mxc://matrix.chir.rs/4c10036114e708422ac429e14740189b48a82d2d1707807477971550208",
             "info": {
@@ -397,32 +397,32 @@
             }
         },
         {
-            "body": "🌡 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/7a2482d66a34751c2495061933aaba5490ff649e1707807502147518464",
+            "body": "♥ (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/715211aba43f664a27234140aee8a9b467c2b80f1707807482815971328",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 87657,
+                "size": 123173,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7a2482d66a34751c2495061933aaba5490ff649e1707807502147518464",
+                "thumbnail_url": "mxc://matrix.chir.rs/715211aba43f664a27234140aee8a9b467c2b80f1707807482815971328",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 87657,
+                    "size": 123173,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-138307065146769572",
+            "id": "tg-138307065146769574",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "138307065146769410",
                     "short_name": "MischievousPotions"
                 },
-                "id": "138307065146769572",
+                "id": "138307065146769574",
                 "emoticons": [
-                    "🌡",
-                    "🍆"
+                    "♥",
+                    "💦"
                 ]
             }
         },
@@ -487,6 +487,35 @@
             }
         },
         {
+            "body": "🐉 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/d00e16610fda71d9ffcc16dc2772b30fecc32f5e1707807481675120640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 145028,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d00e16610fda71d9ffcc16dc2772b30fecc32f5e1707807481675120640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 145028,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769577",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769577",
+                "emoticons": [
+                    "🐉"
+                ]
+            }
+        },
+        {
             "body": "🔬 (Mischievous Potions)",
             "url": "mxc://matrix.chir.rs/d61c7e0d4e5fd08113565331a5d3326847ad7a941707807482920828928",
             "info": {
@@ -513,36 +542,6 @@
                 "emoticons": [
                     "🔬",
                     "❔"
-                ]
-            }
-        },
-        {
-            "body": "🥃 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/4b295d1a1177335a708346469261e28c2bfeaa0e1707807494820069376",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 92163,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b295d1a1177335a708346469261e28c2bfeaa0e1707807494820069376",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 92163,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769580",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769580",
-                "emoticons": [
-                    "🥃",
-                    "⭕"
                 ]
             }
         },
@@ -577,6 +576,36 @@
         },
         {
             "body": "🥃 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/4b295d1a1177335a708346469261e28c2bfeaa0e1707807494820069376",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 92163,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4b295d1a1177335a708346469261e28c2bfeaa0e1707807494820069376",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 92163,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769580",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769580",
+                "emoticons": [
+                    "🥃",
+                    "⭕"
+                ]
+            }
+        },
+        {
+            "body": "🥃 (Mischievous Potions)",
             "url": "mxc://matrix.chir.rs/e98df815e78a28f0a339a415d7f212044e76bdea1707807497668001792",
             "info": {
                 "w": 256,
@@ -602,35 +631,6 @@
                 "emoticons": [
                     "🥃",
                     "❌"
-                ]
-            }
-        },
-        {
-            "body": "🍶 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/3fb0260923156ae8474e697297b4d76e32062f741707807498519445504",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131267,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3fb0260923156ae8474e697297b4d76e32062f741707807498519445504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131267,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769595",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769595",
-                "emoticons": [
-                    "🍶"
                 ]
             }
         },
@@ -693,6 +693,35 @@
             }
         },
         {
+            "body": "🍄 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/0d5c9693e58787a23731263d177db695e675d91d1707807495872839680",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 61898,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0d5c9693e58787a23731263d177db695e675d91d1707807495872839680",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 61898,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769585",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769585",
+                "emoticons": [
+                    "🍄"
+                ]
+            }
+        },
+        {
             "body": "🛑 (Mischievous Potions)",
             "url": "mxc://matrix.chir.rs/4cb6c811cfab201ac542ee7fdcbf96f5980026df1707807492114743296",
             "info": {
@@ -719,6 +748,66 @@
                 "emoticons": [
                     "🛑",
                     "💸"
+                ]
+            }
+        },
+        {
+            "body": "🔬 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/8d439e34f5c7e18667058958c75cf0b8fe9ac09e1707807493129764864",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 63985,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8d439e34f5c7e18667058958c75cf0b8fe9ac09e1707807493129764864",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 63985,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769587",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769587",
+                "emoticons": [
+                    "🔬",
+                    "🐦"
+                ]
+            }
+        },
+        {
+            "body": "🔬 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/14768073362ee7d58e66ccc82921f9eff78ee0411707807516630450176",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 62074,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/14768073362ee7d58e66ccc82921f9eff78ee0411707807516630450176",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 62074,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769588",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769588",
+                "emoticons": [
+                    "🔬",
+                    "🦊"
                 ]
             }
         },
@@ -783,61 +872,32 @@
             }
         },
         {
-            "body": "🐉 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/d00e16610fda71d9ffcc16dc2772b30fecc32f5e1707807481675120640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 145028,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d00e16610fda71d9ffcc16dc2772b30fecc32f5e1707807481675120640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 145028,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769577",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769577",
-                "emoticons": [
-                    "🐉"
-                ]
-            }
-        },
-        {
             "body": "🔬 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/8d439e34f5c7e18667058958c75cf0b8fe9ac09e1707807493129764864",
+            "url": "mxc://matrix.chir.rs/971d97ffd6e60335edc2d6aa6560eb82d31b591b1707807508510277632",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 63985,
+                "size": 63959,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8d439e34f5c7e18667058958c75cf0b8fe9ac09e1707807493129764864",
+                "thumbnail_url": "mxc://matrix.chir.rs/971d97ffd6e60335edc2d6aa6560eb82d31b591b1707807508510277632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 63985,
+                    "size": 63959,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-138307065146769587",
+            "id": "tg-138307065146769591",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "138307065146769410",
                     "short_name": "MischievousPotions"
                 },
-                "id": "138307065146769587",
+                "id": "138307065146769591",
                 "emoticons": [
                     "🔬",
-                    "🐦"
+                    "⛸"
                 ]
             }
         },
@@ -872,125 +932,6 @@
             }
         },
         {
-            "body": "🔬 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/14768073362ee7d58e66ccc82921f9eff78ee0411707807516630450176",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 62074,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/14768073362ee7d58e66ccc82921f9eff78ee0411707807516630450176",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 62074,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769588",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769588",
-                "emoticons": [
-                    "🔬",
-                    "🦊"
-                ]
-            }
-        },
-        {
-            "body": "♥ (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/715211aba43f664a27234140aee8a9b467c2b80f1707807482815971328",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 123173,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/715211aba43f664a27234140aee8a9b467c2b80f1707807482815971328",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 123173,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769574",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769574",
-                "emoticons": [
-                    "♥",
-                    "💦"
-                ]
-            }
-        },
-        {
-            "body": "🔬 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/971d97ffd6e60335edc2d6aa6560eb82d31b591b1707807508510277632",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 63959,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/971d97ffd6e60335edc2d6aa6560eb82d31b591b1707807508510277632",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 63959,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769591",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769591",
-                "emoticons": [
-                    "🔬",
-                    "⛸"
-                ]
-            }
-        },
-        {
-            "body": "🍄 (Mischievous Potions)",
-            "url": "mxc://matrix.chir.rs/0d5c9693e58787a23731263d177db695e675d91d1707807495872839680",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 61898,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0d5c9693e58787a23731263d177db695e675d91d1707807495872839680",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 61898,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-138307065146769585",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "138307065146769410",
-                    "short_name": "MischievousPotions"
-                },
-                "id": "138307065146769585",
-                "emoticons": [
-                    "🍄"
-                ]
-            }
-        },
-        {
             "body": "📛 (Mischievous Potions)",
             "url": "mxc://matrix.chir.rs/a632b4186ca2e58e3301379e51c9776d52e1ac8b1707807494807486464",
             "info": {
@@ -1016,6 +957,65 @@
                 "id": "138307065146769593",
                 "emoticons": [
                     "📛"
+                ]
+            }
+        },
+        {
+            "body": "👛 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/c08c5c1babc4b64095260dc800a2b3f083a6b03b1707807480685264896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 121004,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c08c5c1babc4b64095260dc800a2b3f083a6b03b1707807480685264896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 121004,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769594",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769594",
+                "emoticons": [
+                    "👛",
+                    "🐻"
+                ]
+            }
+        },
+        {
+            "body": "🍶 (Mischievous Potions)",
+            "url": "mxc://matrix.chir.rs/3fb0260923156ae8474e697297b4d76e32062f741707807498519445504",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 131267,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3fb0260923156ae8474e697297b4d76e32062f741707807498519445504",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 131267,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-138307065146769595",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "138307065146769410",
+                    "short_name": "MischievousPotions"
+                },
+                "id": "138307065146769595",
+                "emoticons": [
+                    "🍶"
                 ]
             }
         }

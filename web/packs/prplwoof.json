@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "😱 (Maff)",
+            "url": "mxc://matrix.chir.rs/fecc2087c010d88f127266b856c059c5fb9cfdbf1707820158459838464",
+            "info": {
+                "w": 174,
+                "h": 256,
+                "size": 169154,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fecc2087c010d88f127266b856c059c5fb9cfdbf1707820158459838464",
+                "thumbnail_info": {
+                    "w": 174,
+                    "h": 256,
+                    "size": 169154,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456971806",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456971806",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
             "body": "😳 (Maff)",
             "url": "mxc://matrix.chir.rs/2f1185e018ec90cd994acf9349ce8e1b1a26b56a1707820154219397120",
             "info": {
@@ -65,31 +94,89 @@
             }
         },
         {
-            "body": "😱 (Maff)",
-            "url": "mxc://matrix.chir.rs/fecc2087c010d88f127266b856c059c5fb9cfdbf1707820158459838464",
+            "body": "🐺 (Maff)",
+            "url": "mxc://matrix.chir.rs/32e2e6b51179f77b36bc7a1eba6dfaff3d937c651707820174066843648",
             "info": {
-                "w": 174,
-                "h": 256,
-                "size": 169154,
+                "w": 256,
+                "h": 174,
+                "size": 204311,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fecc2087c010d88f127266b856c059c5fb9cfdbf1707820158459838464",
+                "thumbnail_url": "mxc://matrix.chir.rs/32e2e6b51179f77b36bc7a1eba6dfaff3d937c651707820174066843648",
                 "thumbnail_info": {
-                    "w": 174,
-                    "h": 256,
-                    "size": 169154,
+                    "w": 256,
+                    "h": 174,
+                    "size": 204311,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456971806",
+            "id": "tg-384850033456971817",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456971806",
+                "id": "384850033456971817",
                 "emoticons": [
-                    "😱"
+                    "🐺"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Maff)",
+            "url": "mxc://matrix.chir.rs/14af2d4af24ffd31f2126c668970d544755c13d11707820164528996352",
+            "info": {
+                "w": 256,
+                "h": 238,
+                "size": 251413,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/14af2d4af24ffd31f2126c668970d544755c13d11707820164528996352",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 238,
+                    "size": 251413,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456971819",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456971819",
+                "emoticons": [
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "😄 (Maff)",
+            "url": "mxc://matrix.chir.rs/7b86be0c29d6607e275c82f18f355d840360c00e1707820155641266176",
+            "info": {
+                "w": 256,
+                "h": 216,
+                "size": 140995,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7b86be0c29d6607e275c82f18f355d840360c00e1707820155641266176",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 216,
+                    "size": 140995,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456971825",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456971825",
+                "emoticons": [
+                    "😄"
                 ]
             }
         },
@@ -152,31 +239,31 @@
             }
         },
         {
-            "body": "😄 (Maff)",
-            "url": "mxc://matrix.chir.rs/7b86be0c29d6607e275c82f18f355d840360c00e1707820155641266176",
+            "body": "👌 (Maff)",
+            "url": "mxc://matrix.chir.rs/a2f3c078749a3bfafaa78b26d63dc818e70bbb921707820168303869952",
             "info": {
                 "w": 256,
-                "h": 216,
-                "size": 140995,
+                "h": 209,
+                "size": 138010,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b86be0c29d6607e275c82f18f355d840360c00e1707820155641266176",
+                "thumbnail_url": "mxc://matrix.chir.rs/a2f3c078749a3bfafaa78b26d63dc818e70bbb921707820168303869952",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 216,
-                    "size": 140995,
+                    "h": 209,
+                    "size": 138010,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456971825",
+            "id": "tg-384850033456971831",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456971825",
+                "id": "384850033456971831",
                 "emoticons": [
-                    "😄"
+                    "👌"
                 ]
             }
         },
@@ -268,35 +355,6 @@
             }
         },
         {
-            "body": "😌 (Maff)",
-            "url": "mxc://matrix.chir.rs/119846764d9176ca6cc5708bd660b81402d8523e1707820189313138688",
-            "info": {
-                "w": 256,
-                "h": 182,
-                "size": 126044,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/119846764d9176ca6cc5708bd660b81402d8523e1707820189313138688",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 182,
-                    "size": 126044,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456971842",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456971842",
-                "emoticons": [
-                    "😌"
-                ]
-            }
-        },
-        {
             "body": "💪 (Maff)",
             "url": "mxc://matrix.chir.rs/00d2d7c5a6b261c7a7e844ea6b21535f5ea291301707820161160970240",
             "info": {
@@ -326,60 +384,31 @@
             }
         },
         {
-            "body": "☕ (Maff)",
-            "url": "mxc://matrix.chir.rs/2744889c196a52294b4608ae3a2ccdb8a49be12e1707820179301335040",
+            "body": "😌 (Maff)",
+            "url": "mxc://matrix.chir.rs/119846764d9176ca6cc5708bd660b81402d8523e1707820189313138688",
             "info": {
                 "w": 256,
-                "h": 235,
-                "size": 218576,
+                "h": 182,
+                "size": 126044,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2744889c196a52294b4608ae3a2ccdb8a49be12e1707820179301335040",
+                "thumbnail_url": "mxc://matrix.chir.rs/119846764d9176ca6cc5708bd660b81402d8523e1707820189313138688",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 235,
-                    "size": 218576,
+                    "h": 182,
+                    "size": 126044,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456971846",
+            "id": "tg-384850033456971842",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456971846",
+                "id": "384850033456971842",
                 "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "👌 (Maff)",
-            "url": "mxc://matrix.chir.rs/a2f3c078749a3bfafaa78b26d63dc818e70bbb921707820168303869952",
-            "info": {
-                "w": 256,
-                "h": 209,
-                "size": 138010,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a2f3c078749a3bfafaa78b26d63dc818e70bbb921707820168303869952",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 209,
-                    "size": 138010,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456971831",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456971831",
-                "emoticons": [
-                    "👌"
+                    "😌"
                 ]
             }
         },
@@ -413,31 +442,60 @@
             }
         },
         {
-            "body": "☺️ (Maff)",
-            "url": "mxc://matrix.chir.rs/14af2d4af24ffd31f2126c668970d544755c13d11707820164528996352",
+            "body": "☕ (Maff)",
+            "url": "mxc://matrix.chir.rs/2744889c196a52294b4608ae3a2ccdb8a49be12e1707820179301335040",
             "info": {
                 "w": 256,
-                "h": 238,
-                "size": 251413,
+                "h": 235,
+                "size": 218576,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/14af2d4af24ffd31f2126c668970d544755c13d11707820164528996352",
+                "thumbnail_url": "mxc://matrix.chir.rs/2744889c196a52294b4608ae3a2ccdb8a49be12e1707820179301335040",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 238,
-                    "size": 251413,
+                    "h": 235,
+                    "size": 218576,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456971819",
+            "id": "tg-384850033456971846",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456971819",
+                "id": "384850033456971846",
                 "emoticons": [
-                    "☺"
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "😘 (Maff)",
+            "url": "mxc://matrix.chir.rs/5f1df36a9b798077f933af11ebe402eacaddc9e21707820166269632513",
+            "info": {
+                "w": 150,
+                "h": 256,
+                "size": 203846,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5f1df36a9b798077f933af11ebe402eacaddc9e21707820166269632513",
+                "thumbnail_info": {
+                    "w": 150,
+                    "h": 256,
+                    "size": 203846,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456971848",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456971848",
+                "emoticons": [
+                    "😘"
                 ]
             }
         },
@@ -500,35 +558,6 @@
             }
         },
         {
-            "body": "🐺 (Maff)",
-            "url": "mxc://matrix.chir.rs/32e2e6b51179f77b36bc7a1eba6dfaff3d937c651707820174066843648",
-            "info": {
-                "w": 256,
-                "h": 174,
-                "size": 204311,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/32e2e6b51179f77b36bc7a1eba6dfaff3d937c651707820174066843648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 174,
-                    "size": 204311,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456971817",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456971817",
-                "emoticons": [
-                    "🐺"
-                ]
-            }
-        },
-        {
             "body": "🍕 (Maff)",
             "url": "mxc://matrix.chir.rs/1e3c47e83d5a74cd081ee15363c378c74be22f311707820176344350720",
             "info": {
@@ -554,94 +583,6 @@
                 "id": "384850033456972033",
                 "emoticons": [
                     "🍕"
-                ]
-            }
-        },
-        {
-            "body": "❤ (Maff)",
-            "url": "mxc://matrix.chir.rs/ec165feb0634cbc7a302f5044683fcf9bcc3cdb61707820171927748608",
-            "info": {
-                "w": 230,
-                "h": 256,
-                "size": 181166,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ec165feb0634cbc7a302f5044683fcf9bcc3cdb61707820171927748608",
-                "thumbnail_info": {
-                    "w": 230,
-                    "h": 256,
-                    "size": 181166,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456972209",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456972209",
-                "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "🦋 (Maff)",
-            "url": "mxc://matrix.chir.rs/f67eceb7a1c255ee1be35ac2b26ba408933a05651707820180530266112",
-            "info": {
-                "w": 230,
-                "h": 256,
-                "size": 196669,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f67eceb7a1c255ee1be35ac2b26ba408933a05651707820180530266112",
-                "thumbnail_info": {
-                    "w": 230,
-                    "h": 256,
-                    "size": 196669,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5837072859792411427",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "5837072859792411427",
-                "emoticons": [
-                    "🦋",
-                    "📟"
-                ]
-            }
-        },
-        {
-            "body": "😝 (Maff)",
-            "url": "mxc://matrix.chir.rs/7f694671e291a5c65ecc4eddb5963c8f397f52ba1707820177753636864",
-            "info": {
-                "w": 209,
-                "h": 256,
-                "size": 194260,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7f694671e291a5c65ecc4eddb5963c8f397f52ba1707820177753636864",
-                "thumbnail_info": {
-                    "w": 209,
-                    "h": 256,
-                    "size": 194260,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456972283",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456972283",
-                "emoticons": [
-                    "😝"
                 ]
             }
         },
@@ -675,6 +616,122 @@
             }
         },
         {
+            "body": "😃 (Maff)",
+            "url": "mxc://matrix.chir.rs/8c07144a21b9e9a3dc7a61b3fd2411417a784ef01707820175409020928",
+            "info": {
+                "w": 177,
+                "h": 256,
+                "size": 256908,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8c07144a21b9e9a3dc7a61b3fd2411417a784ef01707820175409020928",
+                "thumbnail_info": {
+                    "w": 177,
+                    "h": 256,
+                    "size": 256908,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456972099",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456972099",
+                "emoticons": [
+                    "😃"
+                ]
+            }
+        },
+        {
+            "body": "❤ (Maff)",
+            "url": "mxc://matrix.chir.rs/ec165feb0634cbc7a302f5044683fcf9bcc3cdb61707820171927748608",
+            "info": {
+                "w": 230,
+                "h": 256,
+                "size": 181166,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ec165feb0634cbc7a302f5044683fcf9bcc3cdb61707820171927748608",
+                "thumbnail_info": {
+                    "w": 230,
+                    "h": 256,
+                    "size": 181166,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456972209",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456972209",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "🍕 (Maff)",
+            "url": "mxc://matrix.chir.rs/04e6d6f049922e7c1a512aa76cbbbdc3229ae6981707820172770803712",
+            "info": {
+                "w": 214,
+                "h": 256,
+                "size": 208373,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/04e6d6f049922e7c1a512aa76cbbbdc3229ae6981707820172770803712",
+                "thumbnail_info": {
+                    "w": 214,
+                    "h": 256,
+                    "size": 208373,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456972272",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456972272",
+                "emoticons": [
+                    "🍕"
+                ]
+            }
+        },
+        {
+            "body": "😝 (Maff)",
+            "url": "mxc://matrix.chir.rs/7f694671e291a5c65ecc4eddb5963c8f397f52ba1707820177753636864",
+            "info": {
+                "w": 209,
+                "h": 256,
+                "size": 194260,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7f694671e291a5c65ecc4eddb5963c8f397f52ba1707820177753636864",
+                "thumbnail_info": {
+                    "w": 209,
+                    "h": 256,
+                    "size": 194260,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456972283",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456972283",
+                "emoticons": [
+                    "😝"
+                ]
+            }
+        },
+        {
             "body": "😾 (Maff)",
             "url": "mxc://matrix.chir.rs/9e0aa3c4e386ea40d22a62d501588fb88d5af5221707820200721645568",
             "info": {
@@ -703,35 +760,6 @@
                     "😡",
                     "😠",
                     "😤"
-                ]
-            }
-        },
-        {
-            "body": "😀 (Maff)",
-            "url": "mxc://matrix.chir.rs/61908be72f0189b4818e682a31df91db3d9da5341707820214348939264",
-            "info": {
-                "w": 196,
-                "h": 256,
-                "size": 198171,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/61908be72f0189b4818e682a31df91db3d9da5341707820214348939264",
-                "thumbnail_info": {
-                    "w": 196,
-                    "h": 256,
-                    "size": 198171,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456972376",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456972376",
-                "emoticons": [
-                    "😀"
                 ]
             }
         },
@@ -800,31 +828,31 @@
             }
         },
         {
-            "body": "🍕 (Maff)",
-            "url": "mxc://matrix.chir.rs/04e6d6f049922e7c1a512aa76cbbbdc3229ae6981707820172770803712",
+            "body": "😀 (Maff)",
+            "url": "mxc://matrix.chir.rs/61908be72f0189b4818e682a31df91db3d9da5341707820214348939264",
             "info": {
-                "w": 214,
+                "w": 196,
                 "h": 256,
-                "size": 208373,
+                "size": 198171,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/04e6d6f049922e7c1a512aa76cbbbdc3229ae6981707820172770803712",
+                "thumbnail_url": "mxc://matrix.chir.rs/61908be72f0189b4818e682a31df91db3d9da5341707820214348939264",
                 "thumbnail_info": {
-                    "w": 214,
+                    "w": 196,
                     "h": 256,
-                    "size": 208373,
+                    "size": 198171,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456972272",
+            "id": "tg-384850033456972376",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456972272",
+                "id": "384850033456972376",
                 "emoticons": [
-                    "🍕"
+                    "😀"
                 ]
             }
         },
@@ -858,35 +886,6 @@
             }
         },
         {
-            "body": "😘 (Maff)",
-            "url": "mxc://matrix.chir.rs/5f1df36a9b798077f933af11ebe402eacaddc9e21707820166269632513",
-            "info": {
-                "w": 150,
-                "h": 256,
-                "size": 203846,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5f1df36a9b798077f933af11ebe402eacaddc9e21707820166269632513",
-                "thumbnail_info": {
-                    "w": 150,
-                    "h": 256,
-                    "size": 203846,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456971848",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456971848",
-                "emoticons": [
-                    "😘"
-                ]
-            }
-        },
-        {
             "body": "💜 (Maff)",
             "url": "mxc://matrix.chir.rs/caa7b9282c21e48d471d3b28c092328911d027411707820183067820032",
             "info": {
@@ -912,35 +911,6 @@
                 "id": "384850033456972472",
                 "emoticons": [
                     "💜"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Maff)",
-            "url": "mxc://matrix.chir.rs/8c07144a21b9e9a3dc7a61b3fd2411417a784ef01707820175409020928",
-            "info": {
-                "w": 177,
-                "h": 256,
-                "size": 256908,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8c07144a21b9e9a3dc7a61b3fd2411417a784ef01707820175409020928",
-                "thumbnail_info": {
-                    "w": 177,
-                    "h": 256,
-                    "size": 256908,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456972099",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456972099",
-                "emoticons": [
-                    "😃"
                 ]
             }
         },
@@ -1061,32 +1031,31 @@
             }
         },
         {
-            "body": "🏃 (Maff)",
-            "url": "mxc://matrix.chir.rs/f557b211917a6dd43d5f72fca371b085b559565d1707820185206915072",
+            "body": "😳 (Maff)",
+            "url": "mxc://matrix.chir.rs/c6c668bccf2aaf7e94c749406fdfb63e8e5733431707820217423364096",
             "info": {
-                "w": 237,
-                "h": 256,
-                "size": 155920,
+                "w": 256,
+                "h": 234,
+                "size": 198414,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f557b211917a6dd43d5f72fca371b085b559565d1707820185206915072",
+                "thumbnail_url": "mxc://matrix.chir.rs/c6c668bccf2aaf7e94c749406fdfb63e8e5733431707820217423364096",
                 "thumbnail_info": {
-                    "w": 237,
-                    "h": 256,
-                    "size": 155920,
+                    "w": 256,
+                    "h": 234,
+                    "size": 198414,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456972480",
+            "id": "tg-384850033456972478",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456972480",
+                "id": "384850033456972478",
                 "emoticons": [
-                    "🏃",
-                    "🏃‍♀"
+                    "😳"
                 ]
             }
         },
@@ -1120,6 +1089,36 @@
             }
         },
         {
+            "body": "🏃 (Maff)",
+            "url": "mxc://matrix.chir.rs/f557b211917a6dd43d5f72fca371b085b559565d1707820185206915072",
+            "info": {
+                "w": 237,
+                "h": 256,
+                "size": 155920,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f557b211917a6dd43d5f72fca371b085b559565d1707820185206915072",
+                "thumbnail_info": {
+                    "w": 237,
+                    "h": 256,
+                    "size": 155920,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456972480",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456972480",
+                "emoticons": [
+                    "🏃",
+                    "🏃‍♀"
+                ]
+            }
+        },
+        {
             "body": "😳 (Maff)",
             "url": "mxc://matrix.chir.rs/1c6f2bf58f3a60786fafaf98b80255c04ecfd94f1707820186905608192",
             "info": {
@@ -1149,33 +1148,31 @@
             }
         },
         {
-            "body": "🕹 (Maff)",
-            "url": "mxc://matrix.chir.rs/be20b7eab21464d018275ba391bb0b42ebc264311707820195097083904",
+            "body": "😏 (Maff)",
+            "url": "mxc://matrix.chir.rs/07aa13f18736a083f2b9f0c43c108834d70943771707820191766806528",
             "info": {
-                "w": 253,
+                "w": 161,
                 "h": 256,
-                "size": 320798,
+                "size": 170937,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be20b7eab21464d018275ba391bb0b42ebc264311707820195097083904",
+                "thumbnail_url": "mxc://matrix.chir.rs/07aa13f18736a083f2b9f0c43c108834d70943771707820191766806528",
                 "thumbnail_info": {
-                    "w": 253,
+                    "w": 161,
                     "h": 256,
-                    "size": 320798,
+                    "size": 170937,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5996690088078084299",
+            "id": "tg-384850033456972484",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "5996690088078084299",
+                "id": "384850033456972484",
                 "emoticons": [
-                    "🎮",
-                    "🕹",
-                    "👾"
+                    "😏"
                 ]
             }
         },
@@ -1205,6 +1202,35 @@
                 "id": "384850033456972485",
                 "emoticons": [
                     "😁"
+                ]
+            }
+        },
+        {
+            "body": "🏫 (Maff)",
+            "url": "mxc://matrix.chir.rs/e1fc87bd0d356612544b21cf8f1547b5a6b7381e1707820197231984640",
+            "info": {
+                "w": 256,
+                "h": 208,
+                "size": 192221,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e1fc87bd0d356612544b21cf8f1547b5a6b7381e1707820197231984640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 208,
+                    "size": 192221,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-384850033456972486",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "384850033456972486",
+                "emoticons": [
+                    "🏫"
                 ]
             }
         },
@@ -1267,89 +1293,89 @@
             }
         },
         {
-            "body": "🏫 (Maff)",
-            "url": "mxc://matrix.chir.rs/e1fc87bd0d356612544b21cf8f1547b5a6b7381e1707820197231984640",
+            "body": "🦋 (Maff)",
+            "url": "mxc://matrix.chir.rs/f67eceb7a1c255ee1be35ac2b26ba408933a05651707820180530266112",
             "info": {
-                "w": 256,
-                "h": 208,
-                "size": 192221,
+                "w": 230,
+                "h": 256,
+                "size": 196669,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e1fc87bd0d356612544b21cf8f1547b5a6b7381e1707820197231984640",
+                "thumbnail_url": "mxc://matrix.chir.rs/f67eceb7a1c255ee1be35ac2b26ba408933a05651707820180530266112",
                 "thumbnail_info": {
-                    "w": 256,
-                    "h": 208,
-                    "size": 192221,
+                    "w": 230,
+                    "h": 256,
+                    "size": 196669,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456972486",
+            "id": "tg-5837072859792411427",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456972486",
+                "id": "5837072859792411427",
                 "emoticons": [
-                    "🏫"
+                    "🦋",
+                    "📟"
                 ]
             }
         },
         {
-            "body": "😳 (Maff)",
-            "url": "mxc://matrix.chir.rs/c6c668bccf2aaf7e94c749406fdfb63e8e5733431707820217423364096",
+            "body": "😡 (Maff)",
+            "url": "mxc://matrix.chir.rs/b530574ee538022d530b4c85d5f3f596f419a4ef1707820193784266752",
             "info": {
                 "w": 256,
-                "h": 234,
-                "size": 198414,
+                "h": 252,
+                "size": 338357,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c6c668bccf2aaf7e94c749406fdfb63e8e5733431707820217423364096",
+                "thumbnail_url": "mxc://matrix.chir.rs/b530574ee538022d530b4c85d5f3f596f419a4ef1707820193784266752",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 234,
-                    "size": 198414,
+                    "h": 252,
+                    "size": 338357,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-384850033456972478",
+            "id": "tg-5852878309376920079",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "384850033456972478",
+                "id": "5852878309376920079",
                 "emoticons": [
-                    "😳"
+                    "😡"
                 ]
             }
         },
         {
-            "body": "🏳️‍⚧️ (Maff)",
-            "url": "mxc://matrix.chir.rs/5860622c03d6407a3eea57ef3503671bb7d5ff991707820201887662080",
+            "body": "🏳️‍🌈 (Maff)",
+            "url": "mxc://matrix.chir.rs/611b30bfefe45feeafed0383b4f2ba6bad37a30d1707820191783583744",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 183854,
+                "size": 152678,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5860622c03d6407a3eea57ef3503671bb7d5ff991707820201887662080",
+                "thumbnail_url": "mxc://matrix.chir.rs/611b30bfefe45feeafed0383b4f2ba6bad37a30d1707820191783583744",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 183854,
+                    "size": 152678,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5854968506751125690",
+            "id": "tg-5854797146145949708",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "384850033456971777",
                     "short_name": "prplwoof"
                 },
-                "id": "5854968506751125690",
+                "id": "5854797146145949708",
                 "emoticons": [
-                    "🏳‍⚧",
                     "🏳‍🌈"
                 ]
             }
@@ -1384,6 +1410,67 @@
             }
         },
         {
+            "body": "🏳️‍⚧️ (Maff)",
+            "url": "mxc://matrix.chir.rs/5860622c03d6407a3eea57ef3503671bb7d5ff991707820201887662080",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 183854,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5860622c03d6407a3eea57ef3503671bb7d5ff991707820201887662080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 183854,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5854968506751125690",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "5854968506751125690",
+                "emoticons": [
+                    "🏳‍⚧",
+                    "🏳‍🌈"
+                ]
+            }
+        },
+        {
+            "body": "🕹 (Maff)",
+            "url": "mxc://matrix.chir.rs/be20b7eab21464d018275ba391bb0b42ebc264311707820195097083904",
+            "info": {
+                "w": 253,
+                "h": 256,
+                "size": 320798,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/be20b7eab21464d018275ba391bb0b42ebc264311707820195097083904",
+                "thumbnail_info": {
+                    "w": 253,
+                    "h": 256,
+                    "size": 320798,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5996690088078084299",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "5996690088078084299",
+                "emoticons": [
+                    "🎮",
+                    "🕹",
+                    "👾"
+                ]
+            }
+        },
+        {
             "body": "🧂 (Maff)",
             "url": "mxc://matrix.chir.rs/35cfecb2589349ac507cb0d37ae69fff78d7efc41707820188423946240",
             "info": {
@@ -1409,93 +1496,6 @@
                 "id": "5998804710931302930",
                 "emoticons": [
                     "🧂"
-                ]
-            }
-        },
-        {
-            "body": "😏 (Maff)",
-            "url": "mxc://matrix.chir.rs/07aa13f18736a083f2b9f0c43c108834d70943771707820191766806528",
-            "info": {
-                "w": 161,
-                "h": 256,
-                "size": 170937,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/07aa13f18736a083f2b9f0c43c108834d70943771707820191766806528",
-                "thumbnail_info": {
-                    "w": 161,
-                    "h": 256,
-                    "size": 170937,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-384850033456972484",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "384850033456972484",
-                "emoticons": [
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "🏳️‍🌈 (Maff)",
-            "url": "mxc://matrix.chir.rs/611b30bfefe45feeafed0383b4f2ba6bad37a30d1707820191783583744",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 152678,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/611b30bfefe45feeafed0383b4f2ba6bad37a30d1707820191783583744",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 152678,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5854797146145949708",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "5854797146145949708",
-                "emoticons": [
-                    "🏳‍🌈"
-                ]
-            }
-        },
-        {
-            "body": "😡 (Maff)",
-            "url": "mxc://matrix.chir.rs/b530574ee538022d530b4c85d5f3f596f419a4ef1707820193784266752",
-            "info": {
-                "w": 256,
-                "h": 252,
-                "size": 338357,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b530574ee538022d530b4c85d5f3f596f419a4ef1707820193784266752",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 252,
-                    "size": 338357,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5852878309376920079",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "384850033456971777",
-                    "short_name": "prplwoof"
-                },
-                "id": "5852878309376920079",
-                "emoticons": [
-                    "😡"
                 ]
             }
         },

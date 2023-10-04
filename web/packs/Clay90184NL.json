@@ -7,35 +7,6 @@
     },
     "stickers": [
         {
-            "body": "🤗 (Clay)",
-            "url": "mxc://matrix.chir.rs/96b11614dd359a2930f9d5f0d1320be822ccd08e1707805064652914688",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 185101,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/96b11614dd359a2930f9d5f0d1320be822ccd08e1707805064652914688",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 185101,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393125924",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393125924",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
             "body": "👋 (Clay)",
             "url": "mxc://matrix.chir.rs/dd462e163d6f6457e3bb588612812d9adf77b46c1707805060638965760",
             "info": {
@@ -61,6 +32,35 @@
                 "id": "532015945393125923",
                 "emoticons": [
                     "👋"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Clay)",
+            "url": "mxc://matrix.chir.rs/96b11614dd359a2930f9d5f0d1320be822ccd08e1707805064652914688",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185101,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/96b11614dd359a2930f9d5f0d1320be822ccd08e1707805064652914688",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185101,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393125924",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393125924",
+                "emoticons": [
+                    "🤗"
                 ]
             }
         },
@@ -152,35 +152,6 @@
             }
         },
         {
-            "body": "☕ (Clay)",
-            "url": "mxc://matrix.chir.rs/590a14f9d4bde744e2cde1ac647ed334e34747861707805074710855680",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191241,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/590a14f9d4bde744e2cde1ac647ed334e34747861707805074710855680",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191241,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393125930",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393125930",
-                "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
             "body": "❓ (Clay)",
             "url": "mxc://matrix.chir.rs/28f451dfa6225c2e437ea36189ff2e84b35764011707805076489240576",
             "info": {
@@ -239,31 +210,60 @@
             }
         },
         {
-            "body": "🥃 (Clay)",
-            "url": "mxc://matrix.chir.rs/23a4db5fbf09e07935f8045888316e0feac7ce7c1707805073863606272",
+            "body": "☕ (Clay)",
+            "url": "mxc://matrix.chir.rs/590a14f9d4bde744e2cde1ac647ed334e34747861707805074710855680",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 240484,
+                "size": 191241,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/23a4db5fbf09e07935f8045888316e0feac7ce7c1707805073863606272",
+                "thumbnail_url": "mxc://matrix.chir.rs/590a14f9d4bde744e2cde1ac647ed334e34747861707805074710855680",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 240484,
+                    "size": 191241,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393125933",
+            "id": "tg-532015945393125930",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393125933",
+                "id": "532015945393125930",
                 "emoticons": [
-                    "🥃"
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Clay)",
+            "url": "mxc://matrix.chir.rs/db1ccf63ee4290b40faa29bcb8ae84aba81131d51707805069845463040",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197946,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/db1ccf63ee4290b40faa29bcb8ae84aba81131d51707805069845463040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197946,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393125931",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393125931",
+                "emoticons": [
+                    "🐶"
                 ]
             }
         },
@@ -297,60 +297,31 @@
             }
         },
         {
-            "body": "🍦 (Clay)",
-            "url": "mxc://matrix.chir.rs/13aaa02c1034abb13b40865f0089756a40b83fcd1707805073863606273",
+            "body": "🥃 (Clay)",
+            "url": "mxc://matrix.chir.rs/23a4db5fbf09e07935f8045888316e0feac7ce7c1707805073863606272",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 208681,
+                "size": 240484,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/13aaa02c1034abb13b40865f0089756a40b83fcd1707805073863606273",
+                "thumbnail_url": "mxc://matrix.chir.rs/23a4db5fbf09e07935f8045888316e0feac7ce7c1707805073863606272",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 208681,
+                    "size": 240484,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393127157",
+            "id": "tg-532015945393125933",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393127157",
+                "id": "532015945393125933",
                 "emoticons": [
-                    "🍦"
-                ]
-            }
-        },
-        {
-            "body": "💋 (Clay)",
-            "url": "mxc://matrix.chir.rs/e59d47da52934c813b55408c286223ce950a379a1707805078015967232",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 174300,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e59d47da52934c813b55408c286223ce950a379a1707805078015967232",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 174300,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393127160",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393127160",
-                "emoticons": [
-                    "💋"
+                    "🥃"
                 ]
             }
         },
@@ -384,6 +355,93 @@
             }
         },
         {
+            "body": "🤗 (Clay)",
+            "url": "mxc://matrix.chir.rs/c16a2cc644d92916f6fb085ba8ca044f8e7a3dcf1707805090401746944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190722,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c16a2cc644d92916f6fb085ba8ca044f8e7a3dcf1707805090401746944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190722,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393127156",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393127156",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🍦 (Clay)",
+            "url": "mxc://matrix.chir.rs/13aaa02c1034abb13b40865f0089756a40b83fcd1707805073863606273",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 208681,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/13aaa02c1034abb13b40865f0089756a40b83fcd1707805073863606273",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 208681,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393127157",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393127157",
+                "emoticons": [
+                    "🍦"
+                ]
+            }
+        },
+        {
+            "body": "🔥 (Clay)",
+            "url": "mxc://matrix.chir.rs/6515ae45383e1b934da6c7dc5eb029454d39059f1707805084424863745",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 268585,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6515ae45383e1b934da6c7dc5eb029454d39059f1707805084424863745",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 268585,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393127158",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393127158",
+                "emoticons": [
+                    "🔥"
+                ]
+            }
+        },
+        {
             "body": "🍽 (Clay)",
             "url": "mxc://matrix.chir.rs/ab9249aee9f1504cc4fb6de02fef46a6742a3a571707805075411304448",
             "info": {
@@ -413,31 +471,60 @@
             }
         },
         {
-            "body": "🐶 (Clay)",
-            "url": "mxc://matrix.chir.rs/db1ccf63ee4290b40faa29bcb8ae84aba81131d51707805069845463040",
+            "body": "💋 (Clay)",
+            "url": "mxc://matrix.chir.rs/e59d47da52934c813b55408c286223ce950a379a1707805078015967232",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 197946,
+                "size": 174300,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db1ccf63ee4290b40faa29bcb8ae84aba81131d51707805069845463040",
+                "thumbnail_url": "mxc://matrix.chir.rs/e59d47da52934c813b55408c286223ce950a379a1707805078015967232",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 197946,
+                    "size": 174300,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393125931",
+            "id": "tg-532015945393127160",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393125931",
+                "id": "532015945393127160",
                 "emoticons": [
-                    "🐶"
+                    "💋"
+                ]
+            }
+        },
+        {
+            "body": "😘 (Clay)",
+            "url": "mxc://matrix.chir.rs/e3e59a9bf4ff0b9b6e0b2bf175e24bea8d23b1e81707805088254263296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 181586,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e3e59a9bf4ff0b9b6e0b2bf175e24bea8d23b1e81707805088254263296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 181586,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393127161",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393127161",
+                "emoticons": [
+                    "😘"
                 ]
             }
         },
@@ -500,118 +587,31 @@
             }
         },
         {
-            "body": "😘 (Clay)",
-            "url": "mxc://matrix.chir.rs/e3e59a9bf4ff0b9b6e0b2bf175e24bea8d23b1e81707805088254263296",
+            "body": "🤗 (Clay)",
+            "url": "mxc://matrix.chir.rs/a11af389c9e0f7bed77f8d372f36e5b5e28d8a181707805093727830016",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 181586,
+                "size": 213800,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e3e59a9bf4ff0b9b6e0b2bf175e24bea8d23b1e81707805088254263296",
+                "thumbnail_url": "mxc://matrix.chir.rs/a11af389c9e0f7bed77f8d372f36e5b5e28d8a181707805093727830016",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 181586,
+                    "size": 213800,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393127161",
+            "id": "tg-532015945393129697",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393127161",
+                "id": "532015945393129697",
                 "emoticons": [
-                    "😘"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (Clay)",
-            "url": "mxc://matrix.chir.rs/6515ae45383e1b934da6c7dc5eb029454d39059f1707805084424863745",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 268585,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6515ae45383e1b934da6c7dc5eb029454d39059f1707805084424863745",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 268585,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393127158",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393127158",
-                "emoticons": [
-                    "🔥"
-                ]
-            }
-        },
-        {
-            "body": "🍑 (Clay)",
-            "url": "mxc://matrix.chir.rs/8688592ca94c7c9145ae06b6b071360ddc80460a1707805079647551488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192989,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8688592ca94c7c9145ae06b6b071360ddc80460a1707805079647551488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192989,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393129700",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393129700",
-                "emoticons": [
-                    "🍑"
-                ]
-            }
-        },
-        {
-            "body": "💦 (Clay)",
-            "url": "mxc://matrix.chir.rs/b3fab6bdb8a9fd4af34814aca37b88e6bf6f6da41707805084940763136",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 180987,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b3fab6bdb8a9fd4af34814aca37b88e6bf6f6da41707805084940763136",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 180987,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393129701",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393129701",
-                "emoticons": [
-                    "💦"
+                    "🤗"
                 ]
             }
         },
@@ -674,89 +674,89 @@
             }
         },
         {
-            "body": "😵 (Clay)",
-            "url": "mxc://matrix.chir.rs/10e8423dc898115f39fad2e5c9cd50f01267c4631707805099494998016",
+            "body": "🍑 (Clay)",
+            "url": "mxc://matrix.chir.rs/8688592ca94c7c9145ae06b6b071360ddc80460a1707805079647551488",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 227704,
+                "size": 192989,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/10e8423dc898115f39fad2e5c9cd50f01267c4631707805099494998016",
+                "thumbnail_url": "mxc://matrix.chir.rs/8688592ca94c7c9145ae06b6b071360ddc80460a1707805079647551488",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 227704,
+                    "size": 192989,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393129704",
+            "id": "tg-532015945393129700",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393129704",
+                "id": "532015945393129700",
                 "emoticons": [
-                    "😵"
+                    "🍑"
                 ]
             }
         },
         {
-            "body": "💜 (Clay)",
-            "url": "mxc://matrix.chir.rs/b4986bed9ed0a331b0570c399359c221f455ff3f1707805101357268992",
+            "body": "💦 (Clay)",
+            "url": "mxc://matrix.chir.rs/b3fab6bdb8a9fd4af34814aca37b88e6bf6f6da41707805084940763136",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 201012,
+                "size": 180987,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b4986bed9ed0a331b0570c399359c221f455ff3f1707805101357268992",
+                "thumbnail_url": "mxc://matrix.chir.rs/b3fab6bdb8a9fd4af34814aca37b88e6bf6f6da41707805084940763136",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 201012,
+                    "size": 180987,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132215",
+            "id": "tg-532015945393129701",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393132215",
+                "id": "532015945393129701",
                 "emoticons": [
-                    "💜"
+                    "💦"
                 ]
             }
         },
         {
-            "body": "😮 (Clay)",
-            "url": "mxc://matrix.chir.rs/ee1079bff974b363e7f9c3e58f2525e3c33b5cf01707805090229780480",
+            "body": "😅 (Clay)",
+            "url": "mxc://matrix.chir.rs/be99faae8e6f16ea45a2d9e6234d5120c90cf05d1707805081480462336",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 164084,
+                "size": 214093,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ee1079bff974b363e7f9c3e58f2525e3c33b5cf01707805090229780480",
+                "thumbnail_url": "mxc://matrix.chir.rs/be99faae8e6f16ea45a2d9e6234d5120c90cf05d1707805081480462336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 164084,
+                    "size": 214093,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132213",
+            "id": "tg-532015945393129702",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393132213",
+                "id": "532015945393129702",
                 "emoticons": [
-                    "😮"
+                    "😅"
                 ]
             }
         },
@@ -790,6 +790,180 @@
             }
         },
         {
+            "body": "😵 (Clay)",
+            "url": "mxc://matrix.chir.rs/10e8423dc898115f39fad2e5c9cd50f01267c4631707805099494998016",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227704,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/10e8423dc898115f39fad2e5c9cd50f01267c4631707805099494998016",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227704,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393129704",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393129704",
+                "emoticons": [
+                    "😵"
+                ]
+            }
+        },
+        {
+            "body": "🦊 (Clay)",
+            "url": "mxc://matrix.chir.rs/072e5a3961b530c3a8cb0b329679d4c69ec93e641707805095795621888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204136,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/072e5a3961b530c3a8cb0b329679d4c69ec93e641707805095795621888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204136,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132211",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393132211",
+                "emoticons": [
+                    "🦊"
+                ]
+            }
+        },
+        {
+            "body": "👅 (Clay)",
+            "url": "mxc://matrix.chir.rs/fd0e9ad74cd60e7407c5ae4cc70382dda8dc9c3f1707805086467489792",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189723,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fd0e9ad74cd60e7407c5ae4cc70382dda8dc9c3f1707805086467489792",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189723,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132212",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393132212",
+                "emoticons": [
+                    "👅"
+                ]
+            }
+        },
+        {
+            "body": "😮 (Clay)",
+            "url": "mxc://matrix.chir.rs/ee1079bff974b363e7f9c3e58f2525e3c33b5cf01707805090229780480",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 164084,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ee1079bff974b363e7f9c3e58f2525e3c33b5cf01707805090229780480",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 164084,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132213",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393132213",
+                "emoticons": [
+                    "😮"
+                ]
+            }
+        },
+        {
+            "body": "🥃 (Clay)",
+            "url": "mxc://matrix.chir.rs/3cdc5ca7d4e66c845fbec562b16c80984699de5d1707805091664232448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224760,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3cdc5ca7d4e66c845fbec562b16c80984699de5d1707805091664232448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224760,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132214",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393132214",
+                "emoticons": [
+                    "🥃"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Clay)",
+            "url": "mxc://matrix.chir.rs/b4986bed9ed0a331b0570c399359c221f455ff3f1707805101357268992",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 201012,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b4986bed9ed0a331b0570c399359c221f455ff3f1707805101357268992",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 201012,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132215",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111528",
+                    "short_name": "Clay90184NL"
+                },
+                "id": "532015945393132215",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
             "body": "🎨 (Clay)",
             "url": "mxc://matrix.chir.rs/7e8ebd30afcc4464f20372d6fcd4f0ba30bb124f1707805088333955072",
             "info": {
@@ -815,35 +989,6 @@
                 "id": "532015945393132216",
                 "emoticons": [
                     "🎨"
-                ]
-            }
-        },
-        {
-            "body": "😅 (Clay)",
-            "url": "mxc://matrix.chir.rs/be99faae8e6f16ea45a2d9e6234d5120c90cf05d1707805081480462336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214093,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be99faae8e6f16ea45a2d9e6234d5120c90cf05d1707805081480462336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214093,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393129702",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393129702",
-                "emoticons": [
-                    "😅"
                 ]
             }
         },
@@ -878,57 +1023,28 @@
         },
         {
             "body": "🤗 (Clay)",
-            "url": "mxc://matrix.chir.rs/a11af389c9e0f7bed77f8d372f36e5b5e28d8a181707805093727830016",
+            "url": "mxc://matrix.chir.rs/8d841ede8f7325dc7906c85afae2d0e92b8cee001707805097133604864",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 213800,
+                "size": 246332,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a11af389c9e0f7bed77f8d372f36e5b5e28d8a181707805093727830016",
+                "thumbnail_url": "mxc://matrix.chir.rs/8d841ede8f7325dc7906c85afae2d0e92b8cee001707805097133604864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 213800,
+                    "size": 246332,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393129697",
+            "id": "tg-532015945393134159",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393129697",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Clay)",
-            "url": "mxc://matrix.chir.rs/c16a2cc644d92916f6fb085ba8ca044f8e7a3dcf1707805090401746944",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190722,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c16a2cc644d92916f6fb085ba8ca044f8e7a3dcf1707805090401746944",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190722,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393127156",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393127156",
+                "id": "532015945393134159",
                 "emoticons": [
                     "🤗"
                 ]
@@ -964,31 +1080,31 @@
             }
         },
         {
-            "body": "🦊 (Clay)",
-            "url": "mxc://matrix.chir.rs/072e5a3961b530c3a8cb0b329679d4c69ec93e641707805095795621888",
+            "body": "❤️ (Clay)",
+            "url": "mxc://matrix.chir.rs/ee1dacc3f73e850c46e4f99ee2affa87a7db378a1707805109368389632",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 204136,
+                "size": 188832,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/072e5a3961b530c3a8cb0b329679d4c69ec93e641707805095795621888",
+                "thumbnail_url": "mxc://matrix.chir.rs/ee1dacc3f73e850c46e4f99ee2affa87a7db378a1707805109368389632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 204136,
+                    "size": 188832,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132211",
+            "id": "tg-532015945393134161",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393132211",
+                "id": "532015945393134161",
                 "emoticons": [
-                    "🦊"
+                    "❤"
                 ]
             }
         },
@@ -1022,60 +1138,31 @@
             }
         },
         {
-            "body": "🥃 (Clay)",
-            "url": "mxc://matrix.chir.rs/3cdc5ca7d4e66c845fbec562b16c80984699de5d1707805091664232448",
+            "body": "📦 (Clay)",
+            "url": "mxc://matrix.chir.rs/4ac53401afb7d0b19a7b76947da39862281331991707805099771822080",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 224760,
+                "size": 159066,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3cdc5ca7d4e66c845fbec562b16c80984699de5d1707805091664232448",
+                "thumbnail_url": "mxc://matrix.chir.rs/4ac53401afb7d0b19a7b76947da39862281331991707805099771822080",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 224760,
+                    "size": 159066,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132214",
+            "id": "tg-532015945393134163",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111528",
                     "short_name": "Clay90184NL"
                 },
-                "id": "532015945393132214",
+                "id": "532015945393134163",
                 "emoticons": [
-                    "🥃"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Clay)",
-            "url": "mxc://matrix.chir.rs/ee1dacc3f73e850c46e4f99ee2affa87a7db378a1707805109368389632",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 188832,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ee1dacc3f73e850c46e4f99ee2affa87a7db378a1707805109368389632",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 188832,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134161",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393134161",
-                "emoticons": [
-                    "❤"
+                    "📦"
                 ]
             }
         },
@@ -1105,93 +1192,6 @@
                 "id": "532015945393137686",
                 "emoticons": [
                     "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Clay)",
-            "url": "mxc://matrix.chir.rs/8d841ede8f7325dc7906c85afae2d0e92b8cee001707805097133604864",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 246332,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8d841ede8f7325dc7906c85afae2d0e92b8cee001707805097133604864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 246332,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134159",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393134159",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "👅 (Clay)",
-            "url": "mxc://matrix.chir.rs/fd0e9ad74cd60e7407c5ae4cc70382dda8dc9c3f1707805086467489792",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189723,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fd0e9ad74cd60e7407c5ae4cc70382dda8dc9c3f1707805086467489792",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189723,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132212",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393132212",
-                "emoticons": [
-                    "👅"
-                ]
-            }
-        },
-        {
-            "body": "📦 (Clay)",
-            "url": "mxc://matrix.chir.rs/4ac53401afb7d0b19a7b76947da39862281331991707805099771822080",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 159066,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4ac53401afb7d0b19a7b76947da39862281331991707805099771822080",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 159066,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134163",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111528",
-                    "short_name": "Clay90184NL"
-                },
-                "id": "532015945393134163",
-                "emoticons": [
-                    "📦"
                 ]
             }
         }

@@ -7,6 +7,64 @@
     },
     "stickers": [
         {
+            "body": "❓ (littlecooper)",
+            "url": "mxc://matrix.chir.rs/46129e425ce77624a58bb3cb3ec71c25e6d3081a1707819826677809152",
+            "info": {
+                "w": 247,
+                "h": 256,
+                "size": 197712,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/46129e425ce77624a58bb3cb3ec71c25e6d3081a1707819826677809152",
+                "thumbnail_info": {
+                    "w": 247,
+                    "h": 256,
+                    "size": 197712,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-907858749530570838",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "907858749530570756",
+                    "short_name": "littlecooper"
+                },
+                "id": "907858749530570838",
+                "emoticons": [
+                    "❓"
+                ]
+            }
+        },
+        {
+            "body": "🙂 (littlecooper)",
+            "url": "mxc://matrix.chir.rs/9fd0203b6c4f5c580a94f04d9a94fcbeb40f46541707819832457560064",
+            "info": {
+                "w": 188,
+                "h": 256,
+                "size": 208801,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9fd0203b6c4f5c580a94f04d9a94fcbeb40f46541707819832457560064",
+                "thumbnail_info": {
+                    "w": 188,
+                    "h": 256,
+                    "size": 208801,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-907858749530570846",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "907858749530570756",
+                    "short_name": "littlecooper"
+                },
+                "id": "907858749530570846",
+                "emoticons": [
+                    "🙂"
+                ]
+            }
+        },
+        {
             "body": "😕 (littlecooper)",
             "url": "mxc://matrix.chir.rs/341b4c0ce18b1a4d63465280c4115a2b8e1134741707819823548858368",
             "info": {
@@ -36,31 +94,31 @@
             }
         },
         {
-            "body": "❓ (littlecooper)",
-            "url": "mxc://matrix.chir.rs/46129e425ce77624a58bb3cb3ec71c25e6d3081a1707819826677809152",
+            "body": "😛 (littlecooper)",
+            "url": "mxc://matrix.chir.rs/7761ce6ea1aebf936158474abcd88d92f60eac611707819829869674496",
             "info": {
-                "w": 247,
+                "w": 245,
                 "h": 256,
-                "size": 197712,
+                "size": 204627,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/46129e425ce77624a58bb3cb3ec71c25e6d3081a1707819826677809152",
+                "thumbnail_url": "mxc://matrix.chir.rs/7761ce6ea1aebf936158474abcd88d92f60eac611707819829869674496",
                 "thumbnail_info": {
-                    "w": 247,
+                    "w": 245,
                     "h": 256,
-                    "size": 197712,
+                    "size": 204627,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-907858749530570838",
+            "id": "tg-907858749530570853",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "907858749530570756",
                     "short_name": "littlecooper"
                 },
-                "id": "907858749530570838",
+                "id": "907858749530570853",
                 "emoticons": [
-                    "❓"
+                    "😛"
                 ]
             }
         },
@@ -123,35 +181,6 @@
             }
         },
         {
-            "body": "☹ (littlecooper)",
-            "url": "mxc://matrix.chir.rs/cc27d605facd6b708149e9a1f70d87e077c61cf51707819828451999744",
-            "info": {
-                "w": 256,
-                "h": 191,
-                "size": 148420,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cc27d605facd6b708149e9a1f70d87e077c61cf51707819828451999744",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 191,
-                    "size": 148420,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-907858749530570874",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "907858749530570756",
-                    "short_name": "littlecooper"
-                },
-                "id": "907858749530570874",
-                "emoticons": [
-                    "☹"
-                ]
-            }
-        },
-        {
             "body": "😇 (littlecooper)",
             "url": "mxc://matrix.chir.rs/a66a1996035e028b3c3544dcbfa1ebac05067e121707819825629233152",
             "info": {
@@ -181,60 +210,31 @@
             }
         },
         {
-            "body": "😛 (littlecooper)",
-            "url": "mxc://matrix.chir.rs/7761ce6ea1aebf936158474abcd88d92f60eac611707819829869674496",
+            "body": "☹ (littlecooper)",
+            "url": "mxc://matrix.chir.rs/cc27d605facd6b708149e9a1f70d87e077c61cf51707819828451999744",
             "info": {
-                "w": 245,
-                "h": 256,
-                "size": 204627,
+                "w": 256,
+                "h": 191,
+                "size": 148420,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7761ce6ea1aebf936158474abcd88d92f60eac611707819829869674496",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc27d605facd6b708149e9a1f70d87e077c61cf51707819828451999744",
                 "thumbnail_info": {
-                    "w": 245,
-                    "h": 256,
-                    "size": 204627,
+                    "w": 256,
+                    "h": 191,
+                    "size": 148420,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-907858749530570853",
+            "id": "tg-907858749530570874",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "907858749530570756",
                     "short_name": "littlecooper"
                 },
-                "id": "907858749530570853",
+                "id": "907858749530570874",
                 "emoticons": [
-                    "😛"
-                ]
-            }
-        },
-        {
-            "body": "🙂 (littlecooper)",
-            "url": "mxc://matrix.chir.rs/9fd0203b6c4f5c580a94f04d9a94fcbeb40f46541707819832457560064",
-            "info": {
-                "w": 188,
-                "h": 256,
-                "size": 208801,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9fd0203b6c4f5c580a94f04d9a94fcbeb40f46541707819832457560064",
-                "thumbnail_info": {
-                    "w": 188,
-                    "h": 256,
-                    "size": 208801,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-907858749530570846",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "907858749530570756",
-                    "short_name": "littlecooper"
-                },
-                "id": "907858749530570846",
-                "emoticons": [
-                    "🙂"
+                    "☹"
                 ]
             }
         },
@@ -297,31 +297,31 @@
             }
         },
         {
-            "body": "😐 (littlecooper)",
-            "url": "mxc://matrix.chir.rs/6baf3c79817277bdc8d33ad5f67f3b90667c04901707819840749699072",
+            "body": "🌕 (littlecooper)",
+            "url": "mxc://matrix.chir.rs/7739e18e9236909ddad83d3f04782bca51ad7cbc1707819836937076736",
             "info": {
-                "w": 173,
-                "h": 256,
-                "size": 198415,
+                "w": 256,
+                "h": 224,
+                "size": 156996,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6baf3c79817277bdc8d33ad5f67f3b90667c04901707819840749699072",
+                "thumbnail_url": "mxc://matrix.chir.rs/7739e18e9236909ddad83d3f04782bca51ad7cbc1707819836937076736",
                 "thumbnail_info": {
-                    "w": 173,
-                    "h": 256,
-                    "size": 198415,
+                    "w": 256,
+                    "h": 224,
+                    "size": 156996,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-907858749530570921",
+            "id": "tg-907858749530570877",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "907858749530570756",
                     "short_name": "littlecooper"
                 },
-                "id": "907858749530570921",
+                "id": "907858749530570877",
                 "emoticons": [
-                    "😐"
+                    "🌕"
                 ]
             }
         },
@@ -355,31 +355,31 @@
             }
         },
         {
-            "body": "🌕 (littlecooper)",
-            "url": "mxc://matrix.chir.rs/7739e18e9236909ddad83d3f04782bca51ad7cbc1707819836937076736",
+            "body": "😐 (littlecooper)",
+            "url": "mxc://matrix.chir.rs/6baf3c79817277bdc8d33ad5f67f3b90667c04901707819840749699072",
             "info": {
-                "w": 256,
-                "h": 224,
-                "size": 156996,
+                "w": 173,
+                "h": 256,
+                "size": 198415,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7739e18e9236909ddad83d3f04782bca51ad7cbc1707819836937076736",
+                "thumbnail_url": "mxc://matrix.chir.rs/6baf3c79817277bdc8d33ad5f67f3b90667c04901707819840749699072",
                 "thumbnail_info": {
-                    "w": 256,
-                    "h": 224,
-                    "size": 156996,
+                    "w": 173,
+                    "h": 256,
+                    "size": 198415,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-907858749530570877",
+            "id": "tg-907858749530570921",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "907858749530570756",
                     "short_name": "littlecooper"
                 },
-                "id": "907858749530570877",
+                "id": "907858749530570921",
                 "emoticons": [
-                    "🌕"
+                    "😐"
                 ]
             }
         }

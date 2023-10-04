@@ -8,6 +8,35 @@
     "stickers": [
         {
             "body": "👀 (Sarki)",
+            "url": "mxc://matrix.chir.rs/c404c8de89637fca8eda53eaddf73aa211736cc41707820373841543168",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 87910,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c404c8de89637fca8eda53eaddf73aa211736cc41707820373841543168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 87910,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968602",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968602",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Sarki)",
             "url": "mxc://matrix.chir.rs/89d2561d45e546db946baa528260eb70d7c47eec1707820378035847169",
             "info": {
                 "w": 256,
@@ -94,35 +123,6 @@
             }
         },
         {
-            "body": "👀 (Sarki)",
-            "url": "mxc://matrix.chir.rs/c404c8de89637fca8eda53eaddf73aa211736cc41707820373841543168",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 87910,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c404c8de89637fca8eda53eaddf73aa211736cc41707820373841543168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 87910,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968602",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968602",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
             "body": "☕️ (Sarki)",
             "url": "mxc://matrix.chir.rs/d32773bf17024e5679ec0e73326921a770ed42ff1707820379700985856",
             "info": {
@@ -148,6 +148,64 @@
                 "id": "369968676150968606",
                 "emoticons": [
                     "☕"
+                ]
+            }
+        },
+        {
+            "body": "🎮 (Sarki)",
+            "url": "mxc://matrix.chir.rs/5cfec62df28519dbe374860b5643fc9aa74608131707820381370318848",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227177,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5cfec62df28519dbe374860b5643fc9aa74608131707820381370318848",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227177,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968607",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968607",
+                "emoticons": [
+                    "🎮"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Sarki)",
+            "url": "mxc://matrix.chir.rs/db1cb04c931de7c023d1615fba0d9da2ca535e671707820378035847168",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 155100,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/db1cb04c931de7c023d1615fba0d9da2ca535e671707820378035847168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 155100,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968608",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968608",
+                "emoticons": [
+                    "😳"
                 ]
             }
         },
@@ -239,122 +297,6 @@
             }
         },
         {
-            "body": "🛏 (Sarki)",
-            "url": "mxc://matrix.chir.rs/b6163f2ad7825c7a987cd380836b7e76048f68de1707820383052234752",
-            "info": {
-                "w": 256,
-                "h": 113,
-                "size": 47683,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6163f2ad7825c7a987cd380836b7e76048f68de1707820383052234752",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 113,
-                    "size": 47683,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968655",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968655",
-                "emoticons": [
-                    "🛏"
-                ]
-            }
-        },
-        {
-            "body": "🍗 (Sarki)",
-            "url": "mxc://matrix.chir.rs/a53fe2d673789f0236cb648d0ffbcf973a860bb41707820403021316096",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200074,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a53fe2d673789f0236cb648d0ffbcf973a860bb41707820403021316096",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200074,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968656",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968656",
-                "emoticons": [
-                    "🍗"
-                ]
-            }
-        },
-        {
-            "body": "🎮 (Sarki)",
-            "url": "mxc://matrix.chir.rs/5cfec62df28519dbe374860b5643fc9aa74608131707820381370318848",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 227177,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5cfec62df28519dbe374860b5643fc9aa74608131707820381370318848",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 227177,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968607",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968607",
-                "emoticons": [
-                    "🎮"
-                ]
-            }
-        },
-        {
-            "body": "⚔️ (Sarki)",
-            "url": "mxc://matrix.chir.rs/dbdc1cac817c3a31a69a1e9941981098ae39173a1707820387020046336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205894,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dbdc1cac817c3a31a69a1e9941981098ae39173a1707820387020046336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205894,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968624",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968624",
-                "emoticons": [
-                    "⚔"
-                ]
-            }
-        },
-        {
             "body": "👈 (Sarki)",
             "url": "mxc://matrix.chir.rs/70d2981b998f374ac5d5d1a88a0c3dca3b979fe71707820383056429056",
             "info": {
@@ -380,35 +322,6 @@
                 "id": "369968676150968620",
                 "emoticons": [
                     "👈"
-                ]
-            }
-        },
-        {
-            "body": "📦 (Sarki)",
-            "url": "mxc://matrix.chir.rs/3684fa74ba1c69bc7e17acfc41564a13ba0355f81707820388811014144",
-            "info": {
-                "w": 256,
-                "h": 215,
-                "size": 179597,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3684fa74ba1c69bc7e17acfc41564a13ba0355f81707820388811014144",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 215,
-                    "size": 179597,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968625",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968625",
-                "emoticons": [
-                    "📦"
                 ]
             }
         },
@@ -442,6 +355,35 @@
             }
         },
         {
+            "body": "🍻 (Sarki)",
+            "url": "mxc://matrix.chir.rs/ee9ad8918f32dc4b88b90116451bd4f4821c154a1707820385438793728",
+            "info": {
+                "w": 256,
+                "h": 215,
+                "size": 190821,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ee9ad8918f32dc4b88b90116451bd4f4821c154a1707820385438793728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 215,
+                    "size": 190821,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968622",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968622",
+                "emoticons": [
+                    "🍻"
+                ]
+            }
+        },
+        {
             "body": "🍿 (Sarki)",
             "url": "mxc://matrix.chir.rs/18384e97e65bb1c254e3b28c99022451d6c3ff871707820396767608832",
             "info": {
@@ -471,89 +413,60 @@
             }
         },
         {
-            "body": "🥰 (Sarki)",
-            "url": "mxc://matrix.chir.rs/22654ac1ac6f93f5f852c895dc4376f54385e2b21707820400336961536",
+            "body": "⚔️ (Sarki)",
+            "url": "mxc://matrix.chir.rs/dbdc1cac817c3a31a69a1e9941981098ae39173a1707820387020046336",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 189353,
+                "size": 205894,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/22654ac1ac6f93f5f852c895dc4376f54385e2b21707820400336961536",
+                "thumbnail_url": "mxc://matrix.chir.rs/dbdc1cac817c3a31a69a1e9941981098ae39173a1707820387020046336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 189353,
+                    "size": 205894,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968676",
+            "id": "tg-369968676150968624",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968676",
+                "id": "369968676150968624",
                 "emoticons": [
-                    "🥰"
+                    "⚔"
                 ]
             }
         },
         {
-            "body": "😳 (Sarki)",
-            "url": "mxc://matrix.chir.rs/db1cb04c931de7c023d1615fba0d9da2ca535e671707820378035847168",
+            "body": "📦 (Sarki)",
+            "url": "mxc://matrix.chir.rs/3684fa74ba1c69bc7e17acfc41564a13ba0355f81707820388811014144",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 155100,
+                "h": 215,
+                "size": 179597,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db1cb04c931de7c023d1615fba0d9da2ca535e671707820378035847168",
+                "thumbnail_url": "mxc://matrix.chir.rs/3684fa74ba1c69bc7e17acfc41564a13ba0355f81707820388811014144",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 155100,
+                    "h": 215,
+                    "size": 179597,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968608",
+            "id": "tg-369968676150968625",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968608",
+                "id": "369968676150968625",
                 "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Sarki)",
-            "url": "mxc://matrix.chir.rs/3182402c66bdc1648340557dd1e74b0d6eb76de11707820401888854016",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 177090,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3182402c66bdc1648340557dd1e74b0d6eb76de11707820401888854016",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 177090,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968677",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968677",
-                "emoticons": [
-                    "😳"
+                    "📦"
                 ]
             }
         },
@@ -645,60 +558,31 @@
             }
         },
         {
-            "body": "😳 (Sarki)",
-            "url": "mxc://matrix.chir.rs/e8ba4168729ed16409533ebe867aa125816ee5031707820389876367360",
+            "body": "😖 (Sarki)",
+            "url": "mxc://matrix.chir.rs/2791da1db03e1271cca73942e0c6adba505c34cb1707820395064721408",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 147764,
+                "size": 171863,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e8ba4168729ed16409533ebe867aa125816ee5031707820389876367360",
+                "thumbnail_url": "mxc://matrix.chir.rs/2791da1db03e1271cca73942e0c6adba505c34cb1707820395064721408",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 147764,
+                    "size": 171863,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968675",
+            "id": "tg-369968676150968629",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968675",
+                "id": "369968676150968629",
                 "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "🛑 (Sarki)",
-            "url": "mxc://matrix.chir.rs/2a0adc31f4c3e6227a903355e04ec6fa1973c9771707820396885049344",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 221864,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2a0adc31f4c3e6227a903355e04ec6fa1973c9771707820396885049344",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 221864,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968671",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968671",
-                "emoticons": [
-                    "🛑"
+                    "😖"
                 ]
             }
         },
@@ -732,6 +616,35 @@
             }
         },
         {
+            "body": "❤️ (Sarki)",
+            "url": "mxc://matrix.chir.rs/3d2f0be6dfe8305464e77f3ea9b53de9ea6030c41707820399074476032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197082,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d2f0be6dfe8305464e77f3ea9b53de9ea6030c41707820399074476032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197082,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968631",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968631",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
             "body": "🤗 (Sarki)",
             "url": "mxc://matrix.chir.rs/a3eba09c96d946379776353e0b0b9153b8a54b4c1707820399070281728",
             "info": {
@@ -761,89 +674,31 @@
             }
         },
         {
-            "body": "😖 (Sarki)",
-            "url": "mxc://matrix.chir.rs/90031324d30ca5e94530e9125f3da9b9e7c1d65b1707820443672510464",
+            "body": "💋 (Sarki)",
+            "url": "mxc://matrix.chir.rs/cf9e4b69356d44b56c39dd7bb43ebd15dab8a89b1707820406540337152",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 159052,
+                "size": 199781,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/90031324d30ca5e94530e9125f3da9b9e7c1d65b1707820443672510464",
+                "thumbnail_url": "mxc://matrix.chir.rs/cf9e4b69356d44b56c39dd7bb43ebd15dab8a89b1707820406540337152",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 159052,
+                    "size": 199781,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968670",
+            "id": "tg-369968676150968633",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968670",
+                "id": "369968676150968633",
                 "emoticons": [
-                    "😖"
-                ]
-            }
-        },
-        {
-            "body": "🍻 (Sarki)",
-            "url": "mxc://matrix.chir.rs/ee9ad8918f32dc4b88b90116451bd4f4821c154a1707820385438793728",
-            "info": {
-                "w": 256,
-                "h": 215,
-                "size": 190821,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ee9ad8918f32dc4b88b90116451bd4f4821c154a1707820385438793728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 215,
-                    "size": 190821,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968622",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968622",
-                "emoticons": [
-                    "🍻"
-                ]
-            }
-        },
-        {
-            "body": "🌯 (Sarki)",
-            "url": "mxc://matrix.chir.rs/cd0f132ac6194582d141ab5d82fc201349475c021707820406339010560",
-            "info": {
-                "w": 256,
-                "h": 200,
-                "size": 114203,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cd0f132ac6194582d141ab5d82fc201349475c021707820406339010560",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 200,
-                    "size": 114203,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968637",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968637",
-                "emoticons": [
-                    "🌯"
+                    "💋"
                 ]
             }
         },
@@ -906,35 +761,6 @@
             }
         },
         {
-            "body": "💋 (Sarki)",
-            "url": "mxc://matrix.chir.rs/cf9e4b69356d44b56c39dd7bb43ebd15dab8a89b1707820406540337152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 199781,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cf9e4b69356d44b56c39dd7bb43ebd15dab8a89b1707820406540337152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 199781,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968633",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968633",
-                "emoticons": [
-                    "💋"
-                ]
-            }
-        },
-        {
             "body": "🌯 (Sarki)",
             "url": "mxc://matrix.chir.rs/54625f17f9d776f63381da8e7a12fcf1f147a1d21707820413263806464",
             "info": {
@@ -964,147 +790,31 @@
             }
         },
         {
-            "body": "😢 (Sarki)",
-            "url": "mxc://matrix.chir.rs/d378abfb9900f505e5cfbc1decb4139a386d602a1707820409048530944",
+            "body": "🌯 (Sarki)",
+            "url": "mxc://matrix.chir.rs/cd0f132ac6194582d141ab5d82fc201349475c021707820406339010560",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 149744,
+                "h": 200,
+                "size": 114203,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d378abfb9900f505e5cfbc1decb4139a386d602a1707820409048530944",
+                "thumbnail_url": "mxc://matrix.chir.rs/cd0f132ac6194582d141ab5d82fc201349475c021707820406339010560",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 149744,
+                    "h": 200,
+                    "size": 114203,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968639",
+            "id": "tg-369968676150968637",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968639",
+                "id": "369968676150968637",
                 "emoticons": [
-                    "😢"
-                ]
-            }
-        },
-        {
-            "body": "😖 (Sarki)",
-            "url": "mxc://matrix.chir.rs/2791da1db03e1271cca73942e0c6adba505c34cb1707820395064721408",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 171863,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2791da1db03e1271cca73942e0c6adba505c34cb1707820395064721408",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 171863,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968629",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968629",
-                "emoticons": [
-                    "😖"
-                ]
-            }
-        },
-        {
-            "body": "🤔 (Sarki)",
-            "url": "mxc://matrix.chir.rs/6dd6787fc25646ffe3dbaa2ad46ed975af9213cb1707820393349251072",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 168998,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6dd6787fc25646ffe3dbaa2ad46ed975af9213cb1707820393349251072",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 168998,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968699",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968699",
-                "emoticons": [
-                    "🤔"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Sarki)",
-            "url": "mxc://matrix.chir.rs/3d2f0be6dfe8305464e77f3ea9b53de9ea6030c41707820399074476032",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 197082,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d2f0be6dfe8305464e77f3ea9b53de9ea6030c41707820399074476032",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 197082,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968631",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968631",
-                "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "😭 (Sarki)",
-            "url": "mxc://matrix.chir.rs/19f6568dd3ffd2f7a21514b74945e404b6cb290a1707820416849936384",
-            "info": {
-                "w": 256,
-                "h": 237,
-                "size": 125698,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/19f6568dd3ffd2f7a21514b74945e404b6cb290a1707820416849936384",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 237,
-                    "size": 125698,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968640",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968640",
-                "emoticons": [
-                    "😭"
+                    "🌯"
                 ]
             }
         },
@@ -1138,6 +848,64 @@
             }
         },
         {
+            "body": "😢 (Sarki)",
+            "url": "mxc://matrix.chir.rs/d378abfb9900f505e5cfbc1decb4139a386d602a1707820409048530944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 149744,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d378abfb9900f505e5cfbc1decb4139a386d602a1707820409048530944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 149744,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968639",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968639",
+                "emoticons": [
+                    "😢"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Sarki)",
+            "url": "mxc://matrix.chir.rs/19f6568dd3ffd2f7a21514b74945e404b6cb290a1707820416849936384",
+            "info": {
+                "w": 256,
+                "h": 237,
+                "size": 125698,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/19f6568dd3ffd2f7a21514b74945e404b6cb290a1707820416849936384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 237,
+                    "size": 125698,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968640",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968640",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
             "body": "🍣 (Sarki)",
             "url": "mxc://matrix.chir.rs/066c2be55b933b0b7f573c4d8aeb01e181f3db961707820408218058752",
             "info": {
@@ -1163,6 +931,35 @@
                 "id": "369968676150968641",
                 "emoticons": [
                     "🍣"
+                ]
+            }
+        },
+        {
+            "body": "🍄 (Sarki)",
+            "url": "mxc://matrix.chir.rs/b6e64ba268c1f0fdc08dfde36c49f956ae7168031707820418183725056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 218625,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b6e64ba268c1f0fdc08dfde36c49f956ae7168031707820418183725056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 218625,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968642",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968642",
+                "emoticons": [
+                    "🍄"
                 ]
             }
         },
@@ -1225,118 +1022,31 @@
             }
         },
         {
-            "body": "🍄 (Sarki)",
-            "url": "mxc://matrix.chir.rs/b6e64ba268c1f0fdc08dfde36c49f956ae7168031707820418183725056",
+            "body": "🐍 (Sarki)",
+            "url": "mxc://matrix.chir.rs/9fce6e3798611bc68281dfb24fa4ff3660b8b5a21707820411921629184",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 218625,
+                "h": 136,
+                "size": 50860,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6e64ba268c1f0fdc08dfde36c49f956ae7168031707820418183725056",
+                "thumbnail_url": "mxc://matrix.chir.rs/9fce6e3798611bc68281dfb24fa4ff3660b8b5a21707820411921629184",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 218625,
+                    "h": 136,
+                    "size": 50860,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968642",
+            "id": "tg-369968676150968645",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968642",
+                "id": "369968676150968645",
                 "emoticons": [
-                    "🍄"
-                ]
-            }
-        },
-        {
-            "body": "🦊 (Sarki)",
-            "url": "mxc://matrix.chir.rs/7af43d5c188b6cefbcde81684d867faecae6e3ed1707820413263806465",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 204764,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7af43d5c188b6cefbcde81684d867faecae6e3ed1707820413263806465",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 204764,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968648",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968648",
-                "emoticons": [
-                    "🦊"
-                ]
-            }
-        },
-        {
-            "body": "⭐️ (Sarki)",
-            "url": "mxc://matrix.chir.rs/cb4f3f072045ae968dc88e1f626b18ed80d357b41707820410277462016",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 201919,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cb4f3f072045ae968dc88e1f626b18ed80d357b41707820410277462016",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 201919,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968647",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968647",
-                "emoticons": [
-                    "⭐"
-                ]
-            }
-        },
-        {
-            "body": "🗑 (Sarki)",
-            "url": "mxc://matrix.chir.rs/9b45b9610b4e3d07b5577c09c67ab16c45afe1971707820435959185408",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 167063,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b45b9610b4e3d07b5577c09c67ab16c45afe1971707820435959185408",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 167063,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968652",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968652",
-                "emoticons": [
-                    "🗑"
+                    "🐍"
                 ]
             }
         },
@@ -1370,6 +1080,64 @@
             }
         },
         {
+            "body": "⭐️ (Sarki)",
+            "url": "mxc://matrix.chir.rs/cb4f3f072045ae968dc88e1f626b18ed80d357b41707820410277462016",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 201919,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cb4f3f072045ae968dc88e1f626b18ed80d357b41707820410277462016",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 201919,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968647",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968647",
+                "emoticons": [
+                    "⭐"
+                ]
+            }
+        },
+        {
+            "body": "🦊 (Sarki)",
+            "url": "mxc://matrix.chir.rs/7af43d5c188b6cefbcde81684d867faecae6e3ed1707820413263806465",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204764,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7af43d5c188b6cefbcde81684d867faecae6e3ed1707820413263806465",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204764,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968648",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968648",
+                "emoticons": [
+                    "🦊"
+                ]
+            }
+        },
+        {
             "body": "☕️ (Sarki)",
             "url": "mxc://matrix.chir.rs/592b204b774bf27efb403668f559d9b30e318e811707820445178265600",
             "info": {
@@ -1399,31 +1167,147 @@
             }
         },
         {
-            "body": "🏳️‍🌈 (Sarki)",
-            "url": "mxc://matrix.chir.rs/e4ae685ea8275e83ca706ab6f866af5ac6217db81707820420205379584",
+            "body": "💤 (Sarki)",
+            "url": "mxc://matrix.chir.rs/5ffa836a94232ea980457614b7c1140a7f5d3d9c1707820415411290112",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 249353,
+                "h": 195,
+                "size": 138432,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e4ae685ea8275e83ca706ab6f866af5ac6217db81707820420205379584",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ffa836a94232ea980457614b7c1140a7f5d3d9c1707820415411290112",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 249353,
+                    "h": 195,
+                    "size": 138432,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968659",
+            "id": "tg-369968676150968650",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968659",
+                "id": "369968676150968650",
                 "emoticons": [
-                    "🏳‍🌈"
+                    "💤"
+                ]
+            }
+        },
+        {
+            "body": "🗑 (Sarki)",
+            "url": "mxc://matrix.chir.rs/9b45b9610b4e3d07b5577c09c67ab16c45afe1971707820435959185408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167063,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9b45b9610b4e3d07b5577c09c67ab16c45afe1971707820435959185408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167063,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968652",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968652",
+                "emoticons": [
+                    "🗑"
+                ]
+            }
+        },
+        {
+            "body": "🔪 (Sarki)",
+            "url": "mxc://matrix.chir.rs/a435900db85ddf03e581cfb982205995ca597e7b1707820421916655616",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 210934,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a435900db85ddf03e581cfb982205995ca597e7b1707820421916655616",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 210934,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968653",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968653",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "🛏 (Sarki)",
+            "url": "mxc://matrix.chir.rs/b6163f2ad7825c7a987cd380836b7e76048f68de1707820383052234752",
+            "info": {
+                "w": 256,
+                "h": 113,
+                "size": 47683,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b6163f2ad7825c7a987cd380836b7e76048f68de1707820383052234752",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 113,
+                    "size": 47683,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968655",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968655",
+                "emoticons": [
+                    "🛏"
+                ]
+            }
+        },
+        {
+            "body": "🍗 (Sarki)",
+            "url": "mxc://matrix.chir.rs/a53fe2d673789f0236cb648d0ffbcf973a860bb41707820403021316096",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200074,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a53fe2d673789f0236cb648d0ffbcf973a860bb41707820403021316096",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200074,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968656",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968656",
+                "emoticons": [
+                    "🍗"
                 ]
             }
         },
@@ -1457,58 +1341,58 @@
             }
         },
         {
-            "body": "💞 (Sarki)",
-            "url": "mxc://matrix.chir.rs/146615506c0c9cc61e18d640ea35320b6b8ce7371707820425217572864",
+            "body": "👊 (Sarki)",
+            "url": "mxc://matrix.chir.rs/be5805f5269afc3dfeb58b6ba9d8f0f5af45befc1707820416820576256",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 274426,
+                "size": 220862,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/146615506c0c9cc61e18d640ea35320b6b8ce7371707820425217572864",
+                "thumbnail_url": "mxc://matrix.chir.rs/be5805f5269afc3dfeb58b6ba9d8f0f5af45befc1707820416820576256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 274426,
+                    "size": 220862,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968669",
+            "id": "tg-369968676150968658",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968669",
+                "id": "369968676150968658",
                 "emoticons": [
-                    "💞"
+                    "👊"
                 ]
             }
         },
         {
             "body": "🏳️‍🌈 (Sarki)",
-            "url": "mxc://matrix.chir.rs/1c77f8a0a95525e9219d131b479675b80cf7b2501707820425968353280",
+            "url": "mxc://matrix.chir.rs/e4ae685ea8275e83ca706ab6f866af5ac6217db81707820420205379584",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 221936,
+                "size": 249353,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1c77f8a0a95525e9219d131b479675b80cf7b2501707820425968353280",
+                "thumbnail_url": "mxc://matrix.chir.rs/e4ae685ea8275e83ca706ab6f866af5ac6217db81707820420205379584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 221936,
+                    "size": 249353,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968661",
+            "id": "tg-369968676150968659",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968661",
+                "id": "369968676150968659",
                 "emoticons": [
                     "🏳‍🌈"
                 ]
@@ -1544,31 +1428,31 @@
             }
         },
         {
-            "body": "👊 (Sarki)",
-            "url": "mxc://matrix.chir.rs/be5805f5269afc3dfeb58b6ba9d8f0f5af45befc1707820416820576256",
+            "body": "🏳️‍🌈 (Sarki)",
+            "url": "mxc://matrix.chir.rs/1c77f8a0a95525e9219d131b479675b80cf7b2501707820425968353280",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 220862,
+                "size": 221936,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be5805f5269afc3dfeb58b6ba9d8f0f5af45befc1707820416820576256",
+                "thumbnail_url": "mxc://matrix.chir.rs/1c77f8a0a95525e9219d131b479675b80cf7b2501707820425968353280",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 220862,
+                    "size": 221936,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968658",
+            "id": "tg-369968676150968661",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968658",
+                "id": "369968676150968661",
                 "emoticons": [
-                    "👊"
+                    "🏳‍🌈"
                 ]
             }
         },
@@ -1596,35 +1480,6 @@
                     "short_name": "sarki"
                 },
                 "id": "369968676150968662",
-                "emoticons": [
-                    "🏳‍🌈"
-                ]
-            }
-        },
-        {
-            "body": "🏳️‍🌈 (Sarki)",
-            "url": "mxc://matrix.chir.rs/1fae756f5925585932737b6ee25ebe88232e4a5d1707820424374517760",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 233790,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1fae756f5925585932737b6ee25ebe88232e4a5d1707820424374517760",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 233790,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968664",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968664",
                 "emoticons": [
                     "🏳‍🌈"
                 ]
@@ -1661,6 +1516,35 @@
         },
         {
             "body": "🏳️‍🌈 (Sarki)",
+            "url": "mxc://matrix.chir.rs/1fae756f5925585932737b6ee25ebe88232e4a5d1707820424374517760",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 233790,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1fae756f5925585932737b6ee25ebe88232e4a5d1707820424374517760",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 233790,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968664",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968664",
+                "emoticons": [
+                    "🏳‍🌈"
+                ]
+            }
+        },
+        {
+            "body": "🏳️‍🌈 (Sarki)",
             "url": "mxc://matrix.chir.rs/bb359547b30aeaaf585926f3fba0926e4f6b63cb1707820441042681856",
             "info": {
                 "w": 256,
@@ -1683,6 +1567,35 @@
                     "short_name": "sarki"
                 },
                 "id": "369968676150968665",
+                "emoticons": [
+                    "🏳‍🌈"
+                ]
+            }
+        },
+        {
+            "body": "🏳️‍🌈 (Sarki)",
+            "url": "mxc://matrix.chir.rs/b376e1e93d0131ed6b48cbbf8e847ea32cbe3c231707820427088232448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 229501,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b376e1e93d0131ed6b48cbbf8e847ea32cbe3c231707820427088232448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 229501,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968666",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968666",
                 "emoticons": [
                     "🏳‍🌈"
                 ]
@@ -1719,64 +1632,6 @@
         },
         {
             "body": "🏳️‍🌈 (Sarki)",
-            "url": "mxc://matrix.chir.rs/b376e1e93d0131ed6b48cbbf8e847ea32cbe3c231707820427088232448",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 229501,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b376e1e93d0131ed6b48cbbf8e847ea32cbe3c231707820427088232448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 229501,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968666",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968666",
-                "emoticons": [
-                    "🏳‍🌈"
-                ]
-            }
-        },
-        {
-            "body": "🐍 (Sarki)",
-            "url": "mxc://matrix.chir.rs/9fce6e3798611bc68281dfb24fa4ff3660b8b5a21707820411921629184",
-            "info": {
-                "w": 256,
-                "h": 136,
-                "size": 50860,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9fce6e3798611bc68281dfb24fa4ff3660b8b5a21707820411921629184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 136,
-                    "size": 50860,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968645",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968645",
-                "emoticons": [
-                    "🐍"
-                ]
-            }
-        },
-        {
-            "body": "🏳️‍🌈 (Sarki)",
             "url": "mxc://matrix.chir.rs/bac715e7e45052b3125d8d9f866fef774cc3a1d01707820429265076224",
             "info": {
                 "w": 256,
@@ -1805,147 +1660,89 @@
             }
         },
         {
-            "body": "🧂 (Sarki)",
-            "url": "mxc://matrix.chir.rs/2bdac37d605e2c9a02ffd838b7dcf3acec6588431707820432901537792",
-            "info": {
-                "w": 256,
-                "h": 177,
-                "size": 142237,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2bdac37d605e2c9a02ffd838b7dcf3acec6588431707820432901537792",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 177,
-                    "size": 142237,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968702",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968702",
-                "emoticons": [
-                    "🧂"
-                ]
-            }
-        },
-        {
-            "body": "💤 (Sarki)",
-            "url": "mxc://matrix.chir.rs/5ffa836a94232ea980457614b7c1140a7f5d3d9c1707820415411290112",
-            "info": {
-                "w": 256,
-                "h": 195,
-                "size": 138432,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5ffa836a94232ea980457614b7c1140a7f5d3d9c1707820415411290112",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 195,
-                    "size": 138432,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968650",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968650",
-                "emoticons": [
-                    "💤"
-                ]
-            }
-        },
-        {
-            "body": "🧂 (Sarki)",
-            "url": "mxc://matrix.chir.rs/66cbc8bdfc41c1f915cdde75167e536b69c620d61707820430938603520",
+            "body": "💞 (Sarki)",
+            "url": "mxc://matrix.chir.rs/146615506c0c9cc61e18d640ea35320b6b8ce7371707820425217572864",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 182157,
+                "size": 274426,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/66cbc8bdfc41c1f915cdde75167e536b69c620d61707820430938603520",
+                "thumbnail_url": "mxc://matrix.chir.rs/146615506c0c9cc61e18d640ea35320b6b8ce7371707820425217572864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 182157,
+                    "size": 274426,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968703",
+            "id": "tg-369968676150968669",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968703",
+                "id": "369968676150968669",
                 "emoticons": [
-                    "🧂"
+                    "💞"
                 ]
             }
         },
         {
-            "body": "👊 (Sarki)",
-            "url": "mxc://matrix.chir.rs/3e9a9b363f040d027fdf79db7ce89ae2649705041707820432876371968",
+            "body": "😖 (Sarki)",
+            "url": "mxc://matrix.chir.rs/90031324d30ca5e94530e9125f3da9b9e7c1d65b1707820443672510464",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 129413,
+                "size": 159052,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3e9a9b363f040d027fdf79db7ce89ae2649705041707820432876371968",
+                "thumbnail_url": "mxc://matrix.chir.rs/90031324d30ca5e94530e9125f3da9b9e7c1d65b1707820443672510464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 129413,
+                    "size": 159052,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4954275618096153056",
+            "id": "tg-369968676150968670",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "4954275618096153056",
+                "id": "369968676150968670",
                 "emoticons": [
-                    "👊"
+                    "😖"
                 ]
             }
         },
         {
-            "body": "☕️ (Sarki)",
-            "url": "mxc://matrix.chir.rs/285da20962297e1603f6d0accb62c2fd831025da1707820430997323776",
+            "body": "🛑 (Sarki)",
+            "url": "mxc://matrix.chir.rs/2a0adc31f4c3e6227a903355e04ec6fa1973c9771707820396885049344",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 167454,
+                "size": 221864,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/285da20962297e1603f6d0accb62c2fd831025da1707820430997323776",
+                "thumbnail_url": "mxc://matrix.chir.rs/2a0adc31f4c3e6227a903355e04ec6fa1973c9771707820396885049344",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 167454,
+                    "size": 221864,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956634701897924983",
+            "id": "tg-369968676150968671",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "4956634701897924983",
+                "id": "369968676150968671",
                 "emoticons": [
-                    "☕"
+                    "🛑"
                 ]
             }
         },
@@ -1979,89 +1776,205 @@
             }
         },
         {
-            "body": "😡 (Sarki)",
-            "url": "mxc://matrix.chir.rs/cb3337bda53e4dc7c0b5b7781b6546e0e34ee6c81707820436978401280",
+            "body": "🤝 (Sarki)",
+            "url": "mxc://matrix.chir.rs/806001bd6e26383a1f51ed0d8d56c51dfc577be01707820435959185409",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 197494,
+                "size": 149618,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cb3337bda53e4dc7c0b5b7781b6546e0e34ee6c81707820436978401280",
+                "thumbnail_url": "mxc://matrix.chir.rs/806001bd6e26383a1f51ed0d8d56c51dfc577be01707820435959185409",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 197494,
+                    "size": 149618,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956454515134955834",
+            "id": "tg-369968676150968673",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "4956454515134955834",
+                "id": "369968676150968673",
                 "emoticons": [
-                    "😡"
+                    "🤝"
                 ]
             }
         },
         {
-            "body": "🍔 (Sarki)",
-            "url": "mxc://matrix.chir.rs/67f0cc0ff7dd3a492b348e40c734e6c4e53417c21707820447858425856",
+            "body": "😳 (Sarki)",
+            "url": "mxc://matrix.chir.rs/e8ba4168729ed16409533ebe867aa125816ee5031707820389876367360",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 208864,
+                "size": 147764,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/67f0cc0ff7dd3a492b348e40c734e6c4e53417c21707820447858425856",
+                "thumbnail_url": "mxc://matrix.chir.rs/e8ba4168729ed16409533ebe867aa125816ee5031707820389876367360",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 208864,
+                    "size": 147764,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5122857327891841526",
+            "id": "tg-369968676150968675",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "5122857327891841526",
+                "id": "369968676150968675",
                 "emoticons": [
-                    "🍔"
+                    "😳"
                 ]
             }
         },
         {
-            "body": "🔪 (Sarki)",
-            "url": "mxc://matrix.chir.rs/a435900db85ddf03e581cfb982205995ca597e7b1707820421916655616",
+            "body": "🥰 (Sarki)",
+            "url": "mxc://matrix.chir.rs/22654ac1ac6f93f5f852c895dc4376f54385e2b21707820400336961536",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 210934,
+                "size": 189353,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a435900db85ddf03e581cfb982205995ca597e7b1707820421916655616",
+                "thumbnail_url": "mxc://matrix.chir.rs/22654ac1ac6f93f5f852c895dc4376f54385e2b21707820400336961536",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 210934,
+                    "size": 189353,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-369968676150968653",
+            "id": "tg-369968676150968676",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "369968676150968653",
+                "id": "369968676150968676",
                 "emoticons": [
-                    "🔪"
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Sarki)",
+            "url": "mxc://matrix.chir.rs/3182402c66bdc1648340557dd1e74b0d6eb76de11707820401888854016",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177090,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3182402c66bdc1648340557dd1e74b0d6eb76de11707820401888854016",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177090,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968677",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968677",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (Sarki)",
+            "url": "mxc://matrix.chir.rs/6dd6787fc25646ffe3dbaa2ad46ed975af9213cb1707820393349251072",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 168998,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6dd6787fc25646ffe3dbaa2ad46ed975af9213cb1707820393349251072",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 168998,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968699",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968699",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "🧂 (Sarki)",
+            "url": "mxc://matrix.chir.rs/2bdac37d605e2c9a02ffd838b7dcf3acec6588431707820432901537792",
+            "info": {
+                "w": 256,
+                "h": 177,
+                "size": 142237,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2bdac37d605e2c9a02ffd838b7dcf3acec6588431707820432901537792",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 177,
+                    "size": 142237,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968702",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968702",
+                "emoticons": [
+                    "🧂"
+                ]
+            }
+        },
+        {
+            "body": "🧂 (Sarki)",
+            "url": "mxc://matrix.chir.rs/66cbc8bdfc41c1f915cdde75167e536b69c620d61707820430938603520",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 182157,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/66cbc8bdfc41c1f915cdde75167e536b69c620d61707820430938603520",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 182157,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-369968676150968703",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "369968676150968703",
+                "emoticons": [
+                    "🧂"
                 ]
             }
         },
@@ -2095,6 +2008,93 @@
             }
         },
         {
+            "body": "👊 (Sarki)",
+            "url": "mxc://matrix.chir.rs/3e9a9b363f040d027fdf79db7ce89ae2649705041707820432876371968",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 129413,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3e9a9b363f040d027fdf79db7ce89ae2649705041707820432876371968",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 129413,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4954275618096153056",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "4954275618096153056",
+                "emoticons": [
+                    "👊"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Sarki)",
+            "url": "mxc://matrix.chir.rs/cb3337bda53e4dc7c0b5b7781b6546e0e34ee6c81707820436978401280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197494,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cb3337bda53e4dc7c0b5b7781b6546e0e34ee6c81707820436978401280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197494,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956454515134955834",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "4956454515134955834",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "☕️ (Sarki)",
+            "url": "mxc://matrix.chir.rs/285da20962297e1603f6d0accb62c2fd831025da1707820430997323776",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167454,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/285da20962297e1603f6d0accb62c2fd831025da1707820430997323776",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167454,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956634701897924983",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "4956634701897924983",
+                "emoticons": [
+                    "☕"
+                ]
+            }
+        },
+        {
             "body": "🔎 (Sarki)",
             "url": "mxc://matrix.chir.rs/d1bf9c0ffc2c85a3a01778f7dd5d72659f2dfe401707820434319212544",
             "info": {
@@ -2124,6 +2124,35 @@
             }
         },
         {
+            "body": "☕️ (Sarki)",
+            "url": "mxc://matrix.chir.rs/99504cf2b5f8dfef17b7d1824cdb87e7bcbebfdc1707820439708893184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 151476,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/99504cf2b5f8dfef17b7d1824cdb87e7bcbebfdc1707820439708893184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 151476,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4963071620924048118",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "4963071620924048118",
+                "emoticons": [
+                    "☕"
+                ]
+            }
+        },
+        {
             "body": "🏳️‍⚧️ (Sarki)",
             "url": "mxc://matrix.chir.rs/3ed45a2ba0e4f64cdff75dab4f5992336204ae7c1707820438773563392",
             "info": {
@@ -2149,6 +2178,94 @@
                 "id": "4963150339084649020",
                 "emoticons": [
                     "🏳‍⚧"
+                ]
+            }
+        },
+        {
+            "body": "😇 (Sarki)",
+            "url": "mxc://matrix.chir.rs/c7b3eff3ebdbc7cc90f9d450657e62acb163bd041707820449120911360",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202446,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c7b3eff3ebdbc7cc90f9d450657e62acb163bd041707820449120911360",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202446,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4963176607104631470",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "4963176607104631470",
+                "emoticons": [
+                    "😇"
+                ]
+            }
+        },
+        {
+            "body": "☝️ (Sarki)",
+            "url": "mxc://matrix.chir.rs/273b65780478851e9c982760cf16fcf7954267191707820440140906496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 195023,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/273b65780478851e9c982760cf16fcf7954267191707820440140906496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 195023,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4963222082218362007",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "4963222082218362007",
+                "emoticons": [
+                    "☝",
+                    "👆"
+                ]
+            }
+        },
+        {
+            "body": "😵‍💫 (Sarki)",
+            "url": "mxc://matrix.chir.rs/6a7f74fc806ecc529a74cd1089923423de25412f1707820446793072640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 315779,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6a7f74fc806ecc529a74cd1089923423de25412f1707820446793072640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 315779,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4963274605373424423",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "369968676150968321",
+                    "short_name": "sarki"
+                },
+                "id": "4963274605373424423",
+                "emoticons": [
+                    "😵‍💫"
                 ]
             }
         },
@@ -2212,148 +2329,31 @@
             }
         },
         {
-            "body": "☝️ (Sarki)",
-            "url": "mxc://matrix.chir.rs/273b65780478851e9c982760cf16fcf7954267191707820440140906496",
+            "body": "🍔 (Sarki)",
+            "url": "mxc://matrix.chir.rs/67f0cc0ff7dd3a492b348e40c734e6c4e53417c21707820447858425856",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 195023,
+                "size": 208864,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/273b65780478851e9c982760cf16fcf7954267191707820440140906496",
+                "thumbnail_url": "mxc://matrix.chir.rs/67f0cc0ff7dd3a492b348e40c734e6c4e53417c21707820447858425856",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 195023,
+                    "size": 208864,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4963222082218362007",
+            "id": "tg-5122857327891841526",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "369968676150968321",
                     "short_name": "sarki"
                 },
-                "id": "4963222082218362007",
+                "id": "5122857327891841526",
                 "emoticons": [
-                    "☝",
-                    "👆"
-                ]
-            }
-        },
-        {
-            "body": "🤝 (Sarki)",
-            "url": "mxc://matrix.chir.rs/806001bd6e26383a1f51ed0d8d56c51dfc577be01707820435959185409",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 149618,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/806001bd6e26383a1f51ed0d8d56c51dfc577be01707820435959185409",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 149618,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-369968676150968673",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "369968676150968673",
-                "emoticons": [
-                    "🤝"
-                ]
-            }
-        },
-        {
-            "body": "☕️ (Sarki)",
-            "url": "mxc://matrix.chir.rs/99504cf2b5f8dfef17b7d1824cdb87e7bcbebfdc1707820439708893184",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 151476,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/99504cf2b5f8dfef17b7d1824cdb87e7bcbebfdc1707820439708893184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 151476,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4963071620924048118",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "4963071620924048118",
-                "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "😵‍💫 (Sarki)",
-            "url": "mxc://matrix.chir.rs/6a7f74fc806ecc529a74cd1089923423de25412f1707820446793072640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 315779,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6a7f74fc806ecc529a74cd1089923423de25412f1707820446793072640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 315779,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4963274605373424423",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "4963274605373424423",
-                "emoticons": [
-                    "😵‍💫"
-                ]
-            }
-        },
-        {
-            "body": "😇 (Sarki)",
-            "url": "mxc://matrix.chir.rs/c7b3eff3ebdbc7cc90f9d450657e62acb163bd041707820449120911360",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 202446,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c7b3eff3ebdbc7cc90f9d450657e62acb163bd041707820449120911360",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 202446,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4963176607104631470",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "369968676150968321",
-                    "short_name": "sarki"
-                },
-                "id": "4963176607104631470",
-                "emoticons": [
-                    "😇"
+                    "🍔"
                 ]
             }
         }

@@ -36,6 +36,36 @@
             }
         },
         {
+            "body": "🛄 (Raccoons by Pulexart.com)",
+            "url": "mxc://matrix.chir.rs/b63f251d4ccd8e1e7516f715f7d855e17ad33c4b1707808132752736256",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 91495,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b63f251d4ccd8e1e7516f715f7d855e17ad33c4b1707808132752736256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 91495,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-503277176754275479",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "503277176754274339",
+                    "short_name": "RaccoonsbyPulex"
+                },
+                "id": "503277176754275479",
+                "emoticons": [
+                    "🛄",
+                    "❗"
+                ]
+            }
+        },
+        {
             "body": "🗑️ (Raccoons by Pulexart.com)",
             "url": "mxc://matrix.chir.rs/f0a1bf825a7c08ef16bb076a8d32f05f174adc051707808140210208768",
             "info": {
@@ -186,32 +216,31 @@
             }
         },
         {
-            "body": "🛄 (Raccoons by Pulexart.com)",
-            "url": "mxc://matrix.chir.rs/b63f251d4ccd8e1e7516f715f7d855e17ad33c4b1707808132752736256",
+            "body": "❤ (Raccoons by Pulexart.com)",
+            "url": "mxc://matrix.chir.rs/8d70f49ea62c6a5be5ebac0e0708995dbf4142321707808163526344704",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 91495,
+                "size": 129647,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b63f251d4ccd8e1e7516f715f7d855e17ad33c4b1707808132752736256",
+                "thumbnail_url": "mxc://matrix.chir.rs/8d70f49ea62c6a5be5ebac0e0708995dbf4142321707808163526344704",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 91495,
+                    "size": 129647,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-503277176754275479",
+            "id": "tg-503277176754275485",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "503277176754274339",
                     "short_name": "RaccoonsbyPulex"
                 },
-                "id": "503277176754275479",
+                "id": "503277176754275485",
                 "emoticons": [
-                    "🛄",
-                    "❗"
+                    "❤"
                 ]
             }
         },
@@ -274,31 +303,32 @@
             }
         },
         {
-            "body": "❤ (Raccoons by Pulexart.com)",
-            "url": "mxc://matrix.chir.rs/8d70f49ea62c6a5be5ebac0e0708995dbf4142321707808163526344704",
+            "body": "👁️ (Raccoons by Pulexart.com)",
+            "url": "mxc://matrix.chir.rs/fde89d995e56069923cfbd06d8fdfe302bd7dc231707808141778878464",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 129647,
+                "size": 82945,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8d70f49ea62c6a5be5ebac0e0708995dbf4142321707808163526344704",
+                "thumbnail_url": "mxc://matrix.chir.rs/fde89d995e56069923cfbd06d8fdfe302bd7dc231707808141778878464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 129647,
+                    "size": 82945,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-503277176754275485",
+            "id": "tg-503277176754275488",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "503277176754274339",
                     "short_name": "RaccoonsbyPulex"
                 },
-                "id": "503277176754275485",
+                "id": "503277176754275488",
                 "emoticons": [
-                    "❤"
+                    "✨",
+                    "👁"
                 ]
             }
         },
@@ -421,36 +451,6 @@
                 "emoticons": [
                     "🍭",
                     "🧼"
-                ]
-            }
-        },
-        {
-            "body": "👁️ (Raccoons by Pulexart.com)",
-            "url": "mxc://matrix.chir.rs/fde89d995e56069923cfbd06d8fdfe302bd7dc231707808141778878464",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 82945,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fde89d995e56069923cfbd06d8fdfe302bd7dc231707808141778878464",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 82945,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-503277176754275488",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "503277176754274339",
-                    "short_name": "RaccoonsbyPulex"
-                },
-                "id": "503277176754275488",
-                "emoticons": [
-                    "✨",
-                    "👁"
                 ]
             }
         },

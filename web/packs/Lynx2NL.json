@@ -7,35 +7,6 @@
     },
     "stickers": [
         {
-            "body": "😔 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/4cf711a3c21c03f51b6c3b7370f2fffbf01df95c1707806940844785664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173726,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4cf711a3c21c03f51b6c3b7370f2fffbf01df95c1707806940844785664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173726,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393131242",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393131242",
-                "emoticons": [
-                    "😔"
-                ]
-            }
-        },
-        {
             "body": "🙀 (Lynx!)",
             "url": "mxc://matrix.chir.rs/e8a94d35a5fc2460b7416701f17c7c2fccbf3e731707806940123365376",
             "info": {
@@ -61,35 +32,6 @@
                 "id": "532015945393131239",
                 "emoticons": [
                     "🙀"
-                ]
-            }
-        },
-        {
-            "body": "💥 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/526cd206f1ef273cd238a0a892f14f8d68d350b21707806947748610048",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 247772,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/526cd206f1ef273cd238a0a892f14f8d68d350b21707806947748610048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 247772,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393131243",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393131243",
-                "emoticons": [
-                    "💥"
                 ]
             }
         },
@@ -152,6 +94,64 @@
             }
         },
         {
+            "body": "😔 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/4cf711a3c21c03f51b6c3b7370f2fffbf01df95c1707806940844785664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173726,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4cf711a3c21c03f51b6c3b7370f2fffbf01df95c1707806940844785664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173726,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131242",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131242",
+                "emoticons": [
+                    "😔"
+                ]
+            }
+        },
+        {
+            "body": "💥 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/526cd206f1ef273cd238a0a892f14f8d68d350b21707806947748610048",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 247772,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/526cd206f1ef273cd238a0a892f14f8d68d350b21707806947748610048",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 247772,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131243",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131243",
+                "emoticons": [
+                    "💥"
+                ]
+            }
+        },
+        {
             "body": "😩 (Lynx!)",
             "url": "mxc://matrix.chir.rs/ef078f69a8f4a70cd3424e957487dd11b7a1aff11707806948667162624",
             "info": {
@@ -177,6 +177,35 @@
                 "id": "532015945393131244",
                 "emoticons": [
                     "😩"
+                ]
+            }
+        },
+        {
+            "body": "🎨 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/854b89bea1fd1dca1f0f275b8456a893e390f1eb1707806946075082753",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 218931,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/854b89bea1fd1dca1f0f275b8456a893e390f1eb1707806946075082753",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 218931,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131803",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131803",
+                "emoticons": [
+                    "🎨"
                 ]
             }
         },
@@ -268,31 +297,31 @@
             }
         },
         {
-            "body": "🎨 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/854b89bea1fd1dca1f0f275b8456a893e390f1eb1707806946075082753",
+            "body": "🐾 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/97903786c71fc4597081e80635c2c2d07c79c7fb1707806949799624704",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 218931,
+                "size": 220809,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/854b89bea1fd1dca1f0f275b8456a893e390f1eb1707806946075082753",
+                "thumbnail_url": "mxc://matrix.chir.rs/97903786c71fc4597081e80635c2c2d07c79c7fb1707806949799624704",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 218931,
+                    "size": 220809,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393131803",
+            "id": "tg-532015945393131807",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393131803",
+                "id": "532015945393131807",
                 "emoticons": [
-                    "🎨"
+                    "🐾"
                 ]
             }
         },
@@ -326,93 +355,6 @@
             }
         },
         {
-            "body": "😳 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/aa0fde95795fbe2dd73c48a76c0b251bbe6e2db71707806961057136640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 307136,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aa0fde95795fbe2dd73c48a76c0b251bbe6e2db71707806961057136640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 307136,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393131810",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393131810",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "🐾 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/97903786c71fc4597081e80635c2c2d07c79c7fb1707806949799624704",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220809,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/97903786c71fc4597081e80635c2c2d07c79c7fb1707806949799624704",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220809,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393131807",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393131807",
-                "emoticons": [
-                    "🐾"
-                ]
-            }
-        },
-        {
-            "body": "🍣 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/bd2615c5a67ad7e30ab53afbdbead17617167a781707806960914530304",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200974,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bd2615c5a67ad7e30ab53afbdbead17617167a781707806960914530304",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200974,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393131811",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393131811",
-                "emoticons": [
-                    "🍣"
-                ]
-            }
-        },
-        {
             "body": "☺️ (Lynx!)",
             "url": "mxc://matrix.chir.rs/13e249581b14c26e282c128d8670a990f9ad17f81707806952324595712",
             "info": {
@@ -442,31 +384,60 @@
             }
         },
         {
-            "body": "😡 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/d7b9b870d79d067ae418d61b5d897f1a007d19ed1707806981240127488",
+            "body": "😳 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/aa0fde95795fbe2dd73c48a76c0b251bbe6e2db71707806961057136640",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 215203,
+                "size": 307136,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d7b9b870d79d067ae418d61b5d897f1a007d19ed1707806981240127488",
+                "thumbnail_url": "mxc://matrix.chir.rs/aa0fde95795fbe2dd73c48a76c0b251bbe6e2db71707806961057136640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 215203,
+                    "size": 307136,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393131814",
+            "id": "tg-532015945393131810",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393131814",
+                "id": "532015945393131810",
                 "emoticons": [
-                    "😡"
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "🍣 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/bd2615c5a67ad7e30ab53afbdbead17617167a781707806960914530304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200974,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bd2615c5a67ad7e30ab53afbdbead17617167a781707806960914530304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200974,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131811",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131811",
+                "emoticons": [
+                    "🍣"
                 ]
             }
         },
@@ -529,31 +500,31 @@
             }
         },
         {
-            "body": "👩‍🌾 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/289933a1012d3394107532d654b9caa46d1768671707806959756902400",
+            "body": "😡 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/d7b9b870d79d067ae418d61b5d897f1a007d19ed1707806981240127488",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 238560,
+                "size": 215203,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/289933a1012d3394107532d654b9caa46d1768671707806959756902400",
+                "thumbnail_url": "mxc://matrix.chir.rs/d7b9b870d79d067ae418d61b5d897f1a007d19ed1707806981240127488",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 238560,
+                    "size": 215203,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393131817",
+            "id": "tg-532015945393131814",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393131817",
+                "id": "532015945393131814",
                 "emoticons": [
-                    "👩‍🌾"
+                    "😡"
                 ]
             }
         },
@@ -616,6 +587,93 @@
             }
         },
         {
+            "body": "👩‍🌾 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/289933a1012d3394107532d654b9caa46d1768671707806959756902400",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 238560,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/289933a1012d3394107532d654b9caa46d1768671707806959756902400",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 238560,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131817",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131817",
+                "emoticons": [
+                    "👩‍🌾"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/74e32e09e2e4d6255c5090cbab41f59493490cf91707806998050897920",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 228909,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/74e32e09e2e4d6255c5090cbab41f59493490cf91707806998050897920",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 228909,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131818",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131818",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "😽 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/276ad87e44250d53485147c0eac90c762e0cbe191707806962713886720",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187847,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/276ad87e44250d53485147c0eac90c762e0cbe191707806962713886720",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187847,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131819",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131819",
+                "emoticons": [
+                    "😽"
+                ]
+            }
+        },
+        {
             "body": "😖 (Lynx!)",
             "url": "mxc://matrix.chir.rs/8c8a4d5fa69f9a748e5b677910d347d7455613b31707806986055188480",
             "info": {
@@ -645,6 +703,35 @@
             }
         },
         {
+            "body": "💡 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/fa77f8229d53b1a54122911b060ae7f2b712b8921707806984369078272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 210359,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fa77f8229d53b1a54122911b060ae7f2b712b8921707806984369078272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 210359,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393131821",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393131821",
+                "emoticons": [
+                    "💡"
+                ]
+            }
+        },
+        {
             "body": "🍽 (Lynx!)",
             "url": "mxc://matrix.chir.rs/b3723c0b11dd636aa756a9e0b041439f7ebbaa931707806967772217344",
             "info": {
@@ -670,35 +757,6 @@
                 "id": "532015945393131822",
                 "emoticons": [
                     "🍽"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/eafcbb7d5d71e10ceb1f6fa62ac6f233195a19141707806963603079168",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184792,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eafcbb7d5d71e10ceb1f6fa62ac6f233195a19141707806963603079168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184792,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393131825",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393131825",
-                "emoticons": [
-                    "🐶"
                 ]
             }
         },
@@ -761,31 +819,31 @@
             }
         },
         {
-            "body": "🕑 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/b8ae991034f4ec499916ce0af0f4e1d4b7a8a0171707806967742857216",
+            "body": "🐶 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/eafcbb7d5d71e10ceb1f6fa62ac6f233195a19141707806963603079168",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 200090,
+                "size": 184792,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b8ae991034f4ec499916ce0af0f4e1d4b7a8a0171707806967742857216",
+                "thumbnail_url": "mxc://matrix.chir.rs/eafcbb7d5d71e10ceb1f6fa62ac6f233195a19141707806963603079168",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 200090,
+                    "size": 184792,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132253",
+            "id": "tg-532015945393131825",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132253",
+                "id": "532015945393131825",
                 "emoticons": [
-                    "🕑"
+                    "🐶"
                 ]
             }
         },
@@ -819,31 +877,60 @@
             }
         },
         {
-            "body": "😽 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/276ad87e44250d53485147c0eac90c762e0cbe191707806962713886720",
+            "body": "😤 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/6349b26083e0c9d9d4d6986caebec2b8d31d970e1707806977880489984",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 187847,
+                "size": 234804,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/276ad87e44250d53485147c0eac90c762e0cbe191707806962713886720",
+                "thumbnail_url": "mxc://matrix.chir.rs/6349b26083e0c9d9d4d6986caebec2b8d31d970e1707806977880489984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 187847,
+                    "size": 234804,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393131819",
+            "id": "tg-532015945393131827",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393131819",
+                "id": "532015945393131827",
                 "emoticons": [
-                    "😽"
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "🕑 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/b8ae991034f4ec499916ce0af0f4e1d4b7a8a0171707806967742857216",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200090,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b8ae991034f4ec499916ce0af0f4e1d4b7a8a0171707806967742857216",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200090,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132253",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132253",
+                "emoticons": [
+                    "🕑"
                 ]
             }
         },
@@ -906,31 +993,31 @@
             }
         },
         {
-            "body": "😊 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/74e32e09e2e4d6255c5090cbab41f59493490cf91707806998050897920",
+            "body": "📚 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/a3a60da7a7327a70697d5ea3357833062502b6231707806970410434560",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 228909,
+                "size": 175993,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74e32e09e2e4d6255c5090cbab41f59493490cf91707806998050897920",
+                "thumbnail_url": "mxc://matrix.chir.rs/a3a60da7a7327a70697d5ea3357833062502b6231707806970410434560",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 228909,
+                    "size": 175993,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393131818",
+            "id": "tg-532015945393132256",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393131818",
+                "id": "532015945393132256",
                 "emoticons": [
-                    "😊"
+                    "📚"
                 ]
             }
         },
@@ -993,35 +1080,6 @@
             }
         },
         {
-            "body": "💡 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/fa77f8229d53b1a54122911b060ae7f2b712b8921707806984369078272",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210359,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fa77f8229d53b1a54122911b060ae7f2b712b8921707806984369078272",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210359,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393131821",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393131821",
-                "emoticons": [
-                    "💡"
-                ]
-            }
-        },
-        {
             "body": "😔 (Lynx!)",
             "url": "mxc://matrix.chir.rs/d2e659968e042fc49357457f7f60811a7cb2c50f1707806974520852480",
             "info": {
@@ -1047,35 +1105,6 @@
                 "id": "532015945393132259",
                 "emoticons": [
                     "😔"
-                ]
-            }
-        },
-        {
-            "body": "🎮 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/837664a462dbf1d6225bab95666e5319a7a314c71707806983790264320",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 236042,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/837664a462dbf1d6225bab95666e5319a7a314c71707806983790264320",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 236042,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132261",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132261",
-                "emoticons": [
-                    "🎮"
                 ]
             }
         },
@@ -1109,60 +1138,31 @@
             }
         },
         {
-            "body": "😤 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/6349b26083e0c9d9d4d6986caebec2b8d31d970e1707806977880489984",
+            "body": "🎮 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/837664a462dbf1d6225bab95666e5319a7a314c71707806983790264320",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 234804,
+                "size": 236042,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6349b26083e0c9d9d4d6986caebec2b8d31d970e1707806977880489984",
+                "thumbnail_url": "mxc://matrix.chir.rs/837664a462dbf1d6225bab95666e5319a7a314c71707806983790264320",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 234804,
+                    "size": 236042,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393131827",
+            "id": "tg-532015945393132261",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393131827",
+                "id": "532015945393132261",
                 "emoticons": [
-                    "😤"
-                ]
-            }
-        },
-        {
-            "body": "📚 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/b87f9a851207d8c901ceee041e15d42ee4f940611707806976534118400",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206348,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b87f9a851207d8c901ceee041e15d42ee4f940611707806976534118400",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206348,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132264",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132264",
-                "emoticons": [
-                    "📚"
+                    "🎮"
                 ]
             }
         },
@@ -1226,6 +1226,35 @@
         },
         {
             "body": "📚 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/b87f9a851207d8c901ceee041e15d42ee4f940611707806976534118400",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206348,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b87f9a851207d8c901ceee041e15d42ee4f940611707806976534118400",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206348,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132264",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132264",
+                "emoticons": [
+                    "📚"
+                ]
+            }
+        },
+        {
+            "body": "📚 (Lynx!)",
             "url": "mxc://matrix.chir.rs/2ec35eea20751bf407ba88ba39657ebbc58c59d21707806980380295168",
             "info": {
                 "w": 256,
@@ -1250,35 +1279,6 @@
                 "id": "532015945393132265",
                 "emoticons": [
                     "📚"
-                ]
-            }
-        },
-        {
-            "body": "👨‍⚕️ (Lynx!)",
-            "url": "mxc://matrix.chir.rs/369617f4cba29fddf9dfca35dabbdba31abe88e51707806985816113152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189851,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/369617f4cba29fddf9dfca35dabbdba31abe88e51707806985816113152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189851,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132267",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132267",
-                "emoticons": [
-                    "👨‍⚕"
                 ]
             }
         },
@@ -1312,31 +1312,31 @@
             }
         },
         {
-            "body": "👅 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/9fd2e9c8a9fe47764ae14be8863068d20e15e6f41707806980493541376",
+            "body": "👨‍⚕️ (Lynx!)",
+            "url": "mxc://matrix.chir.rs/369617f4cba29fddf9dfca35dabbdba31abe88e51707806985816113152",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 170508,
+                "size": 189851,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9fd2e9c8a9fe47764ae14be8863068d20e15e6f41707806980493541376",
+                "thumbnail_url": "mxc://matrix.chir.rs/369617f4cba29fddf9dfca35dabbdba31abe88e51707806985816113152",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 170508,
+                    "size": 189851,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132270",
+            "id": "tg-532015945393132267",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132270",
+                "id": "532015945393132267",
                 "emoticons": [
-                    "👅"
+                    "👨‍⚕"
                 ]
             }
         },
@@ -1370,31 +1370,89 @@
             }
         },
         {
-            "body": "📚 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/a3a60da7a7327a70697d5ea3357833062502b6231707806970410434560",
+            "body": "🌱 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/bc43e812f3291f6190d7f3b00b6ab67dac1f40291707806992904486912",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 175993,
+                "size": 269234,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a3a60da7a7327a70697d5ea3357833062502b6231707806970410434560",
+                "thumbnail_url": "mxc://matrix.chir.rs/bc43e812f3291f6190d7f3b00b6ab67dac1f40291707806992904486912",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 175993,
+                    "size": 269234,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132256",
+            "id": "tg-532015945393132269",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132256",
+                "id": "532015945393132269",
                 "emoticons": [
-                    "📚"
+                    "🌱"
+                ]
+            }
+        },
+        {
+            "body": "👅 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/9fd2e9c8a9fe47764ae14be8863068d20e15e6f41707806980493541376",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 170508,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9fd2e9c8a9fe47764ae14be8863068d20e15e6f41707806980493541376",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 170508,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132270",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132270",
+                "emoticons": [
+                    "👅"
+                ]
+            }
+        },
+        {
+            "body": "🌌 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/66d66b12c04435354d9ed0aa4a38c26489b1f7ed1707806990681505792",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 217008,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/66d66b12c04435354d9ed0aa4a38c26489b1f7ed1707806990681505792",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 217008,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132271",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132271",
+                "emoticons": [
+                    "🌌"
                 ]
             }
         },
@@ -1486,6 +1544,35 @@
             }
         },
         {
+            "body": "🖌 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/be2df4ff8aa4eaea54cc951131fb1b76626250411707806992598302720",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215333,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/be2df4ff8aa4eaea54cc951131fb1b76626250411707806992598302720",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215333,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132275",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132275",
+                "emoticons": [
+                    "🖌"
+                ]
+            }
+        },
+        {
             "body": "🔊 (Lynx!)",
             "url": "mxc://matrix.chir.rs/bf810b527b401b48abf558c8569fe7c6a5d348b91707806986201989120",
             "info": {
@@ -1544,6 +1631,93 @@
             }
         },
         {
+            "body": "🔊 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/73ca48036f6f692837fb35813b238e7ddf3faa831707806987951013888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199966,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/73ca48036f6f692837fb35813b238e7ddf3faa831707806987951013888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199966,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132791",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132791",
+                "emoticons": [
+                    "🔊"
+                ]
+            }
+        },
+        {
+            "body": "👻 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/6c7ac27346e0c58301676d91e1bf1eaacff2dee61707806997509832704",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142875,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6c7ac27346e0c58301676d91e1bf1eaacff2dee61707806997509832704",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142875,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132792",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132792",
+                "emoticons": [
+                    "👻"
+                ]
+            }
+        },
+        {
+            "body": "🔊 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/0a14466c8347c109003b3c0fa90500e8d3c68f081707807002069041152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204366,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0a14466c8347c109003b3c0fa90500e8d3c68f081707807002069041152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204366,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132793",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132793",
+                "emoticons": [
+                    "🔊"
+                ]
+            }
+        },
+        {
             "body": "😮 (Lynx!)",
             "url": "mxc://matrix.chir.rs/b05233b8caa0ad17018c2e6a1492fda898d70fdc1707806995408486400",
             "info": {
@@ -1573,31 +1747,89 @@
             }
         },
         {
-            "body": "🌱 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/bc43e812f3291f6190d7f3b00b6ab67dac1f40291707806992904486912",
+            "body": "😐 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/b50afe8a05ec744877e03719e67f12600cd06c831707807009597816832",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 269234,
+                "size": 195382,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bc43e812f3291f6190d7f3b00b6ab67dac1f40291707806992904486912",
+                "thumbnail_url": "mxc://matrix.chir.rs/b50afe8a05ec744877e03719e67f12600cd06c831707807009597816832",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 269234,
+                    "size": 195382,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132269",
+            "id": "tg-532015945393132795",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132269",
+                "id": "532015945393132795",
                 "emoticons": [
-                    "🌱"
+                    "😐"
+                ]
+            }
+        },
+        {
+            "body": "🍽 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/a5018e57baa21b94e7fe0613f01418a40b14f1a81707807018825285632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 255936,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a5018e57baa21b94e7fe0613f01418a40b14f1a81707807018825285632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 255936,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132796",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132796",
+                "emoticons": [
+                    "🍽"
+                ]
+            }
+        },
+        {
+            "body": "💨 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/3c2d05158f297aa639c1e0097b851b8c0d128d7b1707806992854155264",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 236070,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3c2d05158f297aa639c1e0097b851b8c0d128d7b1707806992854155264",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 236070,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132797",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132797",
+                "emoticons": [
+                    "💨"
                 ]
             }
         },
@@ -1660,31 +1892,60 @@
             }
         },
         {
-            "body": "🍽 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/a5018e57baa21b94e7fe0613f01418a40b14f1a81707807018825285632",
+            "body": "😱 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/9e6d0cd83e6af6cf40b71af8534626f344d7538a1707807009593622528",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 255936,
+                "size": 205654,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a5018e57baa21b94e7fe0613f01418a40b14f1a81707807018825285632",
+                "thumbnail_url": "mxc://matrix.chir.rs/9e6d0cd83e6af6cf40b71af8534626f344d7538a1707807009593622528",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 255936,
+                    "size": 205654,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132796",
+            "id": "tg-532015945393132800",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132796",
+                "id": "532015945393132800",
                 "emoticons": [
-                    "🍽"
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "🙄 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/3a88998fa07042441e1b2a20c5954bed3979e1da1707806999783145472",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 261262,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3a88998fa07042441e1b2a20c5954bed3979e1da1707806999783145472",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 261262,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132801",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132801",
+                "emoticons": [
+                    "🙄"
                 ]
             }
         },
@@ -1718,31 +1979,60 @@
             }
         },
         {
-            "body": "🌌 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/66d66b12c04435354d9ed0aa4a38c26489b1f7ed1707806990681505792",
+            "body": "🔔 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/cfe5f04ad30e9cd9391e5f435309c9d570f9a1401707807005730668544",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 217008,
+                "size": 206027,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/66d66b12c04435354d9ed0aa4a38c26489b1f7ed1707806990681505792",
+                "thumbnail_url": "mxc://matrix.chir.rs/cfe5f04ad30e9cd9391e5f435309c9d570f9a1401707807005730668544",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 217008,
+                    "size": 206027,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132271",
+            "id": "tg-532015945393132803",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132271",
+                "id": "532015945393132803",
                 "emoticons": [
-                    "🌌"
+                    "🔔"
+                ]
+            }
+        },
+        {
+            "body": "😁 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/bd4336e7f394a0305d849a07b768ba48a1c35f441707807010151464960",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202896,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bd4336e7f394a0305d849a07b768ba48a1c35f441707807010151464960",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202896,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393132804",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393132804",
+                "emoticons": [
+                    "😁"
                 ]
             }
         },
@@ -1772,35 +2062,6 @@
                 "id": "532015945393132805",
                 "emoticons": [
                     "🔋"
-                ]
-            }
-        },
-        {
-            "body": "💨 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/3c2d05158f297aa639c1e0097b851b8c0d128d7b1707806992854155264",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 236070,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3c2d05158f297aa639c1e0097b851b8c0d128d7b1707806992854155264",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 236070,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132797",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132797",
-                "emoticons": [
-                    "💨"
                 ]
             }
         },
@@ -1859,35 +2120,6 @@
                 "id": "532015945393133246",
                 "emoticons": [
                     "🗑"
-                ]
-            }
-        },
-        {
-            "body": "🙄 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/3a88998fa07042441e1b2a20c5954bed3979e1da1707806999783145472",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 261262,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3a88998fa07042441e1b2a20c5954bed3979e1da1707806999783145472",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 261262,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132801",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132801",
-                "emoticons": [
-                    "🙄"
                 ]
             }
         },
@@ -1979,93 +2211,6 @@
             }
         },
         {
-            "body": "😱 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/9e6d0cd83e6af6cf40b71af8534626f344d7538a1707807009593622528",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205654,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9e6d0cd83e6af6cf40b71af8534626f344d7538a1707807009593622528",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205654,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132800",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132800",
-                "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "🖌 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/be2df4ff8aa4eaea54cc951131fb1b76626250411707806992598302720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215333,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be2df4ff8aa4eaea54cc951131fb1b76626250411707806992598302720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215333,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132275",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132275",
-                "emoticons": [
-                    "🖌"
-                ]
-            }
-        },
-        {
-            "body": "🔔 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/cfe5f04ad30e9cd9391e5f435309c9d570f9a1401707807005730668544",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206027,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cfe5f04ad30e9cd9391e5f435309c9d570f9a1401707807005730668544",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206027,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132803",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132803",
-                "emoticons": [
-                    "🔔"
-                ]
-            }
-        },
-        {
             "body": "🤗 (Lynx!)",
             "url": "mxc://matrix.chir.rs/7dddfa22a9a93e083aadeb6751518007622ba14b1707807004086501376",
             "info": {
@@ -2091,35 +2236,6 @@
                 "id": "532015945393133250",
                 "emoticons": [
                     "🤗"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Lynx!)",
-            "url": "mxc://matrix.chir.rs/0287fd2787e00d7cd1bf5c7892b6f512709bf5131707807015373373440",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 244871,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0287fd2787e00d7cd1bf5c7892b6f512709bf5131707807015373373440",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 244871,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393133252",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393133252",
-                "emoticons": [
-                    "☺"
                 ]
             }
         },
@@ -2153,31 +2269,31 @@
             }
         },
         {
-            "body": "😁 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/bd4336e7f394a0305d849a07b768ba48a1c35f441707807010151464960",
+            "body": "☺️ (Lynx!)",
+            "url": "mxc://matrix.chir.rs/0287fd2787e00d7cd1bf5c7892b6f512709bf5131707807015373373440",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 202896,
+                "size": 244871,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bd4336e7f394a0305d849a07b768ba48a1c35f441707807010151464960",
+                "thumbnail_url": "mxc://matrix.chir.rs/0287fd2787e00d7cd1bf5c7892b6f512709bf5131707807015373373440",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 202896,
+                    "size": 244871,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132804",
+            "id": "tg-532015945393133252",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132804",
+                "id": "532015945393133252",
                 "emoticons": [
-                    "😁"
+                    "☺"
                 ]
             }
         },
@@ -2211,118 +2327,31 @@
             }
         },
         {
-            "body": "🔊 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/73ca48036f6f692837fb35813b238e7ddf3faa831707806987951013888",
+            "body": "😠 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/85bf5d380b27c80bf00a0c1d7148ab9450f676471707807011443310592",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 199966,
+                "size": 273940,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/73ca48036f6f692837fb35813b238e7ddf3faa831707806987951013888",
+                "thumbnail_url": "mxc://matrix.chir.rs/85bf5d380b27c80bf00a0c1d7148ab9450f676471707807011443310592",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 199966,
+                    "size": 273940,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393132791",
+            "id": "tg-532015945393133254",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393132791",
+                "id": "532015945393133254",
                 "emoticons": [
-                    "🔊"
-                ]
-            }
-        },
-        {
-            "body": "😐 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/b50afe8a05ec744877e03719e67f12600cd06c831707807009597816832",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 195382,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b50afe8a05ec744877e03719e67f12600cd06c831707807009597816832",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 195382,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132795",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132795",
-                "emoticons": [
-                    "😐"
-                ]
-            }
-        },
-        {
-            "body": "👻 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/6c7ac27346e0c58301676d91e1bf1eaacff2dee61707806997509832704",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142875,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6c7ac27346e0c58301676d91e1bf1eaacff2dee61707806997509832704",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142875,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132792",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132792",
-                "emoticons": [
-                    "👻"
-                ]
-            }
-        },
-        {
-            "body": "🦷 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/74292706b135a0e11b823e3b3611b9d7c31839761707807011913072640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 264356,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74292706b135a0e11b823e3b3611b9d7c31839761707807011913072640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 264356,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134220",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134220",
-                "emoticons": [
-                    "🦷"
+                    "😠"
                 ]
             }
         },
@@ -2356,35 +2385,6 @@
             }
         },
         {
-            "body": "🔊 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/0a14466c8347c109003b3c0fa90500e8d3c68f081707807002069041152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 204366,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0a14466c8347c109003b3c0fa90500e8d3c68f081707807002069041152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 204366,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393132793",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393132793",
-                "emoticons": [
-                    "🔊"
-                ]
-            }
-        },
-        {
             "body": "🎮 (Lynx!)",
             "url": "mxc://matrix.chir.rs/9b7a8667206b5b8ebd953c7f475785aaf23099251707807019760615424",
             "info": {
@@ -2410,6 +2410,35 @@
                 "id": "532015945393134219",
                 "emoticons": [
                     "🎮"
+                ]
+            }
+        },
+        {
+            "body": "🦷 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/74292706b135a0e11b823e3b3611b9d7c31839761707807011913072640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 264356,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/74292706b135a0e11b823e3b3611b9d7c31839761707807011913072640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 264356,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134220",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134220",
+                "emoticons": [
+                    "🦷"
                 ]
             }
         },
@@ -2468,6 +2497,35 @@
                 "id": "532015945393134222",
                 "emoticons": [
                     "🤬"
+                ]
+            }
+        },
+        {
+            "body": "🤐 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/28294fa642f0605d28e220668501ada80ce135ea1707807017424388096",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 233843,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/28294fa642f0605d28e220668501ada80ce135ea1707807017424388096",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 233843,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134223",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134223",
+                "emoticons": [
+                    "🤐"
                 ]
             }
         },
@@ -2559,6 +2617,64 @@
             }
         },
         {
+            "body": "✏️ (Lynx!)",
+            "url": "mxc://matrix.chir.rs/fbfaed84a4dea7cb4b955c685831e430b51885861707807024265297920",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 241556,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fbfaed84a4dea7cb4b955c685831e430b51885861707807024265297920",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 241556,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134227",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134227",
+                "emoticons": [
+                    "✏"
+                ]
+            }
+        },
+        {
+            "body": "😸 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/50d996af2c8c9df32d8090414a6caecfac91230c1707807018909171712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 253903,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/50d996af2c8c9df32d8090414a6caecfac91230c1707807018909171712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 253903,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134228",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134228",
+                "emoticons": [
+                    "😸"
+                ]
+            }
+        },
+        {
             "body": "🏂 (Lynx!)",
             "url": "mxc://matrix.chir.rs/39c5555dc2f529ef4f376a87f2a7ff39e479aa0b1707807022419804160",
             "info": {
@@ -2588,118 +2704,31 @@
             }
         },
         {
-            "body": "😡 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/506a7fee5a88358854529a3cbccc09753c278f961707807027809484800",
+            "body": "❄️ (Lynx!)",
+            "url": "mxc://matrix.chir.rs/02cf72dc926676d5b5954a092972da91949908b41707807027847233537",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 293542,
+                "size": 233925,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/506a7fee5a88358854529a3cbccc09753c278f961707807027809484800",
+                "thumbnail_url": "mxc://matrix.chir.rs/02cf72dc926676d5b5954a092972da91949908b41707807027847233537",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 293542,
+                    "size": 233925,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134862",
+            "id": "tg-532015945393134230",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393134862",
+                "id": "532015945393134230",
                 "emoticons": [
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/85bf5d380b27c80bf00a0c1d7148ab9450f676471707807011443310592",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 273940,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/85bf5d380b27c80bf00a0c1d7148ab9450f676471707807011443310592",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 273940,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393133254",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393133254",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/0914036732995ae27e0d2b184d3a0425b867af6d1707807027692044288",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 222133,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0914036732995ae27e0d2b184d3a0425b867af6d1707807027692044288",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 222133,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134863",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134863",
-                "emoticons": [
-                    "😃"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/5df7902df1e96c8387c5090711365d43edd540351707807035854159872",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 222387,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5df7902df1e96c8387c5090711365d43edd540351707807035854159872",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 222387,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134232",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134232",
-                "emoticons": [
-                    "🤗"
+                    "❄"
                 ]
             }
         },
@@ -2733,31 +2762,89 @@
             }
         },
         {
-            "body": "🍕 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/4294e022496b2e0a68f89015e19be43c923587d51707807033299828736",
+            "body": "🤗 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/5df7902df1e96c8387c5090711365d43edd540351707807035854159872",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 214098,
+                "size": 222387,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4294e022496b2e0a68f89015e19be43c923587d51707807033299828736",
+                "thumbnail_url": "mxc://matrix.chir.rs/5df7902df1e96c8387c5090711365d43edd540351707807035854159872",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 214098,
+                    "size": 222387,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134866",
+            "id": "tg-532015945393134232",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393134866",
+                "id": "532015945393134232",
                 "emoticons": [
-                    "🍕"
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/506a7fee5a88358854529a3cbccc09753c278f961707807027809484800",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 293542,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/506a7fee5a88358854529a3cbccc09753c278f961707807027809484800",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 293542,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134862",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134862",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "😃 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/0914036732995ae27e0d2b184d3a0425b867af6d1707807027692044288",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 222133,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0914036732995ae27e0d2b184d3a0425b867af6d1707807027692044288",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 222133,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134863",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134863",
+                "emoticons": [
+                    "😃"
                 ]
             }
         },
@@ -2791,64 +2878,6 @@
             }
         },
         {
-            "body": "✏️ (Lynx!)",
-            "url": "mxc://matrix.chir.rs/fbfaed84a4dea7cb4b955c685831e430b51885861707807024265297920",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241556,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fbfaed84a4dea7cb4b955c685831e430b51885861707807024265297920",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241556,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134227",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134227",
-                "emoticons": [
-                    "✏"
-                ]
-            }
-        },
-        {
-            "body": "🤐 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/28294fa642f0605d28e220668501ada80ce135ea1707807017424388096",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 233843,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/28294fa642f0605d28e220668501ada80ce135ea1707807017424388096",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 233843,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134223",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134223",
-                "emoticons": [
-                    "🤐"
-                ]
-            }
-        },
-        {
             "body": "🍕 (Lynx!)",
             "url": "mxc://matrix.chir.rs/58c74c929b4d016f86772deedfe39be532e65e591707807041529053184",
             "info": {
@@ -2872,6 +2901,35 @@
                     "short_name": "Lynx2NL"
                 },
                 "id": "532015945393134865",
+                "emoticons": [
+                    "🍕"
+                ]
+            }
+        },
+        {
+            "body": "🍕 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/4294e022496b2e0a68f89015e19be43c923587d51707807033299828736",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214098,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4294e022496b2e0a68f89015e19be43c923587d51707807033299828736",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214098,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134866",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134866",
                 "emoticons": [
                     "🍕"
                 ]
@@ -2907,35 +2965,6 @@
             }
         },
         {
-            "body": "😛 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/286eef8a6d545dbfff853240598d1d724ea650c51707807030124740608",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 92345,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/286eef8a6d545dbfff853240598d1d724ea650c51707807030124740608",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 92345,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134869",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134869",
-                "emoticons": [
-                    "😛"
-                ]
-            }
-        },
-        {
             "body": "🍾 (Lynx!)",
             "url": "mxc://matrix.chir.rs/a4453ecb018cce4c7e6673514962e326911bebe41707807033295634432",
             "info": {
@@ -2965,147 +2994,31 @@
             }
         },
         {
-            "body": "🚜 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/ae846fc8944171da77045b4c111151fbebc788641707807040803438592",
+            "body": "😛 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/286eef8a6d545dbfff853240598d1d724ea650c51707807030124740608",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 145778,
+                "size": 92345,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ae846fc8944171da77045b4c111151fbebc788641707807040803438592",
+                "thumbnail_url": "mxc://matrix.chir.rs/286eef8a6d545dbfff853240598d1d724ea650c51707807030124740608",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 145778,
+                    "size": 92345,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134875",
+            "id": "tg-532015945393134869",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393134875",
+                "id": "532015945393134869",
                 "emoticons": [
-                    "🚜"
-                ]
-            }
-        },
-        {
-            "body": "😊 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/7451210b08f64ae3788601891a4a89e1a408f9011707807037338943488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 253530,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7451210b08f64ae3788601891a4a89e1a408f9011707807037338943488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 253530,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134876",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134876",
-                "emoticons": [
-                    "😊"
-                ]
-            }
-        },
-        {
-            "body": "🌵 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/db0cb9224ce9b014964be4bfa54e34060dfc61cd1707807056137814016",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 251143,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db0cb9224ce9b014964be4bfa54e34060dfc61cd1707807056137814016",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 251143,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134874",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134874",
-                "emoticons": [
-                    "🌵"
-                ]
-            }
-        },
-        {
-            "body": "😸 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/50d996af2c8c9df32d8090414a6caecfac91230c1707807018909171712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 253903,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/50d996af2c8c9df32d8090414a6caecfac91230c1707807018909171712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 253903,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134228",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134228",
-                "emoticons": [
-                    "😸"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/640595beec5e4891dee8ee97f4189e91699e31d01707807035954823168",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 242908,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/640595beec5e4891dee8ee97f4189e91699e31d01707807035954823168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 242908,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393135405",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393135405",
-                "emoticons": [
-                    "🤗"
+                    "😛"
                 ]
             }
         },
@@ -3168,64 +3081,6 @@
             }
         },
         {
-            "body": "🌵 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/fec1357d22aa047d2d6fc049e7929d9ce233a6f21707807038911807488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 179283,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fec1357d22aa047d2d6fc049e7929d9ce233a6f21707807038911807488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 179283,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134873",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393134873",
-                "emoticons": [
-                    "🌵"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/9ebcecc01b37bb7de0ffca3cc02bbd86e65b913b1707807059421954048",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 242257,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9ebcecc01b37bb7de0ffca3cc02bbd86e65b913b1707807059421954048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 242257,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393135408",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393135408",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
             "body": "⛓ (Lynx!)",
             "url": "mxc://matrix.chir.rs/dad49a9d38af17386407f9001a3879d7ff5475a61707807049330458624",
             "info": {
@@ -3255,60 +3110,205 @@
             }
         },
         {
-            "body": "😵 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/d41e5545ebe1eed12f2232d2de1860a1a986ff071707807039884886016",
+            "body": "🌵 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/fec1357d22aa047d2d6fc049e7929d9ce233a6f21707807038911807488",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 164132,
+                "size": 179283,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d41e5545ebe1eed12f2232d2de1860a1a986ff071707807039884886016",
+                "thumbnail_url": "mxc://matrix.chir.rs/fec1357d22aa047d2d6fc049e7929d9ce233a6f21707807038911807488",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 164132,
+                    "size": 179283,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393135409",
+            "id": "tg-532015945393134873",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393135409",
+                "id": "532015945393134873",
                 "emoticons": [
-                    "😵"
+                    "🌵"
+                ]
+            }
+        },
+        {
+            "body": "🌵 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/db0cb9224ce9b014964be4bfa54e34060dfc61cd1707807056137814016",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 251143,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/db0cb9224ce9b014964be4bfa54e34060dfc61cd1707807056137814016",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 251143,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134874",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134874",
+                "emoticons": [
+                    "🌵"
+                ]
+            }
+        },
+        {
+            "body": "🚜 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/ae846fc8944171da77045b4c111151fbebc788641707807040803438592",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 145778,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ae846fc8944171da77045b4c111151fbebc788641707807040803438592",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 145778,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134875",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134875",
+                "emoticons": [
+                    "🚜"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/7451210b08f64ae3788601891a4a89e1a408f9011707807037338943488",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 253530,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7451210b08f64ae3788601891a4a89e1a408f9011707807037338943488",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 253530,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134876",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393134876",
+                "emoticons": [
+                    "😊"
                 ]
             }
         },
         {
             "body": "❄️ (Lynx!)",
-            "url": "mxc://matrix.chir.rs/02cf72dc926676d5b5954a092972da91949908b41707807027847233537",
+            "url": "mxc://matrix.chir.rs/3d6c6f893770a7a1d4710ced16d8e377f0356c871707807035627667456",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 233925,
+                "size": 128514,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02cf72dc926676d5b5954a092972da91949908b41707807027847233537",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d6c6f893770a7a1d4710ced16d8e377f0356c871707807035627667456",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 233925,
+                    "size": 128514,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134230",
+            "id": "tg-532015945393135404",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393134230",
+                "id": "532015945393135404",
                 "emoticons": [
                     "❄"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/640595beec5e4891dee8ee97f4189e91699e31d01707807035954823168",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 242908,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/640595beec5e4891dee8ee97f4189e91699e31d01707807035954823168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 242908,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393135405",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393135405",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "💥 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/e2251c2ad177e4526cc1e8dd37d9fcda7a92ccf61707807044934828032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 286385,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e2251c2ad177e4526cc1e8dd37d9fcda7a92ccf61707807044934828032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 286385,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393135406",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393135406",
+                "emoticons": [
+                    "💥"
                 ]
             }
         },
@@ -3342,31 +3342,60 @@
             }
         },
         {
-            "body": "❄️ (Lynx!)",
-            "url": "mxc://matrix.chir.rs/3d6c6f893770a7a1d4710ced16d8e377f0356c871707807035627667456",
+            "body": "🤗 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/9ebcecc01b37bb7de0ffca3cc02bbd86e65b913b1707807059421954048",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 128514,
+                "size": 242257,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d6c6f893770a7a1d4710ced16d8e377f0356c871707807035627667456",
+                "thumbnail_url": "mxc://matrix.chir.rs/9ebcecc01b37bb7de0ffca3cc02bbd86e65b913b1707807059421954048",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 128514,
+                    "size": 242257,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393135404",
+            "id": "tg-532015945393135408",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111801",
                     "short_name": "Lynx2NL"
                 },
-                "id": "532015945393135404",
+                "id": "532015945393135408",
                 "emoticons": [
-                    "❄"
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😵 (Lynx!)",
+            "url": "mxc://matrix.chir.rs/d41e5545ebe1eed12f2232d2de1860a1a986ff071707807039884886016",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 164132,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d41e5545ebe1eed12f2232d2de1860a1a986ff071707807039884886016",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 164132,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393135409",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111801",
+                    "short_name": "Lynx2NL"
+                },
+                "id": "532015945393135409",
+                "emoticons": [
+                    "😵"
                 ]
             }
         },
@@ -3425,35 +3454,6 @@
                 "id": "532015945393135411",
                 "emoticons": [
                     "✂"
-                ]
-            }
-        },
-        {
-            "body": "💥 (Lynx!)",
-            "url": "mxc://matrix.chir.rs/e2251c2ad177e4526cc1e8dd37d9fcda7a92ccf61707807044934828032",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 286385,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2251c2ad177e4526cc1e8dd37d9fcda7a92ccf61707807044934828032",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 286385,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393135406",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111801",
-                    "short_name": "Lynx2NL"
-                },
-                "id": "532015945393135406",
-                "emoticons": [
-                    "💥"
                 ]
             }
         },

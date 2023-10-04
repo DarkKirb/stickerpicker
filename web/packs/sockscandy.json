@@ -7,66 +7,6 @@
     },
     "stickers": [
         {
-            "body": "👀 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/fc1815d7883be89e8ed4203d983854c8f9fb78091707820547166961664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 152159,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fc1815d7883be89e8ed4203d983854c8f9fb78091707820547166961664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 152159,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1048602783416058510",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "1048602783416058510",
-                "emoticons": [
-                    "🧦",
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "💋 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/72615a3c1b3e7cd72e1a232c7e701341fdaaf9581707820546562981888",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190281,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/72615a3c1b3e7cd72e1a232c7e701341fdaaf9581707820546562981888",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190281,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1048602783416058511",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "1048602783416058511",
-                "emoticons": [
-                    "🧦",
-                    "💋"
-                ]
-            }
-        },
-        {
             "body": "❤️ (Socks Candy)",
             "url": "mxc://matrix.chir.rs/9044f65987ea8a46c38a77469a051e203abb28981707820544839122944",
             "info": {
@@ -123,6 +63,66 @@
                 "emoticons": [
                     "🧦",
                     "🤗"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/fc1815d7883be89e8ed4203d983854c8f9fb78091707820547166961664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 152159,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fc1815d7883be89e8ed4203d983854c8f9fb78091707820547166961664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 152159,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1048602783416058510",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "1048602783416058510",
+                "emoticons": [
+                    "🧦",
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "💋 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/72615a3c1b3e7cd72e1a232c7e701341fdaaf9581707820546562981888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190281,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/72615a3c1b3e7cd72e1a232c7e701341fdaaf9581707820546562981888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190281,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1048602783416058511",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "1048602783416058511",
+                "emoticons": [
+                    "🧦",
+                    "💋"
                 ]
             }
         },
@@ -218,36 +218,6 @@
         },
         {
             "body": "❤️ (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/0c23e961d09cbcff70ed9298e672fd7f4a4ad4a51707820546328100864",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 165786,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0c23e961d09cbcff70ed9298e672fd7f4a4ad4a51707820546328100864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 165786,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1048602783416058516",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "1048602783416058516",
-                "emoticons": [
-                    "❤",
-                    "🧦"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Socks Candy)",
             "url": "mxc://matrix.chir.rs/299b8c9ad9e07615dbbaf98e8ef89d7b0e8cc09c1707820545745092608",
             "info": {
                 "w": 256,
@@ -277,33 +247,32 @@
             }
         },
         {
-            "body": "🧦 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/28426ab15b2722f00775a15016f16ec889d0bf051707820550216220672",
+            "body": "❤️ (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/0c23e961d09cbcff70ed9298e672fd7f4a4ad4a51707820546328100864",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 243388,
+                "size": 165786,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/28426ab15b2722f00775a15016f16ec889d0bf051707820550216220672",
+                "thumbnail_url": "mxc://matrix.chir.rs/0c23e961d09cbcff70ed9298e672fd7f4a4ad4a51707820546328100864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 243388,
+                    "size": 165786,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6165626583647257297",
+            "id": "tg-1048602783416058516",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6165626583647257297",
+                "id": "1048602783416058516",
                 "emoticons": [
-                    "🧦",
-                    "🦊",
-                    "😱"
+                    "❤",
+                    "🧦"
                 ]
             }
         },
@@ -335,367 +304,6 @@
                     "💳",
                     "🌷",
                     "🐱"
-                ]
-            }
-        },
-        {
-            "body": "🧦 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/c2f462a14bacde37c9faa705081242487c2cb4581707820547175350272",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 145735,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c2f462a14bacde37c9faa705081242487c2cb4581707820547175350272",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 145735,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6168162521317376788",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6168162521317376788",
-                "emoticons": [
-                    "🧦",
-                    "🦊",
-                    "🍬",
-                    "🙃"
-                ]
-            }
-        },
-        {
-            "body": "👀 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/ba7bde0c3b8b3c3217cc0e44b9bbe0da6fb99ac71707820550186860544",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 124354,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ba7bde0c3b8b3c3217cc0e44b9bbe0da6fb99ac71707820550186860544",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 124354,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6179142450590779526",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6179142450590779526",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "🧦 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/0716988a2834142cebca89ad72febc45e8d3fc571707820549637406720",
-            "info": {
-                "w": 256,
-                "h": 128,
-                "size": 54689,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0716988a2834142cebca89ad72febc45e8d3fc571707820549637406720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 128,
-                    "size": 54689,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6168142120222720931",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6168142120222720931",
-                "emoticons": [
-                    "🧦",
-                    "💳",
-                    "🦊",
-                    "🍬"
-                ]
-            }
-        },
-        {
-            "body": "😊 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/e91ccb2a65dff73e872028b50801dc38951ae8631707820549687738368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 143346,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e91ccb2a65dff73e872028b50801dc38951ae8631707820549687738368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 143346,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6179332949570226925",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6179332949570226925",
-                "emoticons": [
-                    "😊"
-                ]
-            }
-        },
-        {
-            "body": "🧦 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/039e19f590de4e3082ac0ba008ec1f9306e862121707820568981536768",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 170983,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/039e19f590de4e3082ac0ba008ec1f9306e862121707820568981536768",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 170983,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6170122155980751618",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6170122155980751618",
-                "emoticons": [
-                    "🧦",
-                    "🦊",
-                    "🍬",
-                    "🙃"
-                ]
-            }
-        },
-        {
-            "body": "😭 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/f2bbdc58f1bea5fc196a3eb2c6f53acae30649701707820551071858688",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 118430,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f2bbdc58f1bea5fc196a3eb2c6f53acae30649701707820551071858688",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 118430,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6179175680752749305",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6179175680752749305",
-                "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "🥺 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/83a565adb9d52df887867783b10c3aa5255eeecf1707820561071079424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 88429,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/83a565adb9d52df887867783b10c3aa5255eeecf1707820561071079424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 88429,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6176915754860940155",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6176915754860940155",
-                "emoticons": [
-                    "🥺"
-                ]
-            }
-        },
-        {
-            "body": "😧 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/11950ac7dfb038fbbe544f3a7c12aa2ded3ee3281707820551784890368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 124672,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/11950ac7dfb038fbbe544f3a7c12aa2ded3ee3281707820551784890368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 124672,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6177200034451294698",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6177200034451294698",
-                "emoticons": [
-                    "😧"
-                ]
-            }
-        },
-        {
-            "body": "🧦 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/89c8e3cb8a56b2ccf9bfd5f54219fb23e030bb251707820549331222528",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 217523,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/89c8e3cb8a56b2ccf9bfd5f54219fb23e030bb251707820549331222528",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 217523,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6165632545061864265",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6165632545061864265",
-                "emoticons": [
-                    "🧦",
-                    "🦊",
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/f8830efc3ab60a34c65d83489145c7f61ec8559f1707820558369947648",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 225875,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f8830efc3ab60a34c65d83489145c7f61ec8559f1707820558369947648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 225875,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6179003684492412930",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6179003684492412930",
-                "emoticons": [
-                    "💳",
-                    "🐶"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/0ffbd8afb2cd6bc93aa2402cc4ce05ee2909b0881707820553756213248",
-            "info": {
-                "w": 223,
-                "h": 256,
-                "size": 233930,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0ffbd8afb2cd6bc93aa2402cc4ce05ee2909b0881707820553756213248",
-                "thumbnail_info": {
-                    "w": 223,
-                    "h": 256,
-                    "size": 233930,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6280665053582590845",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6280665053582590845",
-                "emoticons": [
-                    "🧦",
-                    "🔪"
-                ]
-            }
-        },
-        {
-            "body": "🙂 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/8aa0f40f571d3e85a7c217398b5432237be7876b1707820556847415296",
-            "info": {
-                "w": 223,
-                "h": 256,
-                "size": 148332,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8aa0f40f571d3e85a7c217398b5432237be7876b1707820556847415296",
-                "thumbnail_info": {
-                    "w": 223,
-                    "h": 256,
-                    "size": 148332,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6251312594246699006",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6251312594246699006",
-                "emoticons": [
-                    "🙂"
                 ]
             }
         },
@@ -733,121 +341,305 @@
             }
         },
         {
-            "body": "🤚 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/a9085b1e3ddf4d697922e96e44ae80eb4dff09cb1707820570541817856",
+            "body": "🧦 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/28426ab15b2722f00775a15016f16ec889d0bf051707820550216220672",
             "info": {
-                "w": 192,
+                "w": 256,
                 "h": 256,
-                "size": 139620,
+                "size": 243388,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a9085b1e3ddf4d697922e96e44ae80eb4dff09cb1707820570541817856",
+                "thumbnail_url": "mxc://matrix.chir.rs/28426ab15b2722f00775a15016f16ec889d0bf051707820550216220672",
                 "thumbnail_info": {
-                    "w": 192,
+                    "w": 256,
                     "h": 256,
-                    "size": 139620,
+                    "size": 243388,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6280680390910805479",
+            "id": "tg-6165626583647257297",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6280680390910805479",
+                "id": "6165626583647257297",
                 "emoticons": [
                     "🧦",
-                    "🤚",
-                    "✋",
-                    "🤲"
+                    "🦊",
+                    "😱"
                 ]
             }
         },
         {
-            "body": "🙂 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/16cb996762fda8a0111a06379b16f93b1d70d2281707820555379408896",
+            "body": "🧦 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/89c8e3cb8a56b2ccf9bfd5f54219fb23e030bb251707820549331222528",
             "info": {
-                "w": 167,
+                "w": 256,
                 "h": 256,
-                "size": 151211,
+                "size": 217523,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/16cb996762fda8a0111a06379b16f93b1d70d2281707820555379408896",
+                "thumbnail_url": "mxc://matrix.chir.rs/89c8e3cb8a56b2ccf9bfd5f54219fb23e030bb251707820549331222528",
                 "thumbnail_info": {
-                    "w": 167,
+                    "w": 256,
                     "h": 256,
-                    "size": 151211,
+                    "size": 217523,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6179107962003392655",
+            "id": "tg-6165632545061864265",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6179107962003392655",
+                "id": "6165632545061864265",
                 "emoticons": [
-                    "🙂"
+                    "🧦",
+                    "🦊",
+                    "😱"
                 ]
             }
         },
         {
-            "body": "🙂 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/537f352397c9295ac9323bbf9c6eed114bf6da3f1707820559745679360",
+            "body": "🧦 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/0716988a2834142cebca89ad72febc45e8d3fc571707820549637406720",
             "info": {
-                "w": 205,
-                "h": 256,
-                "size": 165588,
+                "w": 256,
+                "h": 128,
+                "size": 54689,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/537f352397c9295ac9323bbf9c6eed114bf6da3f1707820559745679360",
+                "thumbnail_url": "mxc://matrix.chir.rs/0716988a2834142cebca89ad72febc45e8d3fc571707820549637406720",
                 "thumbnail_info": {
-                    "w": 205,
-                    "h": 256,
-                    "size": 165588,
+                    "w": 256,
+                    "h": 128,
+                    "size": 54689,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6251242053703830325",
+            "id": "tg-6168142120222720931",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6251242053703830325",
+                "id": "6168142120222720931",
                 "emoticons": [
-                    "🙂"
+                    "🧦",
+                    "💳",
+                    "🦊",
+                    "🍬"
                 ]
             }
         },
         {
-            "body": "👞 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/168c36170f6656ae72af1a100b7d177c96ed60cd1707820565064056832",
+            "body": "🧦 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/c2f462a14bacde37c9faa705081242487c2cb4581707820547175350272",
             "info": {
-                "w": 165,
+                "w": 256,
                 "h": 256,
-                "size": 142642,
+                "size": 145735,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/168c36170f6656ae72af1a100b7d177c96ed60cd1707820565064056832",
+                "thumbnail_url": "mxc://matrix.chir.rs/c2f462a14bacde37c9faa705081242487c2cb4581707820547175350272",
                 "thumbnail_info": {
-                    "w": 165,
+                    "w": 256,
                     "h": 256,
-                    "size": 142642,
+                    "size": 145735,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6177184774432492208",
+            "id": "tg-6168162521317376788",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6177184774432492208",
+                "id": "6168162521317376788",
                 "emoticons": [
-                    "👞"
+                    "🧦",
+                    "🦊",
+                    "🍬",
+                    "🙃"
+                ]
+            }
+        },
+        {
+            "body": "🧦 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/039e19f590de4e3082ac0ba008ec1f9306e862121707820568981536768",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 170983,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/039e19f590de4e3082ac0ba008ec1f9306e862121707820568981536768",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 170983,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6170122155980751618",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6170122155980751618",
+                "emoticons": [
+                    "🧦",
+                    "🦊",
+                    "🍬",
+                    "🙃"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/1ef869860be64afa614e02b3e5a22fd431d368cc1707820562232901632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187820,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ef869860be64afa614e02b3e5a22fd431d368cc1707820562232901632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187820,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6176719715373681040",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6176719715373681040",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🥺 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/83a565adb9d52df887867783b10c3aa5255eeecf1707820561071079424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 88429,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/83a565adb9d52df887867783b10c3aa5255eeecf1707820561071079424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 88429,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6176915754860940155",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6176915754860940155",
+                "emoticons": [
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "🥤 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/c4b51dcb95413dc805525c073d4affc8fa5dcbc71707820558353170432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 248690,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c4b51dcb95413dc805525c073d4affc8fa5dcbc71707820558353170432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 248690,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6176972701832317080",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6176972701832317080",
+                "emoticons": [
+                    "🥤"
+                ]
+            }
+        },
+        {
+            "body": "🥞 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/f2152fc38ba53e0615200f7eea1a4ce31fc5b20c1707820562874630144",
+            "info": {
+                "w": 256,
+                "h": 220,
+                "size": 137381,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f2152fc38ba53e0615200f7eea1a4ce31fc5b20c1707820562874630144",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 220,
+                    "size": 137381,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6176976154986023394",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6176976154986023394",
+                "emoticons": [
+                    "🥞"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/40550648d5c6a67e07cbcc523aa1199c4148d50a1707820550224609280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 101047,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/40550648d5c6a67e07cbcc523aa1199c4148d50a1707820550224609280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 101047,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6176997848865835320",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6176997848865835320",
+                "emoticons": [
+                    "👀"
                 ]
             }
         },
@@ -881,31 +673,322 @@
             }
         },
         {
-            "body": "👀 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/40550648d5c6a67e07cbcc523aa1199c4148d50a1707820550224609280",
+            "body": "👞 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/168c36170f6656ae72af1a100b7d177c96ed60cd1707820565064056832",
             "info": {
-                "w": 256,
+                "w": 165,
                 "h": 256,
-                "size": 101047,
+                "size": 142642,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/40550648d5c6a67e07cbcc523aa1199c4148d50a1707820550224609280",
+                "thumbnail_url": "mxc://matrix.chir.rs/168c36170f6656ae72af1a100b7d177c96ed60cd1707820565064056832",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 165,
                     "h": 256,
-                    "size": 101047,
+                    "size": 142642,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6176997848865835320",
+            "id": "tg-6177184774432492208",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6176997848865835320",
+                "id": "6177184774432492208",
+                "emoticons": [
+                    "👞"
+                ]
+            }
+        },
+        {
+            "body": "😧 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/11950ac7dfb038fbbe544f3a7c12aa2ded3ee3281707820551784890368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 124672,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/11950ac7dfb038fbbe544f3a7c12aa2ded3ee3281707820551784890368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 124672,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6177200034451294698",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6177200034451294698",
+                "emoticons": [
+                    "😧"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/f8830efc3ab60a34c65d83489145c7f61ec8559f1707820558369947648",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 225875,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f8830efc3ab60a34c65d83489145c7f61ec8559f1707820558369947648",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 225875,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179003684492412930",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179003684492412930",
+                "emoticons": [
+                    "💳",
+                    "🐶"
+                ]
+            }
+        },
+        {
+            "body": "🍽 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/5b50255fe6959c915c5a99ee4464beba0fd1004c1707820574106976256",
+            "info": {
+                "w": 256,
+                "h": 150,
+                "size": 85284,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5b50255fe6959c915c5a99ee4464beba0fd1004c1707820574106976256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 150,
+                    "size": 85284,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179083021128304694",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179083021128304694",
+                "emoticons": [
+                    "🍽"
+                ]
+            }
+        },
+        {
+            "body": "🙂 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/16cb996762fda8a0111a06379b16f93b1d70d2281707820555379408896",
+            "info": {
+                "w": 167,
+                "h": 256,
+                "size": 151211,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/16cb996762fda8a0111a06379b16f93b1d70d2281707820555379408896",
+                "thumbnail_info": {
+                    "w": 167,
+                    "h": 256,
+                    "size": 151211,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179107962003392655",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179107962003392655",
+                "emoticons": [
+                    "🙂"
+                ]
+            }
+        },
+        {
+            "body": "📈 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/934f0e39f6f65a0d170a0a1abb0bc1c566c0dacd1707820557321371648",
+            "info": {
+                "w": 256,
+                "h": 192,
+                "size": 288746,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/934f0e39f6f65a0d170a0a1abb0bc1c566c0dacd1707820557321371648",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 192,
+                    "size": 288746,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179109246198613804",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179109246198613804",
+                "emoticons": [
+                    "📈"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/ba7bde0c3b8b3c3217cc0e44b9bbe0da6fb99ac71707820550186860544",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 124354,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ba7bde0c3b8b3c3217cc0e44b9bbe0da6fb99ac71707820550186860544",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 124354,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179142450590779526",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179142450590779526",
                 "emoticons": [
                     "👀"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/f2bbdc58f1bea5fc196a3eb2c6f53acae30649701707820551071858688",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 118430,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f2bbdc58f1bea5fc196a3eb2c6f53acae30649701707820551071858688",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 118430,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179175680752749305",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179175680752749305",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "🍽 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/d5961b2252356abee1931c8419ff8f77943d40c31707820560060252160",
+            "info": {
+                "w": 244,
+                "h": 256,
+                "size": 400248,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d5961b2252356abee1931c8419ff8f77943d40c31707820560060252160",
+                "thumbnail_info": {
+                    "w": 244,
+                    "h": 256,
+                    "size": 400248,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179289798033803367",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179289798033803367",
+                "emoticons": [
+                    "🍽"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/e91ccb2a65dff73e872028b50801dc38951ae8631707820549687738368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 143346,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e91ccb2a65dff73e872028b50801dc38951ae8631707820549687738368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 143346,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179332949570226925",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179332949570226925",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "🥰 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/669ecf7000e00de460141a33f828f3779cbf2a631707820563688325120",
+            "info": {
+                "w": 172,
+                "h": 256,
+                "size": 120131,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/669ecf7000e00de460141a33f828f3779cbf2a631707820563688325120",
+                "thumbnail_info": {
+                    "w": 172,
+                    "h": 256,
+                    "size": 120131,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6179359793115826945",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6179359793115826945",
+                "emoticons": [
+                    "🥰"
                 ]
             }
         },
@@ -941,122 +1024,6 @@
             }
         },
         {
-            "body": "🥞 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/f2152fc38ba53e0615200f7eea1a4ce31fc5b20c1707820562874630144",
-            "info": {
-                "w": 256,
-                "h": 220,
-                "size": 137381,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f2152fc38ba53e0615200f7eea1a4ce31fc5b20c1707820562874630144",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 220,
-                    "size": 137381,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6176976154986023394",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6176976154986023394",
-                "emoticons": [
-                    "🥞"
-                ]
-            }
-        },
-        {
-            "body": "🍽 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/5b50255fe6959c915c5a99ee4464beba0fd1004c1707820574106976256",
-            "info": {
-                "w": 256,
-                "h": 150,
-                "size": 85284,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5b50255fe6959c915c5a99ee4464beba0fd1004c1707820574106976256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 150,
-                    "size": 85284,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6179083021128304694",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6179083021128304694",
-                "emoticons": [
-                    "🍽"
-                ]
-            }
-        },
-        {
-            "body": "🍽 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/d5961b2252356abee1931c8419ff8f77943d40c31707820560060252160",
-            "info": {
-                "w": 244,
-                "h": 256,
-                "size": 400248,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d5961b2252356abee1931c8419ff8f77943d40c31707820560060252160",
-                "thumbnail_info": {
-                    "w": 244,
-                    "h": 256,
-                    "size": 400248,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6179289798033803367",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6179289798033803367",
-                "emoticons": [
-                    "🍽"
-                ]
-            }
-        },
-        {
-            "body": "📈 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/934f0e39f6f65a0d170a0a1abb0bc1c566c0dacd1707820557321371648",
-            "info": {
-                "w": 256,
-                "h": 192,
-                "size": 288746,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/934f0e39f6f65a0d170a0a1abb0bc1c566c0dacd1707820557321371648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 192,
-                    "size": 288746,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6179109246198613804",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1048602783416057869",
-                    "short_name": "sockscandy"
-                },
-                "id": "6179109246198613804",
-                "emoticons": [
-                    "📈"
-                ]
-            }
-        },
-        {
             "body": "🗿 (Socks Candy)",
             "url": "mxc://matrix.chir.rs/f9334ec2619cbc5d912e0dfa3429b0112903eb891707820564250361856",
             "info": {
@@ -1086,89 +1053,122 @@
             }
         },
         {
-            "body": "🥰 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/669ecf7000e00de460141a33f828f3779cbf2a631707820563688325120",
+            "body": "🙂 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/537f352397c9295ac9323bbf9c6eed114bf6da3f1707820559745679360",
             "info": {
-                "w": 172,
+                "w": 205,
                 "h": 256,
-                "size": 120131,
+                "size": 165588,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/669ecf7000e00de460141a33f828f3779cbf2a631707820563688325120",
+                "thumbnail_url": "mxc://matrix.chir.rs/537f352397c9295ac9323bbf9c6eed114bf6da3f1707820559745679360",
                 "thumbnail_info": {
-                    "w": 172,
+                    "w": 205,
                     "h": 256,
-                    "size": 120131,
+                    "size": 165588,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6179359793115826945",
+            "id": "tg-6251242053703830325",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6179359793115826945",
+                "id": "6251242053703830325",
                 "emoticons": [
-                    "🥰"
+                    "🙂"
                 ]
             }
         },
         {
-            "body": "😡 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/1ef869860be64afa614e02b3e5a22fd431d368cc1707820562232901632",
+            "body": "🙂 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/8aa0f40f571d3e85a7c217398b5432237be7876b1707820556847415296",
             "info": {
-                "w": 256,
+                "w": 223,
                 "h": 256,
-                "size": 187820,
+                "size": 148332,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1ef869860be64afa614e02b3e5a22fd431d368cc1707820562232901632",
+                "thumbnail_url": "mxc://matrix.chir.rs/8aa0f40f571d3e85a7c217398b5432237be7876b1707820556847415296",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 223,
                     "h": 256,
-                    "size": 187820,
+                    "size": 148332,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6176719715373681040",
+            "id": "tg-6251312594246699006",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6176719715373681040",
+                "id": "6251312594246699006",
                 "emoticons": [
-                    "😡"
+                    "🙂"
                 ]
             }
         },
         {
-            "body": "🥤 (Socks Candy)",
-            "url": "mxc://matrix.chir.rs/c4b51dcb95413dc805525c073d4affc8fa5dcbc71707820558353170432",
+            "body": "🔪 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/0ffbd8afb2cd6bc93aa2402cc4ce05ee2909b0881707820553756213248",
             "info": {
-                "w": 256,
+                "w": 223,
                 "h": 256,
-                "size": 248690,
+                "size": 233930,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4b51dcb95413dc805525c073d4affc8fa5dcbc71707820558353170432",
+                "thumbnail_url": "mxc://matrix.chir.rs/0ffbd8afb2cd6bc93aa2402cc4ce05ee2909b0881707820553756213248",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 223,
                     "h": 256,
-                    "size": 248690,
+                    "size": 233930,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6176972701832317080",
+            "id": "tg-6280665053582590845",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1048602783416057869",
                     "short_name": "sockscandy"
                 },
-                "id": "6176972701832317080",
+                "id": "6280665053582590845",
                 "emoticons": [
-                    "🥤"
+                    "🧦",
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "🤚 (Socks Candy)",
+            "url": "mxc://matrix.chir.rs/a9085b1e3ddf4d697922e96e44ae80eb4dff09cb1707820570541817856",
+            "info": {
+                "w": 192,
+                "h": 256,
+                "size": 139620,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a9085b1e3ddf4d697922e96e44ae80eb4dff09cb1707820570541817856",
+                "thumbnail_info": {
+                    "w": 192,
+                    "h": 256,
+                    "size": 139620,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6280680390910805479",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1048602783416057869",
+                    "short_name": "sockscandy"
+                },
+                "id": "6280680390910805479",
+                "emoticons": [
+                    "🧦",
+                    "🤚",
+                    "✋",
+                    "🤲"
                 ]
             }
         }

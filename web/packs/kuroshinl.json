@@ -94,64 +94,6 @@
             }
         },
         {
-            "body": "😳 (Kuroshi)",
-            "url": "mxc://matrix.chir.rs/4fc2edb701c50c5e9a2f670f660484c4613a0ee11707819890838077440",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142749,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4fc2edb701c50c5e9a2f670f660484c4613a0ee11707819890838077440",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142749,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393115383",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111157",
-                    "short_name": "kuroshinl"
-                },
-                "id": "532015945393115383",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "❓ (Kuroshi)",
-            "url": "mxc://matrix.chir.rs/4b2f0896c33727718a4a021e2a651a02caaf07be1707819896294866944",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 150501,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b2f0896c33727718a4a021e2a651a02caaf07be1707819896294866944",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 150501,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393115387",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111157",
-                    "short_name": "kuroshinl"
-                },
-                "id": "532015945393115387",
-                "emoticons": [
-                    "❓"
-                ]
-            }
-        },
-        {
             "body": "😇 (Kuroshi)",
             "url": "mxc://matrix.chir.rs/1d9f1ef5916cd61e34f0c2f72751521aca11c28c1707819901151870976",
             "info": {
@@ -177,6 +119,64 @@
                 "id": "532015945393115379",
                 "emoticons": [
                     "😇"
+                ]
+            }
+        },
+        {
+            "body": "☝ (Kuroshi)",
+            "url": "mxc://matrix.chir.rs/7b6d1a7f643f83d3f530cd8ef57517bc3b9330f31707819899453177857",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186196,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7b6d1a7f643f83d3f530cd8ef57517bc3b9330f31707819899453177857",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186196,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393115381",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111157",
+                    "short_name": "kuroshinl"
+                },
+                "id": "532015945393115381",
+                "emoticons": [
+                    "☝"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Kuroshi)",
+            "url": "mxc://matrix.chir.rs/4fc2edb701c50c5e9a2f670f660484c4613a0ee11707819890838077440",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142749,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4fc2edb701c50c5e9a2f670f660484c4613a0ee11707819890838077440",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142749,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393115383",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111157",
+                    "short_name": "kuroshinl"
+                },
+                "id": "532015945393115383",
+                "emoticons": [
+                    "😳"
                 ]
             }
         },
@@ -210,6 +210,35 @@
             }
         },
         {
+            "body": "❓ (Kuroshi)",
+            "url": "mxc://matrix.chir.rs/4b2f0896c33727718a4a021e2a651a02caaf07be1707819896294866944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 150501,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4b2f0896c33727718a4a021e2a651a02caaf07be1707819896294866944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 150501,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393115387",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111157",
+                    "short_name": "kuroshinl"
+                },
+                "id": "532015945393115387",
+                "emoticons": [
+                    "❓"
+                ]
+            }
+        },
+        {
             "body": "🍽 (Kuroshi)",
             "url": "mxc://matrix.chir.rs/1e7512b134b05eaa2bfcafcc82273d45e6e293a41707819892423524352",
             "info": {
@@ -235,6 +264,35 @@
                 "id": "532015945393115389",
                 "emoticons": [
                     "🍽"
+                ]
+            }
+        },
+        {
+            "body": "💤 (Kuroshi)",
+            "url": "mxc://matrix.chir.rs/1b58c2e998c604133c666c09c9819dc5d5b93d191707819912421965824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 170136,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1b58c2e998c604133c666c09c9819dc5d5b93d191707819912421965824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 170136,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393115391",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111157",
+                    "short_name": "kuroshinl"
+                },
+                "id": "532015945393115391",
+                "emoticons": [
+                    "💤"
                 ]
             }
         },
@@ -297,31 +355,31 @@
             }
         },
         {
-            "body": "💤 (Kuroshi)",
-            "url": "mxc://matrix.chir.rs/1b58c2e998c604133c666c09c9819dc5d5b93d191707819912421965824",
+            "body": "❌ (Kuroshi)",
+            "url": "mxc://matrix.chir.rs/7e7585188174bdff0c769666865c30665b9946731707819902577934336",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 170136,
+                "size": 177523,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1b58c2e998c604133c666c09c9819dc5d5b93d191707819912421965824",
+                "thumbnail_url": "mxc://matrix.chir.rs/7e7585188174bdff0c769666865c30665b9946731707819902577934336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 170136,
+                    "size": 177523,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393115391",
+            "id": "tg-532015945393115397",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111157",
                     "short_name": "kuroshinl"
                 },
-                "id": "532015945393115391",
+                "id": "532015945393115397",
                 "emoticons": [
-                    "💤"
+                    "❌"
                 ]
             }
         },
@@ -442,35 +500,6 @@
             }
         },
         {
-            "body": "😺 (Kuroshi)",
-            "url": "mxc://matrix.chir.rs/059d069b3090cf35dc317c5fbd2b8c36b7f8e64e1707819907405578240",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 188427,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/059d069b3090cf35dc317c5fbd2b8c36b7f8e64e1707819907405578240",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 188427,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393115409",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111157",
-                    "short_name": "kuroshinl"
-                },
-                "id": "532015945393115409",
-                "emoticons": [
-                    "😺"
-                ]
-            }
-        },
-        {
             "body": "😍 (Kuroshi)",
             "url": "mxc://matrix.chir.rs/e5b8f730e32e7e207d978e71f76d352a30d547ea1707819948107104256",
             "info": {
@@ -496,6 +525,35 @@
                 "id": "532015945393115407",
                 "emoticons": [
                     "😍"
+                ]
+            }
+        },
+        {
+            "body": "😺 (Kuroshi)",
+            "url": "mxc://matrix.chir.rs/059d069b3090cf35dc317c5fbd2b8c36b7f8e64e1707819907405578240",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188427,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/059d069b3090cf35dc317c5fbd2b8c36b7f8e64e1707819907405578240",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188427,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393115409",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111157",
+                    "short_name": "kuroshinl"
+                },
+                "id": "532015945393115409",
+                "emoticons": [
+                    "😺"
                 ]
             }
         },
@@ -529,35 +587,6 @@
             }
         },
         {
-            "body": "❌ (Kuroshi)",
-            "url": "mxc://matrix.chir.rs/7e7585188174bdff0c769666865c30665b9946731707819902577934336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 177523,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7e7585188174bdff0c769666865c30665b9946731707819902577934336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 177523,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393115397",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111157",
-                    "short_name": "kuroshinl"
-                },
-                "id": "532015945393115397",
-                "emoticons": [
-                    "❌"
-                ]
-            }
-        },
-        {
             "body": "ℹ️ (Kuroshi)",
             "url": "mxc://matrix.chir.rs/bf6cff5237e0c3db5dddb12806108749e84cea6a1707819910333202432",
             "info": {
@@ -583,35 +612,6 @@
                 "id": "532015945393137320",
                 "emoticons": [
                     "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "☝ (Kuroshi)",
-            "url": "mxc://matrix.chir.rs/7b6d1a7f643f83d3f530cd8ef57517bc3b9330f31707819899453177857",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 186196,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b6d1a7f643f83d3f530cd8ef57517bc3b9330f31707819899453177857",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 186196,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393115381",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111157",
-                    "short_name": "kuroshinl"
-                },
-                "id": "532015945393115381",
-                "emoticons": [
-                    "☝"
                 ]
             }
         }

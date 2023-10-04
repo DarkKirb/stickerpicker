@@ -7,6 +7,65 @@
     },
     "stickers": [
         {
+            "body": "🍪 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/7a5bb77a2af6eb0480c5001d7c948b77120d861e1707819756423217152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 238798,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7a5bb77a2af6eb0480c5001d7c948b77120d861e1707819756423217152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 238798,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694838",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694838",
+                "emoticons": [
+                    "🍪"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/facf04758de86fec447baf871b686f4858ed1c481707819755236229120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 256652,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/facf04758de86fec447baf871b686f4858ed1c481707819755236229120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 256652,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694839",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694839",
+                "emoticons": [
+                    "☺",
+                    "😊"
+                ]
+            }
+        },
+        {
             "body": "😓 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/9799f9f7e60393cf024caf37220e34ace19a68231707819761838063616",
             "info": {
@@ -97,32 +156,31 @@
             }
         },
         {
-            "body": "☺️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/facf04758de86fec447baf871b686f4858ed1c481707819755236229120",
+            "body": "🍕 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/c9e63a5963481c23638447abc067ce78d058eb501707819766242082816",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 256652,
+                "size": 270995,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/facf04758de86fec447baf871b686f4858ed1c481707819755236229120",
+                "thumbnail_url": "mxc://matrix.chir.rs/c9e63a5963481c23638447abc067ce78d058eb501707819766242082816",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 256652,
+                    "size": 270995,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694839",
+            "id": "tg-673452199157694843",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694839",
+                "id": "673452199157694843",
                 "emoticons": [
-                    "☺",
-                    "😊"
+                    "🍕"
                 ]
             }
         },
@@ -152,94 +210,6 @@
                 "id": "673452199157694844",
                 "emoticons": [
                     "📱"
-                ]
-            }
-        },
-        {
-            "body": "🍪 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/7a5bb77a2af6eb0480c5001d7c948b77120d861e1707819756423217152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 238798,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7a5bb77a2af6eb0480c5001d7c948b77120d861e1707819756423217152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 238798,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694838",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694838",
-                "emoticons": [
-                    "🍪"
-                ]
-            }
-        },
-        {
-            "body": "🤷‍♂️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/ebde2bacc6b284884b398043847f7fd4ae6468d71707819782964772864",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 269797,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ebde2bacc6b284884b398043847f7fd4ae6468d71707819782964772864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 269797,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694847",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694847",
-                "emoticons": [
-                    "🤷‍♂",
-                    "🙃"
-                ]
-            }
-        },
-        {
-            "body": "🍕 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/c9e63a5963481c23638447abc067ce78d058eb501707819766242082816",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 270995,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c9e63a5963481c23638447abc067ce78d058eb501707819766242082816",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 270995,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694843",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694843",
-                "emoticons": [
-                    "🍕"
                 ]
             }
         },
@@ -309,31 +279,64 @@
             }
         },
         {
-            "body": "🙈 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/8b3b4a20afa28433f3387497479a25b647f97dea1707819771245887488",
+            "body": "🤷‍♂️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/ebde2bacc6b284884b398043847f7fd4ae6468d71707819782964772864",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 120044,
+                "size": 269797,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8b3b4a20afa28433f3387497479a25b647f97dea1707819771245887488",
+                "thumbnail_url": "mxc://matrix.chir.rs/ebde2bacc6b284884b398043847f7fd4ae6468d71707819782964772864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 120044,
+                    "size": 269797,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694851",
+            "id": "tg-673452199157694847",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694851",
+                "id": "673452199157694847",
                 "emoticons": [
-                    "🙈"
+                    "🤷‍♂",
+                    "🙃"
+                ]
+            }
+        },
+        {
+            "body": "🎨 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/a6b7f2ff2d0aadc46c0b605d4cfef46808e88bf01707819787226185728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 270940,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a6b7f2ff2d0aadc46c0b605d4cfef46808e88bf01707819787226185728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 270940,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694848",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694848",
+                "emoticons": [
+                    "🎨",
+                    "🖌",
+                    "🖼",
+                    "👨‍🎨"
                 ]
             }
         },
@@ -365,6 +368,65 @@
                     "⚡",
                     "🌩",
                     "⛈"
+                ]
+            }
+        },
+        {
+            "body": "🍕 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/b7148cb5e0375e9a0cd9c438e7454c1e0cff75a91707819761833869312",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 325375,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b7148cb5e0375e9a0cd9c438e7454c1e0cff75a91707819761833869312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 325375,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694850",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694850",
+                "emoticons": [
+                    "🍕",
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🙈 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/8b3b4a20afa28433f3387497479a25b647f97dea1707819771245887488",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 120044,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8b3b4a20afa28433f3387497479a25b647f97dea1707819771245887488",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 120044,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694851",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694851",
+                "emoticons": [
+                    "🙈"
                 ]
             }
         },
@@ -403,33 +465,31 @@
             }
         },
         {
-            "body": "🖐️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/81c21d74c0456374c0d8fb2b2678d065612af6fc1707819780892786689",
+            "body": "🔫 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/399eed5e3d034481f5a54fd034bccc53292ee7e61707819764652441600",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 250173,
+                "size": 217987,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81c21d74c0456374c0d8fb2b2678d065612af6fc1707819780892786689",
+                "thumbnail_url": "mxc://matrix.chir.rs/399eed5e3d034481f5a54fd034bccc53292ee7e61707819764652441600",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 250173,
+                    "size": 217987,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694855",
+            "id": "tg-673452199157694853",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694855",
+                "id": "673452199157694853",
                 "emoticons": [
-                    "🖐",
-                    "👋",
-                    "✋"
+                    "🔫"
                 ]
             }
         },
@@ -463,278 +523,33 @@
             }
         },
         {
-            "body": "🔫 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/399eed5e3d034481f5a54fd034bccc53292ee7e61707819764652441600",
+            "body": "🖐️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/81c21d74c0456374c0d8fb2b2678d065612af6fc1707819780892786689",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 217987,
+                "size": 250173,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/399eed5e3d034481f5a54fd034bccc53292ee7e61707819764652441600",
+                "thumbnail_url": "mxc://matrix.chir.rs/81c21d74c0456374c0d8fb2b2678d065612af6fc1707819780892786689",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 217987,
+                    "size": 250173,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694853",
+            "id": "tg-673452199157694855",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694853",
+                "id": "673452199157694855",
                 "emoticons": [
-                    "🔫"
-                ]
-            }
-        },
-        {
-            "body": "😭 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/14da1c599e1b3e0adc38c6e22c2fb8dba611eff91707819771254276096",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 237767,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/14da1c599e1b3e0adc38c6e22c2fb8dba611eff91707819771254276096",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 237767,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694857",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694857",
-                "emoticons": [
-                    "😭",
-                    "😢",
-                    "😿"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/6555899f162654be2e5a9a9d690dac593dcfa3061707819774387421184",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 222931,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6555899f162654be2e5a9a9d690dac593dcfa3061707819774387421184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 222931,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694860",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694860",
-                "emoticons": [
-                    "😨",
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "😍 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/0af647af498a1f145147f6381b7f40940cdc20e81707819777881276416",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 252869,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0af647af498a1f145147f6381b7f40940cdc20e81707819777881276416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 252869,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694865",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694865",
-                "emoticons": [
-                    "😍",
-                    "♥",
-                    "❤",
-                    "❣",
-                    "🥰"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/ebdb8a1d30781d5751432b0e70b414cb91692add1707819773338845184",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 234792,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ebdb8a1d30781d5751432b0e70b414cb91692add1707819773338845184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 234792,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694864",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694864",
-                "emoticons": [
-                    "❤",
-                    "❣",
-                    "🥰"
-                ]
-            }
-        },
-        {
-            "body": "🍕 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/b7148cb5e0375e9a0cd9c438e7454c1e0cff75a91707819761833869312",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 325375,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b7148cb5e0375e9a0cd9c438e7454c1e0cff75a91707819761833869312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 325375,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694850",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694850",
-                "emoticons": [
-                    "🍕",
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "😛 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/9b95e101cf53f838c66f25a52b7960cbb79607c31707819776211943424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 323113,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b95e101cf53f838c66f25a52b7960cbb79607c31707819776211943424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 323113,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694863",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694863",
-                "emoticons": [
-                    "😛",
-                    "😋"
-                ]
-            }
-        },
-        {
-            "body": "😈 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/9fd9d405704bc17a1fc3aac4bf6194cda16ecb9e1707819777382154240",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 154255,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9fd9d405704bc17a1fc3aac4bf6194cda16ecb9e1707819777382154240",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 154255,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694862",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694862",
-                "emoticons": [
-                    "😈",
-                    "🦹‍♂"
-                ]
-            }
-        },
-        {
-            "body": "🎨 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/a6b7f2ff2d0aadc46c0b605d4cfef46808e88bf01707819787226185728",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 270940,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a6b7f2ff2d0aadc46c0b605d4cfef46808e88bf01707819787226185728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 270940,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694848",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694848",
-                "emoticons": [
-                    "🎨",
-                    "🖌",
-                    "🖼",
-                    "👨‍🎨"
+                    "🖐",
+                    "👋",
+                    "✋"
                 ]
             }
         },
@@ -771,6 +586,37 @@
             }
         },
         {
+            "body": "😭 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/14da1c599e1b3e0adc38c6e22c2fb8dba611eff91707819771254276096",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237767,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/14da1c599e1b3e0adc38c6e22c2fb8dba611eff91707819771254276096",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237767,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694857",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694857",
+                "emoticons": [
+                    "😭",
+                    "😢",
+                    "😿"
+                ]
+            }
+        },
+        {
             "body": "🥁 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/6777a5fb2989c37a948f4d51b8fa975d5eff3ea51707819771904393216",
             "info": {
@@ -798,127 +644,6 @@
                     "🥁",
                     "🎵",
                     "🎶"
-                ]
-            }
-        },
-        {
-            "body": "©️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/d8e338399194fa76712393e5378e576b0b5e72f21707819779009544192",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 373029,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d8e338399194fa76712393e5378e576b0b5e72f21707819779009544192",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 373029,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694869",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694869",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "🍽️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/1bd32da931b9653364bcc44486ae149d438208ba1707819782872498176",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 225993,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1bd32da931b9653364bcc44486ae149d438208ba1707819782872498176",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 225993,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694868",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694868",
-                "emoticons": [
-                    "🍽",
-                    "🍴",
-                    "🥄",
-                    "🥢"
-                ]
-            }
-        },
-        {
-            "body": "🍕 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/3c682bea69b16e166067af04293dbbdaea89310d1707819791219163136",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 245101,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3c682bea69b16e166067af04293dbbdaea89310d1707819791219163136",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 245101,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694871",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694871",
-                "emoticons": [
-                    "🍕"
-                ]
-            }
-        },
-        {
-            "body": "🤪 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/0bd50179d151ad95e3c225a5e93d56e8bd756e501707819785665904640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 182460,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0bd50179d151ad95e3c225a5e93d56e8bd756e501707819785665904640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 182460,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694870",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694870",
-                "emoticons": [
-                    "🤪",
-                    "😜",
-                    "😝"
                 ]
             }
         },
@@ -957,6 +682,36 @@
             }
         },
         {
+            "body": "😳 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/6555899f162654be2e5a9a9d690dac593dcfa3061707819774387421184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 222931,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6555899f162654be2e5a9a9d690dac593dcfa3061707819774387421184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 222931,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694860",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694860",
+                "emoticons": [
+                    "😨",
+                    "😳"
+                ]
+            }
+        },
+        {
             "body": "😘 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/f30d76075b2142949a2e04b75b559185fb23383f1707819774555193344",
             "info": {
@@ -986,6 +741,314 @@
                     "♥",
                     "❤",
                     "😻"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/9fd9d405704bc17a1fc3aac4bf6194cda16ecb9e1707819777382154240",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 154255,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9fd9d405704bc17a1fc3aac4bf6194cda16ecb9e1707819777382154240",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 154255,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694862",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694862",
+                "emoticons": [
+                    "😈",
+                    "🦹‍♂"
+                ]
+            }
+        },
+        {
+            "body": "😛 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/9b95e101cf53f838c66f25a52b7960cbb79607c31707819776211943424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 323113,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9b95e101cf53f838c66f25a52b7960cbb79607c31707819776211943424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 323113,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694863",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694863",
+                "emoticons": [
+                    "😛",
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "❤️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/ebdb8a1d30781d5751432b0e70b414cb91692add1707819773338845184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 234792,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ebdb8a1d30781d5751432b0e70b414cb91692add1707819773338845184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 234792,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694864",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694864",
+                "emoticons": [
+                    "❤",
+                    "❣",
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "😍 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/0af647af498a1f145147f6381b7f40940cdc20e81707819777881276416",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 252869,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0af647af498a1f145147f6381b7f40940cdc20e81707819777881276416",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 252869,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694865",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694865",
+                "emoticons": [
+                    "😍",
+                    "♥",
+                    "❤",
+                    "❣",
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "☝️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/1cbfbe9521245c8fe7a313acfde7b695315fb62a1707819776333578240",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 251374,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1cbfbe9521245c8fe7a313acfde7b695315fb62a1707819776333578240",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 251374,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694866",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694866",
+                "emoticons": [
+                    "☝",
+                    "👆",
+                    "⬆"
+                ]
+            }
+        },
+        {
+            "body": "👐 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/0fb482757da2e4cc35daf626309b0a58b212d5ad1707819784139177984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 270280,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0fb482757da2e4cc35daf626309b0a58b212d5ad1707819784139177984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 270280,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694867",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694867",
+                "emoticons": [
+                    "👐",
+                    "😁",
+                    "😃",
+                    "😄"
+                ]
+            }
+        },
+        {
+            "body": "🍽️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/1bd32da931b9653364bcc44486ae149d438208ba1707819782872498176",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 225993,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1bd32da931b9653364bcc44486ae149d438208ba1707819782872498176",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 225993,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694868",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694868",
+                "emoticons": [
+                    "🍽",
+                    "🍴",
+                    "🥄",
+                    "🥢"
+                ]
+            }
+        },
+        {
+            "body": "©️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/d8e338399194fa76712393e5378e576b0b5e72f21707819779009544192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 373029,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d8e338399194fa76712393e5378e576b0b5e72f21707819779009544192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 373029,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694869",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694869",
+                "emoticons": [
+                    "©"
+                ]
+            }
+        },
+        {
+            "body": "🤪 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/0bd50179d151ad95e3c225a5e93d56e8bd756e501707819785665904640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 182460,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0bd50179d151ad95e3c225a5e93d56e8bd756e501707819785665904640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 182460,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694870",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694870",
+                "emoticons": [
+                    "🤪",
+                    "😜",
+                    "😝"
+                ]
+            }
+        },
+        {
+            "body": "🍕 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/3c682bea69b16e166067af04293dbbdaea89310d1707819791219163136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 245101,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3c682bea69b16e166067af04293dbbdaea89310d1707819791219163136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 245101,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694871",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694871",
+                "emoticons": [
+                    "🍕"
                 ]
             }
         },
@@ -1078,6 +1141,35 @@
             }
         },
         {
+            "body": "🤗 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/d7ecc9ebf74401087c5801309b72aa831f0842d01707819802946437120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204977,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d7ecc9ebf74401087c5801309b72aa831f0842d01707819802946437120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204977,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694875",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694875",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
             "body": "😔 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/e42604579ceff15965a5f00486a26356de98d5251707819789080068096",
             "info": {
@@ -1111,31 +1203,33 @@
             }
         },
         {
-            "body": "🤗 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/d7ecc9ebf74401087c5801309b72aa831f0842d01707819802946437120",
+            "body": "🙌 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/92393c2b9fedddb5119d1d9772a0fae2450ae5511707819785783345152",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 204977,
+                "size": 303662,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d7ecc9ebf74401087c5801309b72aa831f0842d01707819802946437120",
+                "thumbnail_url": "mxc://matrix.chir.rs/92393c2b9fedddb5119d1d9772a0fae2450ae5511707819785783345152",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 204977,
+                    "size": 303662,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694875",
+            "id": "tg-673452199157694877",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694875",
+                "id": "673452199157694877",
                 "emoticons": [
-                    "🤗"
+                    "✋",
+                    "👐",
+                    "🙌"
                 ]
             }
         },
@@ -1195,38 +1289,6 @@
                 "id": "673452199157694879",
                 "emoticons": [
                     "☝"
-                ]
-            }
-        },
-        {
-            "body": "🚌 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/b1a7efc87d5f95b53dd0678e641ca9b9881d24241707819792267739136",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 106929,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b1a7efc87d5f95b53dd0678e641ca9b9881d24241707819792267739136",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 106929,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694882",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694882",
-                "emoticons": [
-                    "🚌",
-                    "🚍",
-                    "🚎",
-                    "🚪"
                 ]
             }
         },
@@ -1293,129 +1355,33 @@
             }
         },
         {
-            "body": "😠 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/4e12e6f2225ebfc4f3709147800ad6c4e96a97831707819798705995776",
+            "body": "🚌 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/b1a7efc87d5f95b53dd0678e641ca9b9881d24241707819792267739136",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 128092,
+                "size": 106929,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e12e6f2225ebfc4f3709147800ad6c4e96a97831707819798705995776",
+                "thumbnail_url": "mxc://matrix.chir.rs/b1a7efc87d5f95b53dd0678e641ca9b9881d24241707819792267739136",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 128092,
+                    "size": 106929,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694884",
+            "id": "tg-673452199157694882",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694884",
+                "id": "673452199157694882",
                 "emoticons": [
-                    "😡",
-                    "😤",
-                    "😠",
-                    "🗯",
-                    "💢",
-                    "🚪"
-                ]
-            }
-        },
-        {
-            "body": "👐 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/0fb482757da2e4cc35daf626309b0a58b212d5ad1707819784139177984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 270280,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0fb482757da2e4cc35daf626309b0a58b212d5ad1707819784139177984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 270280,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694867",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694867",
-                "emoticons": [
-                    "👐",
-                    "😁",
-                    "😃",
-                    "😄"
-                ]
-            }
-        },
-        {
-            "body": "☝️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/1cbfbe9521245c8fe7a313acfde7b695315fb62a1707819776333578240",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 251374,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1cbfbe9521245c8fe7a313acfde7b695315fb62a1707819776333578240",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 251374,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694866",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694866",
-                "emoticons": [
-                    "☝",
-                    "👆",
-                    "⬆"
-                ]
-            }
-        },
-        {
-            "body": "😁 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/731883497e5eec18623f773486c2476de2b1b5c31707819800027201536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 161461,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/731883497e5eec18623f773486c2476de2b1b5c31707819800027201536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 161461,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694885",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694885",
-                "emoticons": [
-                    "😁",
-                    "😄",
+                    "🚌",
+                    "🚍",
+                    "🚎",
                     "🚪"
                 ]
             }
@@ -1453,66 +1419,131 @@
             }
         },
         {
-            "body": "🙌 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/92393c2b9fedddb5119d1d9772a0fae2450ae5511707819785783345152",
+            "body": "😠 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/4e12e6f2225ebfc4f3709147800ad6c4e96a97831707819798705995776",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 303662,
+                "size": 128092,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/92393c2b9fedddb5119d1d9772a0fae2450ae5511707819785783345152",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e12e6f2225ebfc4f3709147800ad6c4e96a97831707819798705995776",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 303662,
+                    "size": 128092,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694877",
+            "id": "tg-673452199157694884",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694877",
+                "id": "673452199157694884",
                 "emoticons": [
-                    "✋",
-                    "👐",
-                    "🙌"
+                    "😡",
+                    "😤",
+                    "😠",
+                    "🗯",
+                    "💢",
+                    "🚪"
                 ]
             }
         },
         {
-            "body": "😴 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/6b1736ea9d36c4e15d4c9d5b56a79d4d1a9a6c8f1707819812211654656",
+            "body": "😁 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/731883497e5eec18623f773486c2476de2b1b5c31707819800027201536",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 164182,
+                "size": 161461,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6b1736ea9d36c4e15d4c9d5b56a79d4d1a9a6c8f1707819812211654656",
+                "thumbnail_url": "mxc://matrix.chir.rs/731883497e5eec18623f773486c2476de2b1b5c31707819800027201536",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 164182,
+                    "size": 161461,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694889",
+            "id": "tg-673452199157694885",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694889",
+                "id": "673452199157694885",
+                "emoticons": [
+                    "😁",
+                    "😄",
+                    "🚪"
+                ]
+            }
+        },
+        {
+            "body": "💤 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/b3c0a86116a7c335907640ee738ff29bfa557d481707819796113915904",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 208703,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b3c0a86116a7c335907640ee738ff29bfa557d481707819796113915904",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 208703,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694886",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694886",
                 "emoticons": [
                     "😴",
                     "😪",
                     "💤",
-                    "🛌",
-                    "🛏"
+                    "😫"
+                ]
+            }
+        },
+        {
+            "body": "😪 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/f3de4e9c10762b072bcc357cf79225a969c125511707819795094700032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 217301,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f3de4e9c10762b072bcc357cf79225a969c125511707819795094700032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 217301,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694887",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694887",
+                "emoticons": [
+                    "😴",
+                    "😪",
+                    "💤",
+                    "😫"
                 ]
             }
         },
@@ -1552,6 +1583,39 @@
             }
         },
         {
+            "body": "😴 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/6b1736ea9d36c4e15d4c9d5b56a79d4d1a9a6c8f1707819812211654656",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 164182,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6b1736ea9d36c4e15d4c9d5b56a79d4d1a9a6c8f1707819812211654656",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 164182,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694889",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694889",
+                "emoticons": [
+                    "😴",
+                    "😪",
+                    "💤",
+                    "🛌",
+                    "🛏"
+                ]
+            }
+        },
+        {
             "body": "💡 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/959e181cae4d9f1b4bd54e5eee027223e865ee2d1707819799049928704",
             "info": {
@@ -1581,34 +1645,36 @@
             }
         },
         {
-            "body": "😪 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/f3de4e9c10762b072bcc357cf79225a969c125511707819795094700032",
+            "body": "🍳 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/c504d24bd84ef9323a92da92e81abc343028590f1707819800543100928",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 217301,
+                "size": 225371,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f3de4e9c10762b072bcc357cf79225a969c125511707819795094700032",
+                "thumbnail_url": "mxc://matrix.chir.rs/c504d24bd84ef9323a92da92e81abc343028590f1707819800543100928",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 217301,
+                    "size": 225371,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694887",
+            "id": "tg-673452199157694891",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694887",
+                "id": "673452199157694891",
                 "emoticons": [
-                    "😴",
-                    "😪",
-                    "💤",
-                    "😫"
+                    "🍽",
+                    "🍴",
+                    "🍳",
+                    "👨‍🍳",
+                    "🔪",
+                    "🥘"
                 ]
             }
         },
@@ -1644,6 +1710,42 @@
             }
         },
         {
+            "body": "🍿 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/f68deb4aaf1d1c76d587ae9db4cd6765a478ae721707819824467410944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197657,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f68deb4aaf1d1c76d587ae9db4cd6765a478ae721707819824467410944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197657,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694893",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694893",
+                "emoticons": [
+                    "🍿",
+                    "🎥",
+                    "🎟",
+                    "🎦",
+                    "🎫",
+                    "🎬",
+                    "📽",
+                    "🎞"
+                ]
+            }
+        },
+        {
             "body": "😤 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/71b9449dc0131652f0c33e05792c66f52d96c8cb1707819810169028608",
             "info": {
@@ -1675,6 +1777,68 @@
                     "💢",
                     "😾",
                     "🤬"
+                ]
+            }
+        },
+        {
+            "body": "👓 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/02531fc439784b46ff133089716cfa7c00c591021707819807425953792",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 180022,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/02531fc439784b46ff133089716cfa7c00c591021707819807425953792",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 180022,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694895",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694895",
+                "emoticons": [
+                    "👓",
+                    "😎",
+                    "🕶",
+                    "👨‍🏫"
+                ]
+            }
+        },
+        {
+            "body": "🥡 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/c97af3a4a7b62ced768edcab0ccc3876693fa7781707819805823729664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156914,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c97af3a4a7b62ced768edcab0ccc3876693fa7781707819805823729664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156914,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694896",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694896",
+                "emoticons": [
+                    "🥢",
+                    "🥡"
                 ]
             }
         },
@@ -1736,42 +1900,6 @@
                     "😃",
                     "😄",
                     "😆"
-                ]
-            }
-        },
-        {
-            "body": "🍿 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/f68deb4aaf1d1c76d587ae9db4cd6765a478ae721707819824467410944",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 197657,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f68deb4aaf1d1c76d587ae9db4cd6765a478ae721707819824467410944",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 197657,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694893",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694893",
-                "emoticons": [
-                    "🍿",
-                    "🎥",
-                    "🎟",
-                    "🎦",
-                    "🎫",
-                    "🎬",
-                    "📽",
-                    "🎞"
                 ]
             }
         },
@@ -1931,97 +2059,6 @@
             }
         },
         {
-            "body": "©️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/0c5d691b6be88a29fae3f48115af48826a9389961707819817337094144",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 290741,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0c5d691b6be88a29fae3f48115af48826a9389961707819817337094144",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 290741,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694905",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694905",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "👓 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/02531fc439784b46ff133089716cfa7c00c591021707819807425953792",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 180022,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02531fc439784b46ff133089716cfa7c00c591021707819807425953792",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 180022,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694895",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694895",
-                "emoticons": [
-                    "👓",
-                    "😎",
-                    "🕶",
-                    "👨‍🏫"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/6b0c85e6a7b78441e3b3d7d7015c64b8baaa051f1707819811272130560",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192588,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6b0c85e6a7b78441e3b3d7d7015c64b8baaa051f1707819811272130560",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192588,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694969",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694969",
-                "emoticons": [
-                    "😨",
-                    "😱"
-                ]
-            }
-        },
-        {
             "body": "🌧️ (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/9f361b0d3e9453c3c2719ce97073459772b68d491707819832453365760",
             "info": {
@@ -2055,31 +2092,31 @@
             }
         },
         {
-            "body": "👍 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/5e771357d4ca50858684e4fe494e3cea9d544ebd1707819808680050688",
+            "body": "©️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/0c5d691b6be88a29fae3f48115af48826a9389961707819817337094144",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 193442,
+                "size": 290741,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5e771357d4ca50858684e4fe494e3cea9d544ebd1707819808680050688",
+                "thumbnail_url": "mxc://matrix.chir.rs/0c5d691b6be88a29fae3f48115af48826a9389961707819817337094144",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 193442,
+                    "size": 290741,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694966",
+            "id": "tg-673452199157694905",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694966",
+                "id": "673452199157694905",
                 "emoticons": [
-                    "👍"
+                    "©"
                 ]
             }
         },
@@ -2110,67 +2147,6 @@
                 "emoticons": [
                     "🧙‍♂",
                     "🌟"
-                ]
-            }
-        },
-        {
-            "body": "©️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/7fe0792c3412ac3b9e75f497b56fe53422f96cca1707819816242380800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 181863,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7fe0792c3412ac3b9e75f497b56fe53422f96cca1707819816242380800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 181863,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694965",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694965",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "🖥️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/0bf98b7fc0677aef4474cc296c23a77c9b2273481707819827743162368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215541,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0bf98b7fc0677aef4474cc296c23a77c9b2273481707819827743162368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215541,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694908",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694908",
-                "emoticons": [
-                    "🖥",
-                    "💻",
-                    "⌨",
-                    "🖱"
                 ]
             }
         },
@@ -2209,127 +2185,34 @@
             }
         },
         {
-            "body": "🥡 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/c97af3a4a7b62ced768edcab0ccc3876693fa7781707819805823729664",
+            "body": "🖥️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/0bf98b7fc0677aef4474cc296c23a77c9b2273481707819827743162368",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 156914,
+                "size": 215541,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c97af3a4a7b62ced768edcab0ccc3876693fa7781707819805823729664",
+                "thumbnail_url": "mxc://matrix.chir.rs/0bf98b7fc0677aef4474cc296c23a77c9b2273481707819827743162368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 156914,
+                    "size": 215541,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694896",
+            "id": "tg-673452199157694908",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694896",
+                "id": "673452199157694908",
                 "emoticons": [
-                    "🥢",
-                    "🥡"
-                ]
-            }
-        },
-        {
-            "body": "😟 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/e2c20bb314aa5d69fe7dfd32872ab8973a6538341707819816380792832",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191987,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2c20bb314aa5d69fe7dfd32872ab8973a6538341707819816380792832",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191987,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694970",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694970",
-                "emoticons": [
-                    "😟"
-                ]
-            }
-        },
-        {
-            "body": "💤 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/b3c0a86116a7c335907640ee738ff29bfa557d481707819796113915904",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 208703,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b3c0a86116a7c335907640ee738ff29bfa557d481707819796113915904",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 208703,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694886",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694886",
-                "emoticons": [
-                    "😴",
-                    "😪",
-                    "💤",
-                    "😫"
-                ]
-            }
-        },
-        {
-            "body": "🍳 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/c504d24bd84ef9323a92da92e81abc343028590f1707819800543100928",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 225371,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c504d24bd84ef9323a92da92e81abc343028590f1707819800543100928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 225371,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694891",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694891",
-                "emoticons": [
-                    "🍽",
-                    "🍴",
-                    "🍳",
-                    "👨‍🍳",
-                    "🔪",
-                    "🥘"
+                    "🖥",
+                    "💻",
+                    "⌨",
+                    "🖱"
                 ]
             }
         },
@@ -2365,6 +2248,65 @@
             }
         },
         {
+            "body": "⚾ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/c987be0f962ac9af60f5e71aba4e7fd1b54a996e1707819842171568128",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 246467,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c987be0f962ac9af60f5e71aba4e7fd1b54a996e1707819842171568128",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 246467,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694910",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694910",
+                "emoticons": [
+                    "⚾",
+                    "🧢"
+                ]
+            }
+        },
+        {
+            "body": "©️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/5a57288e98fff0a30c568f64833f71c25fbfd9a61707819818285006848",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 340639,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5a57288e98fff0a30c568f64833f71c25fbfd9a61707819818285006848",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 340639,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694911",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694911",
+                "emoticons": [
+                    "©"
+                ]
+            }
+        },
+        {
             "body": "🏳️‍🌈 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/69d66c2bb8e5cb7428c98569b7a87966275247f41707819819006427136",
             "info": {
@@ -2394,61 +2336,206 @@
             }
         },
         {
-            "body": "☀️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/b391fc394612b490cacc50c07247e05e9242f3f41707819820973555712",
+            "body": "©️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/7fe0792c3412ac3b9e75f497b56fe53422f96cca1707819816242380800",
             "info": {
                 "w": 256,
-                "h": 95,
-                "size": 87207,
+                "h": 256,
+                "size": 181863,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b391fc394612b490cacc50c07247e05e9242f3f41707819820973555712",
+                "thumbnail_url": "mxc://matrix.chir.rs/7fe0792c3412ac3b9e75f497b56fe53422f96cca1707819816242380800",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 95,
-                    "size": 87207,
+                    "h": 256,
+                    "size": 181863,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5130019404901253877",
+            "id": "tg-673452199157694965",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "5130019404901253877",
+                "id": "673452199157694965",
                 "emoticons": [
-                    "☀"
+                    "©"
                 ]
             }
         },
         {
-            "body": "⚾ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/c987be0f962ac9af60f5e71aba4e7fd1b54a996e1707819842171568128",
+            "body": "👍 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/5e771357d4ca50858684e4fe494e3cea9d544ebd1707819808680050688",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 246467,
+                "size": 193442,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c987be0f962ac9af60f5e71aba4e7fd1b54a996e1707819842171568128",
+                "thumbnail_url": "mxc://matrix.chir.rs/5e771357d4ca50858684e4fe494e3cea9d544ebd1707819808680050688",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 246467,
+                    "size": 193442,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694910",
+            "id": "tg-673452199157694966",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694910",
+                "id": "673452199157694966",
                 "emoticons": [
-                    "⚾",
-                    "🧢"
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "🔥 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/8672cdbf97ad4f00a0bc73e9adf2a6566298cf261707819811376988160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 268611,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8672cdbf97ad4f00a0bc73e9adf2a6566298cf261707819811376988160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 268611,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694967",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694967",
+                "emoticons": [
+                    "🔥"
+                ]
+            }
+        },
+        {
+            "body": "😋 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/d3c9ee3468b49c41ace4933dc35a2b477c9d144c1707819824802955264",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189112,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3c9ee3468b49c41ace4933dc35a2b477c9d144c1707819824802955264",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189112,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694968",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694968",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "😱 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/6b0c85e6a7b78441e3b3d7d7015c64b8baaa051f1707819811272130560",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192588,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6b0c85e6a7b78441e3b3d7d7015c64b8baaa051f1707819811272130560",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192588,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694969",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694969",
+                "emoticons": [
+                    "😨",
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "😟 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/e2c20bb314aa5d69fe7dfd32872ab8973a6538341707819816380792832",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 191987,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e2c20bb314aa5d69fe7dfd32872ab8973a6538341707819816380792832",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 191987,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-673452199157694970",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "673452199157694970",
+                "emoticons": [
+                    "😟"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/3341a63cc3879ef80cb5c240eb16d094a19ecc1e1707819820977750016",
+            "info": {
+                "w": 256,
+                "h": 193,
+                "size": 122323,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3341a63cc3879ef80cb5c240eb16d094a19ecc1e1707819820977750016",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 193,
+                    "size": 122323,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5129636594466161365",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "673452199157694470",
+                    "short_name": "jactheraccoon"
+                },
+                "id": "5129636594466161365",
+                "emoticons": [
+                    "🐶"
                 ]
             }
         },
@@ -2511,64 +2598,6 @@
             }
         },
         {
-            "body": "©️ (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/5a57288e98fff0a30c568f64833f71c25fbfd9a61707819818285006848",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 340639,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5a57288e98fff0a30c568f64833f71c25fbfd9a61707819818285006848",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 340639,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694911",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694911",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/3341a63cc3879ef80cb5c240eb16d094a19ecc1e1707819820977750016",
-            "info": {
-                "w": 256,
-                "h": 193,
-                "size": 122323,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3341a63cc3879ef80cb5c240eb16d094a19ecc1e1707819820977750016",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 193,
-                    "size": 122323,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5129636594466161365",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "5129636594466161365",
-                "emoticons": [
-                    "🐶"
-                ]
-            }
-        },
-        {
             "body": "👋 (Jac the Raccoon)",
             "url": "mxc://matrix.chir.rs/a23f3052f67dca6789b31c62e8ec8ad9ba6021131707819822273789952",
             "info": {
@@ -2598,60 +2627,31 @@
             }
         },
         {
-            "body": "😋 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/d3c9ee3468b49c41ace4933dc35a2b477c9d144c1707819824802955264",
+            "body": "☀️ (Jac the Raccoon)",
+            "url": "mxc://matrix.chir.rs/b391fc394612b490cacc50c07247e05e9242f3f41707819820973555712",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 189112,
+                "h": 95,
+                "size": 87207,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d3c9ee3468b49c41ace4933dc35a2b477c9d144c1707819824802955264",
+                "thumbnail_url": "mxc://matrix.chir.rs/b391fc394612b490cacc50c07247e05e9242f3f41707819820973555712",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 189112,
+                    "h": 95,
+                    "size": 87207,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-673452199157694968",
+            "id": "tg-5130019404901253877",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "673452199157694470",
                     "short_name": "jactheraccoon"
                 },
-                "id": "673452199157694968",
+                "id": "5130019404901253877",
                 "emoticons": [
-                    "😋"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (Jac the Raccoon)",
-            "url": "mxc://matrix.chir.rs/8672cdbf97ad4f00a0bc73e9adf2a6566298cf261707819811376988160",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 268611,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8672cdbf97ad4f00a0bc73e9adf2a6566298cf261707819811376988160",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 268611,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-673452199157694967",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "673452199157694470",
-                    "short_name": "jactheraccoon"
-                },
-                "id": "673452199157694967",
-                "emoticons": [
-                    "🔥"
+                    "☀"
                 ]
             }
         }

@@ -7,35 +7,6 @@
     },
     "stickers": [
         {
-            "body": "👅 (stinky)",
-            "url": "mxc://matrix.chir.rs/808e0d5d820b62dd5dde79acfaca2348a2d172811707820334490583040",
-            "info": {
-                "w": 256,
-                "h": 194,
-                "size": 114210,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/808e0d5d820b62dd5dde79acfaca2348a2d172811707820334490583040",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 194,
-                    "size": 114210,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-3761204896645251087",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3761204896645251074",
-                    "short_name": "shidnfards"
-                },
-                "id": "3761204896645251087",
-                "emoticons": [
-                    "👅"
-                ]
-            }
-        },
-        {
             "body": "💩 (stinky)",
             "url": "mxc://matrix.chir.rs/c11a34d7114d129f2526cd2e633816d9dec9a3c51707820322289352704",
             "info": {
@@ -61,6 +32,35 @@
                 "id": "3761204896645251086",
                 "emoticons": [
                     "💩"
+                ]
+            }
+        },
+        {
+            "body": "👅 (stinky)",
+            "url": "mxc://matrix.chir.rs/808e0d5d820b62dd5dde79acfaca2348a2d172811707820334490583040",
+            "info": {
+                "w": 256,
+                "h": 194,
+                "size": 114210,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/808e0d5d820b62dd5dde79acfaca2348a2d172811707820334490583040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 194,
+                    "size": 114210,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-3761204896645251087",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3761204896645251074",
+                    "short_name": "shidnfards"
+                },
+                "id": "3761204896645251087",
+                "emoticons": [
+                    "👅"
                 ]
             }
         }
