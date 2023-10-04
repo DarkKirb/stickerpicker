@@ -23,7 +23,7 @@ import re
 from telethon import TelegramClient
 from telethon.tl.functions.messages import GetAllStickersRequest, GetStickerSetRequest
 from telethon.tl.types.messages import AllStickers
-from telethon.tl.types import InputStickerSetShortName, Document, DocumentAttributeSticker
+from telethon.tl.types import InputStickerSetShortName, InputStickerSetID, Document, DocumentAttributeSticker
 from telethon.tl.types.messages import StickerSet as StickerSetFull
 
 from .lib import matrix, util
@@ -39,8 +39,8 @@ async def reupload_document(client: TelegramClient, document: Document) -> matri
         try:
             mxc = await matrix.upload(data, "image/png", f"{document.id}.png")
             break
-        except Exception as e:
-            print(f"{document}: {e}")
+        except Exception:
+            print("E", end='', flush=True)
     print(".", flush=True)
     return util.make_sticker(mxc, width, height, len(data))
 
@@ -138,6 +138,7 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
 pack_url_regex = re.compile(r"^(?:(?:https?://)?(?:t|telegram)\.(?:me|dog)/addstickers/)?"
                             r"([A-Za-z0-9-_]+)"
                             r"(?:\.json)?$")
+sticker_set_id_regex = re.compile(r"(\d+),(-?\d+)")
 
 parser = argparse.ArgumentParser()
 
@@ -168,11 +169,13 @@ async def main(args: argparse.Namespace) -> None:
     elif args.pack[0]:
         input_packs = []
         for pack_url in args.pack[0]:
-            match = pack_url_regex.match(pack_url)
-            if not match:
-                print(f"'{pack_url}' doesn't look like a sticker pack URL")
+            if match := pack_url_regex.match(pack_url):
+                input_packs.append(InputStickerSetShortName(short_name=match.group(1)))
+            elif match := sticker_set_id_regex.match(pack_url):
+                input_packs.append(InputStickerSetID(id=int(match.group(1)), access_hash=int(match.group(2))))
+            else:
+                print(f"invalid url: {pack_url}")
                 return
-            input_packs.append(InputStickerSetShortName(short_name=match.group(1)))
         sem = asyncio.Semaphore(16)
         async def do_pack(input_pack):
             async with sem:
