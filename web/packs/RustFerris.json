@@ -65,33 +65,60 @@
             }
         },
         {
-            "body": "🏄‍♂️ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/c7a0b827f7209bb6e975294b38e9dd28b1725e591707808557887389696",
+            "body": "🙁 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/3536bf58ba038f4b8a3b4052479c3826cf741e551707808548764778496",
             "info": {
                 "w": 256,
-                "h": 134,
-                "size": 99371,
+                "h": 256,
+                "size": 66666,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c7a0b827f7209bb6e975294b38e9dd28b1725e591707808557887389696",
+                "thumbnail_url": "mxc://matrix.chir.rs/3536bf58ba038f4b8a3b4052479c3826cf741e551707808548764778496",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 134,
-                    "size": 99371,
+                    "h": 256,
+                    "size": 66666,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617029",
+            "id": "tg-374214835438616927",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617029",
+                "id": "374214835438616927",
                 "emoticons": [
-                    "🦀",
-                    "🏄‍♂",
-                    "🏄‍♀"
+                    "🙁"
+                ]
+            }
+        },
+        {
+            "body": "🤣 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/3e1631dbe2ad2c35528e510064b7d9bbfecdcc811707808552845836288",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 66707,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3e1631dbe2ad2c35528e510064b7d9bbfecdcc811707808552845836288",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 66707,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616916",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616916",
+                "emoticons": [
+                    "🤣"
                 ]
             }
         },
@@ -122,128 +149,6 @@
                 "emoticons": [
                     "🦀",
                     "👽"
-                ]
-            }
-        },
-        {
-            "body": "👨‍🍳 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/0ab23147ba7bee0472e8ba425af6dfd7b13f4ab21707808549972738049",
-            "info": {
-                "w": 256,
-                "h": 190,
-                "size": 95840,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0ab23147ba7bee0472e8ba425af6dfd7b13f4ab21707808549972738049",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 190,
-                    "size": 95840,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617032",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617032",
-                "emoticons": [
-                    "🦀",
-                    "👨‍🍳",
-                    "👩‍🍳",
-                    "🍴",
-                    "🥼"
-                ]
-            }
-        },
-        {
-            "body": "🙁 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/3536bf58ba038f4b8a3b4052479c3826cf741e551707808548764778496",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 66666,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3536bf58ba038f4b8a3b4052479c3826cf741e551707808548764778496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 66666,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616927",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616927",
-                "emoticons": [
-                    "🙁"
-                ]
-            }
-        },
-        {
-            "body": "⚠ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/cd8bf3ad1f38677969f5d20c69fa34fc09f7b15f1707808554049601536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 140551,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cd8bf3ad1f38677969f5d20c69fa34fc09f7b15f1707808554049601536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 140551,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616923",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616923",
-                "emoticons": [
-                    "⚠"
-                ]
-            }
-        },
-        {
-            "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/7c500b7ad30667fc773ecf46711c5196c73a1a3d1707808577076330496",
-            "info": {
-                "w": 256,
-                "h": 139,
-                "size": 75985,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7c500b7ad30667fc773ecf46711c5196c73a1a3d1707808577076330496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 139,
-                    "size": 75985,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617035",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617035",
-                "emoticons": [
-                    "🦀",
-                    "👩‍🏫",
-                    "👨‍🏫"
                 ]
             }
         },
@@ -281,31 +186,125 @@
             }
         },
         {
-            "body": "🤣 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/3e1631dbe2ad2c35528e510064b7d9bbfecdcc811707808552845836288",
+            "body": "🕵️‍♀️ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/d496ebfd62b09c47c20a61e3f1d94c5e41fc844d1707808547665870848",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 66707,
+                "h": 164,
+                "size": 90586,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3e1631dbe2ad2c35528e510064b7d9bbfecdcc811707808552845836288",
+                "thumbnail_url": "mxc://matrix.chir.rs/d496ebfd62b09c47c20a61e3f1d94c5e41fc844d1707808547665870848",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 66707,
+                    "h": 164,
+                    "size": 90586,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616916",
+            "id": "tg-374214835438617031",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616916",
+                "id": "374214835438617031",
                 "emoticons": [
-                    "🤣"
+                    "🦀",
+                    "🕵‍♀",
+                    "🕵‍♂",
+                    "🔎",
+                    "🔍"
+                ]
+            }
+        },
+        {
+            "body": "🦀 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/7c500b7ad30667fc773ecf46711c5196c73a1a3d1707808577076330496",
+            "info": {
+                "w": 256,
+                "h": 139,
+                "size": 75985,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7c500b7ad30667fc773ecf46711c5196c73a1a3d1707808577076330496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 139,
+                    "size": 75985,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617035",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617035",
+                "emoticons": [
+                    "🦀",
+                    "👩‍🏫",
+                    "👨‍🏫"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/52d110a712f246d652897daad475e944d65f3a7f1707808543727419392",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 103778,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/52d110a712f246d652897daad475e944d65f3a7f1707808543727419392",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 103778,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616946",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616946",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "🎩 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/4ad5654279293a1617495cf041de9f5b3a03ba991707808558818525184",
+            "info": {
+                "w": 256,
+                "h": 160,
+                "size": 102350,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4ad5654279293a1617495cf041de9f5b3a03ba991707808558818525184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 160,
+                    "size": 102350,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617028",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617028",
+                "emoticons": [
+                    "🎩",
+                    "💫"
                 ]
             }
         },
@@ -341,6 +340,39 @@
             }
         },
         {
+            "body": "👨‍🍳 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/0ab23147ba7bee0472e8ba425af6dfd7b13f4ab21707808549972738049",
+            "info": {
+                "w": 256,
+                "h": 190,
+                "size": 95840,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0ab23147ba7bee0472e8ba425af6dfd7b13f4ab21707808549972738049",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 190,
+                    "size": 95840,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617032",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617032",
+                "emoticons": [
+                    "🦀",
+                    "👨‍🍳",
+                    "👩‍🍳",
+                    "🍴",
+                    "🥼"
+                ]
+            }
+        },
+        {
             "body": "🦀 (RustFerris)",
             "url": "mxc://matrix.chir.rs/3b5fdc1527f194a9fae7c7d1c6eca7d39ed612d51707808551776288768",
             "info": {
@@ -371,156 +403,31 @@
             }
         },
         {
-            "body": "🎩 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/4ad5654279293a1617495cf041de9f5b3a03ba991707808558818525184",
-            "info": {
-                "w": 256,
-                "h": 160,
-                "size": 102350,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4ad5654279293a1617495cf041de9f5b3a03ba991707808558818525184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 160,
-                    "size": 102350,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617028",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617028",
-                "emoticons": [
-                    "🎩",
-                    "💫"
-                ]
-            }
-        },
-        {
-            "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/4621b91a570de085e32c77003c3968408ce95a591707808555790237696",
-            "info": {
-                "w": 256,
-                "h": 160,
-                "size": 101889,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4621b91a570de085e32c77003c3968408ce95a591707808555790237696",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 160,
-                    "size": 101889,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617038",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617038",
-                "emoticons": [
-                    "🦀",
-                    "💎",
-                    "👳‍♀",
-                    "👳‍♂",
-                    "👴"
-                ]
-            }
-        },
-        {
-            "body": "🤔 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/52d110a712f246d652897daad475e944d65f3a7f1707808543727419392",
+            "body": "⚠ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/cd8bf3ad1f38677969f5d20c69fa34fc09f7b15f1707808554049601536",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 103778,
+                "size": 140551,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/52d110a712f246d652897daad475e944d65f3a7f1707808543727419392",
+                "thumbnail_url": "mxc://matrix.chir.rs/cd8bf3ad1f38677969f5d20c69fa34fc09f7b15f1707808554049601536",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 103778,
+                    "size": 140551,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616946",
+            "id": "tg-374214835438616923",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616946",
+                "id": "374214835438616923",
                 "emoticons": [
-                    "🤔"
-                ]
-            }
-        },
-        {
-            "body": "🕵️‍♀️ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/d496ebfd62b09c47c20a61e3f1d94c5e41fc844d1707808547665870848",
-            "info": {
-                "w": 256,
-                "h": 164,
-                "size": 90586,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d496ebfd62b09c47c20a61e3f1d94c5e41fc844d1707808547665870848",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 164,
-                    "size": 90586,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617031",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617031",
-                "emoticons": [
-                    "🦀",
-                    "🕵‍♀",
-                    "🕵‍♂",
-                    "🔎",
-                    "🔍"
-                ]
-            }
-        },
-        {
-            "body": "😡 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/1f1e24602a277194361ecbd9488f947243af5ea31707808565344862208",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 195790,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1f1e24602a277194361ecbd9488f947243af5ea31707808565344862208",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 195790,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616928",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616928",
-                "emoticons": [
-                    "😡"
+                    "⚠"
                 ]
             }
         },
@@ -550,65 +457,6 @@
                 "id": "374214835438617027",
                 "emoticons": [
                     "🦀",
-                    "🔪"
-                ]
-            }
-        },
-        {
-            "body": "🐭 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/72d4c26a3b0c2315371d00db406268d3fee67a3e1707808554217373696",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 94473,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/72d4c26a3b0c2315371d00db406268d3fee67a3e1707808554217373696",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 94473,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617042",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617042",
-                "emoticons": [
-                    "🦀",
-                    "🐭"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/e536dba8cb17ada074dd2840c403aaf6551652771707808559284092928",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172764,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e536dba8cb17ada074dd2840c403aaf6551652771707808559284092928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172764,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616956",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616956",
-                "emoticons": [
                     "🔪"
                 ]
             }
@@ -647,91 +495,98 @@
         },
         {
             "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/3585026e626cc5f17dda14354a3d9b17f9b6c9af1707808568029216768",
+            "url": "mxc://matrix.chir.rs/6fde10024058e646d82f47dd132afae0aa0e071a1707808550778044416",
             "info": {
                 "w": 256,
-                "h": 185,
-                "size": 109676,
+                "h": 152,
+                "size": 91907,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3585026e626cc5f17dda14354a3d9b17f9b6c9af1707808568029216768",
+                "thumbnail_url": "mxc://matrix.chir.rs/6fde10024058e646d82f47dd132afae0aa0e071a1707808550778044416",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 185,
-                    "size": 109676,
+                    "h": 152,
+                    "size": 91907,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617034",
+            "id": "tg-374214835438617039",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617034",
+                "id": "374214835438617039",
                 "emoticons": [
                     "🦀",
-                    "🗡",
-                    "⚔",
-                    "🛡"
+                    "🎼",
+                    "🎻",
+                    "🎺",
+                    "🎷"
                 ]
             }
         },
         {
-            "body": "😍 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/50f27331f782985a1f33f3d49743b2a0a471c55e1707808560047456256",
+            "body": "🏄‍♂️ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/c7a0b827f7209bb6e975294b38e9dd28b1725e591707808557887389696",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 108570,
+                "h": 134,
+                "size": 99371,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/50f27331f782985a1f33f3d49743b2a0a471c55e1707808560047456256",
+                "thumbnail_url": "mxc://matrix.chir.rs/c7a0b827f7209bb6e975294b38e9dd28b1725e591707808557887389696",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 108570,
+                    "h": 134,
+                    "size": 99371,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616965",
+            "id": "tg-374214835438617029",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616965",
+                "id": "374214835438617029",
                 "emoticons": [
-                    "😍"
+                    "🦀",
+                    "🏄‍♂",
+                    "🏄‍♀"
                 ]
             }
         },
         {
-            "body": "😢 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/80aac2f1472d23024b5dcd9a2179cc6b9f3852151707808582893830144",
+            "body": "🦀 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/4621b91a570de085e32c77003c3968408ce95a591707808555790237696",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 72601,
+                "h": 160,
+                "size": 101889,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/80aac2f1472d23024b5dcd9a2179cc6b9f3852151707808582893830144",
+                "thumbnail_url": "mxc://matrix.chir.rs/4621b91a570de085e32c77003c3968408ce95a591707808555790237696",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 72601,
+                    "h": 160,
+                    "size": 101889,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616963",
+            "id": "tg-374214835438617038",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616963",
+                "id": "374214835438617038",
                 "emoticons": [
-                    "😢"
+                    "🦀",
+                    "💎",
+                    "👳‍♀",
+                    "👳‍♂",
+                    "👴"
                 ]
             }
         },
@@ -766,151 +621,63 @@
             }
         },
         {
-            "body": "👋 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/2059e00f3bd39c1baa20846b27a1287a194f74641707808556704595968",
+            "body": "😡 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/1f1e24602a277194361ecbd9488f947243af5ea31707808565344862208",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 333779,
+                "size": 195790,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2059e00f3bd39c1baa20846b27a1287a194f74641707808556704595968",
+                "thumbnail_url": "mxc://matrix.chir.rs/1f1e24602a277194361ecbd9488f947243af5ea31707808565344862208",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 333779,
+                    "size": 195790,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616929",
+            "id": "tg-374214835438616928",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616929",
+                "id": "374214835438616928",
                 "emoticons": [
-                    "👋"
+                    "😡"
                 ]
             }
         },
         {
             "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/6fde10024058e646d82f47dd132afae0aa0e071a1707808550778044416",
+            "url": "mxc://matrix.chir.rs/3585026e626cc5f17dda14354a3d9b17f9b6c9af1707808568029216768",
             "info": {
                 "w": 256,
-                "h": 152,
-                "size": 91907,
+                "h": 185,
+                "size": 109676,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6fde10024058e646d82f47dd132afae0aa0e071a1707808550778044416",
+                "thumbnail_url": "mxc://matrix.chir.rs/3585026e626cc5f17dda14354a3d9b17f9b6c9af1707808568029216768",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 152,
-                    "size": 91907,
+                    "h": 185,
+                    "size": 109676,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617039",
+            "id": "tg-374214835438617034",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617039",
+                "id": "374214835438617034",
                 "emoticons": [
                     "🦀",
-                    "🎼",
-                    "🎻",
-                    "🎺",
-                    "🎷"
-                ]
-            }
-        },
-        {
-            "body": "® (RustFerris)",
-            "url": "mxc://matrix.chir.rs/164be2fef640934cadac4755d5fa339f4f5f413f1707808569065209856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 158581,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/164be2fef640934cadac4755d5fa339f4f5f413f1707808569065209856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 158581,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616944",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616944",
-                "emoticons": [
-                    "®"
-                ]
-            }
-        },
-        {
-            "body": "🚫 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/a9d938c54b7de17841c6472603b61e2bc18735071707808561880367104",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 109251,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a9d938c54b7de17841c6472603b61e2bc18735071707808561880367104",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 109251,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616967",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616967",
-                "emoticons": [
-                    "🚫"
-                ]
-            }
-        },
-        {
-            "body": "® (RustFerris)",
-            "url": "mxc://matrix.chir.rs/72cfab1b67fa4ad0393c270c991e1aee80bd12371707808570956840960",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 77229,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/72cfab1b67fa4ad0393c270c991e1aee80bd12371707808570956840960",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 77229,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616933",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616933",
-                "emoticons": [
-                    "®"
+                    "🗡",
+                    "⚔",
+                    "🛡"
                 ]
             }
         },
@@ -944,6 +711,64 @@
             }
         },
         {
+            "body": "🔪 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/e536dba8cb17ada074dd2840c403aaf6551652771707808559284092928",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 172764,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e536dba8cb17ada074dd2840c403aaf6551652771707808559284092928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 172764,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616956",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616956",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "🚫 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/a9d938c54b7de17841c6472603b61e2bc18735071707808561880367104",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 109251,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a9d938c54b7de17841c6472603b61e2bc18735071707808561880367104",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 109251,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616967",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616967",
+                "emoticons": [
+                    "🚫"
+                ]
+            }
+        },
+        {
             "body": "❤ (RustFerris)",
             "url": "mxc://matrix.chir.rs/cc9927dc209204770c5d98e3e3dbf61222a312551707808600329551872",
             "info": {
@@ -969,6 +794,152 @@
                 "id": "374214835438616947",
                 "emoticons": [
                     "❤"
+                ]
+            }
+        },
+        {
+            "body": "® (RustFerris)",
+            "url": "mxc://matrix.chir.rs/164be2fef640934cadac4755d5fa339f4f5f413f1707808569065209856",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 158581,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/164be2fef640934cadac4755d5fa339f4f5f413f1707808569065209856",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 158581,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616944",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616944",
+                "emoticons": [
+                    "®"
+                ]
+            }
+        },
+        {
+            "body": "👋 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/2059e00f3bd39c1baa20846b27a1287a194f74641707808556704595968",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 333779,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2059e00f3bd39c1baa20846b27a1287a194f74641707808556704595968",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 333779,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616929",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616929",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "😢 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/80aac2f1472d23024b5dcd9a2179cc6b9f3852151707808582893830144",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 72601,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/80aac2f1472d23024b5dcd9a2179cc6b9f3852151707808582893830144",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 72601,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616963",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616963",
+                "emoticons": [
+                    "😢"
+                ]
+            }
+        },
+        {
+            "body": "😍 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/50f27331f782985a1f33f3d49743b2a0a471c55e1707808560047456256",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 108570,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/50f27331f782985a1f33f3d49743b2a0a471c55e1707808560047456256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 108570,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616965",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616965",
+                "emoticons": [
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🐭 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/72d4c26a3b0c2315371d00db406268d3fee67a3e1707808554217373696",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 94473,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/72d4c26a3b0c2315371d00db406268d3fee67a3e1707808554217373696",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 94473,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617042",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617042",
+                "emoticons": [
+                    "🦀",
+                    "🐭"
                 ]
             }
         },
@@ -999,35 +970,6 @@
                 "emoticons": [
                     "👨",
                     "🔬"
-                ]
-            }
-        },
-        {
-            "body": "🤔 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/aed28046d2b6416f169d4a4b6d95221c0c790c2d1707808566598959104",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 104739,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aed28046d2b6416f169d4a4b6d95221c0c790c2d1707808566598959104",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 104739,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616945",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616945",
-                "emoticons": [
-                    "🤔"
                 ]
             }
         },
@@ -1090,91 +1032,31 @@
             }
         },
         {
-            "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/cdbee069ed3d134c24a742ce64c133ebc15be1a41707808573397925888",
+            "body": "® (RustFerris)",
+            "url": "mxc://matrix.chir.rs/72cfab1b67fa4ad0393c270c991e1aee80bd12371707808570956840960",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 197962,
+                "size": 77229,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cdbee069ed3d134c24a742ce64c133ebc15be1a41707808573397925888",
+                "thumbnail_url": "mxc://matrix.chir.rs/72cfab1b67fa4ad0393c270c991e1aee80bd12371707808570956840960",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 197962,
+                    "size": 77229,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617018",
+            "id": "tg-374214835438616933",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617018",
+                "id": "374214835438616933",
                 "emoticons": [
-                    "🦀",
-                    "👊",
-                    "⚙"
-                ]
-            }
-        },
-        {
-            "body": "👁 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/e3bf5361eec1497d7d6605b6336bd6f87817a5251707808578351398912",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 72240,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e3bf5361eec1497d7d6605b6336bd6f87817a5251707808578351398912",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 72240,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616954",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616954",
-                "emoticons": [
-                    "👁"
-                ]
-            }
-        },
-        {
-            "body": "🐍 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/fae38a5b9c88b593ec982df409c75edab9cceb0e1707808578464645120",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 88714,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fae38a5b9c88b593ec982df409c75edab9cceb0e1707808578464645120",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 88714,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616921",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616921",
-                "emoticons": [
-                    "🐍"
+                    "®"
                 ]
             }
         },
@@ -1204,6 +1086,96 @@
                 "id": "374214835438616953",
                 "emoticons": [
                     "🦎"
+                ]
+            }
+        },
+        {
+            "body": "☮️ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/eda05293cda8175684728dca7422a7aee8f853a51707808575922896896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 106242,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eda05293cda8175684728dca7422a7aee8f853a51707808575922896896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 106242,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617023",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617023",
+                "emoticons": [
+                    "⚙",
+                    "☮"
+                ]
+            }
+        },
+        {
+            "body": "🦀 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/2a2667c6218a2e9ebc34af0a091ff055e746c50a1707808569815990272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 194281,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2a2667c6218a2e9ebc34af0a091ff055e746c50a1707808569815990272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 194281,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617019",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617019",
+                "emoticons": [
+                    "🦀",
+                    "👊",
+                    "⚙"
+                ]
+            }
+        },
+        {
+            "body": "💎 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/05f6f7c1438e1b7076100a201fd764efaed12d9d1707808583824965632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 367971,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/05f6f7c1438e1b7076100a201fd764efaed12d9d1707808583824965632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 367971,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616984",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616984",
+                "emoticons": [
+                    "💎"
                 ]
             }
         },
@@ -1269,148 +1241,31 @@
             }
         },
         {
-            "body": "💎 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/05f6f7c1438e1b7076100a201fd764efaed12d9d1707808583824965632",
+            "body": "🇧🇷 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/34ef3d9b97616ee06a9c7b23779f1d1b8b8069cd1707808570583547904",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 367971,
+                "size": 280146,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/05f6f7c1438e1b7076100a201fd764efaed12d9d1707808583824965632",
+                "thumbnail_url": "mxc://matrix.chir.rs/34ef3d9b97616ee06a9c7b23779f1d1b8b8069cd1707808570583547904",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 367971,
+                    "size": 280146,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616984",
+            "id": "tg-374214835438616940",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616984",
+                "id": "374214835438616940",
                 "emoticons": [
-                    "💎"
-                ]
-            }
-        },
-        {
-            "body": "☮️ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/eda05293cda8175684728dca7422a7aee8f853a51707808575922896896",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 106242,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eda05293cda8175684728dca7422a7aee8f853a51707808575922896896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 106242,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617023",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617023",
-                "emoticons": [
-                    "⚙",
-                    "☮"
-                ]
-            }
-        },
-        {
-            "body": "📦 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/114cba4567ab43b76809a82fd5d7c3206c8a58fd1707808588002492416",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 124838,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/114cba4567ab43b76809a82fd5d7c3206c8a58fd1707808588002492416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 124838,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616973",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616973",
-                "emoticons": [
-                    "📦"
-                ]
-            }
-        },
-        {
-            "body": "👶 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/3bd22a68b54d4632ef8855f7f1bac1002512cf3d1707808593719328768",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 91037,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3bd22a68b54d4632ef8855f7f1bac1002512cf3d1707808593719328768",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 91037,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616943",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616943",
-                "emoticons": [
-                    "👶"
-                ]
-            }
-        },
-        {
-            "body": "🚶 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/01e1a5bf49c4765dff9f2f542d67621bb4b9c3a61707808588002492417",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 66420,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/01e1a5bf49c4765dff9f2f542d67621bb4b9c3a61707808588002492417",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 66420,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616962",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616962",
-                "emoticons": [
-                    "🚶"
+                    "🇧🇷"
                 ]
             }
         },
@@ -1444,58 +1299,87 @@
             }
         },
         {
-            "body": "🇧🇷 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/34ef3d9b97616ee06a9c7b23779f1d1b8b8069cd1707808570583547904",
+            "body": "📦 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/114cba4567ab43b76809a82fd5d7c3206c8a58fd1707808588002492416",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 280146,
+                "size": 124838,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/34ef3d9b97616ee06a9c7b23779f1d1b8b8069cd1707808570583547904",
+                "thumbnail_url": "mxc://matrix.chir.rs/114cba4567ab43b76809a82fd5d7c3206c8a58fd1707808588002492416",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 280146,
+                    "size": 124838,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616940",
+            "id": "tg-374214835438616973",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616940",
+                "id": "374214835438616973",
                 "emoticons": [
-                    "🇧🇷"
+                    "📦"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/aed28046d2b6416f169d4a4b6d95221c0c790c2d1707808566598959104",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 104739,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aed28046d2b6416f169d4a4b6d95221c0c790c2d1707808566598959104",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 104739,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616945",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616945",
+                "emoticons": [
+                    "🤔"
                 ]
             }
         },
         {
             "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/2a2667c6218a2e9ebc34af0a091ff055e746c50a1707808569815990272",
+            "url": "mxc://matrix.chir.rs/cdbee069ed3d134c24a742ce64c133ebc15be1a41707808573397925888",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 194281,
+                "size": 197962,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2a2667c6218a2e9ebc34af0a091ff055e746c50a1707808569815990272",
+                "thumbnail_url": "mxc://matrix.chir.rs/cdbee069ed3d134c24a742ce64c133ebc15be1a41707808573397925888",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 194281,
+                    "size": 197962,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617019",
+            "id": "tg-374214835438617018",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617019",
+                "id": "374214835438617018",
                 "emoticons": [
                     "🦀",
                     "👊",
@@ -1504,33 +1388,234 @@
             }
         },
         {
-            "body": "🐱 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/d544d7765f0b6bed6e38949ae869958d15c4cc111707808590200307713",
+            "body": "⚠️ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/11252cc830bfb0d689cfce62449dc815bf751bf41707808591378907136",
             "info": {
                 "w": 256,
-                "h": 176,
-                "size": 230448,
+                "h": 256,
+                "size": 126413,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d544d7765f0b6bed6e38949ae869958d15c4cc111707808590200307713",
+                "thumbnail_url": "mxc://matrix.chir.rs/11252cc830bfb0d689cfce62449dc815bf751bf41707808591378907136",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 176,
-                    "size": 230448,
+                    "h": 256,
+                    "size": 126413,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617001",
+            "id": "tg-374214835438616976",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617001",
+                "id": "374214835438616976",
                 "emoticons": [
-                    "🐱",
-                    "💀",
-                    "🔫"
+                    "⚠"
+                ]
+            }
+        },
+        {
+            "body": "👁 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/e3bf5361eec1497d7d6605b6336bd6f87817a5251707808578351398912",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 72240,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e3bf5361eec1497d7d6605b6336bd6f87817a5251707808578351398912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 72240,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616954",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616954",
+                "emoticons": [
+                    "👁"
+                ]
+            }
+        },
+        {
+            "body": "🚶 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/01e1a5bf49c4765dff9f2f542d67621bb4b9c3a61707808588002492417",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 66420,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/01e1a5bf49c4765dff9f2f542d67621bb4b9c3a61707808588002492417",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 66420,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616962",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616962",
+                "emoticons": [
+                    "🚶"
+                ]
+            }
+        },
+        {
+            "body": "👌 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/86d204f6f75158225a6de62fba48f6f01426526a1707808585871785984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 268265,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/86d204f6f75158225a6de62fba48f6f01426526a1707808585871785984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 268265,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616937",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616937",
+                "emoticons": [
+                    "👌"
+                ]
+            }
+        },
+        {
+            "body": "😇 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/54417ac8fe46ba6ca3026e9d7788671ffa84dd591707808611020832768",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 176114,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/54417ac8fe46ba6ca3026e9d7788671ffa84dd591707808611020832768",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 176114,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616925",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616925",
+                "emoticons": [
+                    "😇"
+                ]
+            }
+        },
+        {
+            "body": "🛢 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/a1646c3b8495da94994716082637628c73acdf241707808582117883904",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 102792,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a1646c3b8495da94994716082637628c73acdf241707808582117883904",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 102792,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616978",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616978",
+                "emoticons": [
+                    "🛢"
+                ]
+            }
+        },
+        {
+            "body": "😨 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/378c8ebe3842fbf744b4700661d460e8fa8bb8ec1707808585985032192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 219411,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/378c8ebe3842fbf744b4700661d460e8fa8bb8ec1707808585985032192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 219411,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616959",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616959",
+                "emoticons": [
+                    "😨"
+                ]
+            }
+        },
+        {
+            "body": "❔ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/470cbc70e04cce0df07fcac9dd4d4b27277d1a3f1707808592096133120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 105341,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/470cbc70e04cce0df07fcac9dd4d4b27277d1a3f1707808592096133120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 105341,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616936",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616936",
+                "emoticons": [
+                    "❔"
                 ]
             }
         },
@@ -1560,6 +1645,151 @@
                 "id": "374214835438616969",
                 "emoticons": [
                     "👉"
+                ]
+            }
+        },
+        {
+            "body": "👶 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/3bd22a68b54d4632ef8855f7f1bac1002512cf3d1707808593719328768",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 91037,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3bd22a68b54d4632ef8855f7f1bac1002512cf3d1707808593719328768",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 91037,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616943",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616943",
+                "emoticons": [
+                    "👶"
+                ]
+            }
+        },
+        {
+            "body": "🍸 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/8386d8a483df35b6c59a683a8a666d1a35770b251707808595489325056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 316896,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8386d8a483df35b6c59a683a8a666d1a35770b251707808595489325056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 316896,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616970",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616970",
+                "emoticons": [
+                    "🍸"
+                ]
+            }
+        },
+        {
+            "body": "🐍 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/fae38a5b9c88b593ec982df409c75edab9cceb0e1707808578464645120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 88714,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fae38a5b9c88b593ec982df409c75edab9cceb0e1707808578464645120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 88714,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616921",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616921",
+                "emoticons": [
+                    "🐍"
+                ]
+            }
+        },
+        {
+            "body": "🤡 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/0814e9c0e58857cd4062f671d19095476e64725b1707808590200307712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 275060,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0814e9c0e58857cd4062f671d19095476e64725b1707808590200307712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 275060,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616931",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616931",
+                "emoticons": [
+                    "🤡"
+                ]
+            }
+        },
+        {
+            "body": "🛡 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/b740a2da92559338ff7c51063a6fc9c44ace740e1707808592813359104",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 230198,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b740a2da92559338ff7c51063a6fc9c44ace740e1707808592813359104",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 230198,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616961",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616961",
+                "emoticons": [
+                    "🛡"
                 ]
             }
         },
@@ -1594,118 +1824,31 @@
             }
         },
         {
-            "body": "😇 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/54417ac8fe46ba6ca3026e9d7788671ffa84dd591707808611020832768",
+            "body": "😎 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/b8e78e611bfbe9b58835aa8836b4d9469da08ed01707808603391393792",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 176114,
+                "size": 119700,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/54417ac8fe46ba6ca3026e9d7788671ffa84dd591707808611020832768",
+                "thumbnail_url": "mxc://matrix.chir.rs/b8e78e611bfbe9b58835aa8836b4d9469da08ed01707808603391393792",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 176114,
+                    "size": 119700,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616925",
+            "id": "tg-374214835438616938",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616925",
+                "id": "374214835438616938",
                 "emoticons": [
-                    "😇"
-                ]
-            }
-        },
-        {
-            "body": "❔ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/470cbc70e04cce0df07fcac9dd4d4b27277d1a3f1707808592096133120",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 105341,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/470cbc70e04cce0df07fcac9dd4d4b27277d1a3f1707808592096133120",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 105341,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616936",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616936",
-                "emoticons": [
-                    "❔"
-                ]
-            }
-        },
-        {
-            "body": "😨 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/378c8ebe3842fbf744b4700661d460e8fa8bb8ec1707808585985032192",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 219411,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/378c8ebe3842fbf744b4700661d460e8fa8bb8ec1707808585985032192",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 219411,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616959",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616959",
-                "emoticons": [
-                    "😨"
-                ]
-            }
-        },
-        {
-            "body": "👥 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/c10909b1e61749e0307c0ad88da3a337a90095121707808589961232384",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 425974,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c10909b1e61749e0307c0ad88da3a337a90095121707808589961232384",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 425974,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616960",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616960",
-                "emoticons": [
-                    "👥"
+                    "😎"
                 ]
             }
         },
@@ -1739,151 +1882,6 @@
             }
         },
         {
-            "body": "🚬 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/782a0ec719c23a7f885b3d0651a61a23776f9daa1707808599981424640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192730,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/782a0ec719c23a7f885b3d0651a61a23776f9daa1707808599981424640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192730,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616968",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616968",
-                "emoticons": [
-                    "🚬"
-                ]
-            }
-        },
-        {
-            "body": "🤡 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/0814e9c0e58857cd4062f671d19095476e64725b1707808590200307712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 275060,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0814e9c0e58857cd4062f671d19095476e64725b1707808590200307712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 275060,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616931",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616931",
-                "emoticons": [
-                    "🤡"
-                ]
-            }
-        },
-        {
-            "body": "👌 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/86d204f6f75158225a6de62fba48f6f01426526a1707808585871785984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 268265,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/86d204f6f75158225a6de62fba48f6f01426526a1707808585871785984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 268265,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616937",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616937",
-                "emoticons": [
-                    "👌"
-                ]
-            }
-        },
-        {
-            "body": "😎 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/b8e78e611bfbe9b58835aa8836b4d9469da08ed01707808603391393792",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 119700,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b8e78e611bfbe9b58835aa8836b4d9469da08ed01707808603391393792",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 119700,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616938",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616938",
-                "emoticons": [
-                    "😎"
-                ]
-            }
-        },
-        {
-            "body": "🛡 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/b740a2da92559338ff7c51063a6fc9c44ace740e1707808592813359104",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 230198,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b740a2da92559338ff7c51063a6fc9c44ace740e1707808592813359104",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 230198,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616961",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616961",
-                "emoticons": [
-                    "🛡"
-                ]
-            }
-        },
-        {
             "body": "😌 (RustFerris)",
             "url": "mxc://matrix.chir.rs/99c5acb0831368d445bd3a8da69ebdf4fe6351641707808598354034688",
             "info": {
@@ -1909,209 +1907,6 @@
                 "id": "374214835438616974",
                 "emoticons": [
                     "😌"
-                ]
-            }
-        },
-        {
-            "body": "🐢 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/3bd90e572c6f0bd734d5ba8792feef96e882f1cc1707808596386906112",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 236280,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3bd90e572c6f0bd734d5ba8792feef96e882f1cc1707808596386906112",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 236280,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616971",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616971",
-                "emoticons": [
-                    "🐢"
-                ]
-            }
-        },
-        {
-            "body": "🍸 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/8386d8a483df35b6c59a683a8a666d1a35770b251707808595489325056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 316896,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8386d8a483df35b6c59a683a8a666d1a35770b251707808595489325056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 316896,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616970",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616970",
-                "emoticons": [
-                    "🍸"
-                ]
-            }
-        },
-        {
-            "body": "⚠️ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/616f818bc4c480e8e32329ca1ebcc7090579c2d81707808601600425984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 387284,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/616f818bc4c480e8e32329ca1ebcc7090579c2d81707808601600425984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 387284,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616987",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616987",
-                "emoticons": [
-                    "⚠"
-                ]
-            }
-        },
-        {
-            "body": "👉 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/6c33e695a9c2cd9936f55cd56e711edcb6477c0d1707808638661296128",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 275883,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6c33e695a9c2cd9936f55cd56e711edcb6477c0d1707808638661296128",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 275883,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616979",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616979",
-                "emoticons": [
-                    "👉"
-                ]
-            }
-        },
-        {
-            "body": "🛢 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/a1646c3b8495da94994716082637628c73acdf241707808582117883904",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 102792,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a1646c3b8495da94994716082637628c73acdf241707808582117883904",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 102792,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616978",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616978",
-                "emoticons": [
-                    "🛢"
-                ]
-            }
-        },
-        {
-            "body": "😑 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/b7341851c38cc4b0be161c258f5c4eaa6bb6f0611707808598362423296",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205553,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b7341851c38cc4b0be161c258f5c4eaa6bb6f0611707808598362423296",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205553,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616977",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616977",
-                "emoticons": [
-                    "😑"
-                ]
-            }
-        },
-        {
-            "body": "💦 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/8b51d466b77dbae4b64be738bd856b3886bb1c141707808609464745984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 147932,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8b51d466b77dbae4b64be738bd856b3886bb1c141707808609464745984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 147932,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616924",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616924",
-                "emoticons": [
-                    "💦"
                 ]
             }
         },
@@ -2145,151 +1940,60 @@
             }
         },
         {
-            "body": "📞 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/4fcb8992c33c7bc7353e97bdd9bd45ab1106c79c1707808605249470464",
+            "body": "⚠️ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/616f818bc4c480e8e32329ca1ebcc7090579c2d81707808601600425984",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 221786,
+                "size": 387284,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4fcb8992c33c7bc7353e97bdd9bd45ab1106c79c1707808605249470464",
+                "thumbnail_url": "mxc://matrix.chir.rs/616f818bc4c480e8e32329ca1ebcc7090579c2d81707808601600425984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 221786,
+                    "size": 387284,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616993",
+            "id": "tg-374214835438616987",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616993",
+                "id": "374214835438616987",
                 "emoticons": [
-                    "⚠",
-                    "📞",
-                    "🚨"
+                    "⚠"
                 ]
             }
         },
         {
-            "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/606ffbc16f7ab29e7222d8eafec4514df6849b811707808603131346944",
+            "body": "🐢 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/3bd90e572c6f0bd734d5ba8792feef96e882f1cc1707808596386906112",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 135327,
+                "size": 236280,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/606ffbc16f7ab29e7222d8eafec4514df6849b811707808603131346944",
+                "thumbnail_url": "mxc://matrix.chir.rs/3bd90e572c6f0bd734d5ba8792feef96e882f1cc1707808596386906112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 135327,
+                    "size": 236280,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616949",
+            "id": "tg-374214835438616971",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616949",
+                "id": "374214835438616971",
                 "emoticons": [
-                    "🦀"
-                ]
-            }
-        },
-        {
-            "body": "🎲 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/4c4992bc39ae4a0966dfe9de2a983cd4e20a5fde1707808608361644032",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 272726,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4c4992bc39ae4a0966dfe9de2a983cd4e20a5fde1707808608361644032",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 272726,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616992",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616992",
-                "emoticons": [
-                    "🎲",
-                    "🎡",
-                    "🏵"
-                ]
-            }
-        },
-        {
-            "body": "🐄 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/2e5b09e868fabc26d531e203f836beca0aff60d71707808607308873728",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 153787,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2e5b09e868fabc26d531e203f836beca0aff60d71707808607308873728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 153787,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616950",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616950",
-                "emoticons": [
-                    "🐄"
-                ]
-            }
-        },
-        {
-            "body": "🏅 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/d3d7b2df11906a6ba7b5123fa903e9ed61d581731707808609385054208",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 61622,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d3d7b2df11906a6ba7b5123fa903e9ed61d581731707808609385054208",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 61622,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616951",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616951",
-                "emoticons": [
-                    "🏅"
+                    "🐢"
                 ]
             }
         },
@@ -2328,6 +2032,329 @@
             }
         },
         {
+            "body": "👉 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/6c33e695a9c2cd9936f55cd56e711edcb6477c0d1707808638661296128",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 275883,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6c33e695a9c2cd9936f55cd56e711edcb6477c0d1707808638661296128",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 275883,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616979",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616979",
+                "emoticons": [
+                    "👉"
+                ]
+            }
+        },
+        {
+            "body": "🐱 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/d544d7765f0b6bed6e38949ae869958d15c4cc111707808590200307713",
+            "info": {
+                "w": 256,
+                "h": 176,
+                "size": 230448,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d544d7765f0b6bed6e38949ae869958d15c4cc111707808590200307713",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 176,
+                    "size": 230448,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617001",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617001",
+                "emoticons": [
+                    "🐱",
+                    "💀",
+                    "🔫"
+                ]
+            }
+        },
+        {
+            "body": "🎲 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/4c4992bc39ae4a0966dfe9de2a983cd4e20a5fde1707808608361644032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 272726,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4c4992bc39ae4a0966dfe9de2a983cd4e20a5fde1707808608361644032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 272726,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616992",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616992",
+                "emoticons": [
+                    "🎲",
+                    "🎡",
+                    "🏵"
+                ]
+            }
+        },
+        {
+            "body": "👥 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/c10909b1e61749e0307c0ad88da3a337a90095121707808589961232384",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 425974,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c10909b1e61749e0307c0ad88da3a337a90095121707808589961232384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 425974,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616960",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616960",
+                "emoticons": [
+                    "👥"
+                ]
+            }
+        },
+        {
+            "body": "🚬 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/782a0ec719c23a7f885b3d0651a61a23776f9daa1707808599981424640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192730,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/782a0ec719c23a7f885b3d0651a61a23776f9daa1707808599981424640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192730,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616968",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616968",
+                "emoticons": [
+                    "🚬"
+                ]
+            }
+        },
+        {
+            "body": "💦 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/8b51d466b77dbae4b64be738bd856b3886bb1c141707808609464745984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 147932,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8b51d466b77dbae4b64be738bd856b3886bb1c141707808609464745984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 147932,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616924",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616924",
+                "emoticons": [
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "🏅 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/d3d7b2df11906a6ba7b5123fa903e9ed61d581731707808609385054208",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 61622,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3d7b2df11906a6ba7b5123fa903e9ed61d581731707808609385054208",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 61622,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616951",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616951",
+                "emoticons": [
+                    "🏅"
+                ]
+            }
+        },
+        {
+            "body": "🐄 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/2e5b09e868fabc26d531e203f836beca0aff60d71707808607308873728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 153787,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2e5b09e868fabc26d531e203f836beca0aff60d71707808607308873728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 153787,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616950",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616950",
+                "emoticons": [
+                    "🐄"
+                ]
+            }
+        },
+        {
+            "body": "🦀 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/606ffbc16f7ab29e7222d8eafec4514df6849b811707808603131346944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135327,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/606ffbc16f7ab29e7222d8eafec4514df6849b811707808603131346944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135327,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616949",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616949",
+                "emoticons": [
+                    "🦀"
+                ]
+            }
+        },
+        {
+            "body": "🚋 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/78647194f8dbe9bd9df4820092bfb1ddd8f569a61707808616653783040",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 258407,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/78647194f8dbe9bd9df4820092bfb1ddd8f569a61707808616653783040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 258407,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616975",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616975",
+                "emoticons": [
+                    "🚋"
+                ]
+            }
+        },
+        {
+            "body": "🖕 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/b6577d6ba05ada7b36b1b7241235cf60694834de1707808605794729984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 301383,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b6577d6ba05ada7b36b1b7241235cf60694834de1707808605794729984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 301383,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616985",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616985",
+                "emoticons": [
+                    "🖕"
+                ]
+            }
+        },
+        {
             "body": "🍽 (RustFerris)",
             "url": "mxc://matrix.chir.rs/b6c218cf9261f1eaf8d1fa46680660206f4a4e3b1707808629815508992",
             "info": {
@@ -2357,92 +2384,62 @@
             }
         },
         {
-            "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/cbe7ba987ab923b5a351e42be9d07b29d9ee5e091707808627441532928",
+            "body": "😑 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/b7341851c38cc4b0be161c258f5c4eaa6bb6f0611707808598362423296",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 252018,
+                "size": 205553,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cbe7ba987ab923b5a351e42be9d07b29d9ee5e091707808627441532928",
+                "thumbnail_url": "mxc://matrix.chir.rs/b7341851c38cc4b0be161c258f5c4eaa6bb6f0611707808598362423296",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 252018,
+                    "size": 205553,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617000",
+            "id": "tg-374214835438616977",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617000",
+                "id": "374214835438616977",
                 "emoticons": [
-                    "🦀",
-                    "❔",
-                    "😕",
-                    "❓"
+                    "😑"
                 ]
             }
         },
         {
-            "body": "⚠️ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/11252cc830bfb0d689cfce62449dc815bf751bf41707808591378907136",
+            "body": "📞 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/4fcb8992c33c7bc7353e97bdd9bd45ab1106c79c1707808605249470464",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 126413,
+                "size": 221786,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/11252cc830bfb0d689cfce62449dc815bf751bf41707808591378907136",
+                "thumbnail_url": "mxc://matrix.chir.rs/4fcb8992c33c7bc7353e97bdd9bd45ab1106c79c1707808605249470464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 126413,
+                    "size": 221786,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616976",
+            "id": "tg-374214835438616993",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616976",
+                "id": "374214835438616993",
                 "emoticons": [
-                    "⚠"
-                ]
-            }
-        },
-        {
-            "body": "📎 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/dfff5c7561f5369a395613dd87b4ced5118d24461707808612987961344",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 129954,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dfff5c7561f5369a395613dd87b4ced5118d24461707808612987961344",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 129954,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616957",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616957",
-                "emoticons": [
-                    "📎"
+                    "⚠",
+                    "📞",
+                    "🚨"
                 ]
             }
         },
@@ -2538,6 +2535,65 @@
         },
         {
             "body": "⚠️ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/fd8019f1020d9a8087c313fcc593b4c9ceab8a721707808616569896960",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 174737,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fd8019f1020d9a8087c313fcc593b4c9ceab8a721707808616569896960",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 174737,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617020",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617020",
+                "emoticons": [
+                    "⚠"
+                ]
+            }
+        },
+        {
+            "body": "😓 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/47b9c22d7607ba8878706ef46d0ee269711623841707808616121106432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 355506,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/47b9c22d7607ba8878706ef46d0ee269711623841707808616121106432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 355506,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616996",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616996",
+                "emoticons": [
+                    "⚙",
+                    "😓"
+                ]
+            }
+        },
+        {
+            "body": "⚠️ (RustFerris)",
             "url": "mxc://matrix.chir.rs/b01639d0b1a4732cb47557d69b613503577326f71707808617870131200",
             "info": {
                 "w": 256,
@@ -2564,124 +2620,6 @@
                     "⚠",
                     "↗",
                     "⤴"
-                ]
-            }
-        },
-        {
-            "body": "🖕 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/b6577d6ba05ada7b36b1b7241235cf60694834de1707808605794729984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 301383,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6577d6ba05ada7b36b1b7241235cf60694834de1707808605794729984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 301383,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616985",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616985",
-                "emoticons": [
-                    "🖕"
-                ]
-            }
-        },
-        {
-            "body": "🚋 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/78647194f8dbe9bd9df4820092bfb1ddd8f569a61707808616653783040",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 258407,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/78647194f8dbe9bd9df4820092bfb1ddd8f569a61707808616653783040",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 258407,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616975",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616975",
-                "emoticons": [
-                    "🚋"
-                ]
-            }
-        },
-        {
-            "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/4c2c85186c2b0cc5a3d662eebd3349c023a009711707808628385251328",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 124704,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4c2c85186c2b0cc5a3d662eebd3349c023a009711707808628385251328",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 124704,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617025",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617025",
-                "emoticons": [
-                    "🦀",
-                    "🥖",
-                    "🇫🇷"
-                ]
-            }
-        },
-        {
-            "body": "⚠️ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/fd8019f1020d9a8087c313fcc593b4c9ceab8a721707808616569896960",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 174737,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fd8019f1020d9a8087c313fcc593b4c9ceab8a721707808616569896960",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 174737,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617020",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617020",
-                "emoticons": [
-                    "⚠"
                 ]
             }
         },
@@ -2714,6 +2652,36 @@
                     "🎲",
                     "🗓",
                     "🎰"
+                ]
+            }
+        },
+        {
+            "body": "🦀 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/77c14216ea9773b210500e1450762020a28ccca51707808635368767488",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 231620,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/77c14216ea9773b210500e1450762020a28ccca51707808635368767488",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 231620,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617003",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617003",
+                "emoticons": [
+                    "🦀",
+                    "🔫"
                 ]
             }
         },
@@ -2754,96 +2722,6 @@
             }
         },
         {
-            "body": "👨‍💻 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/18e58ece539bea32a03f2115ed9436ad971f05be1707808623834431488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 82234,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/18e58ece539bea32a03f2115ed9436ad971f05be1707808623834431488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 82234,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617010",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617010",
-                "emoticons": [
-                    "😎",
-                    "👨‍💻"
-                ]
-            }
-        },
-        {
-            "body": "🦀 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/77c14216ea9773b210500e1450762020a28ccca51707808635368767488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 231620,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/77c14216ea9773b210500e1450762020a28ccca51707808635368767488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 231620,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617003",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617003",
-                "emoticons": [
-                    "🦀",
-                    "🔫"
-                ]
-            }
-        },
-        {
-            "body": "☕️ (RustFerris)",
-            "url": "mxc://matrix.chir.rs/4e4cef0833b44d812f3cf2b2b5e880a7fa5cdf111707808625742839808",
-            "info": {
-                "w": 256,
-                "h": 187,
-                "size": 232098,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e4cef0833b44d812f3cf2b2b5e880a7fa5cdf111707808625742839808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 187,
-                    "size": 232098,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438616998",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438616998",
-                "emoticons": [
-                    "☕",
-                    "😏"
-                ]
-            }
-        },
-        {
             "body": "🔪 (RustFerris)",
             "url": "mxc://matrix.chir.rs/4720480a4d42f03725075e0716eac3db49c5d8c01707808629203140608",
             "info": {
@@ -2878,6 +2756,68 @@
             }
         },
         {
+            "body": "🦀 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/cbe7ba987ab923b5a351e42be9d07b29d9ee5e091707808627441532928",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 252018,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cbe7ba987ab923b5a351e42be9d07b29d9ee5e091707808627441532928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 252018,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617000",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617000",
+                "emoticons": [
+                    "🦀",
+                    "❔",
+                    "😕",
+                    "❓"
+                ]
+            }
+        },
+        {
+            "body": "🎩 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/70932732dd7f8c78150112ab328e4f32203b32001707808621770833920",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 334683,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/70932732dd7f8c78150112ab328e4f32203b32001707808621770833920",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 334683,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617026",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617026",
+                "emoticons": [
+                    "🦀",
+                    "🎩"
+                ]
+            }
+        },
+        {
             "body": "🏎 (RustFerris)",
             "url": "mxc://matrix.chir.rs/1e4de6c4c87803ec1bebde4618235d6d962f66151707808625726062592",
             "info": {
@@ -2903,6 +2843,36 @@
                 "id": "374214835438617040",
                 "emoticons": [
                     "🏎"
+                ]
+            }
+        },
+        {
+            "body": "👶 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/be4cebd0e55ebdf0d0021af7688117b77079c0411707808627445727232",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202889,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/be4cebd0e55ebdf0d0021af7688117b77079c0411707808627445727232",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202889,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616997",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616997",
+                "emoticons": [
+                    "👶",
+                    "🚸"
                 ]
             }
         },
@@ -2938,121 +2908,181 @@
             }
         },
         {
-            "body": "🎩 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/70932732dd7f8c78150112ab328e4f32203b32001707808621770833920",
+            "body": "👨‍💻 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/18e58ece539bea32a03f2115ed9436ad971f05be1707808623834431488",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 334683,
+                "size": 82234,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/70932732dd7f8c78150112ab328e4f32203b32001707808621770833920",
+                "thumbnail_url": "mxc://matrix.chir.rs/18e58ece539bea32a03f2115ed9436ad971f05be1707808623834431488",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 334683,
+                    "size": 82234,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617026",
+            "id": "tg-374214835438617010",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617026",
+                "id": "374214835438617010",
+                "emoticons": [
+                    "😎",
+                    "👨‍💻"
+                ]
+            }
+        },
+        {
+            "body": "📎 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/dfff5c7561f5369a395613dd87b4ced5118d24461707808612987961344",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 129954,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dfff5c7561f5369a395613dd87b4ced5118d24461707808612987961344",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 129954,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438616957",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438616957",
+                "emoticons": [
+                    "📎"
+                ]
+            }
+        },
+        {
+            "body": "🦀 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/4c2c85186c2b0cc5a3d662eebd3349c023a009711707808628385251328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 124704,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4c2c85186c2b0cc5a3d662eebd3349c023a009711707808628385251328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 124704,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617025",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617025",
                 "emoticons": [
                     "🦀",
-                    "🎩"
+                    "🥖",
+                    "🇫🇷"
                 ]
             }
         },
         {
-            "body": "👶 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/be4cebd0e55ebdf0d0021af7688117b77079c0411707808627445727232",
+            "body": "📖 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/5abee0f67ef946f04adc1bb16dbd8770ffa09a701707808635519762432",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 202889,
+                "size": 179830,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be4cebd0e55ebdf0d0021af7688117b77079c0411707808627445727232",
+                "thumbnail_url": "mxc://matrix.chir.rs/5abee0f67ef946f04adc1bb16dbd8770ffa09a701707808635519762432",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 202889,
+                    "size": 179830,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616997",
+            "id": "tg-374214835438617004",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616997",
+                "id": "374214835438617004",
                 "emoticons": [
-                    "👶",
-                    "🚸"
+                    "📖"
                 ]
             }
         },
         {
-            "body": "😓 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/47b9c22d7607ba8878706ef46d0ee269711623841707808616121106432",
+            "body": "☕️ (RustFerris)",
+            "url": "mxc://matrix.chir.rs/4e4cef0833b44d812f3cf2b2b5e880a7fa5cdf111707808625742839808",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 355506,
+                "h": 187,
+                "size": 232098,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/47b9c22d7607ba8878706ef46d0ee269711623841707808616121106432",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e4cef0833b44d812f3cf2b2b5e880a7fa5cdf111707808625742839808",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 355506,
+                    "h": 187,
+                    "size": 232098,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438616996",
+            "id": "tg-374214835438616998",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438616996",
+                "id": "374214835438616998",
                 "emoticons": [
-                    "⚙",
-                    "😓"
+                    "☕",
+                    "😏"
                 ]
             }
         },
         {
-            "body": "😈 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/1ceed8e7cd3e7118d118ceed1db6f3ec61c0f0491707808623855403008",
+            "body": "😱 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/c725499fea6de60bbfe2ed2c4a9167c361d4f43c1707808623855403009",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 215573,
+                "size": 48297,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1ceed8e7cd3e7118d118ceed1db6f3ec61c0f0491707808623855403008",
+                "thumbnail_url": "mxc://matrix.chir.rs/c725499fea6de60bbfe2ed2c4a9167c361d4f43c1707808623855403009",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 215573,
+                    "size": 48297,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-374214835438617011",
+            "id": "tg-374214835438617008",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "374214835438616577",
                     "short_name": "RustFerris"
                 },
-                "id": "374214835438617011",
+                "id": "374214835438617008",
                 "emoticons": [
-                    "😈"
+                    "😱",
+                    "😵"
                 ]
             }
         },
@@ -3087,6 +3117,35 @@
             }
         },
         {
+            "body": "😈 (RustFerris)",
+            "url": "mxc://matrix.chir.rs/1ceed8e7cd3e7118d118ceed1db6f3ec61c0f0491707808623855403008",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215573,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ceed8e7cd3e7118d118ceed1db6f3ec61c0f0491707808623855403008",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215573,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-374214835438617011",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "374214835438616577",
+                    "short_name": "RustFerris"
+                },
+                "id": "374214835438617011",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
             "body": "👌 (RustFerris)",
             "url": "mxc://matrix.chir.rs/4980e30ee0b175b6e6ffc06dd07379aa1007d3831707808630453043200",
             "info": {
@@ -3114,65 +3173,6 @@
                     "⚠",
                     "👌",
                     "😂"
-                ]
-            }
-        },
-        {
-            "body": "📖 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/5abee0f67ef946f04adc1bb16dbd8770ffa09a701707808635519762432",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 179830,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5abee0f67ef946f04adc1bb16dbd8770ffa09a701707808635519762432",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 179830,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617004",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617004",
-                "emoticons": [
-                    "📖"
-                ]
-            }
-        },
-        {
-            "body": "😱 (RustFerris)",
-            "url": "mxc://matrix.chir.rs/c725499fea6de60bbfe2ed2c4a9167c361d4f43c1707808623855403009",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 48297,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c725499fea6de60bbfe2ed2c4a9167c361d4f43c1707808623855403009",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 48297,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-374214835438617008",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "374214835438616577",
-                    "short_name": "RustFerris"
-                },
-                "id": "374214835438617008",
-                "emoticons": [
-                    "😱",
-                    "😵"
                 ]
             }
         }

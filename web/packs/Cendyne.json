@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "😢 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/aa2a1e427447b7a428ee1e1fd6160553ab8430191707803883239112704",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128715,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aa2a1e427447b7a428ee1e1fd6160553ab8430191707803883239112704",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128715,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5170548434293227852",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5170548434293227852",
+                "emoticons": [
+                    "😢"
+                ]
+            }
+        },
+        {
             "body": "🤩 (Cendyne)",
             "url": "mxc://matrix.chir.rs/e1cd4993184bade01015a4b30ed2290fd76c00411707803872979845120",
             "info": {
@@ -36,31 +65,60 @@
             }
         },
         {
-            "body": "😢 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/aa2a1e427447b7a428ee1e1fd6160553ab8430191707803883239112704",
+            "body": "⁉️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b527da9ce7d84ac7905a5f74d625ca30ca4159281707803879602651136",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 128715,
+                "size": 137860,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aa2a1e427447b7a428ee1e1fd6160553ab8430191707803883239112704",
+                "thumbnail_url": "mxc://matrix.chir.rs/b527da9ce7d84ac7905a5f74d625ca30ca4159281707803879602651136",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 128715,
+                    "size": 137860,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5170548434293227852",
+            "id": "tg-5167880808630845917",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5170548434293227852",
+                "id": "5167880808630845917",
                 "emoticons": [
-                    "😢"
+                    "⁉"
+                ]
+            }
+        },
+        {
+            "body": "😇 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/d769c78843e827036bc45a87aef130d473b213531707803876997988352",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 107010,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d769c78843e827036bc45a87aef130d473b213531707803876997988352",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 107010,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5168340829693018505",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5168340829693018505",
+                "emoticons": [
+                    "😇"
                 ]
             }
         },
@@ -123,64 +181,6 @@
             }
         },
         {
-            "body": "😇 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/d769c78843e827036bc45a87aef130d473b213531707803876997988352",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 107010,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d769c78843e827036bc45a87aef130d473b213531707803876997988352",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 107010,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5168340829693018505",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5168340829693018505",
-                "emoticons": [
-                    "😇"
-                ]
-            }
-        },
-        {
-            "body": "⁉️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b527da9ce7d84ac7905a5f74d625ca30ca4159281707803879602651136",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 137860,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b527da9ce7d84ac7905a5f74d625ca30ca4159281707803879602651136",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 137860,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5167880808630845917",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5167880808630845917",
-                "emoticons": [
-                    "⁉"
-                ]
-            }
-        },
-        {
             "body": "😰 (Cendyne)",
             "url": "mxc://matrix.chir.rs/3b1b24b10b2b6ca03b55d44fbcd7cf3ab34641fc1707803888591044608",
             "info": {
@@ -239,64 +239,6 @@
             }
         },
         {
-            "body": "😏 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/34a7090c200e7f1f96bbe0e37ba84c0c8610e8191707803908820172800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 137660,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/34a7090c200e7f1f96bbe0e37ba84c0c8610e8191707803908820172800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 137660,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4985893329083302233",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4985893329083302233",
-                "emoticons": [
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "✅ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/1423fa791e8413a88e243a0fbad11a8e1f2303af1707803885973798912",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 119738,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1423fa791e8413a88e243a0fbad11a8e1f2303af1707803885973798912",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 119738,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4945324481049526807",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4945324481049526807",
-                "emoticons": [
-                    "✅"
-                ]
-            }
-        },
-        {
             "body": "❤️ (Cendyne)",
             "url": "mxc://matrix.chir.rs/b4ac3640d48f73dcf81fcd0e022a4e7b4867a4611707803878428246016",
             "info": {
@@ -322,35 +264,6 @@
                 "id": "4945151874903835059",
                 "emoticons": [
                     "❤"
-                ]
-            }
-        },
-        {
-            "body": "❌ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/2f3d5a4a4fbee1c27f60723405811f96922d85581707803880839970816",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 128294,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2f3d5a4a4fbee1c27f60723405811f96922d85581707803880839970816",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 128294,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4947650051221487993",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4947650051221487993",
-                "emoticons": [
-                    "❌"
                 ]
             }
         },
@@ -384,6 +297,64 @@
             }
         },
         {
+            "body": "✅ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/1423fa791e8413a88e243a0fbad11a8e1f2303af1707803885973798912",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 119738,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1423fa791e8413a88e243a0fbad11a8e1f2303af1707803885973798912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 119738,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4945324481049526807",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4945324481049526807",
+                "emoticons": [
+                    "✅"
+                ]
+            }
+        },
+        {
+            "body": "❌ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/2f3d5a4a4fbee1c27f60723405811f96922d85581707803880839970816",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128294,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2f3d5a4a4fbee1c27f60723405811f96922d85581707803880839970816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128294,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4947650051221487993",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4947650051221487993",
+                "emoticons": [
+                    "❌"
+                ]
+            }
+        },
+        {
             "body": "💭 (Cendyne)",
             "url": "mxc://matrix.chir.rs/ad734ffed165639b18c59dcabef34f03e64932231707803880760279040",
             "info": {
@@ -413,176 +384,31 @@
             }
         },
         {
-            "body": "😰 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/6baa1c4a66b5e694ababb4c86f14334ae74c706d1707803904374210560",
+            "body": "😏 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/34a7090c200e7f1f96bbe0e37ba84c0c8610e8191707803908820172800",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 191253,
+                "size": 137660,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6baa1c4a66b5e694ababb4c86f14334ae74c706d1707803904374210560",
+                "thumbnail_url": "mxc://matrix.chir.rs/34a7090c200e7f1f96bbe0e37ba84c0c8610e8191707803908820172800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 191253,
+                    "size": 137660,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4945289498540900804",
+            "id": "tg-4985893329083302233",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4945289498540900804",
+                "id": "4985893329083302233",
                 "emoticons": [
-                    "😰"
-                ]
-            }
-        },
-        {
-            "body": "😧 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/00f44c450fc0821a3ab3a1b8e39e7066892307b11707803885927661568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 139661,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/00f44c450fc0821a3ab3a1b8e39e7066892307b11707803885927661568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 139661,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4947281500077818516",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4947281500077818516",
-                "emoticons": [
-                    "😧"
-                ]
-            }
-        },
-        {
-            "body": "🤬 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/6b660274ee67966a2abe9c95625666e923e08d651707803887425028096",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 111739,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6b660274ee67966a2abe9c95625666e923e08d651707803887425028096",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 111739,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4986009452114084409",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4986009452114084409",
-                "emoticons": [
-                    "🤬"
-                ]
-            }
-        },
-        {
-            "body": "😅 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/870e0983bbf5de1cd51b598e6cd8da722880f79a1707803890235211776",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 111648,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/870e0983bbf5de1cd51b598e6cd8da722880f79a1707803890235211776",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 111648,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4986011487928582530",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4986011487928582530",
-                "emoticons": [
-                    "😅"
-                ]
-            }
-        },
-        {
-            "body": "📝 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/78ba0b899f65b224c1f315f990f55b1779a70f521707803895499063296",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 126478,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/78ba0b899f65b224c1f315f990f55b1779a70f521707803895499063296",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 126478,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4983385124017013178",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4983385124017013178",
-                "emoticons": [
-                    "📝"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/1d6e07019c7640d0e0da47ca4781567dad65b95d1707803892672102400",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 163185,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1d6e07019c7640d0e0da47ca4781567dad65b95d1707803892672102400",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 163185,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5167915524851499428",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5167915524851499428",
-                "emoticons": [
-                    "🤗"
+                    "😏"
                 ]
             }
         },
@@ -616,60 +442,176 @@
             }
         },
         {
-            "body": "👇 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/54a31f24ab703df4b47f4924f057eb94332dfc2a1707803893791981568",
+            "body": "😾 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/47a0007ff6061102b23cec5891b7f9635e92041a1707803894240772096",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 137774,
+                "size": 173144,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/54a31f24ab703df4b47f4924f057eb94332dfc2a1707803893791981568",
+                "thumbnail_url": "mxc://matrix.chir.rs/47a0007ff6061102b23cec5891b7f9635e92041a1707803894240772096",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 137774,
+                    "size": 173144,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5109417688027890159",
+            "id": "tg-4947273034697277818",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5109417688027890159",
+                "id": "4947273034697277818",
                 "emoticons": [
-                    "👇"
+                    "😾"
                 ]
             }
         },
         {
-            "body": "🗞 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/664bcf1eef922d5a3698706dfc49f0fc8d3ec78d1707803891657080832",
+            "body": "🤬 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/6b660274ee67966a2abe9c95625666e923e08d651707803887425028096",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 138730,
+                "size": 111739,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/664bcf1eef922d5a3698706dfc49f0fc8d3ec78d1707803891657080832",
+                "thumbnail_url": "mxc://matrix.chir.rs/6b660274ee67966a2abe9c95625666e923e08d651707803887425028096",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 138730,
+                    "size": 111739,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4988107169976025748",
+            "id": "tg-4986009452114084409",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4988107169976025748",
+                "id": "4986009452114084409",
                 "emoticons": [
-                    "🗞"
+                    "🤬"
+                ]
+            }
+        },
+        {
+            "body": "😧 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/00f44c450fc0821a3ab3a1b8e39e7066892307b11707803885927661568",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 139661,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/00f44c450fc0821a3ab3a1b8e39e7066892307b11707803885927661568",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 139661,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4947281500077818516",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4947281500077818516",
+                "emoticons": [
+                    "😧"
+                ]
+            }
+        },
+        {
+            "body": "📝 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/78ba0b899f65b224c1f315f990f55b1779a70f521707803895499063296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 126478,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/78ba0b899f65b224c1f315f990f55b1779a70f521707803895499063296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 126478,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4983385124017013178",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4983385124017013178",
+                "emoticons": [
+                    "📝"
+                ]
+            }
+        },
+        {
+            "body": "😰 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/6baa1c4a66b5e694ababb4c86f14334ae74c706d1707803904374210560",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 191253,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6baa1c4a66b5e694ababb4c86f14334ae74c706d1707803904374210560",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 191253,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4945289498540900804",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4945289498540900804",
+                "emoticons": [
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/1d6e07019c7640d0e0da47ca4781567dad65b95d1707803892672102400",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 163185,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1d6e07019c7640d0e0da47ca4781567dad65b95d1707803892672102400",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 163185,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5167915524851499428",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5167915524851499428",
+                "emoticons": [
+                    "🤗"
                 ]
             }
         },
@@ -703,64 +645,6 @@
             }
         },
         {
-            "body": "🏳️‍🌈 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/24c1b58665f5dc312c0b18797dace2d43bd7d2011707803931905622016",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 165554,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/24c1b58665f5dc312c0b18797dace2d43bd7d2011707803931905622016",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 165554,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4985558446188266270",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4985558446188266270",
-                "emoticons": [
-                    "🏳‍🌈"
-                ]
-            }
-        },
-        {
-            "body": "🪑 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/39d78af507e1dd4adcb601f3c8b2642b246a5d731707803897105481728",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 143517,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/39d78af507e1dd4adcb601f3c8b2642b246a5d731707803897105481728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 143517,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4985758754873016849",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4985758754873016849",
-                "emoticons": [
-                    "🪑"
-                ]
-            }
-        },
-        {
             "body": "⚾️ (Cendyne)",
             "url": "mxc://matrix.chir.rs/aefcab65329574ba6466ed4823af80dd0e1a516c1707803898888060928",
             "info": {
@@ -790,31 +674,31 @@
             }
         },
         {
-            "body": "🧐 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/e6f6918498266334bd097d848eeb4b779b2a1c2d1707803898867089408",
+            "body": "🗞 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/664bcf1eef922d5a3698706dfc49f0fc8d3ec78d1707803891657080832",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 112835,
+                "size": 138730,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e6f6918498266334bd097d848eeb4b779b2a1c2d1707803898867089408",
+                "thumbnail_url": "mxc://matrix.chir.rs/664bcf1eef922d5a3698706dfc49f0fc8d3ec78d1707803891657080832",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 112835,
+                    "size": 138730,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4985636644657824280",
+            "id": "tg-4988107169976025748",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4985636644657824280",
+                "id": "4988107169976025748",
                 "emoticons": [
-                    "🧐"
+                    "🗞"
                 ]
             }
         },
@@ -848,147 +732,118 @@
             }
         },
         {
-            "body": "😝 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/a079eb290a16d5b443eb91da723801b9831e47f31707803902549688320",
+            "body": "🏳️‍🌈 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/24c1b58665f5dc312c0b18797dace2d43bd7d2011707803931905622016",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 119985,
+                "size": 165554,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a079eb290a16d5b443eb91da723801b9831e47f31707803902549688320",
+                "thumbnail_url": "mxc://matrix.chir.rs/24c1b58665f5dc312c0b18797dace2d43bd7d2011707803931905622016",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 119985,
+                    "size": 165554,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5026188463146271091",
+            "id": "tg-4985558446188266270",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5026188463146271091",
+                "id": "4985558446188266270",
                 "emoticons": [
-                    "😝"
+                    "🏳‍🌈"
                 ]
             }
         },
         {
-            "body": "😊 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/2f3c8dc842902a1347751cff1dbd2d45f27497a31707803917661765632",
+            "body": "👇 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/54a31f24ab703df4b47f4924f057eb94332dfc2a1707803893791981568",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 155266,
+                "size": 137774,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2f3c8dc842902a1347751cff1dbd2d45f27497a31707803917661765632",
+                "thumbnail_url": "mxc://matrix.chir.rs/54a31f24ab703df4b47f4924f057eb94332dfc2a1707803893791981568",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 155266,
+                    "size": 137774,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5026471445656502708",
+            "id": "tg-5109417688027890159",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5026471445656502708",
+                "id": "5109417688027890159",
                 "emoticons": [
-                    "😊"
+                    "👇"
                 ]
             }
         },
         {
-            "body": "💏 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/5264aad8b52a97d83e5b9aef0d7d81677dcdce391707803900259598336",
+            "body": "😅 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/870e0983bbf5de1cd51b598e6cd8da722880f79a1707803890235211776",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 137547,
+                "size": 111648,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5264aad8b52a97d83e5b9aef0d7d81677dcdce391707803900259598336",
+                "thumbnail_url": "mxc://matrix.chir.rs/870e0983bbf5de1cd51b598e6cd8da722880f79a1707803890235211776",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 137547,
+                    "size": 111648,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956748814884012472",
+            "id": "tg-4986011487928582530",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4956748814884012472",
+                "id": "4986011487928582530",
                 "emoticons": [
-                    "💏"
+                    "😅"
                 ]
             }
         },
         {
-            "body": "📈 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/253983055ee6dfb42d566b6c2dbdfa758f92fc7c1707803914679615488",
+            "body": "🧐 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/e6f6918498266334bd097d848eeb4b779b2a1c2d1707803898867089408",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 353352,
+                "size": 112835,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/253983055ee6dfb42d566b6c2dbdfa758f92fc7c1707803914679615488",
+                "thumbnail_url": "mxc://matrix.chir.rs/e6f6918498266334bd097d848eeb4b779b2a1c2d1707803898867089408",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 353352,
+                    "size": 112835,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5026220147120013627",
+            "id": "tg-4985636644657824280",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5026220147120013627",
+                "id": "4985636644657824280",
                 "emoticons": [
-                    "📈"
-                ]
-            }
-        },
-        {
-            "body": "💥 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/efa1d1b43efc34077996dde46e1fe4e969eed2401707803891673858048",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 132041,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/efa1d1b43efc34077996dde46e1fe4e969eed2401707803891673858048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 132041,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4947359522453717502",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4947359522453717502",
-                "emoticons": [
-                    "💥"
+                    "🧐"
                 ]
             }
         },
@@ -1022,31 +877,31 @@
             }
         },
         {
-            "body": "✖️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/4ef96235999f4c27b420d7adca931856aa495a251707803909843582976",
+            "body": "🪑 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/39d78af507e1dd4adcb601f3c8b2642b246a5d731707803897105481728",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 105222,
+                "size": 143517,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4ef96235999f4c27b420d7adca931856aa495a251707803909843582976",
+                "thumbnail_url": "mxc://matrix.chir.rs/39d78af507e1dd4adcb601f3c8b2642b246a5d731707803897105481728",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 105222,
+                    "size": 143517,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5028723275534958782",
+            "id": "tg-4985758754873016849",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5028723275534958782",
+                "id": "4985758754873016849",
                 "emoticons": [
-                    "✖"
+                    "🪑"
                 ]
             }
         },
@@ -1080,31 +935,263 @@
             }
         },
         {
-            "body": "😾 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/47a0007ff6061102b23cec5891b7f9635e92041a1707803894240772096",
+            "body": "😊 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/2f3c8dc842902a1347751cff1dbd2d45f27497a31707803917661765632",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 173144,
+                "size": 155266,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/47a0007ff6061102b23cec5891b7f9635e92041a1707803894240772096",
+                "thumbnail_url": "mxc://matrix.chir.rs/2f3c8dc842902a1347751cff1dbd2d45f27497a31707803917661765632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 173144,
+                    "size": 155266,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4947273034697277818",
+            "id": "tg-5026471445656502708",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4947273034697277818",
+                "id": "5026471445656502708",
                 "emoticons": [
-                    "😾"
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "😝 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/a079eb290a16d5b443eb91da723801b9831e47f31707803902549688320",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 119985,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a079eb290a16d5b443eb91da723801b9831e47f31707803902549688320",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 119985,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5026188463146271091",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5026188463146271091",
+                "emoticons": [
+                    "😝"
+                ]
+            }
+        },
+        {
+            "body": "📈 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/253983055ee6dfb42d566b6c2dbdfa758f92fc7c1707803914679615488",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 353352,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/253983055ee6dfb42d566b6c2dbdfa758f92fc7c1707803914679615488",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 353352,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5026220147120013627",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5026220147120013627",
+                "emoticons": [
+                    "📈"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b72f1ebd841040398e946234e5ca275e9dffed5a1707803906106458112",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128210,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b72f1ebd841040398e946234e5ca275e9dffed5a1707803906106458112",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128210,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5026018202052723408",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5026018202052723408",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "💏 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/5264aad8b52a97d83e5b9aef0d7d81677dcdce391707803900259598336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 137547,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5264aad8b52a97d83e5b9aef0d7d81677dcdce391707803900259598336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 137547,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956748814884012472",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4956748814884012472",
+                "emoticons": [
+                    "💏"
+                ]
+            }
+        },
+        {
+            "body": "🥱 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/a255cf690f87117258761c1fde6f70e834247dfa1707803902570659840",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 147047,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a255cf690f87117258761c1fde6f70e834247dfa1707803902570659840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 147047,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5028761646772781439",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5028761646772781439",
+                "emoticons": [
+                    "🥱"
+                ]
+            }
+        },
+        {
+            "body": "✖️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/4ef96235999f4c27b420d7adca931856aa495a251707803909843582976",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 105222,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4ef96235999f4c27b420d7adca931856aa495a251707803909843582976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 105222,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5028723275534958782",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5028723275534958782",
+                "emoticons": [
+                    "✖"
+                ]
+            }
+        },
+        {
+            "body": "🅰️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/3b9f7693a847b5d3d6e47fa0af7a59290725a81a1707803907532521472",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 81597,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3b9f7693a847b5d3d6e47fa0af7a59290725a81a1707803907532521472",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 81597,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4945009685716533736",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4945009685716533736",
+                "emoticons": [
+                    "🅰"
+                ]
+            }
+        },
+        {
+            "body": "🌩 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/faeebd883658aa3b95f91ad013b958188d90dca01707803903405326336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 113474,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/faeebd883658aa3b95f91ad013b958188d90dca01707803903405326336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 113474,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5026416671938576983",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5026416671938576983",
+                "emoticons": [
+                    "🌩"
                 ]
             }
         },
@@ -1139,60 +1226,89 @@
             }
         },
         {
-            "body": "🌩 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/faeebd883658aa3b95f91ad013b958188d90dca01707803903405326336",
+            "body": "💥 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/efa1d1b43efc34077996dde46e1fe4e969eed2401707803891673858048",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 113474,
+                "size": 132041,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/faeebd883658aa3b95f91ad013b958188d90dca01707803903405326336",
+                "thumbnail_url": "mxc://matrix.chir.rs/efa1d1b43efc34077996dde46e1fe4e969eed2401707803891673858048",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 113474,
+                    "size": 132041,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5026416671938576983",
+            "id": "tg-4947359522453717502",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5026416671938576983",
+                "id": "4947359522453717502",
                 "emoticons": [
-                    "🌩"
+                    "💥"
                 ]
             }
         },
         {
-            "body": "🅰️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/3b9f7693a847b5d3d6e47fa0af7a59290725a81a1707803907532521472",
+            "body": "😫 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/1c11fa821c6cd1a73f8421efa136afe277e2fd2e1707803912808955904",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 81597,
+                "size": 143769,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3b9f7693a847b5d3d6e47fa0af7a59290725a81a1707803907532521472",
+                "thumbnail_url": "mxc://matrix.chir.rs/1c11fa821c6cd1a73f8421efa136afe277e2fd2e1707803912808955904",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 81597,
+                    "size": 143769,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4945009685716533736",
+            "id": "tg-5109660757407039929",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4945009685716533736",
+                "id": "5109660757407039929",
                 "emoticons": [
-                    "🅰"
+                    "😫"
+                ]
+            }
+        },
+        {
+            "body": "🥶 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/c2d7bd0d39e396e59451022327cc62b7a16bfb8f1707803906152595456",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 220692,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c2d7bd0d39e396e59451022327cc62b7a16bfb8f1707803906152595456",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 220692,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4945039183551922557",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4945039183551922557",
+                "emoticons": [
+                    "🥶"
                 ]
             }
         },
@@ -1255,35 +1371,6 @@
             }
         },
         {
-            "body": "😫 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/1c11fa821c6cd1a73f8421efa136afe277e2fd2e1707803912808955904",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 143769,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1c11fa821c6cd1a73f8421efa136afe277e2fd2e1707803912808955904",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 143769,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5109660757407039929",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5109660757407039929",
-                "emoticons": [
-                    "😫"
-                ]
-            }
-        },
-        {
             "body": "👍 (Cendyne)",
             "url": "mxc://matrix.chir.rs/c5bd995b7ba5df0c8e8e0784d377335bc22b03211707803916193759232",
             "info": {
@@ -1313,151 +1400,6 @@
             }
         },
         {
-            "body": "👀 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b72f1ebd841040398e946234e5ca275e9dffed5a1707803906106458112",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 128210,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b72f1ebd841040398e946234e5ca275e9dffed5a1707803906106458112",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 128210,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5026018202052723408",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5026018202052723408",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "🤷 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/5dd647592743fdae1c674e925b2e25239a4eb04e1707803928575344640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 135376,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5dd647592743fdae1c674e925b2e25239a4eb04e1707803928575344640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 135376,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5109683065467175391",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5109683065467175391",
-                "emoticons": [
-                    "🤷"
-                ]
-            }
-        },
-        {
-            "body": "😑 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/54de9aacd09a98b1fe006b9b9b9dd5fe28d814501707803912804761600",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 62887,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/54de9aacd09a98b1fe006b9b9b9dd5fe28d814501707803912804761600",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 62887,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5107214369805041988",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5107214369805041988",
-                "emoticons": [
-                    "😑"
-                ]
-            }
-        },
-        {
-            "body": "💤 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b854a6125706b6421ffa87467e93eb01174efad01707803947042865152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 151464,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b854a6125706b6421ffa87467e93eb01174efad01707803947042865152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 151464,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5109764768630047112",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5109764768630047112",
-                "emoticons": [
-                    "💤"
-                ]
-            }
-        },
-        {
-            "body": "🥶 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/c2d7bd0d39e396e59451022327cc62b7a16bfb8f1707803906152595456",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220692,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c2d7bd0d39e396e59451022327cc62b7a16bfb8f1707803906152595456",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220692,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4945039183551922557",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4945039183551922557",
-                "emoticons": [
-                    "🥶"
-                ]
-            }
-        },
-        {
             "body": "🏓 (Cendyne)",
             "url": "mxc://matrix.chir.rs/59b354f68299a4131b4facc73a44b30a58c9fc3a1707803917355581440",
             "info": {
@@ -1483,35 +1425,6 @@
                 "id": "5109339940529897894",
                 "emoticons": [
                     "🏓"
-                ]
-            }
-        },
-        {
-            "body": "😟 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/a0b5c317deecdd83f149f264607c5aa9b1fd72031707803948783501312",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 145932,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0b5c317deecdd83f149f264607c5aa9b1fd72031707803948783501312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 145932,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5109781514707534427",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5109781514707534427",
-                "emoticons": [
-                    "😟"
                 ]
             }
         },
@@ -1574,31 +1487,89 @@
             }
         },
         {
-            "body": "☕️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b31194ce6b4462532538304b1537b8bb7e534a131707803923001114624",
+            "body": "🤷 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/5dd647592743fdae1c674e925b2e25239a4eb04e1707803928575344640",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 161322,
+                "size": 135376,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b31194ce6b4462532538304b1537b8bb7e534a131707803923001114624",
+                "thumbnail_url": "mxc://matrix.chir.rs/5dd647592743fdae1c674e925b2e25239a4eb04e1707803928575344640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 161322,
+                    "size": 135376,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5033133167565865535",
+            "id": "tg-5109683065467175391",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5033133167565865535",
+                "id": "5109683065467175391",
                 "emoticons": [
-                    "☕"
+                    "🤷"
+                ]
+            }
+        },
+        {
+            "body": "😟 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/a0b5c317deecdd83f149f264607c5aa9b1fd72031707803948783501312",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 145932,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0b5c317deecdd83f149f264607c5aa9b1fd72031707803948783501312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 145932,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5109781514707534427",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5109781514707534427",
+                "emoticons": [
+                    "😟"
+                ]
+            }
+        },
+        {
+            "body": "🌠 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/f2823097e10a23b83de137b0e590ba63a6cc49831707803920610361344",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 251727,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f2823097e10a23b83de137b0e590ba63a6cc49831707803920610361344",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 251727,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4954179054346437071",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4954179054346437071",
+                "emoticons": [
+                    "🌠"
                 ]
             }
         },
@@ -1632,64 +1603,6 @@
             }
         },
         {
-            "body": "😭 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/2200db85d3cd288e7b4437b8c74d30202a37d3611707803925521891328",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 135908,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2200db85d3cd288e7b4437b8c74d30202a37d3611707803925521891328",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 135908,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4954441803265737057",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4954441803265737057",
-                "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "🥱 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/a255cf690f87117258761c1fde6f70e834247dfa1707803902570659840",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 147047,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a255cf690f87117258761c1fde6f70e834247dfa1707803902570659840",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 147047,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5028761646772781439",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5028761646772781439",
-                "emoticons": [
-                    "🥱"
-                ]
-            }
-        },
-        {
             "body": "🥀 (Cendyne)",
             "url": "mxc://matrix.chir.rs/0391d383f6cfbd6e5425e1f2cdddff93d81373081707803924309737472",
             "info": {
@@ -1715,6 +1628,35 @@
                 "id": "4956387861537489289",
                 "emoticons": [
                     "🥀"
+                ]
+            }
+        },
+        {
+            "body": "💩 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/e6d3686a2cf9d8d06298a375d6fd2e893d87de041707803921885429760",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 112200,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e6d3686a2cf9d8d06298a375d6fd2e893d87de041707803921885429760",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 112200,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4987826274819899895",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4987826274819899895",
+                "emoticons": [
+                    "💩"
                 ]
             }
         },
@@ -1777,6 +1719,64 @@
             }
         },
         {
+            "body": "☕️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b31194ce6b4462532538304b1537b8bb7e534a131707803923001114624",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 161322,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b31194ce6b4462532538304b1537b8bb7e534a131707803923001114624",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 161322,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5033133167565865535",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5033133167565865535",
+                "emoticons": [
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/2200db85d3cd288e7b4437b8c74d30202a37d3611707803925521891328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135908,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2200db85d3cd288e7b4437b8c74d30202a37d3611707803925521891328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135908,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4954441803265737057",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4954441803265737057",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
             "body": "👌 (Cendyne)",
             "url": "mxc://matrix.chir.rs/7a635afa09010bdcd3dd2aeba739121d488316c91707803930223706112",
             "info": {
@@ -1802,6 +1802,35 @@
                 "id": "4956291933442933202",
                 "emoticons": [
                     "👌"
+                ]
+            }
+        },
+        {
+            "body": "😑 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/54de9aacd09a98b1fe006b9b9b9dd5fe28d814501707803912804761600",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 62887,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/54de9aacd09a98b1fe006b9b9b9dd5fe28d814501707803912804761600",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 62887,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5107214369805041988",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5107214369805041988",
+                "emoticons": [
+                    "😑"
                 ]
             }
         },
@@ -1835,6 +1864,64 @@
             }
         },
         {
+            "body": "💤 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b854a6125706b6421ffa87467e93eb01174efad01707803947042865152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 151464,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b854a6125706b6421ffa87467e93eb01174efad01707803947042865152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 151464,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5109764768630047112",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5109764768630047112",
+                "emoticons": [
+                    "💤"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b9154ed41dbed0de588ea963fd55dc8b8f9383361707803944828272640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 121902,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b9154ed41dbed0de588ea963fd55dc8b8f9383361707803944828272640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 121902,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5080446050557231545",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5080446050557231545",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
             "body": "💶 (Cendyne)",
             "url": "mxc://matrix.chir.rs/20ec11d6601d00ae72f3bdee909ba3745c5883821707803934103437312",
             "info": {
@@ -1864,31 +1951,90 @@
             }
         },
         {
-            "body": "🧮 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/e13b6eb279841fd40bce0341194f67009dd3512d1707803934711611392",
+            "body": "🥺 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/7dca6d9cbda3a13f550759377fa132b193397cee1707803936678739968",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 165361,
+                "size": 144286,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e13b6eb279841fd40bce0341194f67009dd3512d1707803934711611392",
+                "thumbnail_url": "mxc://matrix.chir.rs/7dca6d9cbda3a13f550759377fa132b193397cee1707803936678739968",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 165361,
+                    "size": 144286,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956415336443281823",
+            "id": "tg-4985506812091433450",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4956415336443281823",
+                "id": "4985506812091433450",
                 "emoticons": [
-                    "🧮"
+                    "😭",
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "👆 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/ce903931bbec4a79663f035eb122bf7ffefc00b41707803928562761728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 134380,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ce903931bbec4a79663f035eb122bf7ffefc00b41707803928562761728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 134380,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4985761615321235907",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4985761615321235907",
+                "emoticons": [
+                    "👆"
+                ]
+            }
+        },
+        {
+            "body": "🤿 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/166c9a7dfaca646255da32012b4d05f0810185b41707803943859388416",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 176641,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/166c9a7dfaca646255da32012b4d05f0810185b41707803943859388416",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 176641,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5075926916033151357",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5075926916033151357",
+                "emoticons": [
+                    "🤿"
                 ]
             }
         },
@@ -1922,6 +2068,35 @@
             }
         },
         {
+            "body": "🧮 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/e13b6eb279841fd40bce0341194f67009dd3512d1707803934711611392",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 165361,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e13b6eb279841fd40bce0341194f67009dd3512d1707803934711611392",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 165361,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956415336443281823",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4956415336443281823",
+                "emoticons": [
+                    "🧮"
+                ]
+            }
+        },
+        {
             "body": "📖 (Cendyne)",
             "url": "mxc://matrix.chir.rs/251337fac03e89e45bdba850dda5091248bc0df01707803930123042816",
             "info": {
@@ -1947,95 +2122,6 @@
                 "id": "4988053530129465880",
                 "emoticons": [
                     "📖"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/3e5a47adc9301f3d40d420f6e24fb74f7a9828a21707803931721072640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 151760,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3e5a47adc9301f3d40d420f6e24fb74f7a9828a21707803931721072640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 151760,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5030668702446519110",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5030668702446519110",
-                "emoticons": [
-                    "❤",
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💩 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/e6d3686a2cf9d8d06298a375d6fd2e893d87de041707803921885429760",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 112200,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e6d3686a2cf9d8d06298a375d6fd2e893d87de041707803921885429760",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 112200,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4987826274819899895",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4987826274819899895",
-                "emoticons": [
-                    "💩"
-                ]
-            }
-        },
-        {
-            "body": "🥺 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/7dca6d9cbda3a13f550759377fa132b193397cee1707803936678739968",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 144286,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7dca6d9cbda3a13f550759377fa132b193397cee1707803936678739968",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 144286,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4985506812091433450",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4985506812091433450",
-                "emoticons": [
-                    "😭",
-                    "🥺"
                 ]
             }
         },
@@ -2098,35 +2184,6 @@
             }
         },
         {
-            "body": "😲 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b3843cc9289d0b56907989f0aad773ddbde968a61707803941980340224",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 135374,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b3843cc9289d0b56907989f0aad773ddbde968a61707803941980340224",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 135374,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5077920579722412313",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5077920579722412313",
-                "emoticons": [
-                    "😲"
-                ]
-            }
-        },
-        {
             "body": "👅 (Cendyne)",
             "url": "mxc://matrix.chir.rs/520b9c39f46b50d9831ce9f1b2223f1802775e681707803940277452801",
             "info": {
@@ -2152,354 +2209,6 @@
                 "id": "5080277047889101203",
                 "emoticons": [
                     "👅"
-                ]
-            }
-        },
-        {
-            "body": "👆 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/ce903931bbec4a79663f035eb122bf7ffefc00b41707803928562761728",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 134380,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ce903931bbec4a79663f035eb122bf7ffefc00b41707803928562761728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 134380,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4985761615321235907",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4985761615321235907",
-                "emoticons": [
-                    "👆"
-                ]
-            }
-        },
-        {
-            "body": "🤣 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/d4805b2290f00c8ff8e91a97956427c89e7ee1b61707803940277452800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 183723,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d4805b2290f00c8ff8e91a97956427c89e7ee1b61707803940277452800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 183723,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5080370566507004228",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5080370566507004228",
-                "emoticons": [
-                    "🤣"
-                ]
-            }
-        },
-        {
-            "body": "🌠 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/f2823097e10a23b83de137b0e590ba63a6cc49831707803920610361344",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 251727,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f2823097e10a23b83de137b0e590ba63a6cc49831707803920610361344",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 251727,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4954179054346437071",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4954179054346437071",
-                "emoticons": [
-                    "🌠"
-                ]
-            }
-        },
-        {
-            "body": "⭐️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/69010b55fc38cc2594ae23be4b1e997927b621191707803956224196608",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 144772,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/69010b55fc38cc2594ae23be4b1e997927b621191707803956224196608",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 144772,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5030980087575478619",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5030980087575478619",
-                "emoticons": [
-                    "⭐"
-                ]
-            }
-        },
-        {
-            "body": "💻 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/e0b64ecc30cc38e2564f19a6e0dd6c2a8f7cca021707803939702833152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 154483,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e0b64ecc30cc38e2564f19a6e0dd6c2a8f7cca021707803939702833152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 154483,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5080213409358676413",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5080213409358676413",
-                "emoticons": [
-                    "💻"
-                ]
-            }
-        },
-        {
-            "body": "🖲 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/63b1f09a80074369d6400d3d9dea6398e3a26c001707803946715709440",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 130651,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/63b1f09a80074369d6400d3d9dea6398e3a26c001707803946715709440",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 130651,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5078062451082134137",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5078062451082134137",
-                "emoticons": [
-                    "🖲"
-                ]
-            }
-        },
-        {
-            "body": "🙀 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/11c4cf09e1c9f473b58ef68cf28f5e2bb31d807d1707803952587735040",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 177242,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/11c4cf09e1c9f473b58ef68cf28f5e2bb31d807d1707803952587735040",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 177242,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5030525731575170417",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5030525731575170417",
-                "emoticons": [
-                    "🙀"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/81ce2f1d35843b7a6dadaa20ab526b41e9da28831707803943012139008",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 289610,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81ce2f1d35843b7a6dadaa20ab526b41e9da28831707803943012139008",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 289610,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5030872472874910263",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5030872472874910263",
-                "emoticons": [
-                    "🔥"
-                ]
-            }
-        },
-        {
-            "body": "🤿 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/166c9a7dfaca646255da32012b4d05f0810185b41707803943859388416",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 176641,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/166c9a7dfaca646255da32012b4d05f0810185b41707803943859388416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 176641,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5075926916033151357",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5075926916033151357",
-                "emoticons": [
-                    "🤿"
-                ]
-            }
-        },
-        {
-            "body": "👀 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b9154ed41dbed0de588ea963fd55dc8b8f9383361707803944828272640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 121902,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b9154ed41dbed0de588ea963fd55dc8b8f9383361707803944828272640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 121902,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5080446050557231545",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5080446050557231545",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "🐥 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/900ceb1c29269b519446645d4602757f794801301707803941225365504",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131483,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/900ceb1c29269b519446645d4602757f794801301707803941225365504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131483,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5078025570197963356",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5078025570197963356",
-                "emoticons": [
-                    "🐥"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/7a661cbd3ee5a105b46495e3efe3bd43f7f264101707803945763602432",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 103464,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7a661cbd3ee5a105b46495e3efe3bd43f7f264101707803945763602432",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 103464,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5032830385256399209",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5032830385256399209",
-                "emoticons": [
-                    "😴"
                 ]
             }
         },
@@ -2533,147 +2242,148 @@
             }
         },
         {
-            "body": "😮 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/4a03f42811b5ea043f6ff179cb05f952c111f0481707803954521309184",
+            "body": "🐥 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/900ceb1c29269b519446645d4602757f794801301707803941225365504",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 108702,
+                "size": 131483,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4a03f42811b5ea043f6ff179cb05f952c111f0481707803954521309184",
+                "thumbnail_url": "mxc://matrix.chir.rs/900ceb1c29269b519446645d4602757f794801301707803941225365504",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 108702,
+                    "size": 131483,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5032793830789743192",
+            "id": "tg-5078025570197963356",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5032793830789743192",
+                "id": "5078025570197963356",
                 "emoticons": [
-                    "😮"
+                    "🐥"
                 ]
             }
         },
         {
-            "body": "😤 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/42ab36360bab2c0dc6c1a270be0fdd9e871999e21707803959122460672",
+            "body": "🤣 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/d4805b2290f00c8ff8e91a97956427c89e7ee1b61707803940277452800",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 136938,
+                "size": 183723,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/42ab36360bab2c0dc6c1a270be0fdd9e871999e21707803959122460672",
+                "thumbnail_url": "mxc://matrix.chir.rs/d4805b2290f00c8ff8e91a97956427c89e7ee1b61707803940277452800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 136938,
+                    "size": 183723,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5030921409732281541",
+            "id": "tg-5080370566507004228",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5030921409732281541",
+                "id": "5080370566507004228",
                 "emoticons": [
-                    "😤"
+                    "🤣"
                 ]
             }
         },
         {
-            "body": "🤨 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/18b0655e1919effe3d9f3d42eab6c82739d569eb1707803974884655105",
+            "body": "😲 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b3843cc9289d0b56907989f0aad773ddbde968a61707803941980340224",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 157467,
+                "size": 135374,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/18b0655e1919effe3d9f3d42eab6c82739d569eb1707803974884655105",
+                "thumbnail_url": "mxc://matrix.chir.rs/b3843cc9289d0b56907989f0aad773ddbde968a61707803941980340224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 157467,
+                    "size": 135374,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4997098774204514849",
+            "id": "tg-5077920579722412313",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4997098774204514849",
+                "id": "5077920579722412313",
                 "emoticons": [
-                    "🤨"
+                    "😲"
                 ]
             }
         },
         {
-            "body": "🤏 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/238f39c3100e4015a2e90e6ad44cd38f9c31e7f21707803947890114560",
+            "body": "❤️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/3e5a47adc9301f3d40d420f6e24fb74f7a9828a21707803931721072640",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 126585,
+                "size": 151760,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/238f39c3100e4015a2e90e6ad44cd38f9c31e7f21707803947890114560",
+                "thumbnail_url": "mxc://matrix.chir.rs/3e5a47adc9301f3d40d420f6e24fb74f7a9828a21707803931721072640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 126585,
+                    "size": 151760,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5030596306477777280",
+            "id": "tg-5030668702446519110",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5030596306477777280",
+                "id": "5030668702446519110",
                 "emoticons": [
-                    "🤏"
+                    "❤",
+                    "💜"
                 ]
             }
         },
         {
-            "body": "😠 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/89866b262adcddb73e9e6eb8c14bb99b0dc2198f1707803955670548480",
+            "body": "🖲 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/63b1f09a80074369d6400d3d9dea6398e3a26c001707803946715709440",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 118378,
+                "size": 130651,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/89866b262adcddb73e9e6eb8c14bb99b0dc2198f1707803955670548480",
+                "thumbnail_url": "mxc://matrix.chir.rs/63b1f09a80074369d6400d3d9dea6398e3a26c001707803946715709440",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 118378,
+                    "size": 130651,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4994794760473412192",
+            "id": "tg-5078062451082134137",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4994794760473412192",
+                "id": "5078062451082134137",
                 "emoticons": [
-                    "😠"
+                    "🖲"
                 ]
             }
         },
@@ -2707,6 +2417,238 @@
             }
         },
         {
+            "body": "😤 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/42ab36360bab2c0dc6c1a270be0fdd9e871999e21707803959122460672",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 136938,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/42ab36360bab2c0dc6c1a270be0fdd9e871999e21707803959122460672",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 136938,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5030921409732281541",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5030921409732281541",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "🙀 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/11c4cf09e1c9f473b58ef68cf28f5e2bb31d807d1707803952587735040",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177242,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/11c4cf09e1c9f473b58ef68cf28f5e2bb31d807d1707803952587735040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177242,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5030525731575170417",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5030525731575170417",
+                "emoticons": [
+                    "🙀"
+                ]
+            }
+        },
+        {
+            "body": "😴 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/7a661cbd3ee5a105b46495e3efe3bd43f7f264101707803945763602432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 103464,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7a661cbd3ee5a105b46495e3efe3bd43f7f264101707803945763602432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 103464,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5032830385256399209",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5032830385256399209",
+                "emoticons": [
+                    "😴"
+                ]
+            }
+        },
+        {
+            "body": "⭐️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/69010b55fc38cc2594ae23be4b1e997927b621191707803956224196608",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 144772,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/69010b55fc38cc2594ae23be4b1e997927b621191707803956224196608",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 144772,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5030980087575478619",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5030980087575478619",
+                "emoticons": [
+                    "⭐"
+                ]
+            }
+        },
+        {
+            "body": "🤏 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/238f39c3100e4015a2e90e6ad44cd38f9c31e7f21707803947890114560",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 126585,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/238f39c3100e4015a2e90e6ad44cd38f9c31e7f21707803947890114560",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 126585,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5030596306477777280",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5030596306477777280",
+                "emoticons": [
+                    "🤏"
+                ]
+            }
+        },
+        {
+            "body": "😮 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/4a03f42811b5ea043f6ff179cb05f952c111f0481707803954521309184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 108702,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4a03f42811b5ea043f6ff179cb05f952c111f0481707803954521309184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 108702,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5032793830789743192",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5032793830789743192",
+                "emoticons": [
+                    "😮"
+                ]
+            }
+        },
+        {
+            "body": "💻 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/e0b64ecc30cc38e2564f19a6e0dd6c2a8f7cca021707803939702833152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 154483,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e0b64ecc30cc38e2564f19a6e0dd6c2a8f7cca021707803939702833152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 154483,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5080213409358676413",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5080213409358676413",
+                "emoticons": [
+                    "💻"
+                ]
+            }
+        },
+        {
+            "body": "🤨 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/18b0655e1919effe3d9f3d42eab6c82739d569eb1707803974884655105",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 157467,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/18b0655e1919effe3d9f3d42eab6c82739d569eb1707803974884655105",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 157467,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4997098774204514849",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4997098774204514849",
+                "emoticons": [
+                    "🤨"
+                ]
+            }
+        },
+        {
             "body": "👹 (Cendyne)",
             "url": "mxc://matrix.chir.rs/ef8ac120b31158b0448b6de4e64ea07301c0e33d1707803957910306816",
             "info": {
@@ -2732,122 +2674,6 @@
                 "id": "4994687094233235933",
                 "emoticons": [
                     "👹"
-                ]
-            }
-        },
-        {
-            "body": "😡 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/588ae7dc491c899e210ca08316e39e4161e6f8a71707803950771601408",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 143449,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/588ae7dc491c899e210ca08316e39e4161e6f8a71707803950771601408",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 143449,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4997180485957321324",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4997180485957321324",
-                "emoticons": [
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "🫀 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/e36a9e68562de960fe5e106c49e85e9040573e471707803952919085056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 171821,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e36a9e68562de960fe5e106c49e85e9040573e471707803952919085056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 171821,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4997154771988120292",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4997154771988120292",
-                "emoticons": [
-                    "🫀"
-                ]
-            }
-        },
-        {
-            "body": "🗞 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/efeb287514bc543b844368468e43949fe4da23091707803963031552000",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 146828,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/efeb287514bc543b844368468e43949fe4da23091707803963031552000",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 146828,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4994988295994737266",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4994988295994737266",
-                "emoticons": [
-                    "🗞"
-                ]
-            }
-        },
-        {
-            "body": "🙄 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/62cc2033182a9a73ff937dae5985b2a393567bd21707803954609389568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 139361,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/62cc2033182a9a73ff937dae5985b2a393567bd21707803954609389568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 139361,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4994867207981761285",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "4994867207981761285",
-                "emoticons": [
-                    "🙄"
                 ]
             }
         },
@@ -2881,6 +2707,151 @@
             }
         },
         {
+            "body": "🔥 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/81ce2f1d35843b7a6dadaa20ab526b41e9da28831707803943012139008",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 289610,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/81ce2f1d35843b7a6dadaa20ab526b41e9da28831707803943012139008",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 289610,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5030872472874910263",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5030872472874910263",
+                "emoticons": [
+                    "🔥"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/89866b262adcddb73e9e6eb8c14bb99b0dc2198f1707803955670548480",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 118378,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/89866b262adcddb73e9e6eb8c14bb99b0dc2198f1707803955670548480",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 118378,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994794760473412192",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4994794760473412192",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/588ae7dc491c899e210ca08316e39e4161e6f8a71707803950771601408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 143449,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/588ae7dc491c899e210ca08316e39e4161e6f8a71707803950771601408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 143449,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4997180485957321324",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4997180485957321324",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🙄 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/62cc2033182a9a73ff937dae5985b2a393567bd21707803954609389568",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 139361,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/62cc2033182a9a73ff937dae5985b2a393567bd21707803954609389568",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 139361,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994867207981761285",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4994867207981761285",
+                "emoticons": [
+                    "🙄"
+                ]
+            }
+        },
+        {
+            "body": "🗞 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/efeb287514bc543b844368468e43949fe4da23091707803963031552000",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 146828,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/efeb287514bc543b844368468e43949fe4da23091707803963031552000",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 146828,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994988295994737266",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4994988295994737266",
+                "emoticons": [
+                    "🗞"
+                ]
+            }
+        },
+        {
             "body": "🥵 (Cendyne)",
             "url": "mxc://matrix.chir.rs/9cc413050ecd7b3fa1b0393fbdb28b5e461579df1707803969562083328",
             "info": {
@@ -2906,35 +2877,6 @@
                 "id": "5143551171813704353",
                 "emoticons": [
                     "🥵"
-                ]
-            }
-        },
-        {
-            "body": "💻 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/4bb15983b9b5c4fba1e811e46de093ffb921dd121707803962125582336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 138917,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4bb15983b9b5c4fba1e811e46de093ffb921dd121707803962125582336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 138917,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5145771008480772555",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5145771008480772555",
-                "emoticons": [
-                    "💻"
                 ]
             }
         },
@@ -2968,35 +2910,6 @@
             }
         },
         {
-            "body": "🤨 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b733bb98981dd918e2f477103617598f1f8353f71707803966668013568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 135167,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b733bb98981dd918e2f477103617598f1f8353f71707803966668013568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 135167,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5143415583991136876",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5143415583991136876",
-                "emoticons": [
-                    "🤨"
-                ]
-            }
-        },
-        {
             "body": "😾 (Cendyne)",
             "url": "mxc://matrix.chir.rs/b5b4cb344bc820860de72dcb6a3b4ce73422be6f1707803960733073408",
             "info": {
@@ -3026,205 +2939,60 @@
             }
         },
         {
-            "body": "🌟 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/03b22ff28bb4f9ffa64c11643d2941087f7ff6441707803968026968064",
+            "body": "🤨 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b733bb98981dd918e2f477103617598f1f8353f71707803966668013568",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 172251,
+                "size": 135167,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/03b22ff28bb4f9ffa64c11643d2941087f7ff6441707803968026968064",
+                "thumbnail_url": "mxc://matrix.chir.rs/b733bb98981dd918e2f477103617598f1f8353f71707803966668013568",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 172251,
+                    "size": 135167,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5145396388548313853",
+            "id": "tg-5143415583991136876",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5145396388548313853",
+                "id": "5143415583991136876",
                 "emoticons": [
-                    "🌟"
+                    "🤨"
                 ]
             }
         },
         {
-            "body": "😰 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/3558b40a591cae5eb0207b2f3ef3269d56bbe2211707803963824275456",
+            "body": "💻 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/4bb15983b9b5c4fba1e811e46de093ffb921dd121707803962125582336",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 156109,
+                "size": 138917,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3558b40a591cae5eb0207b2f3ef3269d56bbe2211707803963824275456",
+                "thumbnail_url": "mxc://matrix.chir.rs/4bb15983b9b5c4fba1e811e46de093ffb921dd121707803962125582336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 156109,
+                    "size": 138917,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5145913571330228781",
+            "id": "tg-5145771008480772555",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5145913571330228781",
+                "id": "5145771008480772555",
                 "emoticons": [
-                    "😰"
-                ]
-            }
-        },
-        {
-            "body": "🥸 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/3002497ae2a6d1b18c9f5186b14bbad8e63f24d11707803965611048960",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 97851,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3002497ae2a6d1b18c9f5186b14bbad8e63f24d11707803965611048960",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 97851,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5145405627022967373",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5145405627022967373",
-                "emoticons": [
-                    "🥸"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/0b01193bdb1d5f828525bdc83b4aa7c75b2c1fbd1707803962117193728",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200146,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0b01193bdb1d5f828525bdc83b4aa7c75b2c1fbd1707803962117193728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200146,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5143556832580600422",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5143556832580600422",
-                "emoticons": [
-                    "🔥"
-                ]
-            }
-        },
-        {
-            "body": "🚱 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/44090bb96ae8097d0f8981dcc4afe0b3b7cc4a0d1707803971407577088",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 135213,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/44090bb96ae8097d0f8981dcc4afe0b3b7cc4a0d1707803971407577088",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 135213,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5176997095759938043",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5176997095759938043",
-                "emoticons": [
-                    "🚱"
-                ]
-            }
-        },
-        {
-            "body": "🌸 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b67f5e70071bd4b6ff43ca38be50324333d38fa71707803981427769344",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 174205,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b67f5e70071bd4b6ff43ca38be50324333d38fa71707803981427769344",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 174205,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5177022964347961903",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5177022964347961903",
-                "emoticons": [
-                    "🌸"
-                ]
-            }
-        },
-        {
-            "body": "👉 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/2774406b97876c3951dff37248598ec300c0bbf31707803987278823424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 134327,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2774406b97876c3951dff37248598ec300c0bbf31707803987278823424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 134327,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5177101794177712830",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "7248513183294423041",
-                    "short_name": "Cendyne"
-                },
-                "id": "5177101794177712830",
-                "emoticons": [
-                    "👉"
+                    "💻"
                 ]
             }
         },
@@ -3258,6 +3026,151 @@
             }
         },
         {
+            "body": "🌟 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/03b22ff28bb4f9ffa64c11643d2941087f7ff6441707803968026968064",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 172251,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/03b22ff28bb4f9ffa64c11643d2941087f7ff6441707803968026968064",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 172251,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5145396388548313853",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5145396388548313853",
+                "emoticons": [
+                    "🌟"
+                ]
+            }
+        },
+        {
+            "body": "🔥 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/0b01193bdb1d5f828525bdc83b4aa7c75b2c1fbd1707803962117193728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200146,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0b01193bdb1d5f828525bdc83b4aa7c75b2c1fbd1707803962117193728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200146,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5143556832580600422",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5143556832580600422",
+                "emoticons": [
+                    "🔥"
+                ]
+            }
+        },
+        {
+            "body": "😰 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/3558b40a591cae5eb0207b2f3ef3269d56bbe2211707803963824275456",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156109,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3558b40a591cae5eb0207b2f3ef3269d56bbe2211707803963824275456",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156109,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5145913571330228781",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5145913571330228781",
+                "emoticons": [
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "🫀 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/e36a9e68562de960fe5e106c49e85e9040573e471707803952919085056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 171821,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e36a9e68562de960fe5e106c49e85e9040573e471707803952919085056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 171821,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4997154771988120292",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4997154771988120292",
+                "emoticons": [
+                    "🫀"
+                ]
+            }
+        },
+        {
+            "body": "🚱 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/44090bb96ae8097d0f8981dcc4afe0b3b7cc4a0d1707803971407577088",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135213,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/44090bb96ae8097d0f8981dcc4afe0b3b7cc4a0d1707803971407577088",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135213,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5176997095759938043",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5176997095759938043",
+                "emoticons": [
+                    "🚱"
+                ]
+            }
+        },
+        {
             "body": "😣 (Cendyne)",
             "url": "mxc://matrix.chir.rs/2cb8a27a75bf244273924ad59327bdb18ae8361b1707803980085592064",
             "info": {
@@ -3287,31 +3200,89 @@
             }
         },
         {
-            "body": "😞 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/d6f901ee6d5583132a9aeee239ffd8e3896877261707803979339005952",
+            "body": "🥸 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/3002497ae2a6d1b18c9f5186b14bbad8e63f24d11707803965611048960",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 135178,
+                "size": 97851,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d6f901ee6d5583132a9aeee239ffd8e3896877261707803979339005952",
+                "thumbnail_url": "mxc://matrix.chir.rs/3002497ae2a6d1b18c9f5186b14bbad8e63f24d11707803965611048960",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 135178,
+                    "size": 97851,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5177385270609183295",
+            "id": "tg-5145405627022967373",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5177385270609183295",
+                "id": "5145405627022967373",
                 "emoticons": [
-                    "😞"
+                    "🥸"
+                ]
+            }
+        },
+        {
+            "body": "😰 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b2a61dd88fa4f669a6f433a95cd30aa72406a0521707804004907483136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175127,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b2a61dd88fa4f669a6f433a95cd30aa72406a0521707804004907483136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175127,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994545536406127383",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "4994545536406127383",
+                "emoticons": [
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "👉 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/2774406b97876c3951dff37248598ec300c0bbf31707803987278823424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 134327,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2774406b97876c3951dff37248598ec300c0bbf31707803987278823424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 134327,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5177101794177712830",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5177101794177712830",
+                "emoticons": [
+                    "👉"
                 ]
             }
         },
@@ -3345,31 +3316,31 @@
             }
         },
         {
-            "body": "⚫️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/4167f97489897b0ef8518f6e407cc6bacf978eec1707803969675329536",
+            "body": "©️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/6a2486e683fe2646fb65192fab77b8120ff0ab6a1707803974884655104",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 116379,
+                "size": 177357,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4167f97489897b0ef8518f6e407cc6bacf978eec1707803969675329536",
+                "thumbnail_url": "mxc://matrix.chir.rs/6a2486e683fe2646fb65192fab77b8120ff0ab6a1707803974884655104",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 116379,
+                    "size": 177357,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5174682129862230700",
+            "id": "tg-5167936338263015840",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5174682129862230700",
+                "id": "5167936338263015840",
                 "emoticons": [
-                    "⚫"
+                    "©"
                 ]
             }
         },
@@ -3403,60 +3374,89 @@
             }
         },
         {
-            "body": "©️ (Cendyne)",
-            "url": "mxc://matrix.chir.rs/6a2486e683fe2646fb65192fab77b8120ff0ab6a1707803974884655104",
+            "body": "😞 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/d6f901ee6d5583132a9aeee239ffd8e3896877261707803979339005952",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 177357,
+                "size": 135178,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6a2486e683fe2646fb65192fab77b8120ff0ab6a1707803974884655104",
+                "thumbnail_url": "mxc://matrix.chir.rs/d6f901ee6d5583132a9aeee239ffd8e3896877261707803979339005952",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 177357,
+                    "size": 135178,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5167936338263015840",
+            "id": "tg-5177385270609183295",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "5167936338263015840",
+                "id": "5177385270609183295",
                 "emoticons": [
-                    "©"
+                    "😞"
                 ]
             }
         },
         {
-            "body": "😰 (Cendyne)",
-            "url": "mxc://matrix.chir.rs/b2a61dd88fa4f669a6f433a95cd30aa72406a0521707804004907483136",
+            "body": "🌸 (Cendyne)",
+            "url": "mxc://matrix.chir.rs/b67f5e70071bd4b6ff43ca38be50324333d38fa71707803981427769344",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 175127,
+                "size": 174205,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b2a61dd88fa4f669a6f433a95cd30aa72406a0521707804004907483136",
+                "thumbnail_url": "mxc://matrix.chir.rs/b67f5e70071bd4b6ff43ca38be50324333d38fa71707803981427769344",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 175127,
+                    "size": 174205,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4994545536406127383",
+            "id": "tg-5177022964347961903",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "7248513183294423041",
                     "short_name": "Cendyne"
                 },
-                "id": "4994545536406127383",
+                "id": "5177022964347961903",
                 "emoticons": [
-                    "😰"
+                    "🌸"
+                ]
+            }
+        },
+        {
+            "body": "⚫️ (Cendyne)",
+            "url": "mxc://matrix.chir.rs/4167f97489897b0ef8518f6e407cc6bacf978eec1707803969675329536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 116379,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4167f97489897b0ef8518f6e407cc6bacf978eec1707803969675329536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 116379,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5174682129862230700",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7248513183294423041",
+                    "short_name": "Cendyne"
+                },
+                "id": "5174682129862230700",
+                "emoticons": [
+                    "⚫"
                 ]
             }
         },

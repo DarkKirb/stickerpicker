@@ -8,115 +8,57 @@
     "stickers": [
         {
             "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/811583431be077b2bc8c3f0c9d3b855e7d4b76231707818853490229248",
+            "url": "mxc://matrix.chir.rs/3654f7455d9052511fcc643ea0864215657953d01707818873652248576",
+            "info": {
+                "w": 256,
+                "h": 77,
+                "size": 35905,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3654f7455d9052511fcc643ea0864215657953d01707818873652248576",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 77,
+                    "size": 35905,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896102",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896102",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/7ae57cead5510121740a0a793f5b349d61ef9f8c1707818872574312448",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 16478,
+                "size": 36183,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/811583431be077b2bc8c3f0c9d3b855e7d4b76231707818853490229248",
+                "thumbnail_url": "mxc://matrix.chir.rs/7ae57cead5510121740a0a793f5b349d61ef9f8c1707818872574312448",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 16478,
+                    "size": 36183,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1522919850391896093",
+            "id": "tg-1522919850391896094",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1522919850391896066",
                     "short_name": "acespectrum"
                 },
-                "id": "1522919850391896093",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/a99abc34d8d1bc725c19b25817fa58be7c43e42b1707818854157123584",
-            "info": {
-                "w": 256,
-                "h": 154,
-                "size": 2283,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a99abc34d8d1bc725c19b25817fa58be7c43e42b1707818854157123584",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 154,
-                    "size": 2283,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896097",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896097",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/aa67039c336cdc7de92abb0b4e1a891e91916af81707818859152539648",
-            "info": {
-                "w": 256,
-                "h": 139,
-                "size": 33006,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aa67039c336cdc7de92abb0b4e1a891e91916af81707818859152539648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 139,
-                    "size": 33006,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896106",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896106",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/85ef13e081dc923c3ebcc60382863d24ca1c33da1707818860884787200",
-            "info": {
-                "w": 256,
-                "h": 177,
-                "size": 2182,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/85ef13e081dc923c3ebcc60382863d24ca1c33da1707818860884787200",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 177,
-                    "size": 2182,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896119",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896119",
+                "id": "1522919850391896094",
                 "emoticons": [
                     "💜"
                 ]
@@ -153,28 +95,28 @@
         },
         {
             "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/b646ab83eb0c778abd8d7f464d9520d778391e9b1707818864307339264",
+            "url": "mxc://matrix.chir.rs/811583431be077b2bc8c3f0c9d3b855e7d4b76231707818853490229248",
             "info": {
                 "w": 256,
-                "h": 154,
-                "size": 27440,
+                "h": 256,
+                "size": 16478,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b646ab83eb0c778abd8d7f464d9520d778391e9b1707818864307339264",
+                "thumbnail_url": "mxc://matrix.chir.rs/811583431be077b2bc8c3f0c9d3b855e7d4b76231707818853490229248",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 154,
-                    "size": 27440,
+                    "h": 256,
+                    "size": 16478,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1522919850391896112",
+            "id": "tg-1522919850391896093",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1522919850391896066",
                     "short_name": "acespectrum"
                 },
-                "id": "1522919850391896112",
+                "id": "1522919850391896093",
                 "emoticons": [
                     "💜"
                 ]
@@ -182,28 +124,115 @@
         },
         {
             "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/2800be214a09f8856b48b693500c954cec29fd461707818865028759552",
+            "url": "mxc://matrix.chir.rs/1e3023751deb68d93fcc309913f54d6c0e5656381707818870472966144",
             "info": {
                 "w": 256,
-                "h": 154,
-                "size": 24226,
+                "h": 77,
+                "size": 35675,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2800be214a09f8856b48b693500c954cec29fd461707818865028759552",
+                "thumbnail_url": "mxc://matrix.chir.rs/1e3023751deb68d93fcc309913f54d6c0e5656381707818870472966144",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 154,
-                    "size": 24226,
+                    "h": 77,
+                    "size": 35675,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1522919850391896114",
+            "id": "tg-1522919850391896103",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1522919850391896066",
                     "short_name": "acespectrum"
                 },
-                "id": "1522919850391896114",
+                "id": "1522919850391896103",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/aa67039c336cdc7de92abb0b4e1a891e91916af81707818859152539648",
+            "info": {
+                "w": 256,
+                "h": 139,
+                "size": 33006,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aa67039c336cdc7de92abb0b4e1a891e91916af81707818859152539648",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 139,
+                    "size": 33006,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896106",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896106",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/c0b388e7211c5d03c0fdd074b160d6c3f7db67f71707818867549536256",
+            "info": {
+                "w": 256,
+                "h": 154,
+                "size": 32016,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c0b388e7211c5d03c0fdd074b160d6c3f7db67f71707818867549536256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 154,
+                    "size": 32016,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896108",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896108",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/1b3d4dfaf0e524a344c13ec178e50e8ec54f39571707818872414928896",
+            "info": {
+                "w": 256,
+                "h": 153,
+                "size": 11098,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1b3d4dfaf0e524a344c13ec178e50e8ec54f39571707818872414928896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 153,
+                    "size": 11098,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896100",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896100",
                 "emoticons": [
                     "💜"
                 ]
@@ -269,28 +298,144 @@
         },
         {
             "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/c0b388e7211c5d03c0fdd074b160d6c3f7db67f71707818867549536256",
+            "url": "mxc://matrix.chir.rs/b646ab83eb0c778abd8d7f464d9520d778391e9b1707818864307339264",
             "info": {
                 "w": 256,
                 "h": 154,
-                "size": 32016,
+                "size": 27440,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c0b388e7211c5d03c0fdd074b160d6c3f7db67f71707818867549536256",
+                "thumbnail_url": "mxc://matrix.chir.rs/b646ab83eb0c778abd8d7f464d9520d778391e9b1707818864307339264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 154,
-                    "size": 32016,
+                    "size": 27440,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1522919850391896108",
+            "id": "tg-1522919850391896112",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1522919850391896066",
                     "short_name": "acespectrum"
                 },
-                "id": "1522919850391896108",
+                "id": "1522919850391896112",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/0eb25338978eb79f17258076187b5a265b0bbca41707818871378935808",
+            "info": {
+                "w": 256,
+                "h": 154,
+                "size": 29246,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0eb25338978eb79f17258076187b5a265b0bbca41707818871378935808",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 154,
+                    "size": 29246,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896115",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896115",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/2800be214a09f8856b48b693500c954cec29fd461707818865028759552",
+            "info": {
+                "w": 256,
+                "h": 154,
+                "size": 24226,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2800be214a09f8856b48b693500c954cec29fd461707818865028759552",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 154,
+                    "size": 24226,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896114",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896114",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/85ef13e081dc923c3ebcc60382863d24ca1c33da1707818860884787200",
+            "info": {
+                "w": 256,
+                "h": 177,
+                "size": 2182,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/85ef13e081dc923c3ebcc60382863d24ca1c33da1707818860884787200",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 177,
+                    "size": 2182,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896119",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896119",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/f580d40b37df0bb5d26d02a9e48d0e27b17e5a5f1707818874650492928",
+            "info": {
+                "w": 256,
+                "h": 154,
+                "size": 33030,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f580d40b37df0bb5d26d02a9e48d0e27b17e5a5f1707818874650492928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 154,
+                    "size": 33030,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896113",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896113",
                 "emoticons": [
                     "💜"
                 ]
@@ -356,209 +501,6 @@
         },
         {
             "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/1e3023751deb68d93fcc309913f54d6c0e5656381707818870472966144",
-            "info": {
-                "w": 256,
-                "h": 77,
-                "size": 35675,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1e3023751deb68d93fcc309913f54d6c0e5656381707818870472966144",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 77,
-                    "size": 35675,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896103",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896103",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/0eb25338978eb79f17258076187b5a265b0bbca41707818871378935808",
-            "info": {
-                "w": 256,
-                "h": 154,
-                "size": 29246,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0eb25338978eb79f17258076187b5a265b0bbca41707818871378935808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 154,
-                    "size": 29246,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896115",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896115",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/7ae57cead5510121740a0a793f5b349d61ef9f8c1707818872574312448",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 36183,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7ae57cead5510121740a0a793f5b349d61ef9f8c1707818872574312448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 36183,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896094",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896094",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/1b3d4dfaf0e524a344c13ec178e50e8ec54f39571707818872414928896",
-            "info": {
-                "w": 256,
-                "h": 153,
-                "size": 11098,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1b3d4dfaf0e524a344c13ec178e50e8ec54f39571707818872414928896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 153,
-                    "size": 11098,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896100",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896100",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/3654f7455d9052511fcc643ea0864215657953d01707818873652248576",
-            "info": {
-                "w": 256,
-                "h": 77,
-                "size": 35905,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3654f7455d9052511fcc643ea0864215657953d01707818873652248576",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 77,
-                    "size": 35905,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896102",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896102",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/f580d40b37df0bb5d26d02a9e48d0e27b17e5a5f1707818874650492928",
-            "info": {
-                "w": 256,
-                "h": 154,
-                "size": 33030,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f580d40b37df0bb5d26d02a9e48d0e27b17e5a5f1707818874650492928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 154,
-                    "size": 33030,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1522919850391896113",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "1522919850391896113",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/4d4caff1867ea257a9850881e4d91e7bbf405dc91707818875665514496",
-            "info": {
-                "w": 256,
-                "h": 180,
-                "size": 82627,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4d4caff1867ea257a9850881e4d91e7bbf405dc91707818875665514496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 180,
-                    "size": 82627,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4929347864133370544",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1522919850391896066",
-                    "short_name": "acespectrum"
-                },
-                "id": "4929347864133370544",
-                "emoticons": [
-                    "💜"
-                ]
-            }
-        },
-        {
-            "body": "💜 (Asexual Spectrum)",
             "url": "mxc://matrix.chir.rs/131686f58c3c139d38a854973da7d89d58c89fb31707818876923805696",
             "info": {
                 "w": 256,
@@ -617,28 +559,57 @@
         },
         {
             "body": "💜 (Asexual Spectrum)",
-            "url": "mxc://matrix.chir.rs/1606ee8ed6d38f0cf11c4278c92e26e0559f040e1707818879763349504",
+            "url": "mxc://matrix.chir.rs/4d4caff1867ea257a9850881e4d91e7bbf405dc91707818875665514496",
             "info": {
                 "w": 256,
-                "h": 154,
-                "size": 28832,
+                "h": 180,
+                "size": 82627,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1606ee8ed6d38f0cf11c4278c92e26e0559f040e1707818879763349504",
+                "thumbnail_url": "mxc://matrix.chir.rs/4d4caff1867ea257a9850881e4d91e7bbf405dc91707818875665514496",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 154,
-                    "size": 28832,
+                    "h": 180,
+                    "size": 82627,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1522919850391896111",
+            "id": "tg-4929347864133370544",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1522919850391896066",
                     "short_name": "acespectrum"
                 },
-                "id": "1522919850391896111",
+                "id": "4929347864133370544",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/a99abc34d8d1bc725c19b25817fa58be7c43e42b1707818854157123584",
+            "info": {
+                "w": 256,
+                "h": 154,
+                "size": 2283,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a99abc34d8d1bc725c19b25817fa58be7c43e42b1707818854157123584",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 154,
+                    "size": 2283,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896097",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896097",
                 "emoticons": [
                     "💜"
                 ]
@@ -697,6 +668,35 @@
                     "short_name": "acespectrum"
                 },
                 "id": "1522919850391896118",
+                "emoticons": [
+                    "💜"
+                ]
+            }
+        },
+        {
+            "body": "💜 (Asexual Spectrum)",
+            "url": "mxc://matrix.chir.rs/1606ee8ed6d38f0cf11c4278c92e26e0559f040e1707818879763349504",
+            "info": {
+                "w": 256,
+                "h": 154,
+                "size": 28832,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1606ee8ed6d38f0cf11c4278c92e26e0559f040e1707818879763349504",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 154,
+                    "size": 28832,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1522919850391896111",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1522919850391896066",
+                    "short_name": "acespectrum"
+                },
+                "id": "1522919850391896111",
                 "emoticons": [
                     "💜"
                 ]

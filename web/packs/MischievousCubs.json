@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "🎨 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/a6222f1ac0a1acd7b603359fcc43c78ea75336911707807525920833536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 226721,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a6222f1ac0a1acd7b603359fcc43c78ea75336911707807525920833536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 226721,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764414",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764414",
+                "emoticons": [
+                    "🎨"
+                ]
+            }
+        },
+        {
             "body": "🍫 (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/f9e027a2f253fd929633bc07891cf861c5e878011707807523202924544",
             "info": {
@@ -37,35 +66,6 @@
             }
         },
         {
-            "body": "🚀 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/f8186ed519f88c25b1cc6f40cd942a53c238d2681707807525073584128",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210291,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f8186ed519f88c25b1cc6f40cd942a53c238d2681707807525073584128",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210291,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764417",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764417",
-                "emoticons": [
-                    "🚀"
-                ]
-            }
-        },
-        {
             "body": "🍪 (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/b15f1f79e7f4997c6d6f042f407d102605b5d3a71707807533193756672",
             "info": {
@@ -91,65 +91,6 @@
                 "id": "448618190289764416",
                 "emoticons": [
                     "🍪"
-                ]
-            }
-        },
-        {
-            "body": "😡 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/297138980b24c1732cf253f2266968abe2e08faa1707807531776081920",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 212678,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/297138980b24c1732cf253f2266968abe2e08faa1707807531776081920",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 212678,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764420",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764420",
-                "emoticons": [
-                    "😡",
-                    "😫"
-                ]
-            }
-        },
-        {
-            "body": "🥄 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/0be954715ac700d9034030edbc23b7ae6d13ee921707807545256574976",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 227292,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0be954715ac700d9034030edbc23b7ae6d13ee921707807545256574976",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 227292,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764419",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764419",
-                "emoticons": [
-                    "🥄"
                 ]
             }
         },
@@ -184,6 +125,36 @@
             }
         },
         {
+            "body": "✂ (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/7ab7c21cb895f63b006b94aabc08988bc3e9004b1707807529855090688",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 277663,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7ab7c21cb895f63b006b94aabc08988bc3e9004b1707807529855090688",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 277663,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764422",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764422",
+                "emoticons": [
+                    "✂",
+                    "📝"
+                ]
+            }
+        },
+        {
             "body": "💋 (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/aaec29c926d2f068075e89d2d132fb5a9db93e2c1707807552193953792",
             "info": {
@@ -214,33 +185,31 @@
             }
         },
         {
-            "body": "😇 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/8f03b0d713400880ca89dbc184411f916ca338351707807538583437312",
+            "body": "🚀 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/f8186ed519f88c25b1cc6f40cd942a53c238d2681707807525073584128",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 252276,
+                "size": 210291,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8f03b0d713400880ca89dbc184411f916ca338351707807538583437312",
+                "thumbnail_url": "mxc://matrix.chir.rs/f8186ed519f88c25b1cc6f40cd942a53c238d2681707807525073584128",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 252276,
+                    "size": 210291,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764424",
+            "id": "tg-448618190289764417",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764424",
+                "id": "448618190289764417",
                 "emoticons": [
-                    "😇",
-                    "⭐",
-                    "🌟"
+                    "🚀"
                 ]
             }
         },
@@ -274,32 +243,31 @@
             }
         },
         {
-            "body": "✂ (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/7ab7c21cb895f63b006b94aabc08988bc3e9004b1707807529855090688",
+            "body": "☁ (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/4006fee317b4864f9f3973557ed1eee2b17590e91707807534078754816",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 277663,
+                "size": 256762,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7ab7c21cb895f63b006b94aabc08988bc3e9004b1707807529855090688",
+                "thumbnail_url": "mxc://matrix.chir.rs/4006fee317b4864f9f3973557ed1eee2b17590e91707807534078754816",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 277663,
+                    "size": 256762,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764422",
+            "id": "tg-448618190289764428",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764422",
+                "id": "448618190289764428",
                 "emoticons": [
-                    "✂",
-                    "📝"
+                    "☁"
                 ]
             }
         },
@@ -329,6 +297,35 @@
                 "id": "448618190289764426",
                 "emoticons": [
                     "🏃"
+                ]
+            }
+        },
+        {
+            "body": "🖍 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/f03cd973bfbc331f4fb64f89b881a3da38ff50bd1707807536079437824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216942,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f03cd973bfbc331f4fb64f89b881a3da38ff50bd1707807536079437824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216942,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764425",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764425",
+                "emoticons": [
+                    "🖍"
                 ]
             }
         },
@@ -363,64 +360,6 @@
             }
         },
         {
-            "body": "🎨 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/a6222f1ac0a1acd7b603359fcc43c78ea75336911707807525920833536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 226721,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a6222f1ac0a1acd7b603359fcc43c78ea75336911707807525920833536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 226721,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764414",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764414",
-                "emoticons": [
-                    "🎨"
-                ]
-            }
-        },
-        {
-            "body": "🌈 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/f67d2c9e3c4080063e810090e32ad56446f066741707807537652301824",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 309622,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f67d2c9e3c4080063e810090e32ad56446f066741707807537652301824",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 309622,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764478",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764478",
-                "emoticons": [
-                    "🌈"
-                ]
-            }
-        },
-        {
             "body": "💻 (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/144044d9f33f1aa4cce36a7afd5d3eca1971597b1707807536108797952",
             "info": {
@@ -446,6 +385,65 @@
                 "id": "448618190289764475",
                 "emoticons": [
                     "💻"
+                ]
+            }
+        },
+        {
+            "body": "🚽 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/521196786a369366efc4e003582eaae2615c07bf1707807540097581056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 292474,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/521196786a369366efc4e003582eaae2615c07bf1707807540097581056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 292474,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764477",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764477",
+                "emoticons": [
+                    "🚽"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/297138980b24c1732cf253f2266968abe2e08faa1707807531776081920",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 212678,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/297138980b24c1732cf253f2266968abe2e08faa1707807531776081920",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 212678,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764420",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764420",
+                "emoticons": [
+                    "😡",
+                    "😫"
                 ]
             }
         },
@@ -479,6 +477,64 @@
             }
         },
         {
+            "body": "😳 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/3f0c775eb85d13bce0de7e230a311e60e6763b001707807543478190080",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 316500,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3f0c775eb85d13bce0de7e230a311e60e6763b001707807543478190080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 316500,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764679",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764679",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "🌈 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/f67d2c9e3c4080063e810090e32ad56446f066741707807537652301824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 309622,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f67d2c9e3c4080063e810090e32ad56446f066741707807537652301824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 309622,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764478",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764478",
+                "emoticons": [
+                    "🌈"
+                ]
+            }
+        },
+        {
             "body": "🔥 (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/9faa296701462d9b86cb31a96a383d2ed4eada831707807544870699008",
             "info": {
@@ -508,31 +564,60 @@
             }
         },
         {
-            "body": "😳 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/3f0c775eb85d13bce0de7e230a311e60e6763b001707807543478190080",
+            "body": "😈 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/3fff7611cadbee52ff9883436eaec535aa0aad201707807560477704192",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 316500,
+                "size": 258042,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3f0c775eb85d13bce0de7e230a311e60e6763b001707807543478190080",
+                "thumbnail_url": "mxc://matrix.chir.rs/3fff7611cadbee52ff9883436eaec535aa0aad201707807560477704192",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 316500,
+                    "size": 258042,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764679",
+            "id": "tg-448618190289764483",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764679",
+                "id": "448618190289764483",
                 "emoticons": [
-                    "😳"
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "🥄 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/0be954715ac700d9034030edbc23b7ae6d13ee921707807545256574976",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227292,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0be954715ac700d9034030edbc23b7ae6d13ee921707807545256574976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227292,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764419",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764419",
+                "emoticons": [
+                    "🥄"
                 ]
             }
         },
@@ -595,64 +680,6 @@
             }
         },
         {
-            "body": "😈 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/3fff7611cadbee52ff9883436eaec535aa0aad201707807560477704192",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 258042,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3fff7611cadbee52ff9883436eaec535aa0aad201707807560477704192",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 258042,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764483",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764483",
-                "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
-            "body": "🚽 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/521196786a369366efc4e003582eaae2615c07bf1707807540097581056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 292474,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/521196786a369366efc4e003582eaae2615c07bf1707807540097581056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 292474,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764477",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764477",
-                "emoticons": [
-                    "🚽"
-                ]
-            }
-        },
-        {
             "body": "🌀 (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/e819e271f9f6c36f695296d8aeaace371e580e1a1707807542425419776",
             "info": {
@@ -678,35 +705,6 @@
                 "id": "448618190289764588",
                 "emoticons": [
                     "🌀"
-                ]
-            }
-        },
-        {
-            "body": "☁ (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/4006fee317b4864f9f3973557ed1eee2b17590e91707807534078754816",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 256762,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4006fee317b4864f9f3973557ed1eee2b17590e91707807534078754816",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 256762,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764428",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764428",
-                "emoticons": [
-                    "☁"
                 ]
             }
         },
@@ -740,60 +738,31 @@
             }
         },
         {
-            "body": "🌼 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/02dae5f858fec5f671dde1b9d9fc4b334abdd6211707807549132111872",
+            "body": "🍟 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/a70d53b3e324905a2b1bb493fced29214b0af8181707807542085681152",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 296141,
+                "size": 298497,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02dae5f858fec5f671dde1b9d9fc4b334abdd6211707807549132111872",
+                "thumbnail_url": "mxc://matrix.chir.rs/a70d53b3e324905a2b1bb493fced29214b0af8181707807542085681152",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 296141,
+                    "size": 298497,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764694",
+            "id": "tg-448618190289764476",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764694",
+                "id": "448618190289764476",
                 "emoticons": [
-                    "🌼"
-                ]
-            }
-        },
-        {
-            "body": "👞 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/79385d6dcffb90a89230c248b845b17e5e70ae281707807549127917568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220691,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/79385d6dcffb90a89230c248b845b17e5e70ae281707807549127917568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220691,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764695",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764695",
-                "emoticons": [
-                    "👞"
+                    "🍟"
                 ]
             }
         },
@@ -856,6 +825,64 @@
             }
         },
         {
+            "body": "👞 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/79385d6dcffb90a89230c248b845b17e5e70ae281707807549127917568",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 220691,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/79385d6dcffb90a89230c248b845b17e5e70ae281707807549127917568",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 220691,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764695",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764695",
+                "emoticons": [
+                    "👞"
+                ]
+            }
+        },
+        {
+            "body": "🍬 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/e9574d9f2afcef3b26b03fb5f9381f6113aa5f9d1707807555222241280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 181309,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e9574d9f2afcef3b26b03fb5f9381f6113aa5f9d1707807555222241280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 181309,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764697",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764697",
+                "emoticons": [
+                    "🍬"
+                ]
+            }
+        },
+        {
             "body": "📼 (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/5810f0432cdce997c2f3addcb35c4ffdecc661c21707807557801738240",
             "info": {
@@ -881,35 +908,6 @@
                 "id": "448618190289764698",
                 "emoticons": [
                     "📼"
-                ]
-            }
-        },
-        {
-            "body": "🎨 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/b86e7e723b53f2906ec1239e44b0d596db4327821707807577699516416",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220602,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b86e7e723b53f2906ec1239e44b0d596db4327821707807577699516416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220602,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764699",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764699",
-                "emoticons": [
-                    "🎨"
                 ]
             }
         },
@@ -943,31 +941,31 @@
             }
         },
         {
-            "body": "🍬 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/e9574d9f2afcef3b26b03fb5f9381f6113aa5f9d1707807555222241280",
+            "body": "🎨 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/b86e7e723b53f2906ec1239e44b0d596db4327821707807577699516416",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 181309,
+                "size": 220602,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e9574d9f2afcef3b26b03fb5f9381f6113aa5f9d1707807555222241280",
+                "thumbnail_url": "mxc://matrix.chir.rs/b86e7e723b53f2906ec1239e44b0d596db4327821707807577699516416",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 181309,
+                    "size": 220602,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764697",
+            "id": "tg-448618190289764699",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764697",
+                "id": "448618190289764699",
                 "emoticons": [
-                    "🍬"
+                    "🎨"
                 ]
             }
         },
@@ -1030,35 +1028,6 @@
             }
         },
         {
-            "body": "🍟 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/a70d53b3e324905a2b1bb493fced29214b0af8181707807542085681152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 298497,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a70d53b3e324905a2b1bb493fced29214b0af8181707807542085681152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 298497,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764476",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764476",
-                "emoticons": [
-                    "🍟"
-                ]
-            }
-        },
-        {
             "body": "➕ (Mischievous Cubs)",
             "url": "mxc://matrix.chir.rs/5d2ffc2bea86759dc0908a37cc0ac9e173f57f1a1707807559596900352",
             "info": {
@@ -1088,60 +1057,31 @@
             }
         },
         {
-            "body": "🎨 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/d104776c96e14fed44af3c233e8b0c999d89d6e91707807558078562304",
+            "body": "🌫 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/d77f491c3f77270c47355d9e7f4257f6e6973ed41707807562188980224",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 279946,
+                "size": 206771,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d104776c96e14fed44af3c233e8b0c999d89d6e91707807558078562304",
+                "thumbnail_url": "mxc://matrix.chir.rs/d77f491c3f77270c47355d9e7f4257f6e6973ed41707807562188980224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 279946,
+                    "size": 206771,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764703",
+            "id": "tg-448618190289764706",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764703",
+                "id": "448618190289764706",
                 "emoticons": [
-                    "🎨"
-                ]
-            }
-        },
-        {
-            "body": "🖍 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/f03cd973bfbc331f4fb64f89b881a3da38ff50bd1707807536079437824",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 216942,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f03cd973bfbc331f4fb64f89b881a3da38ff50bd1707807536079437824",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 216942,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764425",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764425",
-                "emoticons": [
-                    "🖍"
+                    "🌫"
                 ]
             }
         },
@@ -1175,60 +1115,91 @@
             }
         },
         {
-            "body": "😈 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/a2e04e3d7a2ab46f789b1641668d332b88b66b941707807563342413824",
+            "body": "🍝 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/9366f6088e524991085cf202f967e2ff7894f6411707807557306810368",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 244947,
+                "size": 233659,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a2e04e3d7a2ab46f789b1641668d332b88b66b941707807563342413824",
+                "thumbnail_url": "mxc://matrix.chir.rs/9366f6088e524991085cf202f967e2ff7894f6411707807557306810368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 244947,
+                    "size": 233659,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764708",
+            "id": "tg-448618190289764709",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764708",
+                "id": "448618190289764709",
                 "emoticons": [
-                    "😈"
+                    "🍝"
                 ]
             }
         },
         {
-            "body": "🎮 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/27ef4ecb014c9e4a9fd7c5459242e1a5a2ce663c1707807561064906752",
+            "body": "😇 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/8f03b0d713400880ca89dbc184411f916ca338351707807538583437312",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 245127,
+                "size": 252276,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/27ef4ecb014c9e4a9fd7c5459242e1a5a2ce663c1707807561064906752",
+                "thumbnail_url": "mxc://matrix.chir.rs/8f03b0d713400880ca89dbc184411f916ca338351707807538583437312",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 245127,
+                    "size": 252276,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764711",
+            "id": "tg-448618190289764424",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764711",
+                "id": "448618190289764424",
                 "emoticons": [
-                    "🎮"
+                    "😇",
+                    "⭐",
+                    "🌟"
+                ]
+            }
+        },
+        {
+            "body": "🎨 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/d104776c96e14fed44af3c233e8b0c999d89d6e91707807558078562304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 279946,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d104776c96e14fed44af3c233e8b0c999d89d6e91707807558078562304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 279946,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764703",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764703",
+                "emoticons": [
+                    "🎨"
                 ]
             }
         },
@@ -1262,60 +1233,31 @@
             }
         },
         {
-            "body": "🔴 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/1aca245a5f7a9368eedf7d76411a8665378955161707807565154353152",
+            "body": "🤪 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/b77a7c36546f5f1699bde66f1668414809ddf2db1707807568438493184",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 179970,
+                "size": 189385,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1aca245a5f7a9368eedf7d76411a8665378955161707807565154353152",
+                "thumbnail_url": "mxc://matrix.chir.rs/b77a7c36546f5f1699bde66f1668414809ddf2db1707807568438493184",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 179970,
+                    "size": 189385,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764860",
+            "id": "tg-448618190289764861",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764860",
+                "id": "448618190289764861",
                 "emoticons": [
-                    "🔴"
-                ]
-            }
-        },
-        {
-            "body": "🚑 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/ccdaf43e2c3a641a6c08f33e9ff4dce171e863451707807555218046976",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 226048,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ccdaf43e2c3a641a6c08f33e9ff4dce171e863451707807555218046976",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 226048,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-448618190289764705",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "448618190289764355",
-                    "short_name": "MischievousCubs"
-                },
-                "id": "448618190289764705",
-                "emoticons": [
-                    "🚑"
+                    "🤪"
                 ]
             }
         },
@@ -1349,89 +1291,147 @@
             }
         },
         {
-            "body": "🤪 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/b77a7c36546f5f1699bde66f1668414809ddf2db1707807568438493184",
+            "body": "🎮 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/27ef4ecb014c9e4a9fd7c5459242e1a5a2ce663c1707807561064906752",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 189385,
+                "size": 245127,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b77a7c36546f5f1699bde66f1668414809ddf2db1707807568438493184",
+                "thumbnail_url": "mxc://matrix.chir.rs/27ef4ecb014c9e4a9fd7c5459242e1a5a2ce663c1707807561064906752",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 189385,
+                    "size": 245127,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764861",
+            "id": "tg-448618190289764711",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764861",
+                "id": "448618190289764711",
                 "emoticons": [
-                    "🤪"
+                    "🎮"
                 ]
             }
         },
         {
-            "body": "🍝 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/9366f6088e524991085cf202f967e2ff7894f6411707807557306810368",
+            "body": "🚑 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/ccdaf43e2c3a641a6c08f33e9ff4dce171e863451707807555218046976",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 233659,
+                "size": 226048,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9366f6088e524991085cf202f967e2ff7894f6411707807557306810368",
+                "thumbnail_url": "mxc://matrix.chir.rs/ccdaf43e2c3a641a6c08f33e9ff4dce171e863451707807555218046976",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 233659,
+                    "size": 226048,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764709",
+            "id": "tg-448618190289764705",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764709",
+                "id": "448618190289764705",
                 "emoticons": [
-                    "🍝"
+                    "🚑"
                 ]
             }
         },
         {
-            "body": "🌫 (Mischievous Cubs)",
-            "url": "mxc://matrix.chir.rs/d77f491c3f77270c47355d9e7f4257f6e6973ed41707807562188980224",
+            "body": "🌼 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/02dae5f858fec5f671dde1b9d9fc4b334abdd6211707807549132111872",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 206771,
+                "size": 296141,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d77f491c3f77270c47355d9e7f4257f6e6973ed41707807562188980224",
+                "thumbnail_url": "mxc://matrix.chir.rs/02dae5f858fec5f671dde1b9d9fc4b334abdd6211707807549132111872",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 206771,
+                    "size": 296141,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-448618190289764706",
+            "id": "tg-448618190289764694",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "448618190289764355",
                     "short_name": "MischievousCubs"
                 },
-                "id": "448618190289764706",
+                "id": "448618190289764694",
                 "emoticons": [
-                    "🌫"
+                    "🌼"
+                ]
+            }
+        },
+        {
+            "body": "🔴 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/1aca245a5f7a9368eedf7d76411a8665378955161707807565154353152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 179970,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1aca245a5f7a9368eedf7d76411a8665378955161707807565154353152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 179970,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764860",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764860",
+                "emoticons": [
+                    "🔴"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Mischievous Cubs)",
+            "url": "mxc://matrix.chir.rs/a2e04e3d7a2ab46f789b1641668d332b88b66b941707807563342413824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 244947,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a2e04e3d7a2ab46f789b1641668d332b88b66b941707807563342413824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 244947,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-448618190289764708",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "448618190289764355",
+                    "short_name": "MischievousCubs"
+                },
+                "id": "448618190289764708",
+                "emoticons": [
+                    "😈"
                 ]
             }
         }

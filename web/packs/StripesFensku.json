@@ -95,64 +95,6 @@
             }
         },
         {
-            "body": "🥺 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/cfd2689288c0de96535a3915f9da3ffaa8860c661707818093335543808",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 123031,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cfd2689288c0de96535a3915f9da3ffaa8860c661707818093335543808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 123031,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136493",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136493",
-                "emoticons": [
-                    "🥺"
-                ]
-            }
-        },
-        {
-            "body": "🌈 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/67017d8d5f7adcdb77d5277d2bb2809cea4ce3a21707818094845493248",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 140900,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/67017d8d5f7adcdb77d5277d2bb2809cea4ce3a21707818094845493248",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 140900,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136471",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136471",
-                "emoticons": [
-                    "🌈"
-                ]
-            }
-        },
-        {
             "body": "🤔 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/be8a485bed51677be53a3e4c84feacfa0c6676df1707818098775556096",
             "info": {
@@ -211,31 +153,60 @@
             }
         },
         {
-            "body": "🗣 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/41952fed529daf6428e76d34b6fdec87c7a42eb21707818099786383360",
+            "body": "🥺 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/cfd2689288c0de96535a3915f9da3ffaa8860c661707818093335543808",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 120472,
+                "size": 123031,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/41952fed529daf6428e76d34b6fdec87c7a42eb21707818099786383360",
+                "thumbnail_url": "mxc://matrix.chir.rs/cfd2689288c0de96535a3915f9da3ffaa8860c661707818093335543808",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 120472,
+                    "size": 123031,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136467",
+            "id": "tg-584360331032136493",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136467",
+                "id": "584360331032136493",
                 "emoticons": [
-                    "🗣"
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "🌈 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/67017d8d5f7adcdb77d5277d2bb2809cea4ce3a21707818094845493248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 140900,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/67017d8d5f7adcdb77d5277d2bb2809cea4ce3a21707818094845493248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 140900,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136471",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136471",
+                "emoticons": [
+                    "🌈"
                 ]
             }
         },
@@ -267,6 +238,152 @@
                     "🤷‍♀",
                     "🤷",
                     "🤷‍♂"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/ae9c6fcf05def32be45988cef4f7c07d483771171707818138076184576",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 138141,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ae9c6fcf05def32be45988cef4f7c07d483771171707818138076184576",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 138141,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136510",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136510",
+                "emoticons": [
+                    "👍",
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "🗣 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/41952fed529daf6428e76d34b6fdec87c7a42eb21707818099786383360",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 120472,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/41952fed529daf6428e76d34b6fdec87c7a42eb21707818099786383360",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 120472,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136467",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136467",
+                "emoticons": [
+                    "🗣"
+                ]
+            }
+        },
+        {
+            "body": "😋 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/d26b0f9fdd8f54d7372cc13fe817b891145656161707818109341007872",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 115401,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d26b0f9fdd8f54d7372cc13fe817b891145656161707818109341007872",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 115401,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136487",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136487",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "😁 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/4ebc0b3aa387464f87dae55b2b1c5ae51aa307141707818114831351808",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 126488,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4ebc0b3aa387464f87dae55b2b1c5ae51aa307141707818114831351808",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 126488,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136450",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136450",
+                "emoticons": [
+                    "😁"
+                ]
+            }
+        },
+        {
+            "body": "🗣 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/82c02df15689c7db494127fa81da937742cf57db1707818120015511552",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135164,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/82c02df15689c7db494127fa81da937742cf57db1707818120015511552",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135164,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136351",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136351",
+                "emoticons": [
+                    "🗣"
                 ]
             }
         },
@@ -330,35 +447,6 @@
             }
         },
         {
-            "body": "👀 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/64c7d7257d78a69db103b9834753e6a4c25242b71707818105087983616",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 144196,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/64c7d7257d78a69db103b9834753e6a4c25242b71707818105087983616",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 144196,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136511",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136511",
-                "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
             "body": "💻 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/f237f9ee52d86df97278e7082196fb1bb797dd9f1707818106786676736",
             "info": {
@@ -384,35 +472,6 @@
                 "id": "584360331032136473",
                 "emoticons": [
                     "💻"
-                ]
-            }
-        },
-        {
-            "body": "🍕 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/8e4e5925346bb15e9ac2e15aa7c54ad90ca40b701707818107923333120",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 134442,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8e4e5925346bb15e9ac2e15aa7c54ad90ca40b701707818107923333120",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 134442,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136513",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136513",
-                "emoticons": [
-                    "🍕"
                 ]
             }
         },
@@ -446,6 +505,93 @@
             }
         },
         {
+            "body": "😷 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/7b09e817dd2e4ecd725a5aeaebc5bc9a1823de571707818116815257600",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 130619,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7b09e817dd2e4ecd725a5aeaebc5bc9a1823de571707818116815257600",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 130619,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136494",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136494",
+                "emoticons": [
+                    "😷"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/0fb57ab4487d74005a805b67f5b2c2bce0b760851707818113497563136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 88288,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0fb57ab4487d74005a805b67f5b2c2bce0b760851707818113497563136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 88288,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136463",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136463",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/64c7d7257d78a69db103b9834753e6a4c25242b71707818105087983616",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 144196,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/64c7d7257d78a69db103b9834753e6a4c25242b71707818105087983616",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 144196,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136511",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136511",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
             "body": "😳 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/b7b9e4a5e3970f56d6d1da2b6c4eb373dab1bc561707818109320036352",
             "info": {
@@ -475,31 +621,61 @@
             }
         },
         {
-            "body": "😋 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/d26b0f9fdd8f54d7372cc13fe817b891145656161707818109341007872",
+            "body": "🥺 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/3078a93113068b052000a01d1bfac9b2a6cc75991707818111815647232",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 115401,
+                "size": 142175,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d26b0f9fdd8f54d7372cc13fe817b891145656161707818109341007872",
+                "thumbnail_url": "mxc://matrix.chir.rs/3078a93113068b052000a01d1bfac9b2a6cc75991707818111815647232",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 115401,
+                    "size": 142175,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136487",
+            "id": "tg-584360331032136512",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136487",
+                "id": "584360331032136512",
                 "emoticons": [
-                    "😋"
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/9ca031f19d9b3925b086505d0f7808e6474dace51707818120208449536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 119065,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9ca031f19d9b3925b086505d0f7808e6474dace51707818120208449536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 119065,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136506",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136506",
+                "emoticons": [
+                    "👀",
+                    "👅"
                 ]
             }
         },
@@ -535,6 +711,35 @@
             }
         },
         {
+            "body": "🗑 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/74f40f9e6a3f7809d6084775070d05c6441b23e11707818122615980032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 111199,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/74f40f9e6a3f7809d6084775070d05c6441b23e11707818122615980032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 111199,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136508",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136508",
+                "emoticons": [
+                    "🗑"
+                ]
+            }
+        },
+        {
             "body": "😈 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/5b483ebfd3f025b40fdf2107d7826b7e66194adb1707818111702401024",
             "info": {
@@ -560,35 +765,6 @@
                 "id": "584360331032136505",
                 "emoticons": [
                     "😈"
-                ]
-            }
-        },
-        {
-            "body": "🥺 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/3078a93113068b052000a01d1bfac9b2a6cc75991707818111815647232",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142175,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3078a93113068b052000a01d1bfac9b2a6cc75991707818111815647232",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142175,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136512",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136512",
-                "emoticons": [
-                    "🥺"
                 ]
             }
         },
@@ -622,148 +798,32 @@
             }
         },
         {
-            "body": "😭 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/0fb57ab4487d74005a805b67f5b2c2bce0b760851707818113497563136",
+            "body": "🍴 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/1bc0de545b174d94e55ff1eafba8348504cd300d1707818123471618048",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 88288,
+                "size": 140139,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0fb57ab4487d74005a805b67f5b2c2bce0b760851707818113497563136",
+                "thumbnail_url": "mxc://matrix.chir.rs/1bc0de545b174d94e55ff1eafba8348504cd300d1707818123471618048",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 88288,
+                    "size": 140139,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136463",
+            "id": "tg-584360331032136507",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136463",
+                "id": "584360331032136507",
                 "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "😁 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/4ebc0b3aa387464f87dae55b2b1c5ae51aa307141707818114831351808",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 126488,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4ebc0b3aa387464f87dae55b2b1c5ae51aa307141707818114831351808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 126488,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136450",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136450",
-                "emoticons": [
-                    "😁"
-                ]
-            }
-        },
-        {
-            "body": "😝 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/9ddf74dcc68d54d1c86d9b344ea26e9d8554214d1707818116328718336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 161056,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9ddf74dcc68d54d1c86d9b344ea26e9d8554214d1707818116328718336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 161056,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136500",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136500",
-                "emoticons": [
-                    "😁",
-                    "😝"
-                ]
-            }
-        },
-        {
-            "body": "😖 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/ffe10df831fa2c1965be25088dbe523c9ab016bc1707818116811063296",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 133410,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ffe10df831fa2c1965be25088dbe523c9ab016bc1707818116811063296",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 133410,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136498",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136498",
-                "emoticons": [
-                    "😖"
-                ]
-            }
-        },
-        {
-            "body": "😷 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/7b09e817dd2e4ecd725a5aeaebc5bc9a1823de571707818116815257600",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 130619,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b09e817dd2e4ecd725a5aeaebc5bc9a1823de571707818116815257600",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 130619,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136494",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136494",
-                "emoticons": [
-                    "😷"
+                    "🍴",
+                    "🍽"
                 ]
             }
         },
@@ -793,6 +853,35 @@
                 "id": "584360331032136502",
                 "emoticons": [
                     "🛩"
+                ]
+            }
+        },
+        {
+            "body": "😖 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/ffe10df831fa2c1965be25088dbe523c9ab016bc1707818116811063296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133410,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ffe10df831fa2c1965be25088dbe523c9ab016bc1707818116811063296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133410,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136498",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136498",
+                "emoticons": [
+                    "😖"
                 ]
             }
         },
@@ -828,61 +917,61 @@
             }
         },
         {
-            "body": "👀 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/9ca031f19d9b3925b086505d0f7808e6474dace51707818120208449536",
+            "body": "🥰 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/20309e5a629bdb5e203f2a886723407ab0afa3d11707818145458159616",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 119065,
+                "size": 147941,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9ca031f19d9b3925b086505d0f7808e6474dace51707818120208449536",
+                "thumbnail_url": "mxc://matrix.chir.rs/20309e5a629bdb5e203f2a886723407ab0afa3d11707818145458159616",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 119065,
+                    "size": 147941,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136506",
+            "id": "tg-584360331032136519",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136506",
+                "id": "584360331032136519",
                 "emoticons": [
-                    "👀",
-                    "👅"
+                    "🥰"
                 ]
             }
         },
         {
-            "body": "🗣 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/82c02df15689c7db494127fa81da937742cf57db1707818120015511552",
+            "body": "😝 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/9ddf74dcc68d54d1c86d9b344ea26e9d8554214d1707818116328718336",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 135164,
+                "size": 161056,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/82c02df15689c7db494127fa81da937742cf57db1707818120015511552",
+                "thumbnail_url": "mxc://matrix.chir.rs/9ddf74dcc68d54d1c86d9b344ea26e9d8554214d1707818116328718336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 135164,
+                    "size": 161056,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136351",
+            "id": "tg-584360331032136500",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136351",
+                "id": "584360331032136500",
                 "emoticons": [
-                    "🗣"
+                    "😁",
+                    "😝"
                 ]
             }
         },
@@ -912,65 +1001,6 @@
                 "id": "584360331032136520",
                 "emoticons": [
                     "😠"
-                ]
-            }
-        },
-        {
-            "body": "🗑 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/74f40f9e6a3f7809d6084775070d05c6441b23e11707818122615980032",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 111199,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74f40f9e6a3f7809d6084775070d05c6441b23e11707818122615980032",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 111199,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136508",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136508",
-                "emoticons": [
-                    "🗑"
-                ]
-            }
-        },
-        {
-            "body": "🍴 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/1bc0de545b174d94e55ff1eafba8348504cd300d1707818123471618048",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 140139,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1bc0de545b174d94e55ff1eafba8348504cd300d1707818123471618048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 140139,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136507",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136507",
-                "emoticons": [
-                    "🍴",
-                    "🍽"
                 ]
             }
         },
@@ -1006,152 +1036,31 @@
             }
         },
         {
-            "body": "↩️ (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/74a1af50a4abb1bf17a89787069fdfa926eff7f51707818124369199104",
+            "body": "🍕 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/8e4e5925346bb15e9ac2e15aa7c54ad90ca40b701707818107923333120",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 153815,
+                "size": 134442,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/74a1af50a4abb1bf17a89787069fdfa926eff7f51707818124369199104",
+                "thumbnail_url": "mxc://matrix.chir.rs/8e4e5925346bb15e9ac2e15aa7c54ad90ca40b701707818107923333120",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 153815,
+                    "size": 134442,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136522",
+            "id": "tg-584360331032136513",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136522",
+                "id": "584360331032136513",
                 "emoticons": [
-                    "↩",
-                    "🔁",
-                    "🔄"
-                ]
-            }
-        },
-        {
-            "body": "😰 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/a72e622d47ff13a128a683ac968adf544ff3499e1707818125510049792",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 151795,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a72e622d47ff13a128a683ac968adf544ff3499e1707818125510049792",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 151795,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136521",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136521",
-                "emoticons": [
-                    "😰"
-                ]
-            }
-        },
-        {
-            "body": "🐾 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/cd18f820c3fba1c317f7e8d516682d7b83615ac81707818126520877056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 177343,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cd18f820c3fba1c317f7e8d516682d7b83615ac81707818126520877056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 177343,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136526",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136526",
-                "emoticons": [
-                    "🐾"
-                ]
-            }
-        },
-        {
-            "body": "💦 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/79838637b562ab7cffed1fd2d11af87d19ce36161707818127426846720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 134009,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/79838637b562ab7cffed1fd2d11af87d19ce36161707818127426846720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 134009,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136527",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136527",
-                "emoticons": [
-                    "💦",
-                    "💧"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/7aa5663246a16008aab6fa142c22e08cd0d3acbb1707818128341204992",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 129705,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7aa5663246a16008aab6fa142c22e08cd0d3acbb1707818128341204992",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 129705,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136355",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136355",
-                "emoticons": [
-                    "😳",
-                    "❤",
-                    "😘"
+                    "🍕"
                 ]
             }
         },
@@ -1185,122 +1094,31 @@
             }
         },
         {
-            "body": "☕ (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/4fe1cdb59abf8482b931f2e2f83df52f138cbf781707818129557553152",
+            "body": "😱 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/25f049abd622f67419fa652b3ffa1ea85858652c1707818140261416960",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 124592,
+                "size": 307392,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4fe1cdb59abf8482b931f2e2f83df52f138cbf781707818129557553152",
+                "thumbnail_url": "mxc://matrix.chir.rs/25f049abd622f67419fa652b3ffa1ea85858652c1707818140261416960",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 124592,
+                    "size": 307392,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136357",
+            "id": "tg-584360331032136501",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136357",
+                "id": "584360331032136501",
                 "emoticons": [
-                    "😋",
-                    "☕",
-                    "🍻"
-                ]
-            }
-        },
-        {
-            "body": "😞 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/9721466c73685228757220f433ad40e141fc04641707818130698403840",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 121844,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9721466c73685228757220f433ad40e141fc04641707818130698403840",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 121844,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136363",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136363",
-                "emoticons": [
-                    "😞",
-                    "😢",
-                    "😔"
-                ]
-            }
-        },
-        {
-            "body": "💤 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/d79cbc54efa4a2f21693915a5262046fa5d96d6d1707818131927334912",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 86611,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d79cbc54efa4a2f21693915a5262046fa5d96d6d1707818131927334912",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 86611,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136457",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136457",
-                "emoticons": [
-                    "💤"
-                ]
-            }
-        },
-        {
-            "body": "👀 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/1c9e9ae408fa3d8042334d029daaf719095dccfa1707818131918946304",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 86076,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1c9e9ae408fa3d8042334d029daaf719095dccfa1707818131918946304",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 86076,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136449",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136449",
-                "emoticons": [
-                    "👀"
+                    "😱"
                 ]
             }
         },
@@ -1363,31 +1181,89 @@
             }
         },
         {
-            "body": "😎 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/21fc4f26354e2ef1143dca0c5f9464e82c772cdf1707818135098228736",
+            "body": "🐾 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/cd18f820c3fba1c317f7e8d516682d7b83615ac81707818126520877056",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 134684,
+                "size": 177343,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/21fc4f26354e2ef1143dca0c5f9464e82c772cdf1707818135098228736",
+                "thumbnail_url": "mxc://matrix.chir.rs/cd18f820c3fba1c317f7e8d516682d7b83615ac81707818126520877056",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 134684,
+                    "size": 177343,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136532",
+            "id": "tg-584360331032136526",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136532",
+                "id": "584360331032136526",
                 "emoticons": [
-                    "😎"
+                    "🐾"
+                ]
+            }
+        },
+        {
+            "body": "😰 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/a72e622d47ff13a128a683ac968adf544ff3499e1707818125510049792",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 151795,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a72e622d47ff13a128a683ac968adf544ff3499e1707818125510049792",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 151795,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136521",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136521",
+                "emoticons": [
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "🐾 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/7c4b4fb54384e79ddb71355a2613dfb1c6b4fc7b1707818152928215040",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 194248,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7c4b4fb54384e79ddb71355a2613dfb1c6b4fc7b1707818152928215040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 194248,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136524",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136524",
+                "emoticons": [
+                    "🐾"
                 ]
             }
         },
@@ -1421,91 +1297,33 @@
             }
         },
         {
-            "body": "🥺 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/205f59b57c678cd20031860cfa8215bf823d994d1707818136469766144",
+            "body": "↩️ (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/74a1af50a4abb1bf17a89787069fdfa926eff7f51707818124369199104",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 94288,
+                "size": 153815,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/205f59b57c678cd20031860cfa8215bf823d994d1707818136469766144",
+                "thumbnail_url": "mxc://matrix.chir.rs/74a1af50a4abb1bf17a89787069fdfa926eff7f51707818124369199104",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 94288,
+                    "size": 153815,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136531",
+            "id": "tg-584360331032136522",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136531",
+                "id": "584360331032136522",
                 "emoticons": [
-                    "🥺"
-                ]
-            }
-        },
-        {
-            "body": "🌈 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/b1041fdfae5e5b0e2eadf43e0f061107a52504b11707818137438650368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 160914,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b1041fdfae5e5b0e2eadf43e0f061107a52504b11707818137438650368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 160914,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136541",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136541",
-                "emoticons": [
-                    "🌈",
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "👍 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/ae9c6fcf05def32be45988cef4f7c07d483771171707818138076184576",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 138141,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ae9c6fcf05def32be45988cef4f7c07d483771171707818138076184576",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 138141,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136510",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136510",
-                "emoticons": [
-                    "👍",
-                    "😋"
+                    "↩",
+                    "🔁",
+                    "🔄"
                 ]
             }
         },
@@ -1541,151 +1359,6 @@
             }
         },
         {
-            "body": "😱 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/25f049abd622f67419fa652b3ffa1ea85858652c1707818140261416960",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 307392,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/25f049abd622f67419fa652b3ffa1ea85858652c1707818140261416960",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 307392,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136501",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136501",
-                "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "😉 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/69f776e83dc6df499a536b2dd37fcf9e3b5ec5041707818141423239168",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131895,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/69f776e83dc6df499a536b2dd37fcf9e3b5ec5041707818141423239168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131895,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136533",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136533",
-                "emoticons": [
-                    "😉"
-                ]
-            }
-        },
-        {
-            "body": "😭 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/b9181ed325560235f9d09aa921914dde34baf96f1707818141502930944",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 142640,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b9181ed325560235f9d09aa921914dde34baf96f1707818141502930944",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 142640,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5127517530616758771",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "5127517530616758771",
-                "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/ebca281f72d82f572bae7e5af4ef031968fb80151707818142731862016",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 113477,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ebca281f72d82f572bae7e5af4ef031968fb80151707818142731862016",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 113477,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136534",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136534",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "🥔 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/70303b89a234e7edd8df722f77984e30f1f449a71707818142849302528",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 171951,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/70303b89a234e7edd8df722f77984e30f1f449a71707818142849302528",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 171951,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136537",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136537",
-                "emoticons": [
-                    "🥔"
-                ]
-            }
-        },
-        {
             "body": "😒 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/8ba10eab99a631db292776e454a9797c7df09ed01707818143897878528",
             "info": {
@@ -1715,60 +1388,122 @@
             }
         },
         {
-            "body": "🥰 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/20309e5a629bdb5e203f2a886723407ab0afa3d11707818145458159616",
+            "body": "👀 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/1c9e9ae408fa3d8042334d029daaf719095dccfa1707818131918946304",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 147941,
+                "size": 86076,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/20309e5a629bdb5e203f2a886723407ab0afa3d11707818145458159616",
+                "thumbnail_url": "mxc://matrix.chir.rs/1c9e9ae408fa3d8042334d029daaf719095dccfa1707818131918946304",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 147941,
+                    "size": 86076,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136519",
+            "id": "tg-584360331032136449",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136519",
+                "id": "584360331032136449",
                 "emoticons": [
-                    "🥰"
+                    "👀"
                 ]
             }
         },
         {
-            "body": "💃 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/00c69b5a54bb323f3d450730306282252bf176921707818145328136192",
+            "body": "😳 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/7aa5663246a16008aab6fa142c22e08cd0d3acbb1707818128341204992",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 160984,
+                "size": 129705,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/00c69b5a54bb323f3d450730306282252bf176921707818145328136192",
+                "thumbnail_url": "mxc://matrix.chir.rs/7aa5663246a16008aab6fa142c22e08cd0d3acbb1707818128341204992",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 160984,
+                    "size": 129705,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4958603570740986259",
+            "id": "tg-584360331032136355",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "4958603570740986259",
+                "id": "584360331032136355",
                 "emoticons": [
-                    "💃"
+                    "😳",
+                    "❤",
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "☕ (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/4fe1cdb59abf8482b931f2e2f83df52f138cbf781707818129557553152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 124592,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4fe1cdb59abf8482b931f2e2f83df52f138cbf781707818129557553152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 124592,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136357",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136357",
+                "emoticons": [
+                    "😋",
+                    "☕",
+                    "🍻"
+                ]
+            }
+        },
+        {
+            "body": "🥺 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/205f59b57c678cd20031860cfa8215bf823d994d1707818136469766144",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 94288,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/205f59b57c678cd20031860cfa8215bf823d994d1707818136469766144",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 94288,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136531",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136531",
+                "emoticons": [
+                    "🥺"
                 ]
             }
         },
@@ -1802,261 +1537,117 @@
             }
         },
         {
-            "body": "🍔 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/f8eaf01ad3fc54a368ce42ea3507d390f9d5829a1707818146880028672",
+            "body": "💦 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/79838637b562ab7cffed1fd2d11af87d19ce36161707818127426846720",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 200999,
+                "size": 134009,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f8eaf01ad3fc54a368ce42ea3507d390f9d5829a1707818146880028672",
+                "thumbnail_url": "mxc://matrix.chir.rs/79838637b562ab7cffed1fd2d11af87d19ce36161707818127426846720",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 200999,
+                    "size": 134009,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4958711202621424254",
+            "id": "tg-584360331032136527",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "4958711202621424254",
+                "id": "584360331032136527",
                 "emoticons": [
-                    "🍔"
+                    "💦",
+                    "💧"
                 ]
             }
         },
         {
-            "body": "🍉 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/0cc8f456bd37d2c5f6895e442b6477a6f9180ccb1707818147899244544",
+            "body": "😉 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/69f776e83dc6df499a536b2dd37fcf9e3b5ec5041707818141423239168",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 169464,
+                "size": 131895,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0cc8f456bd37d2c5f6895e442b6477a6f9180ccb1707818147899244544",
+                "thumbnail_url": "mxc://matrix.chir.rs/69f776e83dc6df499a536b2dd37fcf9e3b5ec5041707818141423239168",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 169464,
+                    "size": 131895,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956334397784588854",
+            "id": "tg-584360331032136533",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "4956334397784588854",
+                "id": "584360331032136533",
                 "emoticons": [
-                    "🍉"
+                    "😉"
                 ]
             }
         },
         {
-            "body": "😭 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/43841667e16fad7c1900a5ddef8e02ba7797e2ad1707818148926849024",
+            "body": "😎 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/21fc4f26354e2ef1143dca0c5f9464e82c772cdf1707818135098228736",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 132470,
+                "size": 134684,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/43841667e16fad7c1900a5ddef8e02ba7797e2ad1707818148926849024",
+                "thumbnail_url": "mxc://matrix.chir.rs/21fc4f26354e2ef1143dca0c5f9464e82c772cdf1707818135098228736",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 132470,
+                    "size": 134684,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136539",
+            "id": "tg-584360331032136532",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136539",
+                "id": "584360331032136532",
                 "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/419a6cbb4e631a2b0b9049d9cfd707b802b88ada1707818149610520576",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 109349,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/419a6cbb4e631a2b0b9049d9cfd707b802b88ada1707818149610520576",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 109349,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5046326658559115754",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "5046326658559115754",
-                "emoticons": [
-                    "🔪"
-                ]
-            }
-        },
-        {
-            "body": "😔 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/794cd66f96b066b7fcbd371089b62dc01f5ea3e01707818151376322560",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 175663,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/794cd66f96b066b7fcbd371089b62dc01f5ea3e01707818151376322560",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 175663,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136535",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136535",
-                "emoticons": [
-                    "😔"
-                ]
-            }
-        },
-        {
-            "body": "✅ (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/68156fb9cf67ba61ed5f31e7ccaa95532c18691c1707818151372128256",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131838,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/68156fb9cf67ba61ed5f31e7ccaa95532c18691c1707818151372128256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131838,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136540",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136540",
-                "emoticons": [
-                    "✅"
-                ]
-            }
-        },
-        {
-            "body": "🐾 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/7c4b4fb54384e79ddb71355a2613dfb1c6b4fc7b1707818152928215040",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 194248,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7c4b4fb54384e79ddb71355a2613dfb1c6b4fc7b1707818152928215040",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 194248,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136524",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136524",
-                "emoticons": [
-                    "🐾"
-                ]
-            }
-        },
-        {
-            "body": "😏 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/c0a80635adeaefb0e043eb10f4473c11e6b81cd91707818154140368896",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 131984,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c0a80635adeaefb0e043eb10f4473c11e6b81cd91707818154140368896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 131984,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5046506995645940083",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "5046506995645940083",
-                "emoticons": [
-                    "😏"
+                    "😎"
                 ]
             }
         },
         {
             "body": "😳 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/682c8c7d24ff9ec76cf054d583af1f059c4c7ab51707818152785608704",
+            "url": "mxc://matrix.chir.rs/ebca281f72d82f572bae7e5af4ef031968fb80151707818142731862016",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 160987,
+                "size": 113477,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/682c8c7d24ff9ec76cf054d583af1f059c4c7ab51707818152785608704",
+                "thumbnail_url": "mxc://matrix.chir.rs/ebca281f72d82f572bae7e5af4ef031968fb80151707818142731862016",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 160987,
+                    "size": 113477,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5046356469927117316",
+            "id": "tg-584360331032136534",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5046356469927117316",
+                "id": "584360331032136534",
                 "emoticons": [
                     "😳"
                 ]
@@ -2092,29 +1683,408 @@
             }
         },
         {
-            "body": "😳 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/4961a1b58b667a0d005428f8800432c9d336dbda1707818156057165824",
+            "body": "🥔 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/70303b89a234e7edd8df722f77984e30f1f449a71707818142849302528",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 234754,
+                "size": 171951,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4961a1b58b667a0d005428f8800432c9d336dbda1707818156057165824",
+                "thumbnail_url": "mxc://matrix.chir.rs/70303b89a234e7edd8df722f77984e30f1f449a71707818142849302528",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 234754,
+                    "size": 171951,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5044078449338090001",
+            "id": "tg-584360331032136537",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5044078449338090001",
+                "id": "584360331032136537",
+                "emoticons": [
+                    "🥔"
+                ]
+            }
+        },
+        {
+            "body": "😔 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/794cd66f96b066b7fcbd371089b62dc01f5ea3e01707818151376322560",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175663,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/794cd66f96b066b7fcbd371089b62dc01f5ea3e01707818151376322560",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175663,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136535",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136535",
+                "emoticons": [
+                    "😔"
+                ]
+            }
+        },
+        {
+            "body": "😞 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/9721466c73685228757220f433ad40e141fc04641707818130698403840",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 121844,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9721466c73685228757220f433ad40e141fc04641707818130698403840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 121844,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136363",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136363",
+                "emoticons": [
+                    "😞",
+                    "😢",
+                    "😔"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/b9181ed325560235f9d09aa921914dde34baf96f1707818141502930944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 142640,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b9181ed325560235f9d09aa921914dde34baf96f1707818141502930944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 142640,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5127517530616758771",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5127517530616758771",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "✅ (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/68156fb9cf67ba61ed5f31e7ccaa95532c18691c1707818151372128256",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 131838,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/68156fb9cf67ba61ed5f31e7ccaa95532c18691c1707818151372128256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 131838,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136540",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136540",
+                "emoticons": [
+                    "✅"
+                ]
+            }
+        },
+        {
+            "body": "💃 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/00c69b5a54bb323f3d450730306282252bf176921707818145328136192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 160984,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/00c69b5a54bb323f3d450730306282252bf176921707818145328136192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 160984,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4958603570740986259",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "4958603570740986259",
+                "emoticons": [
+                    "💃"
+                ]
+            }
+        },
+        {
+            "body": "🍣 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/e5450b9772f09e297e7dbbe51b97ed13a03d6a551707818158917681152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188754,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e5450b9772f09e297e7dbbe51b97ed13a03d6a551707818158917681152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188754,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956332233121071602",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "4956332233121071602",
+                "emoticons": [
+                    "🍣"
+                ]
+            }
+        },
+        {
+            "body": "🍔 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/f8eaf01ad3fc54a368ce42ea3507d390f9d5829a1707818146880028672",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200999,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f8eaf01ad3fc54a368ce42ea3507d390f9d5829a1707818146880028672",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200999,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4958711202621424254",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "4958711202621424254",
+                "emoticons": [
+                    "🍔"
+                ]
+            }
+        },
+        {
+            "body": "💤 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/d79cbc54efa4a2f21693915a5262046fa5d96d6d1707818131927334912",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 86611,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d79cbc54efa4a2f21693915a5262046fa5d96d6d1707818131927334912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 86611,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136457",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136457",
+                "emoticons": [
+                    "💤"
+                ]
+            }
+        },
+        {
+            "body": "🍉 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/0cc8f456bd37d2c5f6895e442b6477a6f9180ccb1707818147899244544",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 169464,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0cc8f456bd37d2c5f6895e442b6477a6f9180ccb1707818147899244544",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 169464,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956334397784588854",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "4956334397784588854",
+                "emoticons": [
+                    "🍉"
+                ]
+            }
+        },
+        {
+            "body": "😏 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/c0a80635adeaefb0e043eb10f4473c11e6b81cd91707818154140368896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 131984,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c0a80635adeaefb0e043eb10f4473c11e6b81cd91707818154140368896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 131984,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046506995645940083",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5046506995645940083",
+                "emoticons": [
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/43841667e16fad7c1900a5ddef8e02ba7797e2ad1707818148926849024",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 132470,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/43841667e16fad7c1900a5ddef8e02ba7797e2ad1707818148926849024",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 132470,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136539",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136539",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "❌ (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/f6017922b350410fc3e707c9550337239dca7e171707818169051119616",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 127207,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f6017922b350410fc3e707c9550337239dca7e171707818169051119616",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 127207,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136538",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136538",
+                "emoticons": [
+                    "❌"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/297cddc22f05f0dd7dc0708540ded5d6264a684e1707818157940408320",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 243318,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/297cddc22f05f0dd7dc0708540ded5d6264a684e1707818157940408320",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 243318,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5044368857846776622",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5044368857846776622",
                 "emoticons": [
                     "😳"
                 ]
@@ -2150,205 +2120,119 @@
             }
         },
         {
-            "body": "🍫 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/8abe48d1831c958e26bede6857451376acf4b78e1707818157596475392",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 179540,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8abe48d1831c958e26bede6857451376acf4b78e1707818157596475392",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 179540,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5046730939535721096",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "5046730939535721096",
-                "emoticons": [
-                    "🍫"
-                ]
-            }
-        },
-        {
             "body": "😳 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/297cddc22f05f0dd7dc0708540ded5d6264a684e1707818157940408320",
+            "url": "mxc://matrix.chir.rs/682c8c7d24ff9ec76cf054d583af1f059c4c7ab51707818152785608704",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 243318,
+                "size": 160987,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/297cddc22f05f0dd7dc0708540ded5d6264a684e1707818157940408320",
+                "thumbnail_url": "mxc://matrix.chir.rs/682c8c7d24ff9ec76cf054d583af1f059c4c7ab51707818152785608704",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 243318,
+                    "size": 160987,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5044368857846776622",
+            "id": "tg-5046356469927117316",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5044368857846776622",
+                "id": "5046356469927117316",
                 "emoticons": [
                     "😳"
                 ]
             }
         },
         {
-            "body": "🍣 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/e5450b9772f09e297e7dbbe51b97ed13a03d6a551707818158917681152",
+            "body": "🌈 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/b1041fdfae5e5b0e2eadf43e0f061107a52504b11707818137438650368",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 188754,
+                "size": 160914,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e5450b9772f09e297e7dbbe51b97ed13a03d6a551707818158917681152",
+                "thumbnail_url": "mxc://matrix.chir.rs/b1041fdfae5e5b0e2eadf43e0f061107a52504b11707818137438650368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 188754,
+                    "size": 160914,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956332233121071602",
+            "id": "tg-584360331032136541",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "4956332233121071602",
+                "id": "584360331032136541",
                 "emoticons": [
-                    "🍣"
+                    "🌈",
+                    "❤"
                 ]
             }
         },
         {
-            "body": "❗️ (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/85ae4b2e88f81d98a7764d4711e5d4bb2cb10c121707818161258102784",
+            "body": "😳 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/4961a1b58b667a0d005428f8800432c9d336dbda1707818156057165824",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 134886,
+                "size": 234754,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/85ae4b2e88f81d98a7764d4711e5d4bb2cb10c121707818161258102784",
+                "thumbnail_url": "mxc://matrix.chir.rs/4961a1b58b667a0d005428f8800432c9d336dbda1707818156057165824",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 134886,
+                    "size": 234754,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5127814927037235866",
+            "id": "tg-5044078449338090001",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5127814927037235866",
+                "id": "5044078449338090001",
                 "emoticons": [
-                    "❗"
+                    "😳"
                 ]
             }
         },
         {
-            "body": "🥺 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/02b63278b1b00d4222d497ee99fc1367002fae161707818160943529984",
+            "body": "🔪 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/419a6cbb4e631a2b0b9049d9cfd707b802b88ada1707818149610520576",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 184291,
+                "size": 109349,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02b63278b1b00d4222d497ee99fc1367002fae161707818160943529984",
+                "thumbnail_url": "mxc://matrix.chir.rs/419a6cbb4e631a2b0b9049d9cfd707b802b88ada1707818149610520576",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 184291,
+                    "size": 109349,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5127745232602923762",
+            "id": "tg-5046326658559115754",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5127745232602923762",
+                "id": "5046326658559115754",
                 "emoticons": [
-                    "🥺"
-                ]
-            }
-        },
-        {
-            "body": "💞 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/40b20d16ed62443fd7a3c2c73a63950d7192e30f1707818161400709120",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 111818,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/40b20d16ed62443fd7a3c2c73a63950d7192e30f1707818161400709120",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 111818,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136489",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136489",
-                "emoticons": [
-                    "💞"
-                ]
-            }
-        },
-        {
-            "body": "💔 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/aec8abf7904b23861b244a712a0fb22f0d33003e1707818162411536384",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 136095,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aec8abf7904b23861b244a712a0fb22f0d33003e1707818162411536384",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 136095,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136490",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136490",
-                "emoticons": [
-                    "💔"
+                    "🔪"
                 ]
             }
         },
@@ -2382,60 +2266,31 @@
             }
         },
         {
-            "body": "🤛 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/1dd9d87316471a245be8796a4dced52b79c1bd781707818164043120640",
+            "body": "❗️ (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/85ae4b2e88f81d98a7764d4711e5d4bb2cb10c121707818161258102784",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 163712,
+                "size": 134886,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1dd9d87316471a245be8796a4dced52b79c1bd781707818164043120640",
+                "thumbnail_url": "mxc://matrix.chir.rs/85ae4b2e88f81d98a7764d4711e5d4bb2cb10c121707818161258102784",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 163712,
+                    "size": 134886,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136485",
+            "id": "tg-5127814927037235866",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136485",
+                "id": "5127814927037235866",
                 "emoticons": [
-                    "🤛"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/5794ec21d6aa76a82611a30dbc3710ec794a99d01707818165196554240",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 265328,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5794ec21d6aa76a82611a30dbc3710ec794a99d01707818165196554240",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 265328,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136496",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136496",
-                "emoticons": [
-                    "😱"
+                    "❗"
                 ]
             }
         },
@@ -2498,6 +2353,122 @@
             }
         },
         {
+            "body": "🍫 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/8abe48d1831c958e26bede6857451376acf4b78e1707818157596475392",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 179540,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8abe48d1831c958e26bede6857451376acf4b78e1707818157596475392",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 179540,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5046730939535721096",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5046730939535721096",
+                "emoticons": [
+                    "🍫"
+                ]
+            }
+        },
+        {
+            "body": "😩 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/192d74144dc4ef923263323d77e4c665a4e2e3cc1707818180954554368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 140548,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/192d74144dc4ef923263323d77e4c665a4e2e3cc1707818180954554368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 140548,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5127636020174520947",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5127636020174520947",
+                "emoticons": [
+                    "😩"
+                ]
+            }
+        },
+        {
+            "body": "💞 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/40b20d16ed62443fd7a3c2c73a63950d7192e30f1707818161400709120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 111818,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/40b20d16ed62443fd7a3c2c73a63950d7192e30f1707818161400709120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 111818,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136489",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136489",
+                "emoticons": [
+                    "💞"
+                ]
+            }
+        },
+        {
+            "body": "🥺 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/02b63278b1b00d4222d497ee99fc1367002fae161707818160943529984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 184291,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/02b63278b1b00d4222d497ee99fc1367002fae161707818160943529984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 184291,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5127745232602923762",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5127745232602923762",
+                "emoticons": [
+                    "🥺"
+                ]
+            }
+        },
+        {
             "body": "🥗 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/c0b42bf6ab04934158586c9a58ca18b14e02be0b1707818167616667648",
             "info": {
@@ -2523,6 +2494,64 @@
                 "id": "5046766033713496619",
                 "emoticons": [
                     "🥗"
+                ]
+            }
+        },
+        {
+            "body": "😱 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/5794ec21d6aa76a82611a30dbc3710ec794a99d01707818165196554240",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 265328,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5794ec21d6aa76a82611a30dbc3710ec794a99d01707818165196554240",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 265328,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136496",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136496",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/b9109c4b9a7c27923e9852b13636e60f654967f41707818183949287424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 134404,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b9109c4b9a7c27923e9852b13636e60f654967f41707818183949287424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 134404,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136509",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136509",
+                "emoticons": [
+                    "🐶"
                 ]
             }
         },
@@ -2556,31 +2585,176 @@
             }
         },
         {
-            "body": "❌ (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/f6017922b350410fc3e707c9550337239dca7e171707818169051119616",
+            "body": "🦈 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/f022e5250441f2def656361174e485d1941d958b1707818176386957312",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 127207,
+                "size": 150932,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f6017922b350410fc3e707c9550337239dca7e171707818169051119616",
+                "thumbnail_url": "mxc://matrix.chir.rs/f022e5250441f2def656361174e485d1941d958b1707818176386957312",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 127207,
+                    "size": 150932,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136538",
+            "id": "tg-5174957450150806427",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136538",
+                "id": "5174957450150806427",
                 "emoticons": [
-                    "❌"
+                    "🦈"
+                ]
+            }
+        },
+        {
+            "body": "🥠 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/7a973579433265efe9bcbf282ce22b30a64fe7591707818189791952896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 163480,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7a973579433265efe9bcbf282ce22b30a64fe7591707818189791952896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 163480,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5181581415002669864",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5181581415002669864",
+                "emoticons": [
+                    "🥠"
+                ]
+            }
+        },
+        {
+            "body": "🪑 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/96eb44997cb64641b79a8c0d9a02066a497390b61707818174331748352",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 121213,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/96eb44997cb64641b79a8c0d9a02066a497390b61707818174331748352",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 121213,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136530",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136530",
+                "emoticons": [
+                    "🪑"
+                ]
+            }
+        },
+        {
+            "body": "💔 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/aec8abf7904b23861b244a712a0fb22f0d33003e1707818162411536384",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 136095,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aec8abf7904b23861b244a712a0fb22f0d33003e1707818162411536384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 136095,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136490",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136490",
+                "emoticons": [
+                    "💔"
+                ]
+            }
+        },
+        {
+            "body": "🤛 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/1dd9d87316471a245be8796a4dced52b79c1bd781707818164043120640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 163712,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1dd9d87316471a245be8796a4dced52b79c1bd781707818164043120640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 163712,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136485",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136485",
+                "emoticons": [
+                    "🤛"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/73db952fb37c4df5224b3f4ee35a38686c61e0401707818179725623296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 153666,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/73db952fb37c4df5224b3f4ee35a38686c61e0401707818179725623296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 153666,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5172447497032827471",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "5172447497032827471",
+                "emoticons": [
+                    "🤗"
                 ]
             }
         },
@@ -2614,35 +2788,6 @@
             }
         },
         {
-            "body": "❤ (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/4e3e1b02a1c6da96662fabe4f83174c7fbe528a11707818170925973504",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 159020,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e3e1b02a1c6da96662fabe4f83174c7fbe528a11707818170925973504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 159020,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136446",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136446",
-                "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
             "body": "🎺 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/8f4b6284eee1ce74c025c5181f5122c92bd00b651707818171353792512",
             "info": {
@@ -2672,60 +2817,31 @@
             }
         },
         {
-            "body": "🔨 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/5e6604ce704f9eb3f50958bec73a509edb86a6781707818172620472320",
-            "info": {
-                "w": 256,
-                "h": 207,
-                "size": 186058,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5e6604ce704f9eb3f50958bec73a509edb86a6781707818172620472320",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 207,
-                    "size": 186058,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136476",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136476",
-                "emoticons": [
-                    "🔨"
-                ]
-            }
-        },
-        {
-            "body": "🪑 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/96eb44997cb64641b79a8c0d9a02066a497390b61707818174331748352",
+            "body": "🦈 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/0e7a11eb40367d8549d5cf23bea7cfa318b10c781707818175577456640",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 121213,
+                "size": 147547,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/96eb44997cb64641b79a8c0d9a02066a497390b61707818174331748352",
+                "thumbnail_url": "mxc://matrix.chir.rs/0e7a11eb40367d8549d5cf23bea7cfa318b10c781707818175577456640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 121213,
+                    "size": 147547,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136530",
+            "id": "tg-5172847723560305639",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136530",
+                "id": "5172847723560305639",
                 "emoticons": [
-                    "🪑"
+                    "🦈"
                 ]
             }
         },
@@ -2788,60 +2904,119 @@
             }
         },
         {
-            "body": "🦈 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/0e7a11eb40367d8549d5cf23bea7cfa318b10c781707818175577456640",
+            "body": "🥃 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/27b3cf5353c5735a5f8c0ff0eff9b80ed11a00fc1707818189175390208",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 147547,
+                "h": 184,
+                "size": 127990,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0e7a11eb40367d8549d5cf23bea7cfa318b10c781707818175577456640",
+                "thumbnail_url": "mxc://matrix.chir.rs/27b3cf5353c5735a5f8c0ff0eff9b80ed11a00fc1707818189175390208",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 147547,
+                    "h": 184,
+                    "size": 127990,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5172847723560305639",
+            "id": "tg-584360331032136482",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5172847723560305639",
+                "id": "584360331032136482",
                 "emoticons": [
-                    "🦈"
+                    "🥃",
+                    "🍹"
                 ]
             }
         },
         {
-            "body": "🦈 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/f022e5250441f2def656361174e485d1941d958b1707818176386957312",
+            "body": "❤ (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/4e3e1b02a1c6da96662fabe4f83174c7fbe528a11707818170925973504",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 150932,
+                "size": 159020,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f022e5250441f2def656361174e485d1941d958b1707818176386957312",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e3e1b02a1c6da96662fabe4f83174c7fbe528a11707818170925973504",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 150932,
+                    "size": 159020,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5174957450150806427",
+            "id": "tg-584360331032136446",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5174957450150806427",
+                "id": "584360331032136446",
                 "emoticons": [
-                    "🦈"
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "😋 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/276523b2dcd0c7b0f492a3c826e8bbf6e997f4971707818195764641792",
+            "info": {
+                "w": 239,
+                "h": 256,
+                "size": 204010,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/276523b2dcd0c7b0f492a3c826e8bbf6e997f4971707818195764641792",
+                "thumbnail_info": {
+                    "w": 239,
+                    "h": 256,
+                    "size": 204010,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136479",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136479",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "😃 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/57095d7da0c1111811cf12ea9ec3cd2e89ea16bf1707818179729817600",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 385194,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/57095d7da0c1111811cf12ea9ec3cd2e89ea16bf1707818179729817600",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 385194,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136448",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136448",
+                "emoticons": [
+                    "😃"
                 ]
             }
         },
@@ -2875,119 +3050,31 @@
             }
         },
         {
-            "body": "👀 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/06aecc127fba70b4fe23b08c1b4f21bd48b2de5e1707818179444604928",
-            "info": {
-                "w": 256,
-                "h": 161,
-                "size": 184856,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/06aecc127fba70b4fe23b08c1b4f21bd48b2de5e1707818179444604928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 161,
-                    "size": 184856,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136497",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136497",
-                "emoticons": [
-                    "👀",
-                    "👅"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/73db952fb37c4df5224b3f4ee35a38686c61e0401707818179725623296",
+            "body": "🐶 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/f63ba0f7b3f8b17c75b8b7da743ec8c95f740a1f1707818183743766528",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 153666,
+                "size": 117693,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/73db952fb37c4df5224b3f4ee35a38686c61e0401707818179725623296",
+                "thumbnail_url": "mxc://matrix.chir.rs/f63ba0f7b3f8b17c75b8b7da743ec8c95f740a1f1707818183743766528",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 153666,
+                    "size": 117693,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5172447497032827471",
+            "id": "tg-5094037216867386057",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5172447497032827471",
+                "id": "5094037216867386057",
                 "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "😩 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/192d74144dc4ef923263323d77e4c665a4e2e3cc1707818180954554368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 140548,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/192d74144dc4ef923263323d77e4c665a4e2e3cc1707818180954554368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 140548,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5127636020174520947",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "5127636020174520947",
-                "emoticons": [
-                    "😩"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/57095d7da0c1111811cf12ea9ec3cd2e89ea16bf1707818179729817600",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 385194,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/57095d7da0c1111811cf12ea9ec3cd2e89ea16bf1707818179729817600",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 385194,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136448",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136448",
-                "emoticons": [
-                    "😃"
+                    "🐶"
                 ]
             }
         },
@@ -3050,60 +3137,61 @@
             }
         },
         {
-            "body": "🐶 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/f63ba0f7b3f8b17c75b8b7da743ec8c95f740a1f1707818183743766528",
+            "body": "🍗 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/458a212c7942c3a0181b201341c3ef9c4fc8570b1707818186721722368",
             "info": {
-                "w": 256,
+                "w": 200,
                 "h": 256,
-                "size": 117693,
+                "size": 181139,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f63ba0f7b3f8b17c75b8b7da743ec8c95f740a1f1707818183743766528",
+                "thumbnail_url": "mxc://matrix.chir.rs/458a212c7942c3a0181b201341c3ef9c4fc8570b1707818186721722368",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 200,
                     "h": 256,
-                    "size": 117693,
+                    "size": 181139,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5094037216867386057",
+            "id": "tg-584360331032136480",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "5094037216867386057",
+                "id": "584360331032136480",
                 "emoticons": [
-                    "🐶"
+                    "🍗"
                 ]
             }
         },
         {
-            "body": "🐶 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/b9109c4b9a7c27923e9852b13636e60f654967f41707818183949287424",
+            "body": "👀 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/06aecc127fba70b4fe23b08c1b4f21bd48b2de5e1707818179444604928",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 134404,
+                "h": 161,
+                "size": 184856,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b9109c4b9a7c27923e9852b13636e60f654967f41707818183949287424",
+                "thumbnail_url": "mxc://matrix.chir.rs/06aecc127fba70b4fe23b08c1b4f21bd48b2de5e1707818179444604928",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 134404,
+                    "h": 161,
+                    "size": 184856,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136509",
+            "id": "tg-584360331032136497",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136509",
+                "id": "584360331032136497",
                 "emoticons": [
-                    "🐶"
+                    "👀",
+                    "👅"
                 ]
             }
         },
@@ -3137,119 +3225,60 @@
             }
         },
         {
-            "body": "😋 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/61ef111a42cf8edf002037862df63e5e5251bfd11707818185782198272",
+            "body": "💋 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/0b570ad0df293bf7f11832b399b152a1b14abe691707818215813414912",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 214230,
+                "size": 154178,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/61ef111a42cf8edf002037862df63e5e5251bfd11707818185782198272",
+                "thumbnail_url": "mxc://matrix.chir.rs/0b570ad0df293bf7f11832b399b152a1b14abe691707818215813414912",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 214230,
+                    "size": 154178,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136475",
+            "id": "tg-584360331032136468",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136475",
+                "id": "584360331032136468",
                 "emoticons": [
-                    "😋"
+                    "💋"
                 ]
             }
         },
         {
-            "body": "🍗 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/458a212c7942c3a0181b201341c3ef9c4fc8570b1707818186721722368",
-            "info": {
-                "w": 200,
-                "h": 256,
-                "size": 181139,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/458a212c7942c3a0181b201341c3ef9c4fc8570b1707818186721722368",
-                "thumbnail_info": {
-                    "w": 200,
-                    "h": 256,
-                    "size": 181139,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136480",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136480",
-                "emoticons": [
-                    "🍗"
-                ]
-            }
-        },
-        {
-            "body": "🥃 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/27b3cf5353c5735a5f8c0ff0eff9b80ed11a00fc1707818189175390208",
+            "body": "🔨 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/5e6604ce704f9eb3f50958bec73a509edb86a6781707818172620472320",
             "info": {
                 "w": 256,
-                "h": 184,
-                "size": 127990,
+                "h": 207,
+                "size": 186058,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/27b3cf5353c5735a5f8c0ff0eff9b80ed11a00fc1707818189175390208",
+                "thumbnail_url": "mxc://matrix.chir.rs/5e6604ce704f9eb3f50958bec73a509edb86a6781707818172620472320",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 184,
-                    "size": 127990,
+                    "h": 207,
+                    "size": 186058,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136482",
+            "id": "tg-584360331032136476",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136482",
+                "id": "584360331032136476",
                 "emoticons": [
-                    "🥃",
-                    "🍹"
-                ]
-            }
-        },
-        {
-            "body": "😋 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/4dabb672f5d5c6d57076829b55334b84b2f98e101707818188743376896",
-            "info": {
-                "w": 240,
-                "h": 256,
-                "size": 130531,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4dabb672f5d5c6d57076829b55334b84b2f98e101707818188743376896",
-                "thumbnail_info": {
-                    "w": 240,
-                    "h": 256,
-                    "size": 130531,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136483",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136483",
-                "emoticons": [
-                    "😋"
+                    "🔨"
                 ]
             }
         },
@@ -3283,148 +3312,31 @@
             }
         },
         {
-            "body": "🥠 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/7a973579433265efe9bcbf282ce22b30a64fe7591707818189791952896",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 163480,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7a973579433265efe9bcbf282ce22b30a64fe7591707818189791952896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 163480,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5181581415002669864",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "5181581415002669864",
-                "emoticons": [
-                    "🥠"
-                ]
-            }
-        },
-        {
-            "body": "❤ (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/7df2a2a9046f9a7c232860cdfaf8a2d344f6c1711707818191557754880",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172270,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7df2a2a9046f9a7c232860cdfaf8a2d344f6c1711707818191557754880",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172270,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136367",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136367",
-                "emoticons": [
-                    "❤",
-                    "😘"
-                ]
-            }
-        },
-        {
             "body": "😋 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/f6cf8296f4ab11c3511a792fd46a4ce55bee680f1707818195311656960",
+            "url": "mxc://matrix.chir.rs/61ef111a42cf8edf002037862df63e5e5251bfd11707818185782198272",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 52512,
+                "size": 214230,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f6cf8296f4ab11c3511a792fd46a4ce55bee680f1707818195311656960",
+                "thumbnail_url": "mxc://matrix.chir.rs/61ef111a42cf8edf002037862df63e5e5251bfd11707818185782198272",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 52512,
+                    "size": 214230,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136469",
+            "id": "tg-584360331032136475",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136469",
+                "id": "584360331032136475",
                 "emoticons": [
                     "😋"
-                ]
-            }
-        },
-        {
-            "body": "😋 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/276523b2dcd0c7b0f492a3c826e8bbf6e997f4971707818195764641792",
-            "info": {
-                "w": 239,
-                "h": 256,
-                "size": 204010,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/276523b2dcd0c7b0f492a3c826e8bbf6e997f4971707818195764641792",
-                "thumbnail_info": {
-                    "w": 239,
-                    "h": 256,
-                    "size": 204010,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136479",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136479",
-                "emoticons": [
-                    "😋"
-                ]
-            }
-        },
-        {
-            "body": "🌼 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/72b5c319079993ea5ade4a56a57bb65e061cd2cd1707818195320045568",
-            "info": {
-                "w": 256,
-                "h": 166,
-                "size": 185925,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/72b5c319079993ea5ade4a56a57bb65e061cd2cd1707818195320045568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 166,
-                    "size": 185925,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-584360331032136517",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "584360331032133640",
-                    "short_name": "StripesFensku"
-                },
-                "id": "584360331032136517",
-                "emoticons": [
-                    "🌼"
                 ]
             }
         },
@@ -3458,6 +3370,35 @@
             }
         },
         {
+            "body": "😋 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/4dabb672f5d5c6d57076829b55334b84b2f98e101707818188743376896",
+            "info": {
+                "w": 240,
+                "h": 256,
+                "size": 130531,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4dabb672f5d5c6d57076829b55334b84b2f98e101707818188743376896",
+                "thumbnail_info": {
+                    "w": 240,
+                    "h": 256,
+                    "size": 130531,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136483",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136483",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
             "body": "👀 (Stripes the Fensky)",
             "url": "mxc://matrix.chir.rs/bce6ee3d7f139fc04bd8f1a471609e6c32e06da11707818206879547392",
             "info": {
@@ -3487,31 +3428,90 @@
             }
         },
         {
-            "body": "💋 (Stripes the Fensky)",
-            "url": "mxc://matrix.chir.rs/0b570ad0df293bf7f11832b399b152a1b14abe691707818215813414912",
+            "body": "🌼 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/72b5c319079993ea5ade4a56a57bb65e061cd2cd1707818195320045568",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 154178,
+                "h": 166,
+                "size": 185925,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0b570ad0df293bf7f11832b399b152a1b14abe691707818215813414912",
+                "thumbnail_url": "mxc://matrix.chir.rs/72b5c319079993ea5ade4a56a57bb65e061cd2cd1707818195320045568",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 154178,
+                    "h": 166,
+                    "size": 185925,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-584360331032136468",
+            "id": "tg-584360331032136517",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "584360331032133640",
                     "short_name": "StripesFensku"
                 },
-                "id": "584360331032136468",
+                "id": "584360331032136517",
                 "emoticons": [
-                    "💋"
+                    "🌼"
+                ]
+            }
+        },
+        {
+            "body": "😋 (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/f6cf8296f4ab11c3511a792fd46a4ce55bee680f1707818195311656960",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 52512,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f6cf8296f4ab11c3511a792fd46a4ce55bee680f1707818195311656960",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 52512,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136469",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136469",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "❤ (Stripes the Fensky)",
+            "url": "mxc://matrix.chir.rs/7df2a2a9046f9a7c232860cdfaf8a2d344f6c1711707818191557754880",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 172270,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7df2a2a9046f9a7c232860cdfaf8a2d344f6c1711707818191557754880",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 172270,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-584360331032136367",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "584360331032133640",
+                    "short_name": "StripesFensku"
+                },
+                "id": "584360331032136367",
+                "emoticons": [
+                    "❤",
+                    "😘"
                 ]
             }
         }

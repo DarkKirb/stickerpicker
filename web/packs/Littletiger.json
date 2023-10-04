@@ -7,93 +7,6 @@
     },
     "stickers": [
         {
-            "body": "👶 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/613e138252ab84470912aff42e95f69e753db6a11707806586711310336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 265376,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/613e138252ab84470912aff42e95f69e753db6a11707806586711310336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 265376,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279117",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279117",
-                "emoticons": [
-                    "👶"
-                ]
-            }
-        },
-        {
-            "body": "🎈 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/5c817a1bdc25b24e7d833c53a7d0a5a88fae6d9e1707806586950385664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205346,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5c817a1bdc25b24e7d833c53a7d0a5a88fae6d9e1707806586950385664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205346,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279141",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279141",
-                "emoticons": [
-                    "🎈"
-                ]
-            }
-        },
-        {
-            "body": "😃 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/1e1698dfee1fd6dd591ec2886d8847c29142aa2a1707806599550074880",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 277294,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1e1698dfee1fd6dd591ec2886d8847c29142aa2a1707806599550074880",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 277294,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279148",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279148",
-                "emoticons": [
-                    "😃"
-                ]
-            }
-        },
-        {
             "body": "😀 (Littletiger)",
             "url": "mxc://matrix.chir.rs/720535748f224c9c4963f9f8f90fd68fb5cf6dff1707806590221942784",
             "info": {
@@ -119,6 +32,35 @@
                 "id": "45537201777279115",
                 "emoticons": [
                     "😀"
+                ]
+            }
+        },
+        {
+            "body": "👶 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/613e138252ab84470912aff42e95f69e753db6a11707806586711310336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 265376,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/613e138252ab84470912aff42e95f69e753db6a11707806586711310336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 265376,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279117",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279117",
+                "emoticons": [
+                    "👶"
                 ]
             }
         },
@@ -181,6 +123,35 @@
             }
         },
         {
+            "body": "🎈 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/5c817a1bdc25b24e7d833c53a7d0a5a88fae6d9e1707806586950385664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 205346,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5c817a1bdc25b24e7d833c53a7d0a5a88fae6d9e1707806586950385664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 205346,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279141",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279141",
+                "emoticons": [
+                    "🎈"
+                ]
+            }
+        },
+        {
             "body": "😂 (Littletiger)",
             "url": "mxc://matrix.chir.rs/4c88cd610ecafa3f39df0ac5559f275fbf5716d81707806596165271552",
             "info": {
@@ -210,31 +181,31 @@
             }
         },
         {
-            "body": "😤 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/c06ad1af3e35c1946f6168fb0a77af7603a1544c1707806596161077248",
+            "body": "😃 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/1e1698dfee1fd6dd591ec2886d8847c29142aa2a1707806599550074880",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 169400,
+                "size": 277294,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c06ad1af3e35c1946f6168fb0a77af7603a1544c1707806596161077248",
+                "thumbnail_url": "mxc://matrix.chir.rs/1e1698dfee1fd6dd591ec2886d8847c29142aa2a1707806599550074880",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 169400,
+                    "size": 277294,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279229",
+            "id": "tg-45537201777279148",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279229",
+                "id": "45537201777279148",
                 "emoticons": [
-                    "😤"
+                    "😃"
                 ]
             }
         },
@@ -268,35 +239,6 @@
             }
         },
         {
-            "body": "😠 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/db39dd78d0c5d1660fddba40c65f26562faef5571707806592012910592",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 170564,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db39dd78d0c5d1660fddba40c65f26562faef5571707806592012910592",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 170564,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279231",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279231",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
             "body": "❔ (Littletiger)",
             "url": "mxc://matrix.chir.rs/ec652fb9545dc9c1c5a315f7ec90cc156fcf8eb61707806596173660160",
             "info": {
@@ -326,31 +268,31 @@
             }
         },
         {
-            "body": "😪 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/4616162e7be72bd1a076e6bc1df971a81fea2edf1707806612393033728",
+            "body": "😤 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/c06ad1af3e35c1946f6168fb0a77af7603a1544c1707806596161077248",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 177167,
+                "size": 169400,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4616162e7be72bd1a076e6bc1df971a81fea2edf1707806612393033728",
+                "thumbnail_url": "mxc://matrix.chir.rs/c06ad1af3e35c1946f6168fb0a77af7603a1544c1707806596161077248",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 177167,
+                    "size": 169400,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279233",
+            "id": "tg-45537201777279229",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279233",
+                "id": "45537201777279229",
                 "emoticons": [
-                    "😪"
+                    "😤"
                 ]
             }
         },
@@ -384,6 +326,35 @@
             }
         },
         {
+            "body": "😪 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/4616162e7be72bd1a076e6bc1df971a81fea2edf1707806612393033728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177167,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4616162e7be72bd1a076e6bc1df971a81fea2edf1707806612393033728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177167,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279233",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279233",
+                "emoticons": [
+                    "😪"
+                ]
+            }
+        },
+        {
             "body": "🤷‍♂️ (Littletiger)",
             "url": "mxc://matrix.chir.rs/4987e6b3ee28a19cf702e516e5a3bd406cc5c5b11707806602192486400",
             "info": {
@@ -409,209 +380,6 @@
                 "id": "45537201777279278",
                 "emoticons": [
                     "🤷‍♂"
-                ]
-            }
-        },
-        {
-            "body": "🙄 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/52b0cc701213738e34f0f31ba025c36cd1bd6dff1707806598107234304",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 197030,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/52b0cc701213738e34f0f31ba025c36cd1bd6dff1707806598107234304",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 197030,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279279",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279279",
-                "emoticons": [
-                    "🙄"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/9dea3ad0a326a3f9f2146d58507a42df07d25c6a1707806608471359488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 251019,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9dea3ad0a326a3f9f2146d58507a42df07d25c6a1707806608471359488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 251019,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279282",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279282",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/cc4c2803fde097c1a8d4d8b3046ba1c910a759861707806604524519424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 268323,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cc4c2803fde097c1a8d4d8b3046ba1c910a759861707806604524519424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 268323,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279284",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279284",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "😕 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/9cf172e68f865193e52a19042398764aef83a7841707806603794710528",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241997,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9cf172e68f865193e52a19042398764aef83a7841707806603794710528",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241997,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279281",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279281",
-                "emoticons": [
-                    "😕"
-                ]
-            }
-        },
-        {
-            "body": "😁 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/49d8067225e1f3d5623ae3129afe514101eb1c681707806609754816512",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 291603,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/49d8067225e1f3d5623ae3129afe514101eb1c681707806609754816512",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 291603,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279280",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279280",
-                "emoticons": [
-                    "😁"
-                ]
-            }
-        },
-        {
-            "body": "😭 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/ba57cce1fc1d6c2cfe98bfda4b0101333013d6571707806616180490240",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 265673,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ba57cce1fc1d6c2cfe98bfda4b0101333013d6571707806616180490240",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 265673,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279285",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279285",
-                "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "😆 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/3d932f8e3482371dd0a02c0f5603cc5fcbbadac71707806589437607936",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209108,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d932f8e3482371dd0a02c0f5603cc5fcbbadac71707806589437607936",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209108,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279227",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279227",
-                "emoticons": [
-                    "😆"
                 ]
             }
         },
@@ -645,6 +413,151 @@
             }
         },
         {
+            "body": "😁 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/49d8067225e1f3d5623ae3129afe514101eb1c681707806609754816512",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 291603,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/49d8067225e1f3d5623ae3129afe514101eb1c681707806609754816512",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 291603,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279280",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279280",
+                "emoticons": [
+                    "😁"
+                ]
+            }
+        },
+        {
+            "body": "😆 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/3d932f8e3482371dd0a02c0f5603cc5fcbbadac71707806589437607936",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209108,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d932f8e3482371dd0a02c0f5603cc5fcbbadac71707806589437607936",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209108,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279227",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279227",
+                "emoticons": [
+                    "😆"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/db39dd78d0c5d1660fddba40c65f26562faef5571707806592012910592",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 170564,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/db39dd78d0c5d1660fddba40c65f26562faef5571707806592012910592",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 170564,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279231",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279231",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "😕 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/9cf172e68f865193e52a19042398764aef83a7841707806603794710528",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 241997,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9cf172e68f865193e52a19042398764aef83a7841707806603794710528",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 241997,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279281",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279281",
+                "emoticons": [
+                    "😕"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/cc4c2803fde097c1a8d4d8b3046ba1c910a759861707806604524519424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 268323,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc4c2803fde097c1a8d4d8b3046ba1c910a759861707806604524519424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 268323,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279284",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279284",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
             "body": "😖 (Littletiger)",
             "url": "mxc://matrix.chir.rs/2956ffaf98bd78de7c52baffa2296de665db25881707806657372749824",
             "info": {
@@ -670,6 +583,93 @@
                 "id": "45537201777279286",
                 "emoticons": [
                     "😖"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/ba57cce1fc1d6c2cfe98bfda4b0101333013d6571707806616180490240",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 265673,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ba57cce1fc1d6c2cfe98bfda4b0101333013d6571707806616180490240",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 265673,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279285",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279285",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "😤 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/b2415ce1c5ef473f5a396d4f84faa069bb47566f1707806610765643776",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 296402,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b2415ce1c5ef473f5a396d4f84faa069bb47566f1707806610765643776",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 296402,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279283",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279283",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "👎 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/a812d6676bbe01ff4a976d30a00c57d1e725ba7e1707806605799587840",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 256627,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a812d6676bbe01ff4a976d30a00c57d1e725ba7e1707806605799587840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 256627,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279289",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279289",
+                "emoticons": [
+                    "👎"
                 ]
             }
         },
@@ -703,31 +703,60 @@
             }
         },
         {
-            "body": "👎 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/a812d6676bbe01ff4a976d30a00c57d1e725ba7e1707806605799587840",
+            "body": "🙄 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/52b0cc701213738e34f0f31ba025c36cd1bd6dff1707806598107234304",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 256627,
+                "size": 197030,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a812d6676bbe01ff4a976d30a00c57d1e725ba7e1707806605799587840",
+                "thumbnail_url": "mxc://matrix.chir.rs/52b0cc701213738e34f0f31ba025c36cd1bd6dff1707806598107234304",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 256627,
+                    "size": 197030,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279289",
+            "id": "tg-45537201777279279",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279289",
+                "id": "45537201777279279",
                 "emoticons": [
-                    "👎"
+                    "🙄"
+                ]
+            }
+        },
+        {
+            "body": "😫 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/a98d54e262af712b1b61d4cc68df71f288a814e71707806614750232577",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 270295,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a98d54e262af712b1b61d4cc68df71f288a814e71707806614750232577",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 270295,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279293",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279293",
+                "emoticons": [
+                    "😫"
                 ]
             }
         },
@@ -819,31 +848,31 @@
             }
         },
         {
-            "body": "😫 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/a98d54e262af712b1b61d4cc68df71f288a814e71707806614750232577",
+            "body": "😧 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/62e00601f64d5829cc11aa7a8a1cfb5499a8e2571707806617107431424",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 270295,
+                "size": 230890,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a98d54e262af712b1b61d4cc68df71f288a814e71707806614750232577",
+                "thumbnail_url": "mxc://matrix.chir.rs/62e00601f64d5829cc11aa7a8a1cfb5499a8e2571707806617107431424",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 270295,
+                    "size": 230890,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279293",
+            "id": "tg-45537201777279295",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279293",
+                "id": "45537201777279295",
                 "emoticons": [
-                    "😫"
+                    "😧"
                 ]
             }
         },
@@ -877,180 +906,6 @@
             }
         },
         {
-            "body": "😮 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/4d3c02a545af2ecdb287f982c466ea6142c7b1961707806614750232576",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 197151,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4d3c02a545af2ecdb287f982c466ea6142c7b1961707806614750232576",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 197151,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279296",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279296",
-                "emoticons": [
-                    "😮"
-                ]
-            }
-        },
-        {
-            "body": "😧 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/62e00601f64d5829cc11aa7a8a1cfb5499a8e2571707806617107431424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 230890,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/62e00601f64d5829cc11aa7a8a1cfb5499a8e2571707806617107431424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 230890,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279295",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279295",
-                "emoticons": [
-                    "😧"
-                ]
-            }
-        },
-        {
-            "body": "🙌 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/47a0507743ef25bcc22bc97bb1dba46841a8fc001707806637386891264",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 303138,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/47a0507743ef25bcc22bc97bb1dba46841a8fc001707806637386891264",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 303138,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279298",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279298",
-                "emoticons": [
-                    "🙌"
-                ]
-            }
-        },
-        {
-            "body": "🤪 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/c5572f97a3b7d96458831bc2cbf54372506d5d291707806618491551744",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 251363,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c5572f97a3b7d96458831bc2cbf54372506d5d291707806618491551744",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 251363,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279302",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279302",
-                "emoticons": [
-                    "🤪"
-                ]
-            }
-        },
-        {
-            "body": "😑 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/f06608b57be1b00dba9768d37938dff4caa8b0341707806621255598080",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173851,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f06608b57be1b00dba9768d37938dff4caa8b0341707806621255598080",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173851,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279301",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279301",
-                "emoticons": [
-                    "😑"
-                ]
-            }
-        },
-        {
-            "body": "☝️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/162058b65c96f665f63bf6e7a7eae18c929d48181707806622916542464",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 267765,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/162058b65c96f665f63bf6e7a7eae18c929d48181707806622916542464",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 267765,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279299",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279299",
-                "emoticons": [
-                    "☝"
-                ]
-            }
-        },
-        {
             "body": "😋 (Littletiger)",
             "url": "mxc://matrix.chir.rs/95ea2e87b3ea6e6e5758ba58794fe24a78e619a31707806624564903936",
             "info": {
@@ -1076,64 +931,6 @@
                 "id": "45537201777279294",
                 "emoticons": [
                     "😋"
-                ]
-            }
-        },
-        {
-            "body": "😈 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/1155d773a0d64ca4811c8093e27394c90debaf391707806648636014592",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214323,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1155d773a0d64ca4811c8093e27394c90debaf391707806648636014592",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214323,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279300",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279300",
-                "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
-            "body": "😤 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/b2415ce1c5ef473f5a396d4f84faa069bb47566f1707806610765643776",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 296402,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b2415ce1c5ef473f5a396d4f84faa069bb47566f1707806610765643776",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 296402,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279283",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279283",
-                "emoticons": [
-                    "😤"
                 ]
             }
         },
@@ -1167,6 +964,151 @@
             }
         },
         {
+            "body": "☝️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/162058b65c96f665f63bf6e7a7eae18c929d48181707806622916542464",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 267765,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/162058b65c96f665f63bf6e7a7eae18c929d48181707806622916542464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 267765,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279299",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279299",
+                "emoticons": [
+                    "☝"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/47a0507743ef25bcc22bc97bb1dba46841a8fc001707806637386891264",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 303138,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/47a0507743ef25bcc22bc97bb1dba46841a8fc001707806637386891264",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 303138,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279298",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279298",
+                "emoticons": [
+                    "🙌"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/9dea3ad0a326a3f9f2146d58507a42df07d25c6a1707806608471359488",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 251019,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9dea3ad0a326a3f9f2146d58507a42df07d25c6a1707806608471359488",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 251019,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279282",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279282",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🤪 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/c5572f97a3b7d96458831bc2cbf54372506d5d291707806618491551744",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 251363,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c5572f97a3b7d96458831bc2cbf54372506d5d291707806618491551744",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 251363,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279302",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279302",
+                "emoticons": [
+                    "🤪"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/1155d773a0d64ca4811c8093e27394c90debaf391707806648636014592",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214323,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1155d773a0d64ca4811c8093e27394c90debaf391707806648636014592",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214323,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279300",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279300",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
             "body": "😨 (Littletiger)",
             "url": "mxc://matrix.chir.rs/fce28e1c1bd9a80287c6b40594ed03ebc2bd85551707806621125574656",
             "info": {
@@ -1196,31 +1138,31 @@
             }
         },
         {
-            "body": "💧 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/d467b40952229cacc6f8e94c75fa84bf33b529b71707806619603042304",
+            "body": "😮 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/4d3c02a545af2ecdb287f982c466ea6142c7b1961707806614750232576",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 311406,
+                "size": 197151,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d467b40952229cacc6f8e94c75fa84bf33b529b71707806619603042304",
+                "thumbnail_url": "mxc://matrix.chir.rs/4d3c02a545af2ecdb287f982c466ea6142c7b1961707806614750232576",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 311406,
+                    "size": 197151,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279304",
+            "id": "tg-45537201777279296",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279304",
+                "id": "45537201777279296",
                 "emoticons": [
-                    "💧"
+                    "😮"
                 ]
             }
         },
@@ -1254,6 +1196,326 @@
             }
         },
         {
+            "body": "💧 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/d467b40952229cacc6f8e94c75fa84bf33b529b71707806619603042304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 311406,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d467b40952229cacc6f8e94c75fa84bf33b529b71707806619603042304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 311406,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279304",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279304",
+                "emoticons": [
+                    "💧"
+                ]
+            }
+        },
+        {
+            "body": "👈 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/b98fc2153d12885ffb5ceaffa3b98956518262b41707806626225848320",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 281232,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b98fc2153d12885ffb5ceaffa3b98956518262b41707806626225848320",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 281232,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279308",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279308",
+                "emoticons": [
+                    "👈"
+                ]
+            }
+        },
+        {
+            "body": "🤨 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/2fddb3912ab629abc8207741755ee01597b8d8411707806630092996608",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 268064,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2fddb3912ab629abc8207741755ee01597b8d8411707806630092996608",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 268064,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279305",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279305",
+                "emoticons": [
+                    "🤨"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/33d4cfe965aac85be49bf851170bf66fce1907c01707806622895570944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 315788,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/33d4cfe965aac85be49bf851170bf66fce1907c01707806622895570944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 315788,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279309",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279309",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "💔 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/07b1737e8b0d6cdb7228ffe2325924db7b2d818b1707806630571147264",
+            "info": {
+                "w": 256,
+                "h": 227,
+                "size": 217408,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/07b1737e8b0d6cdb7228ffe2325924db7b2d818b1707806630571147264",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 227,
+                    "size": 217408,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279323",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279323",
+                "emoticons": [
+                    "💔"
+                ]
+            }
+        },
+        {
+            "body": "👉 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/5b132671c12edaa9c63f624e173adf80347b84171707806666298228736",
+            "info": {
+                "w": 256,
+                "h": 181,
+                "size": 242525,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5b132671c12edaa9c63f624e173adf80347b84171707806666298228736",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 181,
+                    "size": 242525,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279314",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279314",
+                "emoticons": [
+                    "👉"
+                ]
+            }
+        },
+        {
+            "body": "😑 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/f06608b57be1b00dba9768d37938dff4caa8b0341707806621255598080",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173851,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f06608b57be1b00dba9768d37938dff4caa8b0341707806621255598080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173851,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279301",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279301",
+                "emoticons": [
+                    "😑"
+                ]
+            }
+        },
+        {
+            "body": "🎾 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/bb99f2a004eb0ac35733ee1a635529aa1feeadf71707806633825927168",
+            "info": {
+                "w": 256,
+                "h": 255,
+                "size": 282279,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bb99f2a004eb0ac35733ee1a635529aa1feeadf71707806633825927168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 255,
+                    "size": 282279,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279317",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279317",
+                "emoticons": [
+                    "🎾"
+                ]
+            }
+        },
+        {
+            "body": "😜 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/b73f28f83b16543d26075fd03f61fb58b6a288d51707806626297151488",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 259708,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b73f28f83b16543d26075fd03f61fb58b6a288d51707806626297151488",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 259708,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279312",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279312",
+                "emoticons": [
+                    "😜"
+                ]
+            }
+        },
+        {
+            "body": "💥 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/9609a0572a39c8e1602390acf233d23104cfae961707806633830121472",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 351735,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9609a0572a39c8e1602390acf233d23104cfae961707806633830121472",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 351735,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279311",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279311",
+                "emoticons": [
+                    "💥",
+                    "💻"
+                ]
+            }
+        },
+        {
+            "body": "🥴 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/fd13f35cdf326c122dce16d33d6657328566e0441707806649185468416",
+            "info": {
+                "w": 256,
+                "h": 251,
+                "size": 265314,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fd13f35cdf326c122dce16d33d6657328566e0441707806649185468416",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 251,
+                    "size": 265314,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279324",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279324",
+                "emoticons": [
+                    "🥴"
+                ]
+            }
+        },
+        {
             "body": "💩 (Littletiger)",
             "url": "mxc://matrix.chir.rs/b31bb8940861cd384ee8a6dd77a71c4dec9bb1621707806629111529472",
             "info": {
@@ -1283,29 +1545,116 @@
             }
         },
         {
-            "body": "😈 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/33d4cfe965aac85be49bf851170bf66fce1907c01707806622895570944",
+            "body": "☕️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/ca52f616aeb18fb4ae07c7ed58a916370c4491661707806631917518848",
             "info": {
-                "w": 256,
+                "w": 232,
                 "h": 256,
-                "size": 315788,
+                "size": 311844,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/33d4cfe965aac85be49bf851170bf66fce1907c01707806622895570944",
+                "thumbnail_url": "mxc://matrix.chir.rs/ca52f616aeb18fb4ae07c7ed58a916370c4491661707806631917518848",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 232,
                     "h": 256,
-                    "size": 315788,
+                    "size": 311844,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279309",
+            "id": "tg-45537201777279330",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279309",
+                "id": "45537201777279330",
+                "emoticons": [
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "🗞 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/902a3e1059953c72ef35cc5adf2d0bcdffff97bb1707806632643133440",
+            "info": {
+                "w": 256,
+                "h": 252,
+                "size": 289148,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/902a3e1059953c72ef35cc5adf2d0bcdffff97bb1707806632643133440",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 252,
+                    "size": 289148,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279345",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279345",
+                "emoticons": [
+                    "🗞"
+                ]
+            }
+        },
+        {
+            "body": "💨 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/26f15f8cd60b9f4d81312f7044e69a4bc8fbff2f1707806643061784576",
+            "info": {
+                "w": 225,
+                "h": 256,
+                "size": 301360,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/26f15f8cd60b9f4d81312f7044e69a4bc8fbff2f1707806643061784576",
+                "thumbnail_info": {
+                    "w": 225,
+                    "h": 256,
+                    "size": 301360,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279331",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279331",
+                "emoticons": [
+                    "💨"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/7c6ebd511d20137f7b892e9d2fe8c1f286cdc1b81707806640406790144",
+            "info": {
+                "w": 247,
+                "h": 256,
+                "size": 289521,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7c6ebd511d20137f7b892e9d2fe8c1f286cdc1b81707806640406790144",
+                "thumbnail_info": {
+                    "w": 247,
+                    "h": 256,
+                    "size": 289521,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279348",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279348",
                 "emoticons": [
                     "😈"
                 ]
@@ -1341,500 +1690,6 @@
             }
         },
         {
-            "body": "💥 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/9609a0572a39c8e1602390acf233d23104cfae961707806633830121472",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 351735,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9609a0572a39c8e1602390acf233d23104cfae961707806633830121472",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 351735,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279311",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279311",
-                "emoticons": [
-                    "💥",
-                    "💻"
-                ]
-            }
-        },
-        {
-            "body": "©️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/859d0496da1e081a4fc2ec8f2b407ffe56477d261707806627651911680",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 331677,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/859d0496da1e081a4fc2ec8f2b407ffe56477d261707806627651911680",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 331677,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279277",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279277",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "👉 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/5b132671c12edaa9c63f624e173adf80347b84171707806666298228736",
-            "info": {
-                "w": 256,
-                "h": 181,
-                "size": 242525,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5b132671c12edaa9c63f624e173adf80347b84171707806666298228736",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 181,
-                    "size": 242525,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279314",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279314",
-                "emoticons": [
-                    "👉"
-                ]
-            }
-        },
-        {
-            "body": "💔 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/07b1737e8b0d6cdb7228ffe2325924db7b2d818b1707806630571147264",
-            "info": {
-                "w": 256,
-                "h": 227,
-                "size": 217408,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/07b1737e8b0d6cdb7228ffe2325924db7b2d818b1707806630571147264",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 227,
-                    "size": 217408,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279323",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279323",
-                "emoticons": [
-                    "💔"
-                ]
-            }
-        },
-        {
-            "body": "😜 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/b73f28f83b16543d26075fd03f61fb58b6a288d51707806626297151488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 259708,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b73f28f83b16543d26075fd03f61fb58b6a288d51707806626297151488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 259708,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279312",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279312",
-                "emoticons": [
-                    "😜"
-                ]
-            }
-        },
-        {
-            "body": "🗞 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/902a3e1059953c72ef35cc5adf2d0bcdffff97bb1707806632643133440",
-            "info": {
-                "w": 256,
-                "h": 252,
-                "size": 289148,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/902a3e1059953c72ef35cc5adf2d0bcdffff97bb1707806632643133440",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 252,
-                    "size": 289148,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279345",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279345",
-                "emoticons": [
-                    "🗞"
-                ]
-            }
-        },
-        {
-            "body": "🥴 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/fd13f35cdf326c122dce16d33d6657328566e0441707806649185468416",
-            "info": {
-                "w": 256,
-                "h": 251,
-                "size": 265314,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fd13f35cdf326c122dce16d33d6657328566e0441707806649185468416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 251,
-                    "size": 265314,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279324",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279324",
-                "emoticons": [
-                    "🥴"
-                ]
-            }
-        },
-        {
-            "body": "🎾 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/bb99f2a004eb0ac35733ee1a635529aa1feeadf71707806633825927168",
-            "info": {
-                "w": 256,
-                "h": 255,
-                "size": 282279,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bb99f2a004eb0ac35733ee1a635529aa1feeadf71707806633825927168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 255,
-                    "size": 282279,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279317",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279317",
-                "emoticons": [
-                    "🎾"
-                ]
-            }
-        },
-        {
-            "body": "☕️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/ca52f616aeb18fb4ae07c7ed58a916370c4491661707806631917518848",
-            "info": {
-                "w": 232,
-                "h": 256,
-                "size": 311844,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ca52f616aeb18fb4ae07c7ed58a916370c4491661707806631917518848",
-                "thumbnail_info": {
-                    "w": 232,
-                    "h": 256,
-                    "size": 311844,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279330",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279330",
-                "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "🤨 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/2fddb3912ab629abc8207741755ee01597b8d8411707806630092996608",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 268064,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2fddb3912ab629abc8207741755ee01597b8d8411707806630092996608",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 268064,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279305",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279305",
-                "emoticons": [
-                    "🤨"
-                ]
-            }
-        },
-        {
-            "body": "💨 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/26f15f8cd60b9f4d81312f7044e69a4bc8fbff2f1707806643061784576",
-            "info": {
-                "w": 225,
-                "h": 256,
-                "size": 301360,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26f15f8cd60b9f4d81312f7044e69a4bc8fbff2f1707806643061784576",
-                "thumbnail_info": {
-                    "w": 225,
-                    "h": 256,
-                    "size": 301360,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279331",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279331",
-                "emoticons": [
-                    "💨"
-                ]
-            }
-        },
-        {
-            "body": "👈 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/b98fc2153d12885ffb5ceaffa3b98956518262b41707806626225848320",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 281232,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b98fc2153d12885ffb5ceaffa3b98956518262b41707806626225848320",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 281232,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279308",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279308",
-                "emoticons": [
-                    "👈"
-                ]
-            }
-        },
-        {
-            "body": "😇 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/a1d1c798ff7d912530d2b9ece68393e0945be1681707806635126161408",
-            "info": {
-                "w": 177,
-                "h": 256,
-                "size": 236034,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a1d1c798ff7d912530d2b9ece68393e0945be1681707806635126161408",
-                "thumbnail_info": {
-                    "w": 177,
-                    "h": 256,
-                    "size": 236034,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279347",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279347",
-                "emoticons": [
-                    "😇"
-                ]
-            }
-        },
-        {
-            "body": "🗞 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/3012bd71d2584671e96ec05612e0cd74cfb5b6ee1707806641564418048",
-            "info": {
-                "w": 244,
-                "h": 256,
-                "size": 240799,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3012bd71d2584671e96ec05612e0cd74cfb5b6ee1707806641564418048",
-                "thumbnail_info": {
-                    "w": 244,
-                    "h": 256,
-                    "size": 240799,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279346",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279346",
-                "emoticons": [
-                    "🗞"
-                ]
-            }
-        },
-        {
-            "body": "😻 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/fe8da0e81f6e0d45d612cde19cfedfa1d9f96c6c1707806636820660224",
-            "info": {
-                "w": 256,
-                "h": 254,
-                "size": 286262,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fe8da0e81f6e0d45d612cde19cfedfa1d9f96c6c1707806636820660224",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 254,
-                    "size": 286262,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279349",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279349",
-                "emoticons": [
-                    "😻"
-                ]
-            }
-        },
-        {
-            "body": "😑 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/a6818e110e72058b01514bd5f84c7608d61ad2481707806636841631744",
-            "info": {
-                "w": 256,
-                "h": 221,
-                "size": 225726,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a6818e110e72058b01514bd5f84c7608d61ad2481707806636841631744",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 221,
-                    "size": 225726,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279350",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279350",
-                "emoticons": [
-                    "😑"
-                ]
-            }
-        },
-        {
-            "body": "🤮 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/dc705ece50c3369d9f549bd5e093436b2d686d381707806638984921088",
-            "info": {
-                "w": 256,
-                "h": 231,
-                "size": 270201,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dc705ece50c3369d9f549bd5e093436b2d686d381707806638984921088",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 231,
-                    "size": 270201,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279353",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279353",
-                "emoticons": [
-                    "🤮"
-                ]
-            }
-        },
-        {
             "body": "🙉 (Littletiger)",
             "url": "mxc://matrix.chir.rs/68827917ac1669bd831a85e29e62df19e846413d1707806638972338176",
             "info": {
@@ -1860,151 +1715,6 @@
                 "id": "45537201777279351",
                 "emoticons": [
                     "🙉"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/94de534917538a2b6d3ea9b714df225ec1f392f01707806648740872192",
-            "info": {
-                "w": 239,
-                "h": 256,
-                "size": 250649,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/94de534917538a2b6d3ea9b714df225ec1f392f01707806648740872192",
-                "thumbnail_info": {
-                    "w": 239,
-                    "h": 256,
-                    "size": 250649,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279373",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279373",
-                "emoticons": [
-                    "🔥"
-                ]
-            }
-        },
-        {
-            "body": "☕️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/d4ff4a46d326cc47353daff45ac8f11741f996a91707806650632503296",
-            "info": {
-                "w": 256,
-                "h": 233,
-                "size": 240871,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d4ff4a46d326cc47353daff45ac8f11741f996a91707806650632503296",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 233,
-                    "size": 240871,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5798743296037620281",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "5798743296037620281",
-                "emoticons": [
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "🖕 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/0daa7e7ca2a65e0bdac1b466e4922905b571394f1707806645964242944",
-            "info": {
-                "w": 245,
-                "h": 256,
-                "size": 250595,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0daa7e7ca2a65e0bdac1b466e4922905b571394f1707806645964242944",
-                "thumbnail_info": {
-                    "w": 245,
-                    "h": 256,
-                    "size": 250595,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279375",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279375",
-                "emoticons": [
-                    "🖕"
-                ]
-            }
-        },
-        {
-            "body": "🥺 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/1af338e553cbe363487536730043c7aaba77f8811707806641316954112",
-            "info": {
-                "w": 236,
-                "h": 256,
-                "size": 263711,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1af338e553cbe363487536730043c7aaba77f8811707806641316954112",
-                "thumbnail_info": {
-                    "w": 236,
-                    "h": 256,
-                    "size": 263711,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279369",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279369",
-                "emoticons": [
-                    "🥺"
-                ]
-            }
-        },
-        {
-            "body": "😈 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/7c6ebd511d20137f7b892e9d2fe8c1f286cdc1b81707806640406790144",
-            "info": {
-                "w": 247,
-                "h": 256,
-                "size": 289521,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7c6ebd511d20137f7b892e9d2fe8c1f286cdc1b81707806640406790144",
-                "thumbnail_info": {
-                    "w": 247,
-                    "h": 256,
-                    "size": 289521,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279348",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279348",
-                "emoticons": [
-                    "😈"
                 ]
             }
         },
@@ -2038,31 +1748,60 @@
             }
         },
         {
-            "body": "☕️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/c46fc951a93d4069bcb624f965b1e5e2bf358f1e1707806650615726080",
+            "body": "😻 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/fe8da0e81f6e0d45d612cde19cfedfa1d9f96c6c1707806636820660224",
             "info": {
                 "w": 256,
-                "h": 242,
-                "size": 234611,
+                "h": 254,
+                "size": 286262,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c46fc951a93d4069bcb624f965b1e5e2bf358f1e1707806650615726080",
+                "thumbnail_url": "mxc://matrix.chir.rs/fe8da0e81f6e0d45d612cde19cfedfa1d9f96c6c1707806636820660224",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 242,
-                    "size": 234611,
+                    "h": 254,
+                    "size": 286262,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5798867463542147367",
+            "id": "tg-45537201777279349",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "5798867463542147367",
+                "id": "45537201777279349",
                 "emoticons": [
-                    "☕"
+                    "😻"
+                ]
+            }
+        },
+        {
+            "body": "🗞 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/3012bd71d2584671e96ec05612e0cd74cfb5b6ee1707806641564418048",
+            "info": {
+                "w": 244,
+                "h": 256,
+                "size": 240799,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3012bd71d2584671e96ec05612e0cd74cfb5b6ee1707806641564418048",
+                "thumbnail_info": {
+                    "w": 244,
+                    "h": 256,
+                    "size": 240799,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279346",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279346",
+                "emoticons": [
+                    "🗞"
                 ]
             }
         },
@@ -2096,31 +1835,205 @@
             }
         },
         {
-            "body": "✋ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/d42f78dbea5ed0dae0da8ea4efb6760d232dd5ff1707806655325929472",
+            "body": "©️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/859d0496da1e081a4fc2ec8f2b407ffe56477d261707806627651911680",
             "info": {
                 "w": 256,
-                "h": 220,
-                "size": 258190,
+                "h": 256,
+                "size": 331677,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d42f78dbea5ed0dae0da8ea4efb6760d232dd5ff1707806655325929472",
+                "thumbnail_url": "mxc://matrix.chir.rs/859d0496da1e081a4fc2ec8f2b407ffe56477d261707806627651911680",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 220,
-                    "size": 258190,
+                    "h": 256,
+                    "size": 331677,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279372",
+            "id": "tg-45537201777279277",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279372",
+                "id": "45537201777279277",
                 "emoticons": [
-                    "✋"
+                    "©"
+                ]
+            }
+        },
+        {
+            "body": "🥺 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/1af338e553cbe363487536730043c7aaba77f8811707806641316954112",
+            "info": {
+                "w": 236,
+                "h": 256,
+                "size": 263711,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1af338e553cbe363487536730043c7aaba77f8811707806641316954112",
+                "thumbnail_info": {
+                    "w": 236,
+                    "h": 256,
+                    "size": 263711,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279369",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279369",
+                "emoticons": [
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "🖕 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/0daa7e7ca2a65e0bdac1b466e4922905b571394f1707806645964242944",
+            "info": {
+                "w": 245,
+                "h": 256,
+                "size": 250595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0daa7e7ca2a65e0bdac1b466e4922905b571394f1707806645964242944",
+                "thumbnail_info": {
+                    "w": 245,
+                    "h": 256,
+                    "size": 250595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279375",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279375",
+                "emoticons": [
+                    "🖕"
+                ]
+            }
+        },
+        {
+            "body": "🔥 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/94de534917538a2b6d3ea9b714df225ec1f392f01707806648740872192",
+            "info": {
+                "w": 239,
+                "h": 256,
+                "size": 250649,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/94de534917538a2b6d3ea9b714df225ec1f392f01707806648740872192",
+                "thumbnail_info": {
+                    "w": 239,
+                    "h": 256,
+                    "size": 250649,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279373",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279373",
+                "emoticons": [
+                    "🔥"
+                ]
+            }
+        },
+        {
+            "body": "🧠 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/a058f758eaaae15a67d91e9f7545ebdd3b2f80821707806661323784192",
+            "info": {
+                "w": 256,
+                "h": 232,
+                "size": 197044,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a058f758eaaae15a67d91e9f7545ebdd3b2f80821707806661323784192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 232,
+                    "size": 197044,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5845914655561615518",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "5845914655561615518",
+                "emoticons": [
+                    "🧠"
+                ]
+            }
+        },
+        {
+            "body": "🤮 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/dc705ece50c3369d9f549bd5e093436b2d686d381707806638984921088",
+            "info": {
+                "w": 256,
+                "h": 231,
+                "size": 270201,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dc705ece50c3369d9f549bd5e093436b2d686d381707806638984921088",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 231,
+                    "size": 270201,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279353",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279353",
+                "emoticons": [
+                    "🤮"
+                ]
+            }
+        },
+        {
+            "body": "☕️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/c46fc951a93d4069bcb624f965b1e5e2bf358f1e1707806650615726080",
+            "info": {
+                "w": 256,
+                "h": 242,
+                "size": 234611,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c46fc951a93d4069bcb624f965b1e5e2bf358f1e1707806650615726080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 242,
+                    "size": 234611,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5798867463542147367",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "5798867463542147367",
+                "emoticons": [
+                    "☕"
                 ]
             }
         },
@@ -2150,6 +2063,180 @@
                 "id": "5872742034904713802",
                 "emoticons": [
                     "🎈"
+                ]
+            }
+        },
+        {
+            "body": "©️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/7fbbcb4b069cd98a324d502c14e4fff859ba88201707806652289253376",
+            "info": {
+                "w": 224,
+                "h": 256,
+                "size": 210653,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7fbbcb4b069cd98a324d502c14e4fff859ba88201707806652289253376",
+                "thumbnail_info": {
+                    "w": 224,
+                    "h": 256,
+                    "size": 210653,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279315",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279315",
+                "emoticons": [
+                    "©"
+                ]
+            }
+        },
+        {
+            "body": "😑 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/a6818e110e72058b01514bd5f84c7608d61ad2481707806636841631744",
+            "info": {
+                "w": 256,
+                "h": 221,
+                "size": 225726,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a6818e110e72058b01514bd5f84c7608d61ad2481707806636841631744",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 221,
+                    "size": 225726,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279350",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279350",
+                "emoticons": [
+                    "😑"
+                ]
+            }
+        },
+        {
+            "body": "😭 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/cc06b929edbf18f923abf3d827e944934f3a44761707806648631820288",
+            "info": {
+                "w": 256,
+                "h": 245,
+                "size": 226842,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc06b929edbf18f923abf3d827e944934f3a44761707806648631820288",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 245,
+                    "size": 226842,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279374",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279374",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "🙄 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/b17fcb21e0552e64728c60119804d03b9bdc88681707806654415765504",
+            "info": {
+                "w": 244,
+                "h": 256,
+                "size": 229982,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b17fcb21e0552e64728c60119804d03b9bdc88681707806654415765504",
+                "thumbnail_info": {
+                    "w": 244,
+                    "h": 256,
+                    "size": 229982,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5987588494032111554",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "5987588494032111554",
+                "emoticons": [
+                    "🙄"
+                ]
+            }
+        },
+        {
+            "body": "🧙 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/0877a3b017088399f8d393f8d7add44f9cb6c7e81707806659075637248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 160470,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0877a3b017088399f8d393f8d7add44f9cb6c7e81707806659075637248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 160470,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279327",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279327",
+                "emoticons": [
+                    "🧙"
+                ]
+            }
+        },
+        {
+            "body": "🎩 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/ca1bcc3bcca7bffd87b712585db143e6e9192b4e1707806656848461824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 141374,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ca1bcc3bcca7bffd87b712585db143e6e9192b4e1707806656848461824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 141374,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279328",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279328",
+                "emoticons": [
+                    "🎩"
                 ]
             }
         },
@@ -2212,89 +2299,31 @@
             }
         },
         {
-            "body": "🙄 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/b17fcb21e0552e64728c60119804d03b9bdc88681707806654415765504",
+            "body": "😇 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/a1d1c798ff7d912530d2b9ece68393e0945be1681707806635126161408",
             "info": {
-                "w": 244,
+                "w": 177,
                 "h": 256,
-                "size": 229982,
+                "size": 236034,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b17fcb21e0552e64728c60119804d03b9bdc88681707806654415765504",
+                "thumbnail_url": "mxc://matrix.chir.rs/a1d1c798ff7d912530d2b9ece68393e0945be1681707806635126161408",
                 "thumbnail_info": {
-                    "w": 244,
+                    "w": 177,
                     "h": 256,
-                    "size": 229982,
+                    "size": 236034,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5987588494032111554",
+            "id": "tg-45537201777279347",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "5987588494032111554",
+                "id": "45537201777279347",
                 "emoticons": [
-                    "🙄"
-                ]
-            }
-        },
-        {
-            "body": "©️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/7fbbcb4b069cd98a324d502c14e4fff859ba88201707806652289253376",
-            "info": {
-                "w": 224,
-                "h": 256,
-                "size": 210653,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7fbbcb4b069cd98a324d502c14e4fff859ba88201707806652289253376",
-                "thumbnail_info": {
-                    "w": 224,
-                    "h": 256,
-                    "size": 210653,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279315",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279315",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "😭 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/cc06b929edbf18f923abf3d827e944934f3a44761707806648631820288",
-            "info": {
-                "w": 256,
-                "h": 245,
-                "size": 226842,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cc06b929edbf18f923abf3d827e944934f3a44761707806648631820288",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 245,
-                    "size": 226842,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279374",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279374",
-                "emoticons": [
-                    "😭"
+                    "😇"
                 ]
             }
         },
@@ -2328,321 +2357,31 @@
             }
         },
         {
-            "body": "🎩 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/ca1bcc3bcca7bffd87b712585db143e6e9192b4e1707806656848461824",
+            "body": "☕️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/d4ff4a46d326cc47353daff45ac8f11741f996a91707806650632503296",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 141374,
+                "h": 233,
+                "size": 240871,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ca1bcc3bcca7bffd87b712585db143e6e9192b4e1707806656848461824",
+                "thumbnail_url": "mxc://matrix.chir.rs/d4ff4a46d326cc47353daff45ac8f11741f996a91707806650632503296",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 141374,
+                    "h": 233,
+                    "size": 240871,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279328",
+            "id": "tg-5798743296037620281",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279328",
+                "id": "5798743296037620281",
                 "emoticons": [
-                    "🎩"
-                ]
-            }
-        },
-        {
-            "body": "🧠 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/a058f758eaaae15a67d91e9f7545ebdd3b2f80821707806661323784192",
-            "info": {
-                "w": 256,
-                "h": 232,
-                "size": 197044,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a058f758eaaae15a67d91e9f7545ebdd3b2f80821707806661323784192",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 232,
-                    "size": 197044,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5845914655561615518",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "5845914655561615518",
-                "emoticons": [
-                    "🧠"
-                ]
-            }
-        },
-        {
-            "body": "⚔️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/19529a11a2e7507a7820e3366f2df1c42959ed891707806656840073216",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 152986,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/19529a11a2e7507a7820e3366f2df1c42959ed891707806656840073216",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 152986,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279367",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279367",
-                "emoticons": [
-                    "⚔"
-                ]
-            }
-        },
-        {
-            "body": "✋ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/b7e2b60f7debe54470d95c7fba1a2449f16ef80f1707806680139431936",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 132483,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b7e2b60f7debe54470d95c7fba1a2449f16ef80f1707806680139431936",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 132483,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5924746830364542895",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "5924746830364542895",
-                "emoticons": [
-                    "✋"
-                ]
-            }
-        },
-        {
-            "body": "🛡 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/c4879721d14f6bc6ebc6c0799a147e57dc539ea41707806660241653760",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 185122,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4879721d14f6bc6ebc6c0799a147e57dc539ea41707806660241653760",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 185122,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279368",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279368",
-                "emoticons": [
-                    "🛡"
-                ]
-            }
-        },
-        {
-            "body": "🧙 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/0877a3b017088399f8d393f8d7add44f9cb6c7e81707806659075637248",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 160470,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0877a3b017088399f8d393f8d7add44f9cb6c7e81707806659075637248",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 160470,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279327",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279327",
-                "emoticons": [
-                    "🧙"
-                ]
-            }
-        },
-        {
-            "body": "😡 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/6a3ec72c5250d16f4d387b55ee4cae84777b24121707806663186055168",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192251,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6a3ec72c5250d16f4d387b55ee4cae84777b24121707806663186055168",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192251,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6039494470884394927",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "6039494470884394927",
-                "emoticons": [
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "©️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/e693fe40ce5dd6a0010c6259523ce3e4a400a0581707806662972145664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184967,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e693fe40ce5dd6a0010c6259523ce3e4a400a0581707806662972145664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184967,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279329",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279329",
-                "emoticons": [
-                    "©"
-                ]
-            }
-        },
-        {
-            "body": "🛏 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/e781ea72aeb049c1c32709680fd7c38b94f6fc3a1707806661550276608",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 301204,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e781ea72aeb049c1c32709680fd7c38b94f6fc3a1707806661550276608",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 301204,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279332",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279332",
-                "emoticons": [
-                    "🛏"
-                ]
-            }
-        },
-        {
-            "body": "😒 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/3eea3d0fd805c8502641605be73133dfb8accaa61707806676792377344",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 155138,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3eea3d0fd805c8502641605be73133dfb8accaa61707806676792377344",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 155138,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6039441024311364611",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "6039441024311364611",
-                "emoticons": [
-                    "😒"
-                ]
-            }
-        },
-        {
-            "body": "😬 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/9fa06f4e229a8d79f46860b4f4896323c38974a21707806664171716608",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 132086,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9fa06f4e229a8d79f46860b4f4896323c38974a21707806664171716608",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 132086,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5992321483567794336",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "5992321483567794336",
-                "emoticons": [
-                    "😬"
+                    "☕"
                 ]
             }
         },
@@ -2676,205 +2415,60 @@
             }
         },
         {
-            "body": "😳 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/5dcffd2e8d4828a03eb4e92f5046ca98b49c5e191707806666541498368",
+            "body": "🛡 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/c4879721d14f6bc6ebc6c0799a147e57dc539ea41707806660241653760",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 242536,
+                "size": 185122,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5dcffd2e8d4828a03eb4e92f5046ca98b49c5e191707806666541498368",
+                "thumbnail_url": "mxc://matrix.chir.rs/c4879721d14f6bc6ebc6c0799a147e57dc539ea41707806660241653760",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 242536,
+                    "size": 185122,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279335",
+            "id": "tg-45537201777279368",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279335",
+                "id": "45537201777279368",
                 "emoticons": [
-                    "😳"
+                    "🛡"
                 ]
             }
         },
         {
-            "body": "😫 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/6289ea1f81314cb63a88de670412eaec58fc3ab01707806665358704640",
+            "body": "✋ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/b7e2b60f7debe54470d95c7fba1a2449f16ef80f1707806680139431936",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 146187,
+                "size": 132483,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6289ea1f81314cb63a88de670412eaec58fc3ab01707806665358704640",
+                "thumbnail_url": "mxc://matrix.chir.rs/b7e2b60f7debe54470d95c7fba1a2449f16ef80f1707806680139431936",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 146187,
+                    "size": 132483,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5992244058192350343",
+            "id": "tg-5924746830364542895",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "5992244058192350343",
+                "id": "5924746830364542895",
                 "emoticons": [
-                    "😫"
-                ]
-            }
-        },
-        {
-            "body": "📖 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/947ad47d514d8c38cad97860e8440391773baaf41707806671696297984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 304654,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/947ad47d514d8c38cad97860e8440391773baaf41707806671696297984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 304654,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279336",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279336",
-                "emoticons": [
-                    "📖"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/38379c4f83abd0a0285f20df89137b330d286efa1707806671746629632",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 280704,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/38379c4f83abd0a0285f20df89137b330d286efa1707806671746629632",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 280704,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279341",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279341",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "🤕 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/019826463fb9de00936eb8397895b2bd64ae44551707806670194737152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 225567,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/019826463fb9de00936eb8397895b2bd64ae44551707806670194737152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 225567,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279340",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279340",
-                "emoticons": [
-                    "🤕"
-                ]
-            }
-        },
-        {
-            "body": "🛑 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/34453fda04ccbf2048479de7395bfebf7c8b0b251707806685373923328",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 243507,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/34453fda04ccbf2048479de7395bfebf7c8b0b251707806685373923328",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 243507,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279342",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279342",
-                "emoticons": [
-                    "🛑"
-                ]
-            }
-        },
-        {
-            "body": "👶 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/ce305799c70497b68d020bb2a374c0a01a58caec1707806691661185024",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 237678,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ce305799c70497b68d020bb2a374c0a01a58caec1707806691661185024",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 237678,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279343",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279343",
-                "emoticons": [
-                    "👶"
+                    "✋"
                 ]
             }
         },
@@ -2908,118 +2502,118 @@
             }
         },
         {
-            "body": "🍑 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/ecc6394ff8c401e23c530fd2dd4d6104fdceea321707806674015748096",
+            "body": "©️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/e693fe40ce5dd6a0010c6259523ce3e4a400a0581707806662972145664",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 278253,
+                "size": 184967,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ecc6394ff8c401e23c530fd2dd4d6104fdceea321707806674015748096",
+                "thumbnail_url": "mxc://matrix.chir.rs/e693fe40ce5dd6a0010c6259523ce3e4a400a0581707806662972145664",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 278253,
+                    "size": 184967,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279354",
+            "id": "tg-45537201777279329",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279354",
+                "id": "45537201777279329",
                 "emoticons": [
-                    "🍑"
+                    "©"
                 ]
             }
         },
         {
-            "body": "👶 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/6d50c6db2c3fad47d6a2d266d90023632ce1b75f1707806682446299136",
+            "body": "😬 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/9fa06f4e229a8d79f46860b4f4896323c38974a21707806664171716608",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 271605,
+                "size": 132086,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6d50c6db2c3fad47d6a2d266d90023632ce1b75f1707806682446299136",
+                "thumbnail_url": "mxc://matrix.chir.rs/9fa06f4e229a8d79f46860b4f4896323c38974a21707806664171716608",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 271605,
+                    "size": 132086,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279334",
+            "id": "tg-5992321483567794336",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279334",
+                "id": "5992321483567794336",
                 "emoticons": [
-                    "👶"
+                    "😬"
                 ]
             }
         },
         {
-            "body": "✨ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/e38acea41765971118e1121942eb7c63c2767c981707806689027162112",
+            "body": "😫 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/6289ea1f81314cb63a88de670412eaec58fc3ab01707806665358704640",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 276220,
+                "size": 146187,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e38acea41765971118e1121942eb7c63c2767c981707806689027162112",
+                "thumbnail_url": "mxc://matrix.chir.rs/6289ea1f81314cb63a88de670412eaec58fc3ab01707806665358704640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 276220,
+                    "size": 146187,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279355",
+            "id": "tg-5992244058192350343",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279355",
+                "id": "5992244058192350343",
                 "emoticons": [
-                    "✨"
+                    "😫"
                 ]
             }
         },
         {
-            "body": "🦖 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/afd4f1632bde10c1910d70be2da3850d64e153121707806674317737984",
+            "body": "🛏 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/e781ea72aeb049c1c32709680fd7c38b94f6fc3a1707806661550276608",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 315932,
+                "size": 301204,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/afd4f1632bde10c1910d70be2da3850d64e153121707806674317737984",
+                "thumbnail_url": "mxc://matrix.chir.rs/e781ea72aeb049c1c32709680fd7c38b94f6fc3a1707806661550276608",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 315932,
+                    "size": 301204,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279356",
+            "id": "tg-45537201777279332",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279356",
+                "id": "45537201777279332",
                 "emoticons": [
-                    "🦖"
+                    "🛏"
                 ]
             }
         },
@@ -3053,118 +2647,234 @@
             }
         },
         {
-            "body": "🦕 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/999bb5794c2c5873b8fbe125f36b1cf9654631a01707806676083539968",
+            "body": "👶 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/6d50c6db2c3fad47d6a2d266d90023632ce1b75f1707806682446299136",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 300919,
+                "size": 271605,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/999bb5794c2c5873b8fbe125f36b1cf9654631a01707806676083539968",
+                "thumbnail_url": "mxc://matrix.chir.rs/6d50c6db2c3fad47d6a2d266d90023632ce1b75f1707806682446299136",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 300919,
+                    "size": 271605,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279357",
+            "id": "tg-45537201777279334",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279357",
+                "id": "45537201777279334",
                 "emoticons": [
-                    "🦕"
+                    "👶"
                 ]
             }
         },
         {
-            "body": "🙏 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/d2f2552d5b59f31b914a3b4cd626f9baa106241e1707806677752872960",
+            "body": "✋ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/d42f78dbea5ed0dae0da8ea4efb6760d232dd5ff1707806655325929472",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 222167,
+                "h": 220,
+                "size": 258190,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d2f2552d5b59f31b914a3b4cd626f9baa106241e1707806677752872960",
+                "thumbnail_url": "mxc://matrix.chir.rs/d42f78dbea5ed0dae0da8ea4efb6760d232dd5ff1707806655325929472",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 222167,
+                    "h": 220,
+                    "size": 258190,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279358",
+            "id": "tg-45537201777279372",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279358",
+                "id": "45537201777279372",
                 "emoticons": [
-                    "🙏"
+                    "✋"
                 ]
             }
         },
         {
-            "body": "😶 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/442c411dd756df28b4befeb79e2cba2d7b4f96591707806680021991424",
+            "body": "😳 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/5dcffd2e8d4828a03eb4e92f5046ca98b49c5e191707806666541498368",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 281338,
+                "size": 242536,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/442c411dd756df28b4befeb79e2cba2d7b4f96591707806680021991424",
+                "thumbnail_url": "mxc://matrix.chir.rs/5dcffd2e8d4828a03eb4e92f5046ca98b49c5e191707806666541498368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 281338,
+                    "size": 242536,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279359",
+            "id": "tg-45537201777279335",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279359",
+                "id": "45537201777279335",
                 "emoticons": [
-                    "😶"
+                    "😳"
                 ]
             }
         },
         {
-            "body": "🖍 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/07b842de737c337e3be36458b3800bd0f600be5e1707806681179619328",
+            "body": "⚔️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/19529a11a2e7507a7820e3366f2df1c42959ed891707806656840073216",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 256040,
+                "size": 152986,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/07b842de737c337e3be36458b3800bd0f600be5e1707806681179619328",
+                "thumbnail_url": "mxc://matrix.chir.rs/19529a11a2e7507a7820e3366f2df1c42959ed891707806656840073216",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 256040,
+                    "size": 152986,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279360",
+            "id": "tg-45537201777279367",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279360",
+                "id": "45537201777279367",
                 "emoticons": [
-                    "🖍"
+                    "⚔"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/6a3ec72c5250d16f4d387b55ee4cae84777b24121707806663186055168",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192251,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6a3ec72c5250d16f4d387b55ee4cae84777b24121707806663186055168",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192251,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6039494470884394927",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "6039494470884394927",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🛑 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/34453fda04ccbf2048479de7395bfebf7c8b0b251707806685373923328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 243507,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/34453fda04ccbf2048479de7395bfebf7c8b0b251707806685373923328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 243507,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279342",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279342",
+                "emoticons": [
+                    "🛑"
+                ]
+            }
+        },
+        {
+            "body": "🤕 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/019826463fb9de00936eb8397895b2bd64ae44551707806670194737152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 225567,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/019826463fb9de00936eb8397895b2bd64ae44551707806670194737152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 225567,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279340",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279340",
+                "emoticons": [
+                    "🤕"
+                ]
+            }
+        },
+        {
+            "body": "👶 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/ce305799c70497b68d020bb2a374c0a01a58caec1707806691661185024",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237678,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ce305799c70497b68d020bb2a374c0a01a58caec1707806691661185024",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237678,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279343",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279343",
+                "emoticons": [
+                    "👶"
                 ]
             }
         },
@@ -3198,89 +2908,205 @@
             }
         },
         {
-            "body": "🎁 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/c257223df36e9cd2a853212177bb927fc16938c41707806686565105664",
+            "body": "🍑 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/ecc6394ff8c401e23c530fd2dd4d6104fdceea321707806674015748096",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 280354,
+                "size": 278253,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c257223df36e9cd2a853212177bb927fc16938c41707806686565105664",
+                "thumbnail_url": "mxc://matrix.chir.rs/ecc6394ff8c401e23c530fd2dd4d6104fdceea321707806674015748096",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 280354,
+                    "size": 278253,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279365",
+            "id": "tg-45537201777279354",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279365",
+                "id": "45537201777279354",
                 "emoticons": [
-                    "🎁"
+                    "🍑"
                 ]
             }
         },
         {
-            "body": "🔋 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/e87f64d7650d96635dff4c07d131abce3d9eea1c1707806701861732352",
+            "body": "✨ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/e38acea41765971118e1121942eb7c63c2767c981707806689027162112",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 222779,
+                "size": 276220,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e87f64d7650d96635dff4c07d131abce3d9eea1c1707806701861732352",
+                "thumbnail_url": "mxc://matrix.chir.rs/e38acea41765971118e1121942eb7c63c2767c981707806689027162112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 222779,
+                    "size": 276220,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279370",
+            "id": "tg-45537201777279355",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279370",
+                "id": "45537201777279355",
                 "emoticons": [
-                    "🔋"
+                    "✨"
                 ]
             }
         },
         {
-            "body": "🤪 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/a0c795c119bb713ed49afd3e5534774e317770131707806683230633984",
+            "body": "😩 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/0cb01f709665576c214924b4ee88f6a23a2b2d6b1707806690646163456",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 198224,
+                "size": 238627,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0c795c119bb713ed49afd3e5534774e317770131707806683230633984",
+                "thumbnail_url": "mxc://matrix.chir.rs/0cb01f709665576c214924b4ee88f6a23a2b2d6b1707806690646163456",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 198224,
+                    "size": 238627,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279371",
+            "id": "tg-45537201777279339",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279371",
+                "id": "45537201777279339",
                 "emoticons": [
-                    "🤪"
+                    "😩"
+                ]
+            }
+        },
+        {
+            "body": "🦖 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/afd4f1632bde10c1910d70be2da3850d64e153121707806674317737984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 315932,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/afd4f1632bde10c1910d70be2da3850d64e153121707806674317737984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 315932,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279356",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279356",
+                "emoticons": [
+                    "🦖"
+                ]
+            }
+        },
+        {
+            "body": "🙏 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/d2f2552d5b59f31b914a3b4cd626f9baa106241e1707806677752872960",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 222167,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d2f2552d5b59f31b914a3b4cd626f9baa106241e1707806677752872960",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 222167,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279358",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279358",
+                "emoticons": [
+                    "🙏"
+                ]
+            }
+        },
+        {
+            "body": "📖 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/947ad47d514d8c38cad97860e8440391773baaf41707806671696297984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 304654,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/947ad47d514d8c38cad97860e8440391773baaf41707806671696297984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 304654,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279336",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279336",
+                "emoticons": [
+                    "📖"
+                ]
+            }
+        },
+        {
+            "body": "😒 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/3eea3d0fd805c8502641605be73133dfb8accaa61707806676792377344",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 155138,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3eea3d0fd805c8502641605be73133dfb8accaa61707806676792377344",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 155138,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6039441024311364611",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "6039441024311364611",
+                "emoticons": [
+                    "😒"
                 ]
             }
         },
@@ -3343,60 +3169,60 @@
             }
         },
         {
-            "body": "🥰 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/8dbf072190ab5354620a64d819db0debef8bcc2a1707806688972636160",
+            "body": "🔋 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/e87f64d7650d96635dff4c07d131abce3d9eea1c1707806701861732352",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 253673,
+                "size": 222779,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8dbf072190ab5354620a64d819db0debef8bcc2a1707806688972636160",
+                "thumbnail_url": "mxc://matrix.chir.rs/e87f64d7650d96635dff4c07d131abce3d9eea1c1707806701861732352",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 253673,
+                    "size": 222779,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279377",
+            "id": "tg-45537201777279370",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279377",
+                "id": "45537201777279370",
                 "emoticons": [
-                    "🥰"
+                    "🔋"
                 ]
             }
         },
         {
-            "body": "©️ (Littletiger)",
-            "url": "mxc://matrix.chir.rs/9a408bef8eb94966fd465db2627fc0109829146c1707806685311008768",
+            "body": "🤪 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/a0c795c119bb713ed49afd3e5534774e317770131707806683230633984",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 308141,
+                "size": 198224,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9a408bef8eb94966fd465db2627fc0109829146c1707806685311008768",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0c795c119bb713ed49afd3e5534774e317770131707806683230633984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 308141,
+                    "size": 198224,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-45537201777279338",
+            "id": "tg-45537201777279371",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "45537201777278978",
                     "short_name": "Littletiger"
                 },
-                "id": "45537201777279338",
+                "id": "45537201777279371",
                 "emoticons": [
-                    "©"
+                    "🤪"
                 ]
             }
         },
@@ -3430,35 +3256,6 @@
             }
         },
         {
-            "body": "😩 (Littletiger)",
-            "url": "mxc://matrix.chir.rs/0cb01f709665576c214924b4ee88f6a23a2b2d6b1707806690646163456",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 238627,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0cb01f709665576c214924b4ee88f6a23a2b2d6b1707806690646163456",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 238627,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-45537201777279339",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "45537201777278978",
-                    "short_name": "Littletiger"
-                },
-                "id": "45537201777279339",
-                "emoticons": [
-                    "😩"
-                ]
-            }
-        },
-        {
             "body": "😭 (Littletiger)",
             "url": "mxc://matrix.chir.rs/88f8275da7f15b832d04d0434552e0c177865b9c1707806710200008704",
             "info": {
@@ -3484,6 +3281,209 @@
                 "id": "45537201777279376",
                 "emoticons": [
                     "😭"
+                ]
+            }
+        },
+        {
+            "body": "🥰 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/8dbf072190ab5354620a64d819db0debef8bcc2a1707806688972636160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 253673,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8dbf072190ab5354620a64d819db0debef8bcc2a1707806688972636160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 253673,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279377",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279377",
+                "emoticons": [
+                    "🥰"
+                ]
+            }
+        },
+        {
+            "body": "🦕 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/999bb5794c2c5873b8fbe125f36b1cf9654631a01707806676083539968",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 300919,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/999bb5794c2c5873b8fbe125f36b1cf9654631a01707806676083539968",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 300919,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279357",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279357",
+                "emoticons": [
+                    "🦕"
+                ]
+            }
+        },
+        {
+            "body": "©️ (Littletiger)",
+            "url": "mxc://matrix.chir.rs/9a408bef8eb94966fd465db2627fc0109829146c1707806685311008768",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 308141,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9a408bef8eb94966fd465db2627fc0109829146c1707806685311008768",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 308141,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279338",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279338",
+                "emoticons": [
+                    "©"
+                ]
+            }
+        },
+        {
+            "body": "😶 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/442c411dd756df28b4befeb79e2cba2d7b4f96591707806680021991424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 281338,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/442c411dd756df28b4befeb79e2cba2d7b4f96591707806680021991424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 281338,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279359",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279359",
+                "emoticons": [
+                    "😶"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/38379c4f83abd0a0285f20df89137b330d286efa1707806671746629632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 280704,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/38379c4f83abd0a0285f20df89137b330d286efa1707806671746629632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 280704,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279341",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279341",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🎁 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/c257223df36e9cd2a853212177bb927fc16938c41707806686565105664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 280354,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c257223df36e9cd2a853212177bb927fc16938c41707806686565105664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 280354,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279365",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279365",
+                "emoticons": [
+                    "🎁"
+                ]
+            }
+        },
+        {
+            "body": "🖍 (Littletiger)",
+            "url": "mxc://matrix.chir.rs/07b842de737c337e3be36458b3800bd0f600be5e1707806681179619328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 256040,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/07b842de737c337e3be36458b3800bd0f600be5e1707806681179619328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 256040,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-45537201777279360",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "45537201777278978",
+                    "short_name": "Littletiger"
+                },
+                "id": "45537201777279360",
+                "emoticons": [
+                    "🖍"
                 ]
             }
         }

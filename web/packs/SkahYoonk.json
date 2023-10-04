@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "🎀 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/20bf579fdf450979aa5f428eb1b38f9df4f023b31707809259674140672",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 292091,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/20bf579fdf450979aa5f428eb1b38f9df4f023b31707809259674140672",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 292091,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362389",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362389",
+                "emoticons": [
+                    "🎀"
+                ]
+            }
+        },
+        {
             "body": "🌈 (@SkahYoonk)",
             "url": "mxc://matrix.chir.rs/1071a78b034a62c82380fc0c92d699f8fc81a2ee1707809260852740096",
             "info": {
@@ -43,31 +72,33 @@
             }
         },
         {
-            "body": "😄 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/db4190d62ea0d4d603d07c431db577f69f2b78991707809268201160704",
+            "body": "❤️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/b87b2c9d0021ee12907382ca16dc594d3f244f4e1707809264216571904",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 198836,
+                "size": 200384,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/db4190d62ea0d4d603d07c431db577f69f2b78991707809268201160704",
+                "thumbnail_url": "mxc://matrix.chir.rs/b87b2c9d0021ee12907382ca16dc594d3f244f4e1707809264216571904",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 198836,
+                    "size": 200384,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362062",
+            "id": "tg-569880020592362312",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362062",
+                "id": "569880020592362312",
                 "emoticons": [
-                    "😄"
+                    "❤",
+                    "💛",
+                    "💙"
                 ]
             }
         },
@@ -101,91 +132,31 @@
             }
         },
         {
-            "body": "❤️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/87644cd44638e6c524c8a4c24b5e508544e806fb1707809266829623296",
+            "body": "😄 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/db4190d62ea0d4d603d07c431db577f69f2b78991707809268201160704",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 168538,
+                "size": 198836,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/87644cd44638e6c524c8a4c24b5e508544e806fb1707809266829623296",
+                "thumbnail_url": "mxc://matrix.chir.rs/db4190d62ea0d4d603d07c431db577f69f2b78991707809268201160704",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 168538,
+                    "size": 198836,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362063",
+            "id": "tg-569880020592362062",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362063",
+                "id": "569880020592362062",
                 "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/b87b2c9d0021ee12907382ca16dc594d3f244f4e1707809264216571904",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200384,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b87b2c9d0021ee12907382ca16dc594d3f244f4e1707809264216571904",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200384,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362312",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362312",
-                "emoticons": [
-                    "❤",
-                    "💛",
-                    "💙"
-                ]
-            }
-        },
-        {
-            "body": "🧦 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/c17a4bc18be69af28dfd53caef8b2b4c1a13aa541707809282096889856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 171766,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c17a4bc18be69af28dfd53caef8b2b4c1a13aa541707809282096889856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 171766,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362427",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362427",
-                "emoticons": [
-                    "🧦"
+                    "😄"
                 ]
             }
         },
@@ -221,65 +192,6 @@
             }
         },
         {
-            "body": "🥇 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/14077894fbe5679ae222cb06b0ca7ee92c4aa9011707809270893903872",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215097,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/14077894fbe5679ae222cb06b0ca7ee92c4aa9011707809270893903872",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215097,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362488",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362488",
-                "emoticons": [
-                    "🥇",
-                    "😃"
-                ]
-            }
-        },
-        {
-            "body": "😄 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/b4594c3e00acc7244cc79ac0c223fad904465d6b1707809270893903873",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200149,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b4594c3e00acc7244cc79ac0c223fad904465d6b1707809270893903873",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200149,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362420",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362420",
-                "emoticons": [
-                    "😄"
-                ]
-            }
-        },
-        {
             "body": "☺️ (@SkahYoonk)",
             "url": "mxc://matrix.chir.rs/ac4f466342b27a78237ff4841e5a88e4a5a458bb1707809283627810816",
             "info": {
@@ -306,66 +218,6 @@
                 "emoticons": [
                     "☺",
                     "🐾"
-                ]
-            }
-        },
-        {
-            "body": "🙂 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/3b8d5c93f4a5cbfa6e6e4cf315cfc96cb60f8a611707809268331184128",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 233644,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3b8d5c93f4a5cbfa6e6e4cf315cfc96cb60f8a611707809268331184128",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 233644,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362417",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362417",
-                "emoticons": [
-                    "🙂",
-                    "☕"
-                ]
-            }
-        },
-        {
-            "body": "😨 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/a14ce2b284a4da8d73269101665e5f37d168d1d31707809273452429312",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 182707,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a14ce2b284a4da8d73269101665e5f37d168d1d31707809273452429312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 182707,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362287",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362287",
-                "emoticons": [
-                    "😨",
-                    "🧻"
                 ]
             }
         },
@@ -400,31 +252,296 @@
             }
         },
         {
-            "body": "🎀 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/20bf579fdf450979aa5f428eb1b38f9df4f023b31707809259674140672",
+            "body": "🙂 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/3b8d5c93f4a5cbfa6e6e4cf315cfc96cb60f8a611707809268331184128",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 292091,
+                "size": 233644,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/20bf579fdf450979aa5f428eb1b38f9df4f023b31707809259674140672",
+                "thumbnail_url": "mxc://matrix.chir.rs/3b8d5c93f4a5cbfa6e6e4cf315cfc96cb60f8a611707809268331184128",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 292091,
+                    "size": 233644,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362389",
+            "id": "tg-569880020592362417",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362389",
+                "id": "569880020592362417",
                 "emoticons": [
-                    "🎀"
+                    "🙂",
+                    "☕"
+                ]
+            }
+        },
+        {
+            "body": "🥇 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/14077894fbe5679ae222cb06b0ca7ee92c4aa9011707809270893903872",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215097,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/14077894fbe5679ae222cb06b0ca7ee92c4aa9011707809270893903872",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215097,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362488",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362488",
+                "emoticons": [
+                    "🥇",
+                    "😃"
+                ]
+            }
+        },
+        {
+            "body": "🧦 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/c17a4bc18be69af28dfd53caef8b2b4c1a13aa541707809282096889856",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 171766,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c17a4bc18be69af28dfd53caef8b2b4c1a13aa541707809282096889856",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 171766,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362427",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362427",
+                "emoticons": [
+                    "🧦"
+                ]
+            }
+        },
+        {
+            "body": "💙 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/d8ba8791ed98b7b87781696547e6507f7fabcaa71707809277588013056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187556,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d8ba8791ed98b7b87781696547e6507f7fabcaa71707809277588013056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187556,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362436",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362436",
+                "emoticons": [
+                    "💙"
+                ]
+            }
+        },
+        {
+            "body": "😨 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/a14ce2b284a4da8d73269101665e5f37d168d1d31707809273452429312",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 182707,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a14ce2b284a4da8d73269101665e5f37d168d1d31707809273452429312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 182707,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362287",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362287",
+                "emoticons": [
+                    "😨",
+                    "🧻"
+                ]
+            }
+        },
+        {
+            "body": "❤️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/87644cd44638e6c524c8a4c24b5e508544e806fb1707809266829623296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 168538,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/87644cd44638e6c524c8a4c24b5e508544e806fb1707809266829623296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 168538,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362063",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362063",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "💤 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/4fb200f1d3e20c5a7c9605f613ec7da4a23377001707809280012320768",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 302468,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4fb200f1d3e20c5a7c9605f613ec7da4a23377001707809280012320768",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 302468,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362317",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362317",
+                "emoticons": [
+                    "💤"
+                ]
+            }
+        },
+        {
+            "body": "😊 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/9ed7ff684b2ad72897988eb0343cc944c845ed7f1707809293685751808",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 181879,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9ed7ff684b2ad72897988eb0343cc944c845ed7f1707809293685751808",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 181879,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362273",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362273",
+                "emoticons": [
+                    "💙",
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "🥚 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/a0c178bb36aab66bff6150673840b8c24afd3d391707809275675410432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224122,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0c178bb36aab66bff6150673840b8c24afd3d391707809275675410432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224122,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362316",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362316",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "🍝 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/0ff18d67d3a22b524a61672f21a1692261ba3c3f1707809275985788928",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 278217,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0ff18d67d3a22b524a61672f21a1692261ba3c3f1707809275985788928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 278217,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362315",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362315",
+                "emoticons": [
+                    "🍝"
                 ]
             }
         },
@@ -461,31 +578,179 @@
             }
         },
         {
-            "body": "💤 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/4fb200f1d3e20c5a7c9605f613ec7da4a23377001707809280012320768",
+            "body": "🎈 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/fbbf8190f1f1c7d38d77a84f78236b18beadf0e91707809291039145984",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 302468,
+                "size": 177135,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4fb200f1d3e20c5a7c9605f613ec7da4a23377001707809280012320768",
+                "thumbnail_url": "mxc://matrix.chir.rs/fbbf8190f1f1c7d38d77a84f78236b18beadf0e91707809291039145984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 302468,
+                    "size": 177135,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362317",
+            "id": "tg-569880020592362335",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362317",
+                "id": "569880020592362335",
                 "emoticons": [
-                    "💤"
+                    "🎈"
+                ]
+            }
+        },
+        {
+            "body": "😛 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/4d0933b49ca3cd1940c90f2fa334e409610766b11707809283707502592",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177752,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4d0933b49ca3cd1940c90f2fa334e409610766b11707809283707502592",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177752,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362398",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362398",
+                "emoticons": [
+                    "😛",
+                    "🤢"
+                ]
+            }
+        },
+        {
+            "body": "😲 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/dbb484d84bc1de36ebb39af00f0d464d38499c5d1707809300837040128",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 226390,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dbb484d84bc1de36ebb39af00f0d464d38499c5d1707809300837040128",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 226390,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362399",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362399",
+                "emoticons": [
+                    "😲"
+                ]
+            }
+        },
+        {
+            "body": "😄 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/b4594c3e00acc7244cc79ac0c223fad904465d6b1707809270893903873",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200149,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b4594c3e00acc7244cc79ac0c223fad904465d6b1707809270893903873",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200149,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362420",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362420",
+                "emoticons": [
+                    "😄"
+                ]
+            }
+        },
+        {
+            "body": "❤️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/ccf329ab91d53ca3a89f202e5eb73897e3dd8df01707809285477498880",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216821,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ccf329ab91d53ca3a89f202e5eb73897e3dd8df01707809285477498880",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216821,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362118",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362118",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "💚 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/81d2e557d447a16452925d89642ef298a8ddc2d61707809307787001856",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 245046,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/81d2e557d447a16452925d89642ef298a8ddc2d61707809307787001856",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 245046,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362119",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362119",
+                "emoticons": [
+                    "❤",
+                    "💚",
+                    "🤢"
                 ]
             }
         },
@@ -520,119 +785,31 @@
             }
         },
         {
-            "body": "😲 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/dbb484d84bc1de36ebb39af00f0d464d38499c5d1707809300837040128",
+            "body": "💚 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/a096d67a8de97b0a2cc730f1e381bcaac2c676251707809299025100800",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 226390,
+                "size": 241336,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dbb484d84bc1de36ebb39af00f0d464d38499c5d1707809300837040128",
+                "thumbnail_url": "mxc://matrix.chir.rs/a096d67a8de97b0a2cc730f1e381bcaac2c676251707809299025100800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 226390,
+                    "size": 241336,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362399",
+            "id": "tg-569880020592362159",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362399",
+                "id": "569880020592362159",
                 "emoticons": [
-                    "😲"
-                ]
-            }
-        },
-        {
-            "body": "😊 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/9ed7ff684b2ad72897988eb0343cc944c845ed7f1707809293685751808",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 181879,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9ed7ff684b2ad72897988eb0343cc944c845ed7f1707809293685751808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 181879,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362273",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362273",
-                "emoticons": [
-                    "💙",
-                    "😊"
-                ]
-            }
-        },
-        {
-            "body": "🎈 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/fbbf8190f1f1c7d38d77a84f78236b18beadf0e91707809291039145984",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 177135,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fbbf8190f1f1c7d38d77a84f78236b18beadf0e91707809291039145984",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 177135,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362335",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362335",
-                "emoticons": [
-                    "🎈"
-                ]
-            }
-        },
-        {
-            "body": "🥚 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/a0c178bb36aab66bff6150673840b8c24afd3d391707809275675410432",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 224122,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0c178bb36aab66bff6150673840b8c24afd3d391707809275675410432",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 224122,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362316",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362316",
-                "emoticons": [
-                    "🥚"
+                    "💚"
                 ]
             }
         },
@@ -666,32 +843,210 @@
             }
         },
         {
-            "body": "😛 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/4d0933b49ca3cd1940c90f2fa334e409610766b11707809283707502592",
+            "body": "🤗 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/d77df5bc82e8d84f9d8d5ba3bf7a518192d33af01707809287016808448",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 177752,
+                "size": 263127,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4d0933b49ca3cd1940c90f2fa334e409610766b11707809283707502592",
+                "thumbnail_url": "mxc://matrix.chir.rs/d77df5bc82e8d84f9d8d5ba3bf7a518192d33af01707809287016808448",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 177752,
+                    "size": 263127,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362398",
+            "id": "tg-569880020592362313",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362398",
+                "id": "569880020592362313",
                 "emoticons": [
-                    "😛",
-                    "🤢"
+                    "🌈",
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🗑 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/c72c15092cc5639997d3026ea34c255d2a6521fe1707809288090550272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 239503,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c72c15092cc5639997d3026ea34c255d2a6521fe1707809288090550272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 239503,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362117",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362117",
+                "emoticons": [
+                    "🤢",
+                    "🗑",
+                    "😋",
+                    "🦝"
+                ]
+            }
+        },
+        {
+            "body": "💦 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/8611295c96201158322b7393b404e09ef8f23a811707809290233839616",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 178850,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8611295c96201158322b7393b404e09ef8f23a811707809290233839616",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 178850,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362215",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362215",
+                "emoticons": [
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "💫 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/937679f127ee308f85099cfa8fd24f3ae436ea9e1707809297762615296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 228651,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/937679f127ee308f85099cfa8fd24f3ae436ea9e1707809297762615296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 228651,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362227",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362227",
+                "emoticons": [
+                    "💫",
+                    "😵"
+                ]
+            }
+        },
+        {
+            "body": "😇 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/c20c72df107a8567ac9a22a190018a6b37b3a0461707809289327869952",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 208244,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c20c72df107a8567ac9a22a190018a6b37b3a0461707809289327869952",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 208244,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362123",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362123",
+                "emoticons": [
+                    "😇"
+                ]
+            }
+        },
+        {
+            "body": "😊 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/101750990e7e333a2f8faf01fd22579af482decd1707809325243695104",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 229884,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/101750990e7e333a2f8faf01fd22579af482decd1707809325243695104",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 229884,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362442",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362442",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "👿 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/d396a37256f7ac4891b3a57e4e6d8e74e2b72e9b1707809297464819712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 226988,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d396a37256f7ac4891b3a57e4e6d8e74e2b72e9b1707809297464819712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 226988,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362124",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362124",
+                "emoticons": [
+                    "👿"
                 ]
             }
         },
@@ -729,358 +1084,34 @@
             }
         },
         {
-            "body": "❤️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/ccf329ab91d53ca3a89f202e5eb73897e3dd8df01707809285477498880",
+            "body": "🤓 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/e296516c8e62dfdabc8f7de9df8fc06b392632c51707809295724183552",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 216821,
+                "size": 276453,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ccf329ab91d53ca3a89f202e5eb73897e3dd8df01707809285477498880",
+                "thumbnail_url": "mxc://matrix.chir.rs/e296516c8e62dfdabc8f7de9df8fc06b392632c51707809295724183552",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 216821,
+                    "size": 276453,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362118",
+            "id": "tg-569880020592362226",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362118",
-                "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "💚 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/a096d67a8de97b0a2cc730f1e381bcaac2c676251707809299025100800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241336,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a096d67a8de97b0a2cc730f1e381bcaac2c676251707809299025100800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241336,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362159",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362159",
-                "emoticons": [
-                    "💚"
-                ]
-            }
-        },
-        {
-            "body": "💚 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/81d2e557d447a16452925d89642ef298a8ddc2d61707809307787001856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 245046,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81d2e557d447a16452925d89642ef298a8ddc2d61707809307787001856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 245046,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362119",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362119",
-                "emoticons": [
-                    "❤",
-                    "💚",
-                    "🤢"
-                ]
-            }
-        },
-        {
-            "body": "💦 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/8611295c96201158322b7393b404e09ef8f23a811707809290233839616",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 178850,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8611295c96201158322b7393b404e09ef8f23a811707809290233839616",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 178850,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362215",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362215",
-                "emoticons": [
-                    "💦"
-                ]
-            }
-        },
-        {
-            "body": "😊 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/101750990e7e333a2f8faf01fd22579af482decd1707809325243695104",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 229884,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/101750990e7e333a2f8faf01fd22579af482decd1707809325243695104",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 229884,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362442",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362442",
-                "emoticons": [
-                    "😊"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/d77df5bc82e8d84f9d8d5ba3bf7a518192d33af01707809287016808448",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 263127,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d77df5bc82e8d84f9d8d5ba3bf7a518192d33af01707809287016808448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 263127,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362313",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362313",
+                "id": "569880020592362226",
                 "emoticons": [
                     "🌈",
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "😇 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/c20c72df107a8567ac9a22a190018a6b37b3a0461707809289327869952",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 208244,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c20c72df107a8567ac9a22a190018a6b37b3a0461707809289327869952",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 208244,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362123",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362123",
-                "emoticons": [
-                    "😇"
-                ]
-            }
-        },
-        {
-            "body": "🍝 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/0ff18d67d3a22b524a61672f21a1692261ba3c3f1707809275985788928",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 278217,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0ff18d67d3a22b524a61672f21a1692261ba3c3f1707809275985788928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 278217,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362315",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362315",
-                "emoticons": [
-                    "🍝"
-                ]
-            }
-        },
-        {
-            "body": "💫 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/937679f127ee308f85099cfa8fd24f3ae436ea9e1707809297762615296",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 228651,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/937679f127ee308f85099cfa8fd24f3ae436ea9e1707809297762615296",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 228651,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362227",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362227",
-                "emoticons": [
-                    "💫",
-                    "😵"
-                ]
-            }
-        },
-        {
-            "body": "👿 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/d396a37256f7ac4891b3a57e4e6d8e74e2b72e9b1707809297464819712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 226988,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d396a37256f7ac4891b3a57e4e6d8e74e2b72e9b1707809297464819712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 226988,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362124",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362124",
-                "emoticons": [
-                    "👿"
-                ]
-            }
-        },
-        {
-            "body": "🗑 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/c72c15092cc5639997d3026ea34c255d2a6521fe1707809288090550272",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 239503,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c72c15092cc5639997d3026ea34c255d2a6521fe1707809288090550272",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 239503,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362117",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362117",
-                "emoticons": [
-                    "🤢",
-                    "🗑",
-                    "😋",
-                    "🦝"
-                ]
-            }
-        },
-        {
-            "body": "🌈 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/3fef8568638ea791c8a40d6ac1838ea09760dbd31707809285422972928",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 268643,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3fef8568638ea791c8a40d6ac1838ea09760dbd31707809285422972928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 268643,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362319",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362319",
-                "emoticons": [
-                    "🌈",
-                    "🤗"
+                    "⭐",
+                    "🌟",
+                    "🤓"
                 ]
             }
         },
@@ -1115,34 +1146,32 @@
             }
         },
         {
-            "body": "🤓 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/e296516c8e62dfdabc8f7de9df8fc06b392632c51707809295724183552",
+            "body": "🌈 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/3fef8568638ea791c8a40d6ac1838ea09760dbd31707809285422972928",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 276453,
+                "size": 268643,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e296516c8e62dfdabc8f7de9df8fc06b392632c51707809295724183552",
+                "thumbnail_url": "mxc://matrix.chir.rs/3fef8568638ea791c8a40d6ac1838ea09760dbd31707809285422972928",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 276453,
+                    "size": 268643,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362226",
+            "id": "tg-569880020592362319",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362226",
+                "id": "569880020592362319",
                 "emoticons": [
                     "🌈",
-                    "⭐",
-                    "🌟",
-                    "🤓"
+                    "🤗"
                 ]
             }
         },
@@ -1176,61 +1205,32 @@
             }
         },
         {
-            "body": "🛌 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/79b703e31a87e562498b89cd4eb0e3ad600cb1401707809300795097088",
+            "body": "🤷‍♂️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/c5fabc00b160ff8ab8171e8fcb13bc40f0c93e0c1707809293220184064",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 200462,
+                "size": 203258,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/79b703e31a87e562498b89cd4eb0e3ad600cb1401707809300795097088",
+                "thumbnail_url": "mxc://matrix.chir.rs/c5fabc00b160ff8ab8171e8fcb13bc40f0c93e0c1707809293220184064",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 200462,
+                    "size": 203258,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362067",
+            "id": "tg-569880020592362216",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362067",
+                "id": "569880020592362216",
                 "emoticons": [
-                    "🛌"
-                ]
-            }
-        },
-        {
-            "body": "🚿 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/66c83411f4843e13998e3c4a13b97782d36da6c71707809327064023040",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 266220,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/66c83411f4843e13998e3c4a13b97782d36da6c71707809327064023040",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 266220,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362069",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362069",
-                "emoticons": [
-                    "🚿",
-                    "🛁"
+                    "🤷‍♂",
+                    "🤷‍♀"
                 ]
             }
         },
@@ -1326,35 +1326,6 @@
             }
         },
         {
-            "body": "💙 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/d8ba8791ed98b7b87781696547e6507f7fabcaa71707809277588013056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 187556,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d8ba8791ed98b7b87781696547e6507f7fabcaa71707809277588013056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 187556,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362436",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362436",
-                "emoticons": [
-                    "💙"
-                ]
-            }
-        },
-        {
             "body": "🧼 (@SkahYoonk)",
             "url": "mxc://matrix.chir.rs/a482ea641bd8b08b343d10c48b80f001a30290011707809304469307392",
             "info": {
@@ -1380,6 +1351,36 @@
                 "id": "569880020592362350",
                 "emoticons": [
                     "🧼"
+                ]
+            }
+        },
+        {
+            "body": "🚿 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/66c83411f4843e13998e3c4a13b97782d36da6c71707809327064023040",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 266220,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/66c83411f4843e13998e3c4a13b97782d36da6c71707809327064023040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 266220,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362069",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362069",
+                "emoticons": [
+                    "🚿",
+                    "🛁"
                 ]
             }
         },
@@ -1444,61 +1445,60 @@
             }
         },
         {
-            "body": "❗️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/1b145c9ba6a2354f8030db05af4bfe47a799a2eb1707809306075725824",
+            "body": "🦨 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/871d5cf493ec1fcf570599df0d48f5b3433034311707809308894298112",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 221765,
+                "size": 120285,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1b145c9ba6a2354f8030db05af4bfe47a799a2eb1707809306075725824",
+                "thumbnail_url": "mxc://matrix.chir.rs/871d5cf493ec1fcf570599df0d48f5b3433034311707809308894298112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 221765,
+                    "size": 120285,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362380",
+            "id": "tg-569880020592362487",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362380",
+                "id": "569880020592362487",
                 "emoticons": [
-                    "❗",
-                    "💨"
+                    "🦨"
                 ]
             }
         },
         {
-            "body": "😡 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/f7d58e4679dbd46c1138334b61251447aab37f211707809304460918784",
+            "body": "🛌 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/79b703e31a87e562498b89cd4eb0e3ad600cb1401707809300795097088",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 186079,
+                "size": 200462,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f7d58e4679dbd46c1138334b61251447aab37f211707809304460918784",
+                "thumbnail_url": "mxc://matrix.chir.rs/79b703e31a87e562498b89cd4eb0e3ad600cb1401707809300795097088",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 186079,
+                    "size": 200462,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362065",
+            "id": "tg-569880020592362067",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362065",
+                "id": "569880020592362067",
                 "emoticons": [
-                    "😡"
+                    "🛌"
                 ]
             }
         },
@@ -1529,185 +1529,6 @@
                 "emoticons": [
                     "🐾",
                     "😡"
-                ]
-            }
-        },
-        {
-            "body": "〰️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/e1784e366a1f95537efa257f21330e9f5f749f8e1707809310643322880",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215743,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e1784e366a1f95537efa257f21330e9f5f749f8e1707809310643322880",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215743,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362220",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362220",
-                "emoticons": [
-                    "🍝",
-                    "〰",
-                    "🍜"
-                ]
-            }
-        },
-        {
-            "body": "❄️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/c6b8c065d49585a13aaa535115564fb5482b7d071707809313231208448",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 227897,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c6b8c065d49585a13aaa535115564fb5482b7d071707809313231208448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 227897,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362288",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362288",
-                "emoticons": [
-                    "🐾",
-                    "❄"
-                ]
-            }
-        },
-        {
-            "body": "🐾 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/17f6d1fa859acd2ef6ed195c26286d257c5ab48a1707809313633861632",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 202676,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/17f6d1fa859acd2ef6ed195c26286d257c5ab48a1707809313633861632",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 202676,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362225",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362225",
-                "emoticons": [
-                    "🐾",
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "💪 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/ee9ce9b7f38075fb6d91835462311e71f49b990b1707809312367181824",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 148544,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ee9ce9b7f38075fb6d91835462311e71f49b990b1707809312367181824",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 148544,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362064",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362064",
-                "emoticons": [
-                    "💪"
-                ]
-            }
-        },
-        {
-            "body": "🤷‍♂️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/c5fabc00b160ff8ab8171e8fcb13bc40f0c93e0c1707809293220184064",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 203258,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c5fabc00b160ff8ab8171e8fcb13bc40f0c93e0c1707809293220184064",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 203258,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362216",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362216",
-                "emoticons": [
-                    "🤷‍♂",
-                    "🤷‍♀"
-                ]
-            }
-        },
-        {
-            "body": "😵 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/d1bfacf10a0616433c6b24983ce38b43ae952f091707809314573385728",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 162210,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d1bfacf10a0616433c6b24983ce38b43ae952f091707809314573385728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 162210,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362264",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362264",
-                "emoticons": [
-                    "😵"
                 ]
             }
         },
@@ -1772,6 +1593,303 @@
             }
         },
         {
+            "body": "❄️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/c6b8c065d49585a13aaa535115564fb5482b7d071707809313231208448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227897,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c6b8c065d49585a13aaa535115564fb5482b7d071707809313231208448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227897,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362288",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362288",
+                "emoticons": [
+                    "🐾",
+                    "❄"
+                ]
+            }
+        },
+        {
+            "body": "🥚 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/538b942e73759ff3dd6a8e224390ab1446b2ac3b1707809312451067904",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 172979,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/538b942e73759ff3dd6a8e224390ab1446b2ac3b1707809312451067904",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 172979,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362257",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362257",
+                "emoticons": [
+                    "🥚"
+                ]
+            }
+        },
+        {
+            "body": "❗️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/1b145c9ba6a2354f8030db05af4bfe47a799a2eb1707809306075725824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 221765,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1b145c9ba6a2354f8030db05af4bfe47a799a2eb1707809306075725824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 221765,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362380",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362380",
+                "emoticons": [
+                    "❗",
+                    "💨"
+                ]
+            }
+        },
+        {
+            "body": "〰️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/e1784e366a1f95537efa257f21330e9f5f749f8e1707809310643322880",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215743,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e1784e366a1f95537efa257f21330e9f5f749f8e1707809310643322880",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215743,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362220",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362220",
+                "emoticons": [
+                    "🍝",
+                    "〰",
+                    "🍜"
+                ]
+            }
+        },
+        {
+            "body": "🐾 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/17f6d1fa859acd2ef6ed195c26286d257c5ab48a1707809313633861632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 202676,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/17f6d1fa859acd2ef6ed195c26286d257c5ab48a1707809313633861632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 202676,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362225",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362225",
+                "emoticons": [
+                    "🐾",
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🐾 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/9b511f9cdda13967d712d885e32a6a9e32471ffa1707809319803682816",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186418,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9b511f9cdda13967d712d885e32a6a9e32471ffa1707809319803682816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186418,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362261",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362261",
+                "emoticons": [
+                    "🐾"
+                ]
+            }
+        },
+        {
+            "body": "😵 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/d1bfacf10a0616433c6b24983ce38b43ae952f091707809314573385728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 162210,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d1bfacf10a0616433c6b24983ce38b43ae952f091707809314573385728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 162210,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362264",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362264",
+                "emoticons": [
+                    "😵"
+                ]
+            }
+        },
+        {
+            "body": "💪 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/ee9ce9b7f38075fb6d91835462311e71f49b990b1707809312367181824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 148544,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ee9ce9b7f38075fb6d91835462311e71f49b990b1707809312367181824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 148544,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362064",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362064",
+                "emoticons": [
+                    "💪"
+                ]
+            }
+        },
+        {
+            "body": "🧹 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/fb7fe3d34dfb58f13a90be9222fa2f8b4743dc031707809319354892288",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 228607,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fb7fe3d34dfb58f13a90be9222fa2f8b4743dc031707809319354892288",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 228607,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362320",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362320",
+                "emoticons": [
+                    "🧹"
+                ]
+            }
+        },
+        {
+            "body": "🗒 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/ebe667b41bd813edad0642957aaf554b25a665411707809322903273472",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 261391,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ebe667b41bd813edad0642957aaf554b25a665411707809322903273472",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 261391,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362265",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362265",
+                "emoticons": [
+                    "🗒",
+                    "🐝",
+                    "😰"
+                ]
+            }
+        },
+        {
             "body": "🚿 (@SkahYoonk)",
             "url": "mxc://matrix.chir.rs/35418061993ee6fb6ac52caf46e8e8117323f43e1707809319346503680",
             "info": {
@@ -1827,66 +1945,6 @@
                 "emoticons": [
                     "😆",
                     "😁"
-                ]
-            }
-        },
-        {
-            "body": "🗒 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/ebe667b41bd813edad0642957aaf554b25a665411707809322903273472",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 261391,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ebe667b41bd813edad0642957aaf554b25a665411707809322903273472",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 261391,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362265",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362265",
-                "emoticons": [
-                    "🗒",
-                    "🐝",
-                    "😰"
-                ]
-            }
-        },
-        {
-            "body": "🦨 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/871d5cf493ec1fcf570599df0d48f5b3433034311707809308894298112",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 120285,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/871d5cf493ec1fcf570599df0d48f5b3433034311707809308894298112",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 120285,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362487",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362487",
-                "emoticons": [
-                    "🦨"
                 ]
             }
         },
@@ -1949,6 +2007,36 @@
             }
         },
         {
+            "body": "🎨 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/8769838c9c5ebb1ebf9fffa6912c611f7934a7e61707809334190145536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209561,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8769838c9c5ebb1ebf9fffa6912c611f7934a7e61707809334190145536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209561,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362388",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362388",
+                "emoticons": [
+                    "🎨",
+                    "✏"
+                ]
+            }
+        },
+        {
             "body": "🥪 (@SkahYoonk)",
             "url": "mxc://matrix.chir.rs/32b82dded994051483cd966c0bb1ea0e5a59b03a1707809321179414528",
             "info": {
@@ -1977,36 +2065,6 @@
                     "😍",
                     "🥪",
                     "🍔"
-                ]
-            }
-        },
-        {
-            "body": "🎨 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/8769838c9c5ebb1ebf9fffa6912c611f7934a7e61707809334190145536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209561,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8769838c9c5ebb1ebf9fffa6912c611f7934a7e61707809334190145536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209561,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362388",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362388",
-                "emoticons": [
-                    "🎨",
-                    "✏"
                 ]
             }
         },
@@ -2073,90 +2131,61 @@
             }
         },
         {
-            "body": "🍑 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/a6336c0761c8bdde24e049bfff2f8381ab26097b1707809322693558272",
+            "body": "🚫 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/3ff1dffc39e9c678205d23e8030bfaa72eedc9bc1707809332130742272",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 180579,
+                "size": 249224,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a6336c0761c8bdde24e049bfff2f8381ab26097b1707809322693558272",
+                "thumbnail_url": "mxc://matrix.chir.rs/3ff1dffc39e9c678205d23e8030bfaa72eedc9bc1707809332130742272",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 180579,
+                    "size": 249224,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362222",
+            "id": "tg-569880020592362325",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362222",
+                "id": "569880020592362325",
                 "emoticons": [
-                    "❤",
-                    "🍑"
+                    "😱",
+                    "🚫"
                 ]
             }
         },
         {
-            "body": "🐾 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/9b511f9cdda13967d712d885e32a6a9e32471ffa1707809319803682816",
+            "body": "🤢 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/ff7dffc580fbd5604e33b6b641a2c06e2bedf6fc1707809328053878784",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 186418,
+                "size": 216147,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b511f9cdda13967d712d885e32a6a9e32471ffa1707809319803682816",
+                "thumbnail_url": "mxc://matrix.chir.rs/ff7dffc580fbd5604e33b6b641a2c06e2bedf6fc1707809328053878784",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 186418,
+                    "size": 216147,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362261",
+            "id": "tg-569880020592362385",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362261",
+                "id": "569880020592362385",
                 "emoticons": [
-                    "🐾"
-                ]
-            }
-        },
-        {
-            "body": "🧹 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/fb7fe3d34dfb58f13a90be9222fa2f8b4743dc031707809319354892288",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 228607,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fb7fe3d34dfb58f13a90be9222fa2f8b4743dc031707809319354892288",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 228607,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362320",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362320",
-                "emoticons": [
-                    "🧹"
+                    "🤢"
                 ]
             }
         },
@@ -2223,61 +2252,34 @@
             }
         },
         {
-            "body": "👃 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/93b7669082e85b5460eed046831dba7c0dac42ae1707809332994768896",
+            "body": "🔫 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/6389a91c376ad2f62baf54acaeffe90e980292f61707809328888545280",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 221311,
+                "size": 298227,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/93b7669082e85b5460eed046831dba7c0dac42ae1707809332994768896",
+                "thumbnail_url": "mxc://matrix.chir.rs/6389a91c376ad2f62baf54acaeffe90e980292f61707809328888545280",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 221311,
+                    "size": 298227,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362126",
+            "id": "tg-569880020592362224",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362126",
+                "id": "569880020592362224",
                 "emoticons": [
-                    "👃"
-                ]
-            }
-        },
-        {
-            "body": "🚫 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/3ff1dffc39e9c678205d23e8030bfaa72eedc9bc1707809332130742272",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 249224,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3ff1dffc39e9c678205d23e8030bfaa72eedc9bc1707809332130742272",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 249224,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362325",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362325",
-                "emoticons": [
-                    "😱",
-                    "🚫"
+                    "🤢",
+                    "💦",
+                    "😈",
+                    "🔫"
                 ]
             }
         },
@@ -2312,150 +2314,31 @@
             }
         },
         {
-            "body": "🔫 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/6389a91c376ad2f62baf54acaeffe90e980292f61707809328888545280",
+            "body": "👃 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/93b7669082e85b5460eed046831dba7c0dac42ae1707809332994768896",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 298227,
+                "size": 221311,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6389a91c376ad2f62baf54acaeffe90e980292f61707809328888545280",
+                "thumbnail_url": "mxc://matrix.chir.rs/93b7669082e85b5460eed046831dba7c0dac42ae1707809332994768896",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 298227,
+                    "size": 221311,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362224",
+            "id": "tg-569880020592362126",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362224",
+                "id": "569880020592362126",
                 "emoticons": [
-                    "🤢",
-                    "💦",
-                    "😈",
-                    "🔫"
-                ]
-            }
-        },
-        {
-            "body": "🤢 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/89d19aa976f60bfbb0ebd9d3e068f5f9b498f9cd1707809335419076608",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 221230,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/89d19aa976f60bfbb0ebd9d3e068f5f9b498f9cd1707809335419076608",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 221230,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362070",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362070",
-                "emoticons": [
-                    "🤢"
-                ]
-            }
-        },
-        {
-            "body": "🥚 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/538b942e73759ff3dd6a8e224390ab1446b2ac3b1707809312451067904",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172979,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/538b942e73759ff3dd6a8e224390ab1446b2ac3b1707809312451067904",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172979,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362257",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362257",
-                "emoticons": [
-                    "🥚"
-                ]
-            }
-        },
-        {
-            "body": "😉 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/582ef625a7fa268b9b665fe1230b3756d23bc9491707809338527055872",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 280142,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/582ef625a7fa268b9b665fe1230b3756d23bc9491707809338527055872",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 280142,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362322",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362322",
-                "emoticons": [
-                    "😉"
-                ]
-            }
-        },
-        {
-            "body": "🌲 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/b6955e9a747e5db461992efeb7b7027e9f4a585c1707809344071925760",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 383239,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6955e9a747e5db461992efeb7b7027e9f4a585c1707809344071925760",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 383239,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362304",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362304",
-                "emoticons": [
-                    "🌲"
+                    "👃"
                 ]
             }
         },
@@ -2489,32 +2372,60 @@
             }
         },
         {
-            "body": "💙 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/736cc8c6992aaab2c811fc8365c254acaefdad4b1707809348127817728",
+            "body": "😉 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/582ef625a7fa268b9b665fe1230b3756d23bc9491707809338527055872",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 346557,
+                "size": 280142,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/736cc8c6992aaab2c811fc8365c254acaefdad4b1707809348127817728",
+                "thumbnail_url": "mxc://matrix.chir.rs/582ef625a7fa268b9b665fe1230b3756d23bc9491707809338527055872",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 346557,
+                    "size": 280142,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362328",
+            "id": "tg-569880020592362322",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362328",
+                "id": "569880020592362322",
                 "emoticons": [
-                    "💙",
-                    "👃"
+                    "😉"
+                ]
+            }
+        },
+        {
+            "body": "🤢 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/89d19aa976f60bfbb0ebd9d3e068f5f9b498f9cd1707809335419076608",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 221230,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/89d19aa976f60bfbb0ebd9d3e068f5f9b498f9cd1707809335419076608",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 221230,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362070",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362070",
+                "emoticons": [
+                    "🤢"
                 ]
             }
         },
@@ -2542,181 +2453,6 @@
                     "short_name": "SkahYoonk"
                 },
                 "id": "569880020592362071",
-                "emoticons": [
-                    "🤢"
-                ]
-            }
-        },
-        {
-            "body": "🤢 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/ff7dffc580fbd5604e33b6b641a2c06e2bedf6fc1707809328053878784",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 216147,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ff7dffc580fbd5604e33b6b641a2c06e2bedf6fc1707809328053878784",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 216147,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362385",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362385",
-                "emoticons": [
-                    "🤢"
-                ]
-            }
-        },
-        {
-            "body": "👝 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/ca98ad441ee4fddf377760b8f335e59bb0affb921707809348245258240",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 218001,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ca98ad441ee4fddf377760b8f335e59bb0affb921707809348245258240",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 218001,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362466",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362466",
-                "emoticons": [
-                    "👝"
-                ]
-            }
-        },
-        {
-            "body": "👝 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/03a2b8b9b7db3b17a96abd091223ce90e45ad2691707809350233358336",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 193979,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/03a2b8b9b7db3b17a96abd091223ce90e45ad2691707809350233358336",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 193979,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5035085655403659564",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "5035085655403659564",
-                "emoticons": [
-                    "👝"
-                ]
-            }
-        },
-        {
-            "body": "💸 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/8c8115243fa1439f5b6edd5f5abb25155b9ddf6f1707809344755597312",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190297,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8c8115243fa1439f5b6edd5f5abb25155b9ddf6f1707809344755597312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190297,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362386",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362386",
-                "emoticons": [
-                    "🧼",
-                    "💸"
-                ]
-            }
-        },
-        {
-            "body": "🤢 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/b1a2dc49226bd0ede41293224f570ccf1feb72d51707809350841532416",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 170675,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b1a2dc49226bd0ede41293224f570ccf1feb72d51707809350841532416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 170675,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362072",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362072",
-                "emoticons": [
-                    "🤢"
-                ]
-            }
-        },
-        {
-            "body": "🤢 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/0713a20a81590026936130e7ef6e960d79fd55081707809350845726720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 219891,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0713a20a81590026936130e7ef6e960d79fd55081707809350845726720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 219891,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362121",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362121",
                 "emoticons": [
                     "🤢"
                 ]
@@ -2753,61 +2489,208 @@
             }
         },
         {
-            "body": "🤪 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/7815e01533c14e55bf9be6569d41e6261afc4fc21707809352095629312",
+            "body": "💸 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/8c8115243fa1439f5b6edd5f5abb25155b9ddf6f1707809344755597312",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 309011,
+                "size": 190297,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7815e01533c14e55bf9be6569d41e6261afc4fc21707809352095629312",
+                "thumbnail_url": "mxc://matrix.chir.rs/8c8115243fa1439f5b6edd5f5abb25155b9ddf6f1707809344755597312",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 309011,
+                    "size": 190297,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362259",
+            "id": "tg-569880020592362386",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362259",
+                "id": "569880020592362386",
                 "emoticons": [
-                    "🤪"
+                    "🧼",
+                    "💸"
                 ]
             }
         },
         {
-            "body": "🦃 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/57646047f6301921b90f4568695bc239dd4aaee11707809353764962304",
+            "body": "🌲 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/b6955e9a747e5db461992efeb7b7027e9f4a585c1707809344071925760",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 253797,
+                "size": 383239,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/57646047f6301921b90f4568695bc239dd4aaee11707809353764962304",
+                "thumbnail_url": "mxc://matrix.chir.rs/b6955e9a747e5db461992efeb7b7027e9f4a585c1707809344071925760",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 253797,
+                    "size": 383239,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362421",
+            "id": "tg-569880020592362304",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362421",
+                "id": "569880020592362304",
                 "emoticons": [
-                    "🦃",
-                    "🍽"
+                    "🌲"
+                ]
+            }
+        },
+        {
+            "body": "💙 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/736cc8c6992aaab2c811fc8365c254acaefdad4b1707809348127817728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 346557,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/736cc8c6992aaab2c811fc8365c254acaefdad4b1707809348127817728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 346557,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362328",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362328",
+                "emoticons": [
+                    "💙",
+                    "👃"
+                ]
+            }
+        },
+        {
+            "body": "👝 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/ca98ad441ee4fddf377760b8f335e59bb0affb921707809348245258240",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 218001,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ca98ad441ee4fddf377760b8f335e59bb0affb921707809348245258240",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 218001,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362466",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362466",
+                "emoticons": [
+                    "👝"
+                ]
+            }
+        },
+        {
+            "body": "🤢 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/b1a2dc49226bd0ede41293224f570ccf1feb72d51707809350841532416",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 170675,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b1a2dc49226bd0ede41293224f570ccf1feb72d51707809350841532416",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 170675,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362072",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362072",
+                "emoticons": [
+                    "🤢"
+                ]
+            }
+        },
+        {
+            "body": "👝 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/03a2b8b9b7db3b17a96abd091223ce90e45ad2691707809350233358336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 193979,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/03a2b8b9b7db3b17a96abd091223ce90e45ad2691707809350233358336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 193979,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5035085655403659564",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "5035085655403659564",
+                "emoticons": [
+                    "👝"
+                ]
+            }
+        },
+        {
+            "body": "🍑 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/a6336c0761c8bdde24e049bfff2f8381ab26097b1707809322693558272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 180579,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a6336c0761c8bdde24e049bfff2f8381ab26097b1707809322693558272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 180579,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362222",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362222",
+                "emoticons": [
+                    "❤",
+                    "🍑"
                 ]
             }
         },
@@ -2837,6 +2720,123 @@
                 "id": "569880020592362326",
                 "emoticons": [
                     "🙅‍♂"
+                ]
+            }
+        },
+        {
+            "body": "🤪 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/7815e01533c14e55bf9be6569d41e6261afc4fc21707809352095629312",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 309011,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7815e01533c14e55bf9be6569d41e6261afc4fc21707809352095629312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 309011,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362259",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362259",
+                "emoticons": [
+                    "🤪"
+                ]
+            }
+        },
+        {
+            "body": "🦮 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/e5f09184187c7a6fb643f12eb2973d540798bf271707809354406690816",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 212416,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e5f09184187c7a6fb643f12eb2973d540798bf271707809354406690816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 212416,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362477",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362477",
+                "emoticons": [
+                    "🦮"
+                ]
+            }
+        },
+        {
+            "body": "😡 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/f7d58e4679dbd46c1138334b61251447aab37f211707809304460918784",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186079,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f7d58e4679dbd46c1138334b61251447aab37f211707809304460918784",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186079,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362065",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362065",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "🤓 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/2fd307f799516d5cca64f5745cd7ebc074ba527c1707809356499648512",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211352,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2fd307f799516d5cca64f5745cd7ebc074ba527c1707809356499648512",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211352,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362431",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362431",
+                "emoticons": [
+                    "🤓",
+                    "😕"
                 ]
             }
         },
@@ -2871,61 +2871,32 @@
             }
         },
         {
-            "body": "✂️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/9be624386b212c25276b5ece3718682f08d216d71707809355824365568",
+            "body": "🦃 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/57646047f6301921b90f4568695bc239dd4aaee11707809353764962304",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 240203,
+                "size": 253797,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9be624386b212c25276b5ece3718682f08d216d71707809355824365568",
+                "thumbnail_url": "mxc://matrix.chir.rs/57646047f6301921b90f4568695bc239dd4aaee11707809353764962304",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 240203,
+                    "size": 253797,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362485",
+            "id": "tg-569880020592362421",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362485",
+                "id": "569880020592362421",
                 "emoticons": [
-                    "🦨",
-                    "✂"
-                ]
-            }
-        },
-        {
-            "body": "🦮 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/e5f09184187c7a6fb643f12eb2973d540798bf271707809354406690816",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 212416,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e5f09184187c7a6fb643f12eb2973d540798bf271707809354406690816",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 212416,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362477",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362477",
-                "emoticons": [
-                    "🦮"
+                    "🦃",
+                    "🍽"
                 ]
             }
         },
@@ -2961,6 +2932,65 @@
             }
         },
         {
+            "body": "✂️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/9be624386b212c25276b5ece3718682f08d216d71707809355824365568",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240203,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9be624386b212c25276b5ece3718682f08d216d71707809355824365568",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240203,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362485",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362485",
+                "emoticons": [
+                    "🦨",
+                    "✂"
+                ]
+            }
+        },
+        {
+            "body": "🤢 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/0713a20a81590026936130e7ef6e960d79fd55081707809350845726720",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 219891,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0713a20a81590026936130e7ef6e960d79fd55081707809350845726720",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 219891,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362121",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362121",
+                "emoticons": [
+                    "🤢"
+                ]
+            }
+        },
+        {
             "body": "👁 (@SkahYoonk)",
             "url": "mxc://matrix.chir.rs/f26b3b4c82910ab9d39ed9d67a41bfac38edddcb1707809357837631488",
             "info": {
@@ -2987,6 +3017,35 @@
                 "emoticons": [
                     "🧼",
                     "👁"
+                ]
+            }
+        },
+        {
+            "body": "😊 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/d67e0a1005b8236f8539f11e8c6db8ee7b7ec41b1707809361952243712",
+            "info": {
+                "w": 256,
+                "h": 234,
+                "size": 185595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d67e0a1005b8236f8539f11e8c6db8ee7b7ec41b1707809361952243712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 234,
+                    "size": 185595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362077",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362077",
+                "emoticons": [
+                    "😊"
                 ]
             }
         },
@@ -3021,32 +3080,31 @@
             }
         },
         {
-            "body": "😨 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/686d0ef9a6bcdd1f10721b7bc290e131dae082571707809360450682880",
+            "body": "😃 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/e38101cb6dac565fdc46e426fea935cc336b64481707809362208096256",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 364478,
+                "size": 241366,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/686d0ef9a6bcdd1f10721b7bc290e131dae082571707809360450682880",
+                "thumbnail_url": "mxc://matrix.chir.rs/e38101cb6dac565fdc46e426fea935cc336b64481707809362208096256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 364478,
+                    "size": 241366,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362327",
+            "id": "tg-569880020592362275",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362327",
+                "id": "569880020592362275",
                 "emoticons": [
-                    "😨",
-                    "🦝"
+                    "😃"
                 ]
             }
         },
@@ -3076,96 +3134,6 @@
                 "id": "569880020592362213",
                 "emoticons": [
                     "☝"
-                ]
-            }
-        },
-        {
-            "body": "🤓 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/2fd307f799516d5cca64f5745cd7ebc074ba527c1707809356499648512",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 211352,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2fd307f799516d5cca64f5745cd7ebc074ba527c1707809356499648512",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 211352,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362431",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362431",
-                "emoticons": [
-                    "🤓",
-                    "😕"
-                ]
-            }
-        },
-        {
-            "body": "🤪 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/def0519d496ae19e96aac898646776f7329eebd31707809360165470208",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 300943,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/def0519d496ae19e96aac898646776f7329eebd31707809360165470208",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 300943,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362439",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362439",
-                "emoticons": [
-                    "🧦",
-                    "😈",
-                    "🤪"
-                ]
-            }
-        },
-        {
-            "body": "😃 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/e38101cb6dac565fdc46e426fea935cc336b64481707809362208096256",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241366,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e38101cb6dac565fdc46e426fea935cc336b64481707809362208096256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241366,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362275",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362275",
-                "emoticons": [
-                    "😃"
                 ]
             }
         },
@@ -3230,121 +3198,62 @@
             }
         },
         {
-            "body": "👃 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/08cfc9846e182b56db99608887d98910e78431c81707809369090949120",
+            "body": "❄️ (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/7f00f255cb75b4fef27b0c41fd56afdf8b94f9361707809366322708480",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 361779,
+                "size": 418019,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/08cfc9846e182b56db99608887d98910e78431c81707809369090949120",
+                "thumbnail_url": "mxc://matrix.chir.rs/7f00f255cb75b4fef27b0c41fd56afdf8b94f9361707809366322708480",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 361779,
+                    "size": 418019,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362255",
+            "id": "tg-569880020592362276",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362255",
+                "id": "569880020592362276",
                 "emoticons": [
-                    "😍",
-                    "👃"
+                    "❄"
                 ]
             }
         },
         {
-            "body": "🍸 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/453f02295919abc738b0679090dfb5da805a85291707809369095143424",
+            "body": "🤪 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/def0519d496ae19e96aac898646776f7329eebd31707809360165470208",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 452588,
+                "size": 300943,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/453f02295919abc738b0679090dfb5da805a85291707809369095143424",
+                "thumbnail_url": "mxc://matrix.chir.rs/def0519d496ae19e96aac898646776f7329eebd31707809360165470208",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 452588,
+                    "size": 300943,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362274",
+            "id": "tg-569880020592362439",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362274",
+                "id": "569880020592362439",
                 "emoticons": [
-                    "🍸",
-                    "🌺"
-                ]
-            }
-        },
-        {
-            "body": "😍 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/ee02f2ba882239fd4807c1dfa7cc36232f8ce3261707809367862018048",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 377949,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ee02f2ba882239fd4807c1dfa7cc36232f8ce3261707809367862018048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 377949,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362254",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362254",
-                "emoticons": [
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "🌈 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/a3bcfb7e6322acfc2cb41de1021b68f09e9d7efc1707809369799786496",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 410801,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a3bcfb7e6322acfc2cb41de1021b68f09e9d7efc1707809369799786496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 410801,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362311",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362311",
-                "emoticons": [
-                    "🌈",
-                    "🏳‍🌈"
+                    "🧦",
+                    "😈",
+                    "🤪"
                 ]
             }
         },
@@ -3382,65 +3291,6 @@
             }
         },
         {
-            "body": "🌑 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/a36b5a181f44d15522700845d9ce4a1a3090b54a1707809370512818177",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 364929,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a36b5a181f44d15522700845d9ce4a1a3090b54a1707809370512818177",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 364929,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362401",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362401",
-                "emoticons": [
-                    "🌑",
-                    "👹"
-                ]
-            }
-        },
-        {
-            "body": "❄️ (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/7f00f255cb75b4fef27b0c41fd56afdf8b94f9361707809366322708480",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 418019,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7f00f255cb75b4fef27b0c41fd56afdf8b94f9361707809366322708480",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 418019,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-569880020592362276",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "569880020592361480",
-                    "short_name": "SkahYoonk"
-                },
-                "id": "569880020592362276",
-                "emoticons": [
-                    "❄"
-                ]
-            }
-        },
-        {
             "body": "👇 (@SkahYoonk)",
             "url": "mxc://matrix.chir.rs/248066daa9e0afb3c5b360c4ec1202109e08dfd81707809361201463296",
             "info": {
@@ -3472,31 +3322,31 @@
             }
         },
         {
-            "body": "🗒 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/ccf7ed3990eb783fe7663cc2b2c22c819ec590a51707809372781936640",
+            "body": "😍 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/ee02f2ba882239fd4807c1dfa7cc36232f8ce3261707809367862018048",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 256541,
+                "size": 377949,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ccf7ed3990eb783fe7663cc2b2c22c819ec590a51707809372781936640",
+                "thumbnail_url": "mxc://matrix.chir.rs/ee02f2ba882239fd4807c1dfa7cc36232f8ce3261707809367862018048",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 256541,
+                    "size": 377949,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362371",
+            "id": "tg-569880020592362254",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362371",
+                "id": "569880020592362254",
                 "emoticons": [
-                    "🗒"
+                    "😍"
                 ]
             }
         },
@@ -3531,31 +3381,62 @@
             }
         },
         {
-            "body": "😊 (@SkahYoonk)",
-            "url": "mxc://matrix.chir.rs/d67e0a1005b8236f8539f11e8c6db8ee7b7ec41b1707809361952243712",
+            "body": "😨 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/686d0ef9a6bcdd1f10721b7bc290e131dae082571707809360450682880",
             "info": {
                 "w": 256,
-                "h": 234,
-                "size": 185595,
+                "h": 256,
+                "size": 364478,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d67e0a1005b8236f8539f11e8c6db8ee7b7ec41b1707809361952243712",
+                "thumbnail_url": "mxc://matrix.chir.rs/686d0ef9a6bcdd1f10721b7bc290e131dae082571707809360450682880",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 234,
-                    "size": 185595,
+                    "h": 256,
+                    "size": 364478,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-569880020592362077",
+            "id": "tg-569880020592362327",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "569880020592361480",
                     "short_name": "SkahYoonk"
                 },
-                "id": "569880020592362077",
+                "id": "569880020592362327",
                 "emoticons": [
-                    "😊"
+                    "😨",
+                    "🦝"
+                ]
+            }
+        },
+        {
+            "body": "🌈 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/a3bcfb7e6322acfc2cb41de1021b68f09e9d7efc1707809369799786496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 410801,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a3bcfb7e6322acfc2cb41de1021b68f09e9d7efc1707809369799786496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 410801,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362311",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362311",
+                "emoticons": [
+                    "🌈",
+                    "🏳‍🌈"
                 ]
             }
         },
@@ -3585,6 +3466,125 @@
                 "id": "569880020592362161",
                 "emoticons": [
                     "🗒"
+                ]
+            }
+        },
+        {
+            "body": "🌑 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/a36b5a181f44d15522700845d9ce4a1a3090b54a1707809370512818177",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 364929,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a36b5a181f44d15522700845d9ce4a1a3090b54a1707809370512818177",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 364929,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362401",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362401",
+                "emoticons": [
+                    "🌑",
+                    "👹"
+                ]
+            }
+        },
+        {
+            "body": "👃 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/08cfc9846e182b56db99608887d98910e78431c81707809369090949120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 361779,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/08cfc9846e182b56db99608887d98910e78431c81707809369090949120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 361779,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362255",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362255",
+                "emoticons": [
+                    "😍",
+                    "👃"
+                ]
+            }
+        },
+        {
+            "body": "🗒 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/ccf7ed3990eb783fe7663cc2b2c22c819ec590a51707809372781936640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 256541,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ccf7ed3990eb783fe7663cc2b2c22c819ec590a51707809372781936640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 256541,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362371",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362371",
+                "emoticons": [
+                    "🗒"
+                ]
+            }
+        },
+        {
+            "body": "🍸 (@SkahYoonk)",
+            "url": "mxc://matrix.chir.rs/453f02295919abc738b0679090dfb5da805a85291707809369095143424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 452588,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/453f02295919abc738b0679090dfb5da805a85291707809369095143424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 452588,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-569880020592362274",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "569880020592361480",
+                    "short_name": "SkahYoonk"
+                },
+                "id": "569880020592362274",
+                "emoticons": [
+                    "🍸",
+                    "🌺"
                 ]
             }
         }

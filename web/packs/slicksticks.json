@@ -7,93 +7,6 @@
     },
     "stickers": [
         {
-            "body": "☺️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/13d6ec72b6a029af0be330740ec9b5cc0af6ca821707820443425046528",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191441,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/13d6ec72b6a029af0be330740ec9b5cc0af6ca821707820443425046528",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191441,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5132085052242395380",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5132085052242395380",
-                "emoticons": [
-                    "☺"
-                ]
-            }
-        },
-        {
-            "body": "🖥️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/26119f444d5e7d369b8646fe9708f7ba0d32498a1707820445195042816",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 182126,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26119f444d5e7d369b8646fe9708f7ba0d32498a1707820445195042816",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 182126,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5131964359366410800",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5131964359366410800",
-                "emoticons": [
-                    "🖥"
-                ]
-            }
-        },
-        {
-            "body": "❔ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e3e7d55457ae533ffec92df9336807bc388f31191707820446772101120",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 155256,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e3e7d55457ae533ffec92df9336807bc388f31191707820446772101120",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 155256,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5174753653952611059",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5174753653952611059",
-                "emoticons": [
-                    "❔"
-                ]
-            }
-        },
-        {
             "body": "🤨 (Slick's Sticks)",
             "url": "mxc://matrix.chir.rs/c957c0a26ac34a5a5c39ef6563ddf81a3b2d8ece1707820449326432256",
             "info": {
@@ -119,6 +32,64 @@
                 "id": "5132179721911533931",
                 "emoticons": [
                     "🤨"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/f963ab8d9723922bbb927d5f18cf340afdc0989f1707820466594381824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216448,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f963ab8d9723922bbb927d5f18cf340afdc0989f1707820466594381824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216448,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5132093453198426399",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5132093453198426399",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/13d6ec72b6a029af0be330740ec9b5cc0af6ca821707820443425046528",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 191441,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/13d6ec72b6a029af0be330740ec9b5cc0af6ca821707820443425046528",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 191441,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5132085052242395380",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5132085052242395380",
+                "emoticons": [
+                    "☺"
                 ]
             }
         },
@@ -152,118 +123,31 @@
             }
         },
         {
-            "body": "👋 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a495e17de7b07b4b17cb169d240a2769f645180b1707820452186947585",
+            "body": "❔ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/e3e7d55457ae533ffec92df9336807bc388f31191707820446772101120",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 177893,
+                "size": 155256,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a495e17de7b07b4b17cb169d240a2769f645180b1707820452186947585",
+                "thumbnail_url": "mxc://matrix.chir.rs/e3e7d55457ae533ffec92df9336807bc388f31191707820446772101120",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 177893,
+                    "size": 155256,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5175197126505792051",
+            "id": "tg-5174753653952611059",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5175197126505792051",
+                "id": "5174753653952611059",
                 "emoticons": [
-                    "👋"
-                ]
-            }
-        },
-        {
-            "body": "♥️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0ee3d9c9e1bb18635a6adf83106c9ba7e47266401707820452291805184",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 168252,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0ee3d9c9e1bb18635a6adf83106c9ba7e47266401707820452291805184",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 168252,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5174846042994114942",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5174846042994114942",
-                "emoticons": [
-                    "♥"
-                ]
-            }
-        },
-        {
-            "body": "🏳️‍🌈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/c7c1923d764606b666277e7cb816b3a5a0b20d761707820454338625536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 199810,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c7c1923d764606b666277e7cb816b3a5a0b20d761707820454338625536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 199810,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5174924890003735121",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5174924890003735121",
-                "emoticons": [
-                    "🏳‍🌈"
-                ]
-            }
-        },
-        {
-            "body": "🤔 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/709cb8e00f964b81228caaedf56ce3b6fb7e379a1707820454233767936",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166473,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/709cb8e00f964b81228caaedf56ce3b6fb7e379a1707820454233767936",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166473,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5174988743282524617",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5174988743282524617",
-                "emoticons": [
-                    "🤔"
+                    "❔"
                 ]
             }
         },
@@ -297,89 +181,205 @@
             }
         },
         {
-            "body": "👍 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/058673ae6a635e1aa4f889ba109f0c63f3bdae231707820456058290176",
+            "body": "❓ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/11de5edabdedfca3063d086fc193a838e4d4d0a71707820459359207424",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 149799,
+                "size": 152229,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/058673ae6a635e1aa4f889ba109f0c63f3bdae231707820456058290176",
+                "thumbnail_url": "mxc://matrix.chir.rs/11de5edabdedfca3063d086fc193a838e4d4d0a71707820459359207424",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 149799,
+                    "size": 152229,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5175125361897243003",
+            "id": "tg-4965666451185729986",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5175125361897243003",
+                "id": "4965666451185729986",
                 "emoticons": [
-                    "👍"
+                    "❓"
                 ]
             }
         },
         {
-            "body": "😬 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/81bda373e94ee1f7aa7ba5e215d00f7bf5b876cb1707820456058290177",
+            "body": "😭 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/c13cac51b1a6c8f0049325c96449ecb9599e28b31707820469421342720",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 168315,
+                "size": 198632,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81bda373e94ee1f7aa7ba5e215d00f7bf5b876cb1707820456058290177",
+                "thumbnail_url": "mxc://matrix.chir.rs/c13cac51b1a6c8f0049325c96449ecb9599e28b31707820469421342720",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 168315,
+                    "size": 198632,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5175165395287409014",
+            "id": "tg-5132000703379669312",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5175165395287409014",
+                "id": "5132000703379669312",
                 "emoticons": [
-                    "😬"
+                    "😭"
                 ]
             }
         },
         {
-            "body": "😐 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/deb7452eee02fd0f3c97afe061a88be71a8da6071707820457832480768",
+            "body": "♥️ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0ee3d9c9e1bb18635a6adf83106c9ba7e47266401707820452291805184",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 148782,
+                "size": 168252,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/deb7452eee02fd0f3c97afe061a88be71a8da6071707820457832480768",
+                "thumbnail_url": "mxc://matrix.chir.rs/0ee3d9c9e1bb18635a6adf83106c9ba7e47266401707820452291805184",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 148782,
+                    "size": 168252,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5174664211258671527",
+            "id": "tg-5174846042994114942",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5174664211258671527",
+                "id": "5174846042994114942",
                 "emoticons": [
-                    "😐"
+                    "♥"
+                ]
+            }
+        },
+        {
+            "body": "👋 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/a495e17de7b07b4b17cb169d240a2769f645180b1707820452186947585",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177893,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a495e17de7b07b4b17cb169d240a2769f645180b1707820452186947585",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177893,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5175197126505792051",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5175197126505792051",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "🏳️‍🌈 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/c7c1923d764606b666277e7cb816b3a5a0b20d761707820454338625536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199810,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c7c1923d764606b666277e7cb816b3a5a0b20d761707820454338625536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199810,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5174924890003735121",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5174924890003735121",
+                "emoticons": [
+                    "🏳‍🌈"
+                ]
+            }
+        },
+        {
+            "body": "🏳️‍🌈 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0702c173cad1aa35d82547fd31c5b658b76b84c61707820467189972992",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189620,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0702c173cad1aa35d82547fd31c5b658b76b84c61707820467189972992",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189620,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5138650446625243728",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5138650446625243728",
+                "emoticons": [
+                    "🏳‍🌈"
+                ]
+            }
+        },
+        {
+            "body": "😮 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/60eb7e7bc28a94ab3676aca3f6fa2da1216eaf261707820463406710784",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 165137,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/60eb7e7bc28a94ab3676aca3f6fa2da1216eaf261707820463406710784",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 165137,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5174977056676512141",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5174977056676512141",
+                "emoticons": [
+                    "😮"
                 ]
             }
         },
@@ -413,60 +413,118 @@
             }
         },
         {
-            "body": "❓ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/11de5edabdedfca3063d086fc193a838e4d4d0a71707820459359207424",
+            "body": "😬 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/81bda373e94ee1f7aa7ba5e215d00f7bf5b876cb1707820456058290177",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 152229,
+                "size": 168315,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/11de5edabdedfca3063d086fc193a838e4d4d0a71707820459359207424",
+                "thumbnail_url": "mxc://matrix.chir.rs/81bda373e94ee1f7aa7ba5e215d00f7bf5b876cb1707820456058290177",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 152229,
+                    "size": 168315,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4965666451185729986",
+            "id": "tg-5175165395287409014",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4965666451185729986",
+                "id": "5175165395287409014",
                 "emoticons": [
-                    "❓"
+                    "😬"
                 ]
             }
         },
         {
-            "body": "🤠 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/89454269bac4794e40d863b29026fec488db044a1707820459468259328",
+            "body": "👍 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/058673ae6a635e1aa4f889ba109f0c63f3bdae231707820456058290176",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 99578,
+                "size": 149799,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/89454269bac4794e40d863b29026fec488db044a1707820459468259328",
+                "thumbnail_url": "mxc://matrix.chir.rs/058673ae6a635e1aa4f889ba109f0c63f3bdae231707820456058290176",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 99578,
+                    "size": 149799,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5059948984857002405",
+            "id": "tg-5175125361897243003",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5059948984857002405",
+                "id": "5175125361897243003",
                 "emoticons": [
-                    "🤠"
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "🖥️ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/26119f444d5e7d369b8646fe9708f7ba0d32498a1707820445195042816",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 182126,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/26119f444d5e7d369b8646fe9708f7ba0d32498a1707820445195042816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 182126,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5131964359366410800",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5131964359366410800",
+                "emoticons": [
+                    "🖥"
+                ]
+            }
+        },
+        {
+            "body": "😒 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0a02ca1e2ee29d0f6f7632020aa7b071b13a9bd61707820471690461184",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 183210,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0a02ca1e2ee29d0f6f7632020aa7b071b13a9bd61707820471690461184",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 183210,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5059796384668975485",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5059796384668975485",
+                "emoticons": [
+                    "😒"
                 ]
             }
         },
@@ -496,64 +554,6 @@
                 "id": "5098227326831821219",
                 "emoticons": [
                     "👉"
-                ]
-            }
-        },
-        {
-            "body": "🤩 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/32b469d5e25e4066cf5f967c7e4ae83c3c3b1f2c1707820461087260672",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214000,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/32b469d5e25e4066cf5f967c7e4ae83c3c3b1f2c1707820461087260672",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214000,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4915968632984437160",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4915968632984437160",
-                "emoticons": [
-                    "🤩"
-                ]
-            }
-        },
-        {
-            "body": "😮 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/60eb7e7bc28a94ab3676aca3f6fa2da1216eaf261707820463406710784",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 165137,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/60eb7e7bc28a94ab3676aca3f6fa2da1216eaf261707820463406710784",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 165137,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5174977056676512141",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5174977056676512141",
-                "emoticons": [
-                    "😮"
                 ]
             }
         },
@@ -588,59 +588,117 @@
         },
         {
             "body": "📸 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4f675b079e67a8275336c852ed1f468d55709e061707820463561900032",
+            "url": "mxc://matrix.chir.rs/c068fd66bd30395e72af5c896b683cb2df4930211707820502988357632",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 188885,
+                "size": 180313,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4f675b079e67a8275336c852ed1f468d55709e061707820463561900032",
+                "thumbnail_url": "mxc://matrix.chir.rs/c068fd66bd30395e72af5c896b683cb2df4930211707820502988357632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 188885,
+                    "size": 180313,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5062180417935770082",
+            "id": "tg-5062161086287970761",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5062180417935770082",
+                "id": "5062161086287970761",
                 "emoticons": [
                     "📸"
                 ]
             }
         },
         {
-            "body": "🙀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/92f1127d794c8175cd0081b857b4bd499ed046b91707820465298341888",
+            "body": "🤔 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/709cb8e00f964b81228caaedf56ce3b6fb7e379a1707820454233767936",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 155324,
+                "size": 166473,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/92f1127d794c8175cd0081b857b4bd499ed046b91707820465298341888",
+                "thumbnail_url": "mxc://matrix.chir.rs/709cb8e00f964b81228caaedf56ce3b6fb7e379a1707820454233767936",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 155324,
+                    "size": 166473,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5060067113637511649",
+            "id": "tg-5174988743282524617",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5060067113637511649",
+                "id": "5174988743282524617",
                 "emoticons": [
-                    "🙀"
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "😐 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/deb7452eee02fd0f3c97afe061a88be71a8da6071707820457832480768",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 148782,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/deb7452eee02fd0f3c97afe061a88be71a8da6071707820457832480768",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 148782,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5174664211258671527",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5174664211258671527",
+                "emoticons": [
+                    "😐"
+                ]
+            }
+        },
+        {
+            "body": "🤠 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/89454269bac4794e40d863b29026fec488db044a1707820459468259328",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 99578,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/89454269bac4794e40d863b29026fec488db044a1707820459468259328",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 99578,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5059948984857002405",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5059948984857002405",
+                "emoticons": [
+                    "🤠"
                 ]
             }
         },
@@ -674,60 +732,60 @@
             }
         },
         {
-            "body": "🤗 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f963ab8d9723922bbb927d5f18cf340afdc0989f1707820466594381824",
+            "body": "🪞 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/b8fcf15c3451bacb858f91fc883338c262ca7f781707820472030199808",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 216448,
+                "size": 207820,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f963ab8d9723922bbb927d5f18cf340afdc0989f1707820466594381824",
+                "thumbnail_url": "mxc://matrix.chir.rs/b8fcf15c3451bacb858f91fc883338c262ca7f781707820472030199808",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 216448,
+                    "size": 207820,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5132093453198426399",
+            "id": "tg-5062517074652299855",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5132093453198426399",
+                "id": "5062517074652299855",
                 "emoticons": [
-                    "🤗"
+                    "🪞"
                 ]
             }
         },
         {
-            "body": "🏳️‍🌈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0702c173cad1aa35d82547fd31c5b658b76b84c61707820467189972992",
+            "body": "🙀 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/92f1127d794c8175cd0081b857b4bd499ed046b91707820465298341888",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 189620,
+                "size": 155324,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0702c173cad1aa35d82547fd31c5b658b76b84c61707820467189972992",
+                "thumbnail_url": "mxc://matrix.chir.rs/92f1127d794c8175cd0081b857b4bd499ed046b91707820465298341888",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 189620,
+                    "size": 155324,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5138650446625243728",
+            "id": "tg-5060067113637511649",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5138650446625243728",
+                "id": "5060067113637511649",
                 "emoticons": [
-                    "🏳‍🌈"
+                    "🙀"
                 ]
             }
         },
@@ -761,31 +819,176 @@
             }
         },
         {
-            "body": "😭 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/c13cac51b1a6c8f0049325c96449ecb9599e28b31707820469421342720",
+            "body": "🌈 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/ef527334f09cf871f549fa9ad4ae339aa81812081707820488014692352",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 198632,
+                "size": 219943,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c13cac51b1a6c8f0049325c96449ecb9599e28b31707820469421342720",
+                "thumbnail_url": "mxc://matrix.chir.rs/ef527334f09cf871f549fa9ad4ae339aa81812081707820488014692352",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 198632,
+                    "size": 219943,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5132000703379669312",
+            "id": "tg-5059965859783508377",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5132000703379669312",
+                "id": "5059965859783508377",
                 "emoticons": [
-                    "😭"
+                    "🌈"
+                ]
+            }
+        },
+        {
+            "body": "🤷 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/8e25457c4eaedcb30cb488f0107311433d90910a1707820473066192896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 168789,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8e25457c4eaedcb30cb488f0107311433d90910a1707820473066192896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 168789,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5062416323309470468",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5062416323309470468",
+                "emoticons": [
+                    "🤷"
+                ]
+            }
+        },
+        {
+            "body": "📸 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/4f675b079e67a8275336c852ed1f468d55709e061707820463561900032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188885,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4f675b079e67a8275336c852ed1f468d55709e061707820463561900032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188885,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5062180417935770082",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5062180417935770082",
+                "emoticons": [
+                    "📸"
+                ]
+            }
+        },
+        {
+            "body": "😂 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/282f20d141f89dc7585a12fd6e595acbba0caccc1707820474290929664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196273,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/282f20d141f89dc7585a12fd6e595acbba0caccc1707820474290929664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196273,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4916195961308447233",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4916195961308447233",
+                "emoticons": [
+                    "😂"
+                ]
+            }
+        },
+        {
+            "body": "🤩 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/32b469d5e25e4066cf5f967c7e4ae83c3c3b1f2c1707820461087260672",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214000,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/32b469d5e25e4066cf5f967c7e4ae83c3c3b1f2c1707820461087260672",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214000,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4915968632984437160",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4915968632984437160",
+                "emoticons": [
+                    "🤩"
+                ]
+            }
+        },
+        {
+            "body": "🤷 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/11c740d04c4fe2f7cf778ee8940d704a98db86c41707820493832192000",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 184281,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/11c740d04c4fe2f7cf778ee8940d704a98db86c41707820493832192000",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 184281,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5060216557024575983",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5060216557024575983",
+                "emoticons": [
+                    "🤷"
                 ]
             }
         },
@@ -848,205 +1051,31 @@
             }
         },
         {
-            "body": "😒 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0a02ca1e2ee29d0f6f7632020aa7b071b13a9bd61707820471690461184",
+            "body": "😞 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/bbf1262604d8f7bbda21cfc3bf1fb47f13ee7f9f1707820480347504640",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 183210,
+                "size": 174378,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0a02ca1e2ee29d0f6f7632020aa7b071b13a9bd61707820471690461184",
+                "thumbnail_url": "mxc://matrix.chir.rs/bbf1262604d8f7bbda21cfc3bf1fb47f13ee7f9f1707820480347504640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 183210,
+                    "size": 174378,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5059796384668975485",
+            "id": "tg-5100367023704113670",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5059796384668975485",
+                "id": "5100367023704113670",
                 "emoticons": [
-                    "😒"
-                ]
-            }
-        },
-        {
-            "body": "🪞 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b8fcf15c3451bacb858f91fc883338c262ca7f781707820472030199808",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 207820,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b8fcf15c3451bacb858f91fc883338c262ca7f781707820472030199808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 207820,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5062517074652299855",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5062517074652299855",
-                "emoticons": [
-                    "🪞"
-                ]
-            }
-        },
-        {
-            "body": "🤷 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/8e25457c4eaedcb30cb488f0107311433d90910a1707820473066192896",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 168789,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8e25457c4eaedcb30cb488f0107311433d90910a1707820473066192896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 168789,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5062416323309470468",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5062416323309470468",
-                "emoticons": [
-                    "🤷"
-                ]
-            }
-        },
-        {
-            "body": "😂 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/282f20d141f89dc7585a12fd6e595acbba0caccc1707820474290929664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 196273,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/282f20d141f89dc7585a12fd6e595acbba0caccc1707820474290929664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 196273,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4916195961308447233",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4916195961308447233",
-                "emoticons": [
-                    "😂"
-                ]
-            }
-        },
-        {
-            "body": "☑️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b0174f3cf9d93d5c2824a0bd2164eaa037b9cdfd1707820475549220864",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 194193,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b0174f3cf9d93d5c2824a0bd2164eaa037b9cdfd1707820475549220864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 194193,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5100381716787233174",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5100381716787233174",
-                "emoticons": [
-                    "☑"
-                ]
-            }
-        },
-        {
-            "body": "😰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/7baf3c641a9731850bb1d1e3107ac204debc60b61707820476492939264",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 176028,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7baf3c641a9731850bb1d1e3107ac204debc60b61707820476492939264",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 176028,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5100811514164543806",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5100811514164543806",
-                "emoticons": [
-                    "😰"
-                ]
-            }
-        },
-        {
-            "body": "☄️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f9d28b27d08e6389e90e3fbfed4f8f37a2750a6d1707820477960945664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 162904,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f9d28b27d08e6389e90e3fbfed4f8f37a2750a6d1707820477960945664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 162904,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4922888413708812954",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4922888413708812954",
-                "emoticons": [
-                    "☄"
+                    "😞"
                 ]
             }
         },
@@ -1080,60 +1109,206 @@
             }
         },
         {
-            "body": "🙄 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0c2a09324f905857bda1c9adc1ff2b7c7fdc0ff01707820480204898304",
+            "body": "😡 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/9314c4755e8cf426dfcc16be7624209e5be4456c1707820483577118720",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 159725,
+                "size": 168187,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0c2a09324f905857bda1c9adc1ff2b7c7fdc0ff01707820480204898304",
+                "thumbnail_url": "mxc://matrix.chir.rs/9314c4755e8cf426dfcc16be7624209e5be4456c1707820483577118720",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 159725,
+                    "size": 168187,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956480667190821454",
+            "id": "tg-5095914710281224617",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4956480667190821454",
+                "id": "5095914710281224617",
                 "emoticons": [
-                    "🙄"
+                    "😡"
                 ]
             }
         },
         {
-            "body": "😞 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/bbf1262604d8f7bbda21cfc3bf1fb47f13ee7f9f1707820480347504640",
+            "body": "😰 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/7baf3c641a9731850bb1d1e3107ac204debc60b61707820476492939264",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 174378,
+                "size": 176028,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bbf1262604d8f7bbda21cfc3bf1fb47f13ee7f9f1707820480347504640",
+                "thumbnail_url": "mxc://matrix.chir.rs/7baf3c641a9731850bb1d1e3107ac204debc60b61707820476492939264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 174378,
+                    "size": 176028,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5100367023704113670",
+            "id": "tg-5100811514164543806",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5100367023704113670",
+                "id": "5100811514164543806",
                 "emoticons": [
-                    "😞"
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "🚫 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/b941b41d0efab17b82b03b2420056418ddade1271707820499632914432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192701,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b941b41d0efab17b82b03b2420056418ddade1271707820499632914432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192701,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5100386806323478934",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5100386806323478934",
+                "emoticons": [
+                    "🚫"
+                ]
+            }
+        },
+        {
+            "body": "⚾ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/e314b0032f919b272ca20469a810265800d6cafb1707820498362040320",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188260,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e314b0032f919b272ca20469a810265800d6cafb1707820498362040320",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188260,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956409950554292822",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4956409950554292822",
+                "emoticons": [
+                    "⚾",
+                    "🧢"
+                ]
+            }
+        },
+        {
+            "body": "😎 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/e81a179b1fcecbdfcff5b991cdd2e61beaf5a71c1707820483568730112",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 176725,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e81a179b1fcecbdfcff5b991cdd2e61beaf5a71c1707820483568730112",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 176725,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5100692788383580681",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5100692788383580681",
+                "emoticons": [
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "🔥 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/c6d0f097408267b422adadf67be75483c0cd406b1707820495853846528",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 198646,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c6d0f097408267b422adadf67be75483c0cd406b1707820495853846528",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 198646,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4956578373401838104",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4956578373401838104",
+                "emoticons": [
+                    "🔥"
+                ]
+            }
+        },
+        {
+            "body": "☄️ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/f9d28b27d08e6389e90e3fbfed4f8f37a2750a6d1707820477960945664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 162904,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f9d28b27d08e6389e90e3fbfed4f8f37a2750a6d1707820477960945664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 162904,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4922888413708812954",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4922888413708812954",
+                "emoticons": [
+                    "☄"
                 ]
             }
         },
@@ -1167,60 +1342,31 @@
             }
         },
         {
-            "body": "😡 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/9314c4755e8cf426dfcc16be7624209e5be4456c1707820483577118720",
+            "body": "🙄 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0c2a09324f905857bda1c9adc1ff2b7c7fdc0ff01707820480204898304",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 168187,
+                "size": 159725,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9314c4755e8cf426dfcc16be7624209e5be4456c1707820483577118720",
+                "thumbnail_url": "mxc://matrix.chir.rs/0c2a09324f905857bda1c9adc1ff2b7c7fdc0ff01707820480204898304",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 168187,
+                    "size": 159725,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5095914710281224617",
+            "id": "tg-4956480667190821454",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5095914710281224617",
+                "id": "4956480667190821454",
                 "emoticons": [
-                    "😡"
-                ]
-            }
-        },
-        {
-            "body": "😎 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e81a179b1fcecbdfcff5b991cdd2e61beaf5a71c1707820483568730112",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 176725,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e81a179b1fcecbdfcff5b991cdd2e61beaf5a71c1707820483568730112",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 176725,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5100692788383580681",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5100692788383580681",
-                "emoticons": [
-                    "😎"
+                    "🙄"
                 ]
             }
         },
@@ -1255,31 +1401,89 @@
             }
         },
         {
-            "body": "⚰️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0bfc4f15f8eba97031733c8d8e6fb7b7cdce30991707820485078679553",
+            "body": "😵 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/a92e3c5e95aa06a59b90ea92e021c2f578b3ae2d1707820487838531584",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 186533,
+                "size": 112081,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0bfc4f15f8eba97031733c8d8e6fb7b7cdce30991707820485078679553",
+                "thumbnail_url": "mxc://matrix.chir.rs/a92e3c5e95aa06a59b90ea92e021c2f578b3ae2d1707820487838531584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 186533,
+                    "size": 112081,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5100471361344635386",
+            "id": "tg-4922612835722199472",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5100471361344635386",
+                "id": "4922612835722199472",
                 "emoticons": [
-                    "⚰"
+                    "😵"
+                ]
+            }
+        },
+        {
+            "body": "🐰 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/5ad37e738f3c85f7e7751ac593e9d2d7a6e4e1cf1707820490053124096",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 33007,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ad37e738f3c85f7e7751ac593e9d2d7a6e4e1cf1707820490053124096",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 33007,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4979227514070106876",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4979227514070106876",
+                "emoticons": [
+                    "🐰"
+                ]
+            }
+        },
+        {
+            "body": "🐰 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/2b3c5a9eb2878cd5ec0e8c4594062917e5bf08f91707820510827511808",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185736,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2b3c5a9eb2878cd5ec0e8c4594062917e5bf08f91707820510827511808",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185736,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4972069817927336455",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4972069817927336455",
+                "emoticons": [
+                    "🐰"
                 ]
             }
         },
@@ -1313,6 +1517,93 @@
             }
         },
         {
+            "body": "⚰️ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0bfc4f15f8eba97031733c8d8e6fb7b7cdce30991707820485078679553",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186533,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0bfc4f15f8eba97031733c8d8e6fb7b7cdce30991707820485078679553",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186533,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5100471361344635386",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5100471361344635386",
+                "emoticons": [
+                    "⚰"
+                ]
+            }
+        },
+        {
+            "body": "☑️ (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/b0174f3cf9d93d5c2824a0bd2164eaa037b9cdfd1707820475549220864",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 194193,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b0174f3cf9d93d5c2824a0bd2164eaa037b9cdfd1707820475549220864",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 194193,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5100381716787233174",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5100381716787233174",
+                "emoticons": [
+                    "☑"
+                ]
+            }
+        },
+        {
+            "body": "🧐 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/5062362a502cc22cdaf8870a71818165b57cf4791707820493651836928",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 121914,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5062362a502cc22cdaf8870a71818165b57cf4791707820493651836928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 121914,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5071076115544539778",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5071076115544539778",
+                "emoticons": [
+                    "🧐"
+                ]
+            }
+        },
+        {
             "body": "🐰 (Slick's Sticks)",
             "url": "mxc://matrix.chir.rs/6e0cd1f280d3eab4705086b3e34a404c6ce980491707820486471188480",
             "info": {
@@ -1336,93 +1627,6 @@
                     "short_name": "slicksticks"
                 },
                 "id": "4956229901230276979",
-                "emoticons": [
-                    "🐰"
-                ]
-            }
-        },
-        {
-            "body": "😵 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a92e3c5e95aa06a59b90ea92e021c2f578b3ae2d1707820487838531584",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 112081,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a92e3c5e95aa06a59b90ea92e021c2f578b3ae2d1707820487838531584",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 112081,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4922612835722199472",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4922612835722199472",
-                "emoticons": [
-                    "😵"
-                ]
-            }
-        },
-        {
-            "body": "🌈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ef527334f09cf871f549fa9ad4ae339aa81812081707820488014692352",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 219943,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ef527334f09cf871f549fa9ad4ae339aa81812081707820488014692352",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 219943,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5059965859783508377",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5059965859783508377",
-                "emoticons": [
-                    "🌈"
-                ]
-            }
-        },
-        {
-            "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/5ad37e738f3c85f7e7751ac593e9d2d7a6e4e1cf1707820490053124096",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 33007,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5ad37e738f3c85f7e7751ac593e9d2d7a6e4e1cf1707820490053124096",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 33007,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4979227514070106876",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4979227514070106876",
                 "emoticons": [
                     "🐰"
                 ]
@@ -1458,89 +1662,31 @@
             }
         },
         {
-            "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0f6818480c1e7d369b9764eec88705c6fc97c5591707820491835703296",
+            "body": "😻 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/f1859ed7db77ed220a63b8fdcb275cf27940684a1707820530784010240",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 8736,
+                "size": 217519,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0f6818480c1e7d369b9764eec88705c6fc97c5591707820491835703296",
+                "thumbnail_url": "mxc://matrix.chir.rs/f1859ed7db77ed220a63b8fdcb275cf27940684a1707820530784010240",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 8736,
+                    "size": 217519,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4972194758525977247",
+            "id": "tg-5071601231131050463",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4972194758525977247",
+                "id": "5071601231131050463",
                 "emoticons": [
-                    "🐰"
-                ]
-            }
-        },
-        {
-            "body": "🤨 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/5cf10c5a46e9e809a06d4ef5da8189fae53e20751707820492171247616",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 139744,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5cf10c5a46e9e809a06d4ef5da8189fae53e20751707820492171247616",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 139744,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5069123425843282524",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5069123425843282524",
-                "emoticons": [
-                    "🤨"
-                ]
-            }
-        },
-        {
-            "body": "🤷 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/11c740d04c4fe2f7cf778ee8940d704a98db86c41707820493832192000",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184281,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/11c740d04c4fe2f7cf778ee8940d704a98db86c41707820493832192000",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184281,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5060216557024575983",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5060216557024575983",
-                "emoticons": [
-                    "🤷"
+                    "😻"
                 ]
             }
         },
@@ -1574,35 +1720,6 @@
             }
         },
         {
-            "body": "🧐 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/5062362a502cc22cdaf8870a71818165b57cf4791707820493651836928",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 121914,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5062362a502cc22cdaf8870a71818165b57cf4791707820493651836928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 121914,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5071076115544539778",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5071076115544539778",
-                "emoticons": [
-                    "🧐"
-                ]
-            }
-        },
-        {
             "body": "👎 (Slick's Sticks)",
             "url": "mxc://matrix.chir.rs/5f16f2a26013b4a8d121ab5927ce35ff823bef831707820494746550272",
             "info": {
@@ -1628,35 +1745,6 @@
                 "id": "5068905623756734963",
                 "emoticons": [
                     "👎"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/c6d0f097408267b422adadf67be75483c0cd406b1707820495853846528",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 198646,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c6d0f097408267b422adadf67be75483c0cd406b1707820495853846528",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 198646,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4956578373401838104",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4956578373401838104",
-                "emoticons": [
-                    "🔥"
                 ]
             }
         },
@@ -1690,32 +1778,60 @@
             }
         },
         {
-            "body": "⚾ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e314b0032f919b272ca20469a810265800d6cafb1707820498362040320",
+            "body": "🤨 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/5cf10c5a46e9e809a06d4ef5da8189fae53e20751707820492171247616",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 188260,
+                "size": 139744,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e314b0032f919b272ca20469a810265800d6cafb1707820498362040320",
+                "thumbnail_url": "mxc://matrix.chir.rs/5cf10c5a46e9e809a06d4ef5da8189fae53e20751707820492171247616",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 188260,
+                    "size": 139744,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4956409950554292822",
+            "id": "tg-5069123425843282524",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4956409950554292822",
+                "id": "5069123425843282524",
                 "emoticons": [
-                    "⚾",
-                    "🧢"
+                    "🤨"
+                ]
+            }
+        },
+        {
+            "body": "🐰 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0f6818480c1e7d369b9764eec88705c6fc97c5591707820491835703296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 8736,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0f6818480c1e7d369b9764eec88705c6fc97c5591707820491835703296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 8736,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4972194758525977247",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4972194758525977247",
+                "emoticons": [
+                    "🐰"
                 ]
             }
         },
@@ -1778,31 +1894,118 @@
             }
         },
         {
-            "body": "🚫 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b941b41d0efab17b82b03b2420056418ddade1271707820499632914432",
+            "body": "🔇 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/bbc59d0ae943ddb7562cec582548f9ddc3c3e04e1707820521015476224",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 192701,
+                "size": 189064,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b941b41d0efab17b82b03b2420056418ddade1271707820499632914432",
+                "thumbnail_url": "mxc://matrix.chir.rs/bbc59d0ae943ddb7562cec582548f9ddc3c3e04e1707820521015476224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 192701,
+                    "size": 189064,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5100386806323478934",
+            "id": "tg-5071538528903496222",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5100386806323478934",
+                "id": "5071538528903496222",
                 "emoticons": [
-                    "🚫"
+                    "🔇"
+                ]
+            }
+        },
+        {
+            "body": "🥵 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/8a085e2424a975d567bd5fc307cfe76e52b4c94b1707820527315320832",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192456,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8a085e2424a975d567bd5fc307cfe76e52b4c94b1707820527315320832",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192456,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5089563304053965379",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5089563304053965379",
+                "emoticons": [
+                    "🥵"
+                ]
+            }
+        },
+        {
+            "body": "🍿 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/a8a3fac70a6f3d60e5dd4300e474657ca153da471707820511746064384",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 178306,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a8a3fac70a6f3d60e5dd4300e474657ca153da471707820511746064384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 178306,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4900320843059430005",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4900320843059430005",
+                "emoticons": [
+                    "🍿"
+                ]
+            }
+        },
+        {
+            "body": "😐 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/eb29c87a239021866264f3e4e62e65534ca515751707820504997429248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 153595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb29c87a239021866264f3e4e62e65534ca515751707820504997429248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 153595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4900167216374219315",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4900167216374219315",
+                "emoticons": [
+                    "😐"
                 ]
             }
         },
@@ -1836,31 +2039,60 @@
             }
         },
         {
-            "body": "😉 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/dacc3c1c8c9f36fa6bb892528320f122d5604b871707820502434709504",
+            "body": "🫓 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/f45677670802328cfb96bb6811b91b0b6703313f1707820519333560320",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 193105,
+                "size": 148537,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dacc3c1c8c9f36fa6bb892528320f122d5604b871707820502434709504",
+                "thumbnail_url": "mxc://matrix.chir.rs/f45677670802328cfb96bb6811b91b0b6703313f1707820519333560320",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 193105,
+                    "size": 148537,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5185962096960995727",
+            "id": "tg-5186330373226758635",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5185962096960995727",
+                "id": "5186330373226758635",
                 "emoticons": [
-                    "😉"
+                    "🫓"
+                ]
+            }
+        },
+        {
+            "body": "🤩 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/24abd90e3fc876e7ae0705e4fdc1f005540a3f661707820508289957888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188833,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/24abd90e3fc876e7ae0705e4fdc1f005540a3f661707820508289957888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188833,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5186091293872226790",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5186091293872226790",
+                "emoticons": [
+                    "🤩"
                 ]
             }
         },
@@ -1894,60 +2126,234 @@
             }
         },
         {
-            "body": "📸 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/c068fd66bd30395e72af5c896b683cb2df4930211707820502988357632",
+            "body": "😱 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/e0f96f39b9770c52ec51bc11d372b536c7c096fd1707820506465435648",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 180313,
+                "size": 241093,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c068fd66bd30395e72af5c896b683cb2df4930211707820502988357632",
+                "thumbnail_url": "mxc://matrix.chir.rs/e0f96f39b9770c52ec51bc11d372b536c7c096fd1707820506465435648",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 180313,
+                    "size": 241093,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5062161086287970761",
+            "id": "tg-4900310517958050506",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5062161086287970761",
+                "id": "4900310517958050506",
                 "emoticons": [
-                    "📸"
+                    "😱"
                 ]
             }
         },
         {
-            "body": "😐 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/eb29c87a239021866264f3e4e62e65534ca515751707820504997429248",
+            "body": "😉 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/dacc3c1c8c9f36fa6bb892528320f122d5604b871707820502434709504",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 153595,
+                "size": 193105,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb29c87a239021866264f3e4e62e65534ca515751707820504997429248",
+                "thumbnail_url": "mxc://matrix.chir.rs/dacc3c1c8c9f36fa6bb892528320f122d5604b871707820502434709504",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 153595,
+                    "size": 193105,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4900167216374219315",
+            "id": "tg-5185962096960995727",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4900167216374219315",
+                "id": "5185962096960995727",
                 "emoticons": [
-                    "😐"
+                    "😉"
+                ]
+            }
+        },
+        {
+            "body": "👈 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/27191d585e75dce767213fc57d1cb132ead2e8041707820510345166848",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209715,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/27191d585e75dce767213fc57d1cb132ead2e8041707820510345166848",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209715,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5032930900376027963",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5032930900376027963",
+                "emoticons": [
+                    "👈"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/f04cd4ddece56f5a059b35be00730b123ff9a9b41707820506415104000",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224791,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f04cd4ddece56f5a059b35be00730b123ff9a9b41707820506415104000",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224791,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5186000077356794671",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5186000077356794671",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😨 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/64649002a454dd99c533c9a5b9b1b772917d32d11707820507509817344",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190585,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/64649002a454dd99c533c9a5b9b1b772917d32d11707820507509817344",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190585,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4900212554048995872",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4900212554048995872",
+                "emoticons": [
+                    "😨"
+                ]
+            }
+        },
+        {
+            "body": "😾 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/f053d17627be513e9252e6f9340e6dc441489f7e1707820531996164096",
+            "info": {
+                "w": 216,
+                "h": 256,
+                "size": 206510,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f053d17627be513e9252e6f9340e6dc441489f7e1707820531996164096",
+                "thumbnail_info": {
+                    "w": 216,
+                    "h": 256,
+                    "size": 206510,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4918458842137756343",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4918458842137756343",
+                "emoticons": [
+                    "😾"
+                ]
+            }
+        },
+        {
+            "body": "😤 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/a305950e48be510bc62d92e6a613e68bded576221707820512891109376",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 229909,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a305950e48be510bc62d92e6a613e68bded576221707820512891109376",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 229909,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4918078458359186168",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4918078458359186168",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/f41bec73182e60acba2a3a3a4ecfe91323adb6fa1707820515059564544",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 165774,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f41bec73182e60acba2a3a3a4ecfe91323adb6fa1707820515059564544",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 165774,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4915741351905067652",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4915741351905067652",
+                "emoticons": [
+                    "😳"
                 ]
             }
         },
@@ -1982,88 +2388,30 @@
         },
         {
             "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f04cd4ddece56f5a059b35be00730b123ff9a9b41707820506415104000",
+            "url": "mxc://matrix.chir.rs/6427872d83aff5522975b5f6abeb1cf0afb33f8f1707820517597118464",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 224791,
+                "size": 165416,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f04cd4ddece56f5a059b35be00730b123ff9a9b41707820506415104000",
+                "thumbnail_url": "mxc://matrix.chir.rs/6427872d83aff5522975b5f6abeb1cf0afb33f8f1707820517597118464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 224791,
+                    "size": 165416,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5186000077356794671",
+            "id": "tg-4915879954794677044",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5186000077356794671",
+                "id": "4915879954794677044",
                 "emoticons": [
                     "😳"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e0f96f39b9770c52ec51bc11d372b536c7c096fd1707820506465435648",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 241093,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e0f96f39b9770c52ec51bc11d372b536c7c096fd1707820506465435648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 241093,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4900310517958050506",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4900310517958050506",
-                "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "😨 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/64649002a454dd99c533c9a5b9b1b772917d32d11707820507509817344",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190585,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/64649002a454dd99c533c9a5b9b1b772917d32d11707820507509817344",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190585,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4900212554048995872",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4900212554048995872",
-                "emoticons": [
-                    "😨"
                 ]
             }
         },
@@ -2097,234 +2445,60 @@
             }
         },
         {
-            "body": "🤩 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/24abd90e3fc876e7ae0705e4fdc1f005540a3f661707820508289957888",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 188833,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/24abd90e3fc876e7ae0705e4fdc1f005540a3f661707820508289957888",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 188833,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5186091293872226790",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5186091293872226790",
-                "emoticons": [
-                    "🤩"
-                ]
-            }
-        },
-        {
-            "body": "👈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/27191d585e75dce767213fc57d1cb132ead2e8041707820510345166848",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209715,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/27191d585e75dce767213fc57d1cb132ead2e8041707820510345166848",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209715,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5032930900376027963",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5032930900376027963",
-                "emoticons": [
-                    "👈"
-                ]
-            }
-        },
-        {
-            "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/2b3c5a9eb2878cd5ec0e8c4594062917e5bf08f91707820510827511808",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 185736,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2b3c5a9eb2878cd5ec0e8c4594062917e5bf08f91707820510827511808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 185736,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4972069817927336455",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4972069817927336455",
-                "emoticons": [
-                    "🐰"
-                ]
-            }
-        },
-        {
-            "body": "🍿 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a8a3fac70a6f3d60e5dd4300e474657ca153da471707820511746064384",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 178306,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a8a3fac70a6f3d60e5dd4300e474657ca153da471707820511746064384",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 178306,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4900320843059430005",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4900320843059430005",
-                "emoticons": [
-                    "🍿"
-                ]
-            }
-        },
-        {
-            "body": "🐈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/3cdc5fe151e49df6e9d5b89a1367240e5a3563cb1707820513197293568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 155138,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3cdc5fe151e49df6e9d5b89a1367240e5a3563cb1707820513197293568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 155138,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5165696886480306690",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5165696886480306690",
-                "emoticons": [
-                    "🐈"
-                ]
-            }
-        },
-        {
-            "body": "😤 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a305950e48be510bc62d92e6a613e68bded576221707820512891109376",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 229909,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a305950e48be510bc62d92e6a613e68bded576221707820512891109376",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 229909,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4918078458359186168",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4918078458359186168",
-                "emoticons": [
-                    "😤"
-                ]
-            }
-        },
-        {
-            "body": "🙀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4b0f39faf74202708b0a1a7f2d277937b035fba51707820514791129088",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 198429,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b0f39faf74202708b0a1a7f2d277937b035fba51707820514791129088",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 198429,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4918051232561496768",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4918051232561496768",
-                "emoticons": [
-                    "🙀"
-                ]
-            }
-        },
-        {
             "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f41bec73182e60acba2a3a3a4ecfe91323adb6fa1707820515059564544",
+            "url": "mxc://matrix.chir.rs/be3ee7cdff1678c1672ab8cc6d12570ddcf0493b1707820519878819840",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 165774,
+                "size": 203839,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f41bec73182e60acba2a3a3a4ecfe91323adb6fa1707820515059564544",
+                "thumbnail_url": "mxc://matrix.chir.rs/be3ee7cdff1678c1672ab8cc6d12570ddcf0493b1707820519878819840",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 165774,
+                    "size": 203839,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4915741351905067652",
+            "id": "tg-4918230491611529809",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4915741351905067652",
+                "id": "4918230491611529809",
                 "emoticons": [
                     "😳"
+                ]
+            }
+        },
+        {
+            "body": "🍆 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0b4710ab4ca480c4bbd2e58804890ca42a84dc2b1707820522508648448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 172649,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0b4710ab4ca480c4bbd2e58804890ca42a84dc2b1707820522508648448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 172649,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5186254395255292474",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5186254395255292474",
+                "emoticons": [
+                    "🍆"
                 ]
             }
         },
@@ -2358,60 +2532,60 @@
             }
         },
         {
-            "body": "😁 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4be9cc1cdf007042d5de71e528529df16047b8561707820516519182336",
+            "body": "🐈 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/3cdc5fe151e49df6e9d5b89a1367240e5a3563cb1707820513197293568",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 171473,
+                "size": 155138,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4be9cc1cdf007042d5de71e528529df16047b8561707820516519182336",
+                "thumbnail_url": "mxc://matrix.chir.rs/3cdc5fe151e49df6e9d5b89a1367240e5a3563cb1707820513197293568",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 171473,
+                    "size": 155138,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4918119350742811224",
+            "id": "tg-5165696886480306690",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4918119350742811224",
+                "id": "5165696886480306690",
                 "emoticons": [
-                    "😁"
+                    "🐈"
                 ]
             }
         },
         {
-            "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/6427872d83aff5522975b5f6abeb1cf0afb33f8f1707820517597118464",
+            "body": "🩲 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/cbb3f6a91b22043387c2d1324298294fe8f6792e1707820529123065856",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 165416,
+                "size": 176070,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6427872d83aff5522975b5f6abeb1cf0afb33f8f1707820517597118464",
+                "thumbnail_url": "mxc://matrix.chir.rs/cbb3f6a91b22043387c2d1324298294fe8f6792e1707820529123065856",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 165416,
+                    "size": 176070,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4915879954794677044",
+            "id": "tg-5023775984311075645",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4915879954794677044",
+                "id": "5023775984311075645",
                 "emoticons": [
-                    "😳"
+                    "🩲"
                 ]
             }
         },
@@ -2439,122 +2613,6 @@
                     "short_name": "slicksticks"
                 },
                 "id": "5024090174053679842",
-                "emoticons": [
-                    "🍆"
-                ]
-            }
-        },
-        {
-            "body": "🫓 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f45677670802328cfb96bb6811b91b0b6703313f1707820519333560320",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 148537,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f45677670802328cfb96bb6811b91b0b6703313f1707820519333560320",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 148537,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5186330373226758635",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5186330373226758635",
-                "emoticons": [
-                    "🫓"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/be3ee7cdff1678c1672ab8cc6d12570ddcf0493b1707820519878819840",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 203839,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be3ee7cdff1678c1672ab8cc6d12570ddcf0493b1707820519878819840",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 203839,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4918230491611529809",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4918230491611529809",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "🔇 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/bbc59d0ae943ddb7562cec582548f9ddc3c3e04e1707820521015476224",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189064,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bbc59d0ae943ddb7562cec582548f9ddc3c3e04e1707820521015476224",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189064,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5071538528903496222",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5071538528903496222",
-                "emoticons": [
-                    "🔇"
-                ]
-            }
-        },
-        {
-            "body": "🍆 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0b4710ab4ca480c4bbd2e58804890ca42a84dc2b1707820522508648448",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172649,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0b4710ab4ca480c4bbd2e58804890ca42a84dc2b1707820522508648448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172649,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5186254395255292474",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5186254395255292474",
                 "emoticons": [
                     "🍆"
                 ]
@@ -2590,59 +2648,87 @@
             }
         },
         {
-            "body": "🥛 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/51ea5a08ed7eca71ba7ed993c630b99f6693f9921707820523678859264",
+            "body": "🙀 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/4b0f39faf74202708b0a1a7f2d277937b035fba51707820514791129088",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 170365,
+                "size": 198429,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/51ea5a08ed7eca71ba7ed993c630b99f6693f9921707820523678859264",
+                "thumbnail_url": "mxc://matrix.chir.rs/4b0f39faf74202708b0a1a7f2d277937b035fba51707820514791129088",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 170365,
+                    "size": 198429,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5021855266346369695",
+            "id": "tg-4918051232561496768",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5021855266346369695",
+                "id": "4918051232561496768",
                 "emoticons": [
-                    "🍆",
-                    "🥛"
+                    "🙀"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/6ebe2603e0c201de02d08941899744a6380ed10d1707820534290448384",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167411,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6ebe2603e0c201de02d08941899744a6380ed10d1707820534290448384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167411,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4916230617399558836",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4916230617399558836",
+                "emoticons": [
+                    "🤔"
                 ]
             }
         },
         {
             "body": "🍆 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/67715665acd4772ff789390bb32a3c0c041af7711707820525637599232",
+            "url": "mxc://matrix.chir.rs/4e37cbfa78d067398e3e6f8d74cd2fab93ea79391707820525486604288",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 169270,
+                "size": 214483,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/67715665acd4772ff789390bb32a3c0c041af7711707820525637599232",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e37cbfa78d067398e3e6f8d74cd2fab93ea79391707820525486604288",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 169270,
+                    "size": 214483,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4900401184717668965",
+            "id": "tg-4899963080873607703",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4900401184717668965",
+                "id": "4899963080873607703",
                 "emoticons": [
                     "🍆"
                 ]
@@ -2678,151 +2764,6 @@
             }
         },
         {
-            "body": "🍆 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4e37cbfa78d067398e3e6f8d74cd2fab93ea79391707820525486604288",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214483,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e37cbfa78d067398e3e6f8d74cd2fab93ea79391707820525486604288",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214483,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4899963080873607703",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4899963080873607703",
-                "emoticons": [
-                    "🍆"
-                ]
-            }
-        },
-        {
-            "body": "🥵 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/8a085e2424a975d567bd5fc307cfe76e52b4c94b1707820527315320832",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192456,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8a085e2424a975d567bd5fc307cfe76e52b4c94b1707820527315320832",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192456,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5089563304053965379",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5089563304053965379",
-                "emoticons": [
-                    "🥵"
-                ]
-            }
-        },
-        {
-            "body": "💀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e2aecee8e7f889f2608f5ad7e7744e705316d6d41707820527411789824",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 186456,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2aecee8e7f889f2608f5ad7e7744e705316d6d41707820527411789824",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 186456,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5165841321935503830",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5165841321935503830",
-                "emoticons": [
-                    "💀"
-                ]
-            }
-        },
-        {
-            "body": "🍆 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0e7b910e27b28f45a26589f2f7f4d8550fc67a611707820529060151296",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 194411,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0e7b910e27b28f45a26589f2f7f4d8550fc67a611707820529060151296",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 194411,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5021573387642733112",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5021573387642733112",
-                "emoticons": [
-                    "🍆"
-                ]
-            }
-        },
-        {
-            "body": "🩲 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/cbb3f6a91b22043387c2d1324298294fe8f6792e1707820529123065856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 176070,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cbb3f6a91b22043387c2d1324298294fe8f6792e1707820529123065856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 176070,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5023775984311075645",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "5023775984311075645",
-                "emoticons": [
-                    "🩲"
-                ]
-            }
-        },
-        {
             "body": "💀 (Slick's Sticks)",
             "url": "mxc://matrix.chir.rs/ef86f76f49e343f60051826bd74c388818c287dd1707820530536546304",
             "info": {
@@ -2852,60 +2793,32 @@
             }
         },
         {
-            "body": "😻 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f1859ed7db77ed220a63b8fdcb275cf27940684a1707820530784010240",
+            "body": "🥛 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/51ea5a08ed7eca71ba7ed993c630b99f6693f9921707820523678859264",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 217519,
+                "size": 170365,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f1859ed7db77ed220a63b8fdcb275cf27940684a1707820530784010240",
+                "thumbnail_url": "mxc://matrix.chir.rs/51ea5a08ed7eca71ba7ed993c630b99f6693f9921707820523678859264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 217519,
+                    "size": 170365,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5071601231131050463",
+            "id": "tg-5021855266346369695",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "5071601231131050463",
+                "id": "5021855266346369695",
                 "emoticons": [
-                    "😻"
-                ]
-            }
-        },
-        {
-            "body": "😾 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f053d17627be513e9252e6f9340e6dc441489f7e1707820531996164096",
-            "info": {
-                "w": 216,
-                "h": 256,
-                "size": 206510,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f053d17627be513e9252e6f9340e6dc441489f7e1707820531996164096",
-                "thumbnail_info": {
-                    "w": 216,
-                    "h": 256,
-                    "size": 206510,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4918458842137756343",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1641885561113280514",
-                    "short_name": "slicksticks"
-                },
-                "id": "4918458842137756343",
-                "emoticons": [
-                    "😾"
+                    "🍆",
+                    "🥛"
                 ]
             }
         },
@@ -2968,31 +2881,31 @@
             }
         },
         {
-            "body": "🤔 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/6ebe2603e0c201de02d08941899744a6380ed10d1707820534290448384",
+            "body": "🍆 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/67715665acd4772ff789390bb32a3c0c041af7711707820525637599232",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 167411,
+                "size": 169270,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6ebe2603e0c201de02d08941899744a6380ed10d1707820534290448384",
+                "thumbnail_url": "mxc://matrix.chir.rs/67715665acd4772ff789390bb32a3c0c041af7711707820525637599232",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 167411,
+                    "size": 169270,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4916230617399558836",
+            "id": "tg-4900401184717668965",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1641885561113280514",
                     "short_name": "slicksticks"
                 },
-                "id": "4916230617399558836",
+                "id": "4900401184717668965",
                 "emoticons": [
-                    "🤔"
+                    "🍆"
                 ]
             }
         },
@@ -3027,6 +2940,64 @@
         },
         {
             "body": "💀 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/e2aecee8e7f889f2608f5ad7e7744e705316d6d41707820527411789824",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186456,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e2aecee8e7f889f2608f5ad7e7744e705316d6d41707820527411789824",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186456,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5165841321935503830",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5165841321935503830",
+                "emoticons": [
+                    "💀"
+                ]
+            }
+        },
+        {
+            "body": "😁 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/4be9cc1cdf007042d5de71e528529df16047b8561707820516519182336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 171473,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4be9cc1cdf007042d5de71e528529df16047b8561707820516519182336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 171473,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4918119350742811224",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4918119350742811224",
+                "emoticons": [
+                    "😁"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Slick's Sticks)",
             "url": "mxc://matrix.chir.rs/db4892f418275d245697b90da2d31fba4d5ffd6f1707820537276792832",
             "info": {
                 "w": 256,
@@ -3051,6 +3022,35 @@
                 "id": "5166010870064480769",
                 "emoticons": [
                     "💀"
+                ]
+            }
+        },
+        {
+            "body": "🍆 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/0e7b910e27b28f45a26589f2f7f4d8550fc67a611707820529060151296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 194411,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0e7b910e27b28f45a26589f2f7f4d8550fc67a611707820529060151296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 194411,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5021573387642733112",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "5021573387642733112",
+                "emoticons": [
+                    "🍆"
                 ]
             }
         }

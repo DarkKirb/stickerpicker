@@ -7,35 +7,6 @@
     },
     "stickers": [
         {
-            "body": "👍 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/2a1e3a6d791d01f449e8b98177ff44f08e52c6f41707807986400886784",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 123670,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2a1e3a6d791d01f449e8b98177ff44f08e52c6f41707807986400886784",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 123670,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995526",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995526",
-                "emoticons": [
-                    "👍"
-                ]
-            }
-        },
-        {
             "body": "👌 (PonahPack)",
             "url": "mxc://matrix.chir.rs/9f407bca87f42f27115661cfbbcc87adcbacbc6c1707807989672443904",
             "info": {
@@ -61,35 +32,6 @@
                 "id": "1241421135396995455",
                 "emoticons": [
                     "👌"
-                ]
-            }
-        },
-        {
-            "body": "😒 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/93e3dc5cd2ad689a988facf0ac48c87eb0a1f5481707807989613723648",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 233845,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/93e3dc5cd2ad689a988facf0ac48c87eb0a1f5481707807989613723648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 233845,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995454",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995454",
-                "emoticons": [
-                    "😒"
                 ]
             }
         },
@@ -152,6 +94,35 @@
             }
         },
         {
+            "body": "👍 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/2a1e3a6d791d01f449e8b98177ff44f08e52c6f41707807986400886784",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 123670,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2a1e3a6d791d01f449e8b98177ff44f08e52c6f41707807986400886784",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 123670,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995526",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995526",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
             "body": "❤️ (PonahPack)",
             "url": "mxc://matrix.chir.rs/3caa7441ca36e7da9bae17b8e000260040f86c821707807998312710144",
             "info": {
@@ -175,6 +146,64 @@
                     "short_name": "PonahPack"
                 },
                 "id": "1241421135396995459",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "😒 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/93e3dc5cd2ad689a988facf0ac48c87eb0a1f5481707807989613723648",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 233845,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/93e3dc5cd2ad689a988facf0ac48c87eb0a1f5481707807989613723648",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 233845,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995454",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995454",
+                "emoticons": [
+                    "😒"
+                ]
+            }
+        },
+        {
+            "body": "❤️ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/8f08bb7bb2acfb782929a607e20122447915d9031707807993296322560",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211256,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8f08bb7bb2acfb782929a607e20122447915d9031707807993296322560",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211256,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995516",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995516",
                 "emoticons": [
                     "❤"
                 ]
@@ -210,31 +239,60 @@
             }
         },
         {
-            "body": "❤️ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/8f08bb7bb2acfb782929a607e20122447915d9031707807993296322560",
+            "body": "😘 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/b6378e6fdb22be3454d481f47a551474c7e76a111707807993292128256",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 211256,
+                "size": 238026,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8f08bb7bb2acfb782929a607e20122447915d9031707807993296322560",
+                "thumbnail_url": "mxc://matrix.chir.rs/b6378e6fdb22be3454d481f47a551474c7e76a111707807993292128256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 211256,
+                    "size": 238026,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995516",
+            "id": "tg-1241421135396995515",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995516",
+                "id": "1241421135396995515",
                 "emoticons": [
-                    "❤"
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "🗑 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/6d77e6bfaa2eb6a46fd19fce7e064c7d68ed5ea51707807991169810432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 286927,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6d77e6bfaa2eb6a46fd19fce7e064c7d68ed5ea51707807991169810432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 286927,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995458",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995458",
+                "emoticons": [
+                    "🗑"
                 ]
             }
         },
@@ -264,151 +322,6 @@
                 "id": "1241421135396995517",
                 "emoticons": [
                     "❤"
-                ]
-            }
-        },
-        {
-            "body": "😍 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/76871d40c69ea4e9a004fa7a2db71edf767906681707808010522329088",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 261568,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/76871d40c69ea4e9a004fa7a2db71edf767906681707808010522329088",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 261568,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995613",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995613",
-                "emoticons": [
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "🙃 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/6222bcb13aa89fe0db92417653da7c88612112821707807999373869056",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 216809,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6222bcb13aa89fe0db92417653da7c88612112821707807999373869056",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 216809,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995519",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995519",
-                "emoticons": [
-                    "🙃"
-                ]
-            }
-        },
-        {
-            "body": "😥 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/5c4ce144249c5407b7602cfbe93da4cacc2ab9d41707808004746772480",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191112,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5c4ce144249c5407b7602cfbe93da4cacc2ab9d41707808004746772480",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191112,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995591",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995591",
-                "emoticons": [
-                    "😥"
-                ]
-            }
-        },
-        {
-            "body": "☠️ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/37b89e4b5cd74d9e2142fb0ed59d25e76dd647471707808002104360960",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 193759,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/37b89e4b5cd74d9e2142fb0ed59d25e76dd647471707808002104360960",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 193759,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995520",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995520",
-                "emoticons": [
-                    "☠"
-                ]
-            }
-        },
-        {
-            "body": "😘 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/b6378e6fdb22be3454d481f47a551474c7e76a111707807993292128256",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 238026,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6378e6fdb22be3454d481f47a551474c7e76a111707807993292128256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 238026,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995515",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995515",
-                "emoticons": [
-                    "😘"
                 ]
             }
         },
@@ -471,31 +384,147 @@
             }
         },
         {
-            "body": "😠 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/7cad5a3082ed992d4a85d4538b018d29acdfb4da1707808007384989696",
+            "body": "☠️ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/37b89e4b5cd74d9e2142fb0ed59d25e76dd647471707808002104360960",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 204581,
+                "size": 193759,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7cad5a3082ed992d4a85d4538b018d29acdfb4da1707808007384989696",
+                "thumbnail_url": "mxc://matrix.chir.rs/37b89e4b5cd74d9e2142fb0ed59d25e76dd647471707808002104360960",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 204581,
+                    "size": 193759,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995525",
+            "id": "tg-1241421135396995520",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995525",
+                "id": "1241421135396995520",
                 "emoticons": [
-                    "😠"
+                    "☠"
+                ]
+            }
+        },
+        {
+            "body": "😞 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/bbe456186f7d10c8c94b10599f00874b1c9274a11707808000602800128",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188167,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bbe456186f7d10c8c94b10599f00874b1c9274a11707808000602800128",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188167,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995518",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995518",
+                "emoticons": [
+                    "😞"
+                ]
+            }
+        },
+        {
+            "body": "😥 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/5c4ce144249c5407b7602cfbe93da4cacc2ab9d41707808004746772480",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 191112,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5c4ce144249c5407b7602cfbe93da4cacc2ab9d41707808004746772480",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 191112,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995591",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995591",
+                "emoticons": [
+                    "😥"
+                ]
+            }
+        },
+        {
+            "body": "😤 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/8ef029770fa5be01be37d4da0b54d4ec516695771707808026452295680",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188718,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8ef029770fa5be01be37d4da0b54d4ec516695771707808026452295680",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188718,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995523",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995523",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "😒 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/9b0d4487038549b8f493ff706ca7db9bac25c22e1707808019657523200",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 162677,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9b0d4487038549b8f493ff706ca7db9bac25c22e1707808019657523200",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 162677,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995522",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995522",
+                "emoticons": [
+                    "😒"
                 ]
             }
         },
@@ -529,31 +558,89 @@
             }
         },
         {
-            "body": "😒 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/9b0d4487038549b8f493ff706ca7db9bac25c22e1707808019657523200",
+            "body": "😍 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/76871d40c69ea4e9a004fa7a2db71edf767906681707808010522329088",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 162677,
+                "size": 261568,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b0d4487038549b8f493ff706ca7db9bac25c22e1707808019657523200",
+                "thumbnail_url": "mxc://matrix.chir.rs/76871d40c69ea4e9a004fa7a2db71edf767906681707808010522329088",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 162677,
+                    "size": 261568,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995522",
+            "id": "tg-1241421135396995613",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995522",
+                "id": "1241421135396995613",
                 "emoticons": [
-                    "😒"
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🙃 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/6222bcb13aa89fe0db92417653da7c88612112821707807999373869056",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216809,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6222bcb13aa89fe0db92417653da7c88612112821707807999373869056",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216809,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995519",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995519",
+                "emoticons": [
+                    "🙃"
+                ]
+            }
+        },
+        {
+            "body": "🗑 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/e0d6182b226656fabbf50a20f0677847fdfae22b1707808007359823872",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 231139,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e0d6182b226656fabbf50a20f0677847fdfae22b1707808007359823872",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 231139,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995527",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995527",
+                "emoticons": [
+                    "🗑"
                 ]
             }
         },
@@ -588,59 +675,59 @@
         },
         {
             "body": "🗑 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/e0d6182b226656fabbf50a20f0677847fdfae22b1707808007359823872",
+            "url": "mxc://matrix.chir.rs/3245354be873a73ec4d39f7731b9adda0a264d3a1707808029002432512",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 231139,
+                "size": 233627,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e0d6182b226656fabbf50a20f0677847fdfae22b1707808007359823872",
+                "thumbnail_url": "mxc://matrix.chir.rs/3245354be873a73ec4d39f7731b9adda0a264d3a1707808029002432512",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 231139,
+                    "size": 233627,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995527",
+            "id": "tg-1241421135396995528",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995527",
+                "id": "1241421135396995528",
                 "emoticons": [
                     "🗑"
                 ]
             }
         },
         {
-            "body": "💰 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/a0c7ffef8526e9e7bbe60d24b5503b69731060921707808011424104448",
+            "body": "😠 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/7cad5a3082ed992d4a85d4538b018d29acdfb4da1707808007384989696",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 192947,
+                "size": 204581,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0c7ffef8526e9e7bbe60d24b5503b69731060921707808011424104448",
+                "thumbnail_url": "mxc://matrix.chir.rs/7cad5a3082ed992d4a85d4538b018d29acdfb4da1707808007384989696",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 192947,
+                    "size": 204581,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995530",
+            "id": "tg-1241421135396995525",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995530",
+                "id": "1241421135396995525",
                 "emoticons": [
-                    "💰"
+                    "😠"
                 ]
             }
         },
@@ -674,93 +761,6 @@
             }
         },
         {
-            "body": "🗑 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/6d77e6bfaa2eb6a46fd19fce7e064c7d68ed5ea51707807991169810432",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 286927,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6d77e6bfaa2eb6a46fd19fce7e064c7d68ed5ea51707807991169810432",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 286927,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995458",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995458",
-                "emoticons": [
-                    "🗑"
-                ]
-            }
-        },
-        {
-            "body": "😞 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/bbe456186f7d10c8c94b10599f00874b1c9274a11707808000602800128",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 188167,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bbe456186f7d10c8c94b10599f00874b1c9274a11707808000602800128",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 188167,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995518",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995518",
-                "emoticons": [
-                    "😞"
-                ]
-            }
-        },
-        {
-            "body": "😿 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/a4e5a7c534a46f2aacc6cccecfa0947dd83c1ff01707808012917276672",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 186886,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a4e5a7c534a46f2aacc6cccecfa0947dd83c1ff01707808012917276672",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 186886,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995533",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995533",
-                "emoticons": [
-                    "😿"
-                ]
-            }
-        },
-        {
             "body": "🌧 (PonahPack)",
             "url": "mxc://matrix.chir.rs/bada06c5021cc98d0a411bd10dad78467dc76a911707808013093437440",
             "info": {
@@ -786,6 +786,35 @@
                 "id": "1241421135396995532",
                 "emoticons": [
                     "🌧"
+                ]
+            }
+        },
+        {
+            "body": "🍆 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/d6cf65f0d06ebe9a5e230a7aaeab669b51c9fb831707808008861384704",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 232454,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d6cf65f0d06ebe9a5e230a7aaeab669b51c9fb831707808008861384704",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 232454,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995529",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995529",
+                "emoticons": [
+                    "🍆"
                 ]
             }
         },
@@ -819,31 +848,31 @@
             }
         },
         {
-            "body": "👐 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/543dcd10e5c65d62836fc9a90cb593dd3028fc0f1707808018336317440",
+            "body": "😿 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/a4e5a7c534a46f2aacc6cccecfa0947dd83c1ff01707808012917276672",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 234379,
+                "size": 186886,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/543dcd10e5c65d62836fc9a90cb593dd3028fc0f1707808018336317440",
+                "thumbnail_url": "mxc://matrix.chir.rs/a4e5a7c534a46f2aacc6cccecfa0947dd83c1ff01707808012917276672",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 234379,
+                    "size": 186886,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995589",
+            "id": "tg-1241421135396995533",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995589",
+                "id": "1241421135396995533",
                 "emoticons": [
-                    "👐"
+                    "😿"
                 ]
             }
         },
@@ -877,122 +906,6 @@
             }
         },
         {
-            "body": "😤 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/8ef029770fa5be01be37d4da0b54d4ec516695771707808026452295680",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 188718,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8ef029770fa5be01be37d4da0b54d4ec516695771707808026452295680",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 188718,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995523",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995523",
-                "emoticons": [
-                    "😤"
-                ]
-            }
-        },
-        {
-            "body": "👐 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/3104f15734a87771ad13e6cf61fb39627cc97b261707808013860995072",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 228003,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3104f15734a87771ad13e6cf61fb39627cc97b261707808013860995072",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 228003,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995590",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995590",
-                "emoticons": [
-                    "👐"
-                ]
-            }
-        },
-        {
-            "body": "🐮 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/a9523faab0ae62fe6f30c9a978e374414a6324721707808015555493888",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 193140,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a9523faab0ae62fe6f30c9a978e374414a6324721707808015555493888",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 193140,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995572",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995572",
-                "emoticons": [
-                    "🐮"
-                ]
-            }
-        },
-        {
-            "body": "🍣 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/1edcb9e7fde983f660368573abaabe56694bc3d41707808024602607616",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 201042,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1edcb9e7fde983f660368573abaabe56694bc3d41707808024602607616",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 201042,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995535",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995535",
-                "emoticons": [
-                    "🍣"
-                ]
-            }
-        },
-        {
             "body": "👮‍♀️ (PonahPack)",
             "url": "mxc://matrix.chir.rs/08ff439c6d579a9bde81dc5d74839a9e6f8feb151707808017778475008",
             "info": {
@@ -1022,31 +935,31 @@
             }
         },
         {
-            "body": "🍆 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/d6cf65f0d06ebe9a5e230a7aaeab669b51c9fb831707808008861384704",
+            "body": "🐮 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/a9523faab0ae62fe6f30c9a978e374414a6324721707808015555493888",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 232454,
+                "size": 193140,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d6cf65f0d06ebe9a5e230a7aaeab669b51c9fb831707808008861384704",
+                "thumbnail_url": "mxc://matrix.chir.rs/a9523faab0ae62fe6f30c9a978e374414a6324721707808015555493888",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 232454,
+                    "size": 193140,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995529",
+            "id": "tg-1241421135396995572",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995529",
+                "id": "1241421135396995572",
                 "emoticons": [
-                    "🍆"
+                    "🐮"
                 ]
             }
         },
@@ -1109,35 +1022,6 @@
             }
         },
         {
-            "body": "🔥 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/b855b8c3a6af5785a0749849b1b8501fd48c91991707808024757796864",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 239790,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b855b8c3a6af5785a0749849b1b8501fd48c91991707808024757796864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 239790,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995547",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995547",
-                "emoticons": [
-                    "🔥"
-                ]
-            }
-        },
-        {
             "body": "😉 (PonahPack)",
             "url": "mxc://matrix.chir.rs/804ac59b4b6a57c04428d2c2c4d4890987905b531707808019753992192",
             "info": {
@@ -1163,35 +1047,6 @@
                 "id": "1241421135396995575",
                 "emoticons": [
                     "😉"
-                ]
-            }
-        },
-        {
-            "body": "☹️ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/c13facdaeddf8783b803a2c0d80dda26bcfedb421707808022329294848",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 167783,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c13facdaeddf8783b803a2c0d80dda26bcfedb421707808022329294848",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 167783,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995543",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995543",
-                "emoticons": [
-                    "☹"
                 ]
             }
         },
@@ -1225,122 +1080,6 @@
             }
         },
         {
-            "body": "⚰️ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/8f91475b3047c853c3a3d3a620876afae882bd231707808039911817216",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 169107,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8f91475b3047c853c3a3d3a620876afae882bd231707808039911817216",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 169107,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995612",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995612",
-                "emoticons": [
-                    "⚰"
-                ]
-            }
-        },
-        {
-            "body": "🔥 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/30704c7c3f80deb725a6de7d997d1f1e686ee3e21707808052360511488",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 273683,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/30704c7c3f80deb725a6de7d997d1f1e686ee3e21707808052360511488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 273683,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995587",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995587",
-                "emoticons": [
-                    "🔥"
-                ]
-            }
-        },
-        {
-            "body": "🚪 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/e02466423e6357a81291a61543b4bfeddc47461c1707808030176837632",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 312544,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e02466423e6357a81291a61543b4bfeddc47461c1707808030176837632",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 312544,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995548",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995548",
-                "emoticons": [
-                    "🚪"
-                ]
-            }
-        },
-        {
-            "body": "👍 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/564cfd719b5d83f3ac2a2217a751a5a9211179241707808041597927424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191296,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/564cfd719b5d83f3ac2a2217a751a5a9211179241707808041597927424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191296,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995549",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995549",
-                "emoticons": [
-                    "👍"
-                ]
-            }
-        },
-        {
             "body": "😒 (PonahPack)",
             "url": "mxc://matrix.chir.rs/4e54d3e856adad89147695a0fca5b3b4dd9f04621707808031649038336",
             "info": {
@@ -1370,350 +1109,118 @@
             }
         },
         {
-            "body": "😩 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/2dfe843b6185b66f83d571451856eb9e5923fff01707808096522338304",
+            "body": "🍣 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/1edcb9e7fde983f660368573abaabe56694bc3d41707808024602607616",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 228333,
+                "size": 201042,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2dfe843b6185b66f83d571451856eb9e5923fff01707808096522338304",
+                "thumbnail_url": "mxc://matrix.chir.rs/1edcb9e7fde983f660368573abaabe56694bc3d41707808024602607616",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 228333,
+                    "size": 201042,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995544",
+            "id": "tg-1241421135396995535",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995544",
+                "id": "1241421135396995535",
                 "emoticons": [
-                    "😩"
+                    "🍣"
                 ]
             }
         },
         {
-            "body": "😰 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/de1361ae3eea6ae20d77f4b81a7992e38aa1933e1707808037361680384",
+            "body": "💰 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/a0c7ffef8526e9e7bbe60d24b5503b69731060921707808011424104448",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 194312,
+                "size": 192947,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/de1361ae3eea6ae20d77f4b81a7992e38aa1933e1707808037361680384",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0c7ffef8526e9e7bbe60d24b5503b69731060921707808011424104448",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 194312,
+                    "size": 192947,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995551",
+            "id": "tg-1241421135396995530",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995551",
+                "id": "1241421135396995530",
                 "emoticons": [
-                    "😰"
+                    "💰"
                 ]
             }
         },
         {
-            "body": "🗑 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/3245354be873a73ec4d39f7731b9adda0a264d3a1707808029002432512",
+            "body": "☹️ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/c13facdaeddf8783b803a2c0d80dda26bcfedb421707808022329294848",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 233627,
+                "size": 167783,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3245354be873a73ec4d39f7731b9adda0a264d3a1707808029002432512",
+                "thumbnail_url": "mxc://matrix.chir.rs/c13facdaeddf8783b803a2c0d80dda26bcfedb421707808022329294848",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 233627,
+                    "size": 167783,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995528",
+            "id": "tg-1241421135396995543",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995528",
+                "id": "1241421135396995543",
                 "emoticons": [
-                    "🗑"
+                    "☹"
                 ]
             }
         },
         {
-            "body": "👋 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/a452ff4b31c9e5a3ddc76c64c16ca26f11ea191d1707808042583588864",
+            "body": "👐 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/543dcd10e5c65d62836fc9a90cb593dd3028fc0f1707808018336317440",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 246182,
+                "size": 234379,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a452ff4b31c9e5a3ddc76c64c16ca26f11ea191d1707808042583588864",
+                "thumbnail_url": "mxc://matrix.chir.rs/543dcd10e5c65d62836fc9a90cb593dd3028fc0f1707808018336317440",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 246182,
+                    "size": 234379,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995595",
+            "id": "tg-1241421135396995589",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995595",
+                "id": "1241421135396995589",
                 "emoticons": [
-                    "👋"
-                ]
-            }
-        },
-        {
-            "body": "😠 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/c1eee70cdb728233d84ac840947a32116f393b541707808031678398464",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172451,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c1eee70cdb728233d84ac840947a32116f393b541707808031678398464",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172451,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995552",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995552",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "🤕 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/16aee7bee98ea940ffedb52b8c450d953dfc94f51707808038481559552",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 224049,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/16aee7bee98ea940ffedb52b8c450d953dfc94f51707808038481559552",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 224049,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995603",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995603",
-                "emoticons": [
-                    "🤕"
-                ]
-            }
-        },
-        {
-            "body": "😼 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/94e5265e3ec9eeadfa7367ca15d29c2dd64c55971707808034375335936",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 250557,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/94e5265e3ec9eeadfa7367ca15d29c2dd64c55971707808034375335936",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 250557,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995594",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995594",
-                "emoticons": [
-                    "😼"
-                ]
-            }
-        },
-        {
-            "body": "😉 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/dff44e1aa35761350f2dc12080905557c2dfa6e51707808035809787904",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166422,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dff44e1aa35761350f2dc12080905557c2dfa6e51707808035809787904",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166422,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995585",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995585",
-                "emoticons": [
-                    "😉"
-                ]
-            }
-        },
-        {
-            "body": "🔚 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/5eba8a7c782a721fa60388484ed6cb4a1728b03d1707808045305692161",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 181211,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5eba8a7c782a721fa60388484ed6cb4a1728b03d1707808045305692161",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 181211,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995596",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995596",
-                "emoticons": [
-                    "🔚"
-                ]
-            }
-        },
-        {
-            "body": "😄 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/57fcabfe42ac83f6ec3cade3a54f01a228a1f1961707808033414840320",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 187656,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/57fcabfe42ac83f6ec3cade3a54f01a228a1f1961707808033414840320",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 187656,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995616",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995616",
-                "emoticons": [
-                    "😄"
-                ]
-            }
-        },
-        {
-            "body": "👍 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/375f8b491a5c9a7168308e614c9933c50859ef5f1707808035864313856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 196386,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/375f8b491a5c9a7168308e614c9933c50859ef5f1707808035864313856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 196386,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995615",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995615",
-                "emoticons": [
-                    "👍"
-                ]
-            }
-        },
-        {
-            "body": "😉 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/11daab2b4ea95a4ba92a1530dad7c59de24390dd1707808033431617536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215574,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/11daab2b4ea95a4ba92a1530dad7c59de24390dd1707808033431617536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215574,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995553",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995553",
-                "emoticons": [
-                    "😉"
+                    "👐"
                 ]
             }
         },
@@ -1747,321 +1254,89 @@
             }
         },
         {
-            "body": "😰 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/00e76d01fc403c5083576cb3a4349f5566fd35e21707808045305692160",
+            "body": "🔥 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/b855b8c3a6af5785a0749849b1b8501fd48c91991707808024757796864",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 205818,
+                "size": 239790,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/00e76d01fc403c5083576cb3a4349f5566fd35e21707808045305692160",
+                "thumbnail_url": "mxc://matrix.chir.rs/b855b8c3a6af5785a0749849b1b8501fd48c91991707808024757796864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 205818,
+                    "size": 239790,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995557",
+            "id": "tg-1241421135396995547",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995557",
+                "id": "1241421135396995547",
                 "emoticons": [
-                    "😰"
+                    "🔥"
                 ]
             }
         },
         {
-            "body": "🤮 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/ea7d652177e0415b951330817d79dc5e5b0932811707808041736339456",
+            "body": "😩 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/2dfe843b6185b66f83d571451856eb9e5923fff01707808096522338304",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 199870,
+                "size": 228333,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ea7d652177e0415b951330817d79dc5e5b0932811707808041736339456",
+                "thumbnail_url": "mxc://matrix.chir.rs/2dfe843b6185b66f83d571451856eb9e5923fff01707808096522338304",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 199870,
+                    "size": 228333,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995643",
+            "id": "tg-1241421135396995544",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995643",
+                "id": "1241421135396995544",
                 "emoticons": [
-                    "🤮"
+                    "😩"
                 ]
             }
         },
         {
-            "body": "😍 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/c5143c5479dcf7d8a6d1ebdee750815c5f2f4f821707808046849196032",
+            "body": "🔥 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/30704c7c3f80deb725a6de7d997d1f1e686ee3e21707808052360511488",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 224978,
+                "size": 273683,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c5143c5479dcf7d8a6d1ebdee750815c5f2f4f821707808046849196032",
+                "thumbnail_url": "mxc://matrix.chir.rs/30704c7c3f80deb725a6de7d997d1f1e686ee3e21707808052360511488",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 224978,
+                    "size": 273683,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995555",
+            "id": "tg-1241421135396995587",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995555",
+                "id": "1241421135396995587",
                 "emoticons": [
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "☠️ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/96a968bef9e33b09cc162d0a9a385cfb83c223ea1707808049466441728",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214977,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/96a968bef9e33b09cc162d0a9a385cfb83c223ea1707808049466441728",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214977,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995556",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995556",
-                "emoticons": [
-                    "☠"
-                ]
-            }
-        },
-        {
-            "body": "😓 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/587282ef1a8dfccf10585f4757ef149509fb10b41707808037164548096",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 98392,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/587282ef1a8dfccf10585f4757ef149509fb10b41707808037164548096",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 98392,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995554",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995554",
-                "emoticons": [
-                    "😓"
-                ]
-            }
-        },
-        {
-            "body": "😴 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/6248d2a40c9c09b4849caef43ae92e9dc21db7431707808039077150720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 168173,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6248d2a40c9c09b4849caef43ae92e9dc21db7431707808039077150720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 168173,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995584",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995584",
-                "emoticons": [
-                    "😴"
-                ]
-            }
-        },
-        {
-            "body": "🗣 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/443cb73239366980d899bcf4f8ef14602f29f5ca1707808046421377024",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 278335,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/443cb73239366980d899bcf4f8ef14602f29f5ca1707808046421377024",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 278335,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995600",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995600",
-                "emoticons": [
-                    "🗣"
-                ]
-            }
-        },
-        {
-            "body": "🧸 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/1c22de6c41ccfd2b9e8e77eb63b88a81dfa2d1011707808052482146304",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206497,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1c22de6c41ccfd2b9e8e77eb63b88a81dfa2d1011707808052482146304",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206497,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995644",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995644",
-                "emoticons": [
-                    "🧸"
-                ]
-            }
-        },
-        {
-            "body": "😏 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/e1c1f78666a246eabebc8eab2a074aa4ee8b7cea1707808051114803200",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 159322,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e1c1f78666a246eabebc8eab2a074aa4ee8b7cea1707808051114803200",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 159322,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995574",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995574",
-                "emoticons": [
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "😤 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/8a25a9da042673e0311a24ca66a9b1c85b73363a1707808055988584448",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 71912,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8a25a9da042673e0311a24ca66a9b1c85b73363a1707808055988584448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 71912,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995581",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995581",
-                "emoticons": [
-                    "😤"
-                ]
-            }
-        },
-        {
-            "body": "🏠 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/68408f857343da102c882f2a0caa872a62014d751707808054264725504",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 202335,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/68408f857343da102c882f2a0caa872a62014d751707808054264725504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 202335,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995601",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995601",
-                "emoticons": [
-                    "🏠"
+                    "🔥"
                 ]
             }
         },
@@ -2095,6 +1370,673 @@
             }
         },
         {
+            "body": "👍 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/375f8b491a5c9a7168308e614c9933c50859ef5f1707808035864313856",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196386,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/375f8b491a5c9a7168308e614c9933c50859ef5f1707808035864313856",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196386,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995615",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995615",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "🤕 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/16aee7bee98ea940ffedb52b8c450d953dfc94f51707808038481559552",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224049,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/16aee7bee98ea940ffedb52b8c450d953dfc94f51707808038481559552",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224049,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995603",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995603",
+                "emoticons": [
+                    "🤕"
+                ]
+            }
+        },
+        {
+            "body": "😰 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/de1361ae3eea6ae20d77f4b81a7992e38aa1933e1707808037361680384",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 194312,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/de1361ae3eea6ae20d77f4b81a7992e38aa1933e1707808037361680384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 194312,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995551",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995551",
+                "emoticons": [
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "😼 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/94e5265e3ec9eeadfa7367ca15d29c2dd64c55971707808034375335936",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 250557,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/94e5265e3ec9eeadfa7367ca15d29c2dd64c55971707808034375335936",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 250557,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995594",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995594",
+                "emoticons": [
+                    "😼"
+                ]
+            }
+        },
+        {
+            "body": "👍 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/564cfd719b5d83f3ac2a2217a751a5a9211179241707808041597927424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 191296,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/564cfd719b5d83f3ac2a2217a751a5a9211179241707808041597927424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 191296,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995549",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995549",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "😠 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/c1eee70cdb728233d84ac840947a32116f393b541707808031678398464",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 172451,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c1eee70cdb728233d84ac840947a32116f393b541707808031678398464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 172451,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995552",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995552",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🚪 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/e02466423e6357a81291a61543b4bfeddc47461c1707808030176837632",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 312544,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e02466423e6357a81291a61543b4bfeddc47461c1707808030176837632",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 312544,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995548",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995548",
+                "emoticons": [
+                    "🚪"
+                ]
+            }
+        },
+        {
+            "body": "🔚 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/5eba8a7c782a721fa60388484ed6cb4a1728b03d1707808045305692161",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 181211,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5eba8a7c782a721fa60388484ed6cb4a1728b03d1707808045305692161",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 181211,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995596",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995596",
+                "emoticons": [
+                    "🔚"
+                ]
+            }
+        },
+        {
+            "body": "⚰️ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/8f91475b3047c853c3a3d3a620876afae882bd231707808039911817216",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 169107,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8f91475b3047c853c3a3d3a620876afae882bd231707808039911817216",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 169107,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995612",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995612",
+                "emoticons": [
+                    "⚰"
+                ]
+            }
+        },
+        {
+            "body": "😴 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/6248d2a40c9c09b4849caef43ae92e9dc21db7431707808039077150720",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 168173,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6248d2a40c9c09b4849caef43ae92e9dc21db7431707808039077150720",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 168173,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995584",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995584",
+                "emoticons": [
+                    "😴"
+                ]
+            }
+        },
+        {
+            "body": "😉 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/dff44e1aa35761350f2dc12080905557c2dfa6e51707808035809787904",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 166422,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/dff44e1aa35761350f2dc12080905557c2dfa6e51707808035809787904",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 166422,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995585",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995585",
+                "emoticons": [
+                    "😉"
+                ]
+            }
+        },
+        {
+            "body": "😉 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/11daab2b4ea95a4ba92a1530dad7c59de24390dd1707808033431617536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215574,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/11daab2b4ea95a4ba92a1530dad7c59de24390dd1707808033431617536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215574,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995553",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995553",
+                "emoticons": [
+                    "😉"
+                ]
+            }
+        },
+        {
+            "body": "😓 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/587282ef1a8dfccf10585f4757ef149509fb10b41707808037164548096",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 98392,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/587282ef1a8dfccf10585f4757ef149509fb10b41707808037164548096",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 98392,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995554",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995554",
+                "emoticons": [
+                    "😓"
+                ]
+            }
+        },
+        {
+            "body": "☠️ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/96a968bef9e33b09cc162d0a9a385cfb83c223ea1707808049466441728",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214977,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/96a968bef9e33b09cc162d0a9a385cfb83c223ea1707808049466441728",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214977,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995556",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995556",
+                "emoticons": [
+                    "☠"
+                ]
+            }
+        },
+        {
+            "body": "😰 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/00e76d01fc403c5083576cb3a4349f5566fd35e21707808045305692160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 205818,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/00e76d01fc403c5083576cb3a4349f5566fd35e21707808045305692160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 205818,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995557",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995557",
+                "emoticons": [
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "👐 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/3104f15734a87771ad13e6cf61fb39627cc97b261707808013860995072",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 228003,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3104f15734a87771ad13e6cf61fb39627cc97b261707808013860995072",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 228003,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995590",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995590",
+                "emoticons": [
+                    "👐"
+                ]
+            }
+        },
+        {
+            "body": "😏 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/e1c1f78666a246eabebc8eab2a074aa4ee8b7cea1707808051114803200",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159322,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e1c1f78666a246eabebc8eab2a074aa4ee8b7cea1707808051114803200",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159322,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995574",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995574",
+                "emoticons": [
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "😍 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/c5143c5479dcf7d8a6d1ebdee750815c5f2f4f821707808046849196032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 224978,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c5143c5479dcf7d8a6d1ebdee750815c5f2f4f821707808046849196032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 224978,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995555",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995555",
+                "emoticons": [
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🤮 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/ea7d652177e0415b951330817d79dc5e5b0932811707808041736339456",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199870,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ea7d652177e0415b951330817d79dc5e5b0932811707808041736339456",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199870,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995643",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995643",
+                "emoticons": [
+                    "🤮"
+                ]
+            }
+        },
+        {
+            "body": "👋 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/a452ff4b31c9e5a3ddc76c64c16ca26f11ea191d1707808042583588864",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 246182,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a452ff4b31c9e5a3ddc76c64c16ca26f11ea191d1707808042583588864",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 246182,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995595",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995595",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/45fd7940592dcffd2eb5830c4e3fce40c8377d0d1707808043388895232",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 295008,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/45fd7940592dcffd2eb5830c4e3fce40c8377d0d1707808043388895232",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 295008,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995588",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995588",
+                "emoticons": [
+                    "🙌"
+                ]
+            }
+        },
+        {
+            "body": "😤 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/8a25a9da042673e0311a24ca66a9b1c85b73363a1707808055988584448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 71912,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8a25a9da042673e0311a24ca66a9b1c85b73363a1707808055988584448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 71912,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995581",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995581",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "🧸 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/1c22de6c41ccfd2b9e8e77eb63b88a81dfa2d1011707808052482146304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206497,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1c22de6c41ccfd2b9e8e77eb63b88a81dfa2d1011707808052482146304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206497,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995644",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995644",
+                "emoticons": [
+                    "🧸"
+                ]
+            }
+        },
+        {
             "body": "😔 (PonahPack)",
             "url": "mxc://matrix.chir.rs/bb30d494f203608ab5af7aaa96803b75648d86661707808056890359808",
             "info": {
@@ -2124,60 +2066,60 @@
             }
         },
         {
-            "body": "😔 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/a2fc756bd26e3e179d0d6cd5c04c8fa70c62a73d1707808048594026496",
+            "body": "🏠 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/68408f857343da102c882f2a0caa872a62014d751707808054264725504",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 215212,
+                "size": 202335,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a2fc756bd26e3e179d0d6cd5c04c8fa70c62a73d1707808048594026496",
+                "thumbnail_url": "mxc://matrix.chir.rs/68408f857343da102c882f2a0caa872a62014d751707808054264725504",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 215212,
+                    "size": 202335,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995578",
+            "id": "tg-1241421135396995601",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995578",
+                "id": "1241421135396995601",
                 "emoticons": [
-                    "😔"
+                    "🏠"
                 ]
             }
         },
         {
-            "body": "😔 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/c937f1404ac02da3f322e53527a11d05187f48ed1707808050179473408",
+            "body": "😄 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/57fcabfe42ac83f6ec3cade3a54f01a228a1f1961707808033414840320",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 199310,
+                "size": 187656,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c937f1404ac02da3f322e53527a11d05187f48ed1707808050179473408",
+                "thumbnail_url": "mxc://matrix.chir.rs/57fcabfe42ac83f6ec3cade3a54f01a228a1f1961707808033414840320",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 199310,
+                    "size": 187656,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995579",
+            "id": "tg-1241421135396995616",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995579",
+                "id": "1241421135396995616",
                 "emoticons": [
-                    "😔"
+                    "😄"
                 ]
             }
         },
@@ -2212,30 +2154,117 @@
         },
         {
             "body": "😔 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/4e0351587423a8630823416e846a06077a90c6dc1707808048510140416",
+            "url": "mxc://matrix.chir.rs/c937f1404ac02da3f322e53527a11d05187f48ed1707808050179473408",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 199842,
+                "size": 199310,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4e0351587423a8630823416e846a06077a90c6dc1707808048510140416",
+                "thumbnail_url": "mxc://matrix.chir.rs/c937f1404ac02da3f322e53527a11d05187f48ed1707808050179473408",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 199842,
+                    "size": 199310,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995577",
+            "id": "tg-1241421135396995579",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995577",
+                "id": "1241421135396995579",
                 "emoticons": [
                     "😔"
+                ]
+            }
+        },
+        {
+            "body": "😆 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/e2a03e5d799dca55a608b6740cfc0cf64f1f467d1707808057808912384",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 169593,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e2a03e5d799dca55a608b6740cfc0cf64f1f467d1707808057808912384",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 169593,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995539",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995539",
+                "emoticons": [
+                    "😆"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/23440fa916ddc51af5332676365f375dc3be43151707808064184254464",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237479,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/23440fa916ddc51af5332676365f375dc3be43151707808064184254464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237479,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995493",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995493",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "😢 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/d3e2e834ca383795f459dc8d484b3854a12383971707808062015799296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 218552,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3e2e834ca383795f459dc8d484b3854a12383971707808062015799296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 218552,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995597",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995597",
+                "emoticons": [
+                    "😢"
                 ]
             }
         },
@@ -2298,31 +2327,118 @@
             }
         },
         {
-            "body": "😆 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/e2a03e5d799dca55a608b6740cfc0cf64f1f467d1707808057808912384",
+            "body": "😻 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/f5a991ed0511091d29eb675306269ce1076dd3c41707808058836516864",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 169593,
+                "size": 191147,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e2a03e5d799dca55a608b6740cfc0cf64f1f467d1707808057808912384",
+                "thumbnail_url": "mxc://matrix.chir.rs/f5a991ed0511091d29eb675306269ce1076dd3c41707808058836516864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 169593,
+                    "size": 191147,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995539",
+            "id": "tg-1241421135396995444",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995539",
+                "id": "1241421135396995444",
                 "emoticons": [
-                    "😆"
+                    "😻"
+                ]
+            }
+        },
+        {
+            "body": "😔 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/4e0351587423a8630823416e846a06077a90c6dc1707808048510140416",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199842,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4e0351587423a8630823416e846a06077a90c6dc1707808048510140416",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199842,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995577",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995577",
+                "emoticons": [
+                    "😔"
+                ]
+            }
+        },
+        {
+            "body": "🗣 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/443cb73239366980d899bcf4f8ef14602f29f5ca1707808046421377024",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 278335,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/443cb73239366980d899bcf4f8ef14602f29f5ca1707808046421377024",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 278335,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995600",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995600",
+                "emoticons": [
+                    "🗣"
+                ]
+            }
+        },
+        {
+            "body": "😔 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/a2fc756bd26e3e179d0d6cd5c04c8fa70c62a73d1707808048594026496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215212,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a2fc756bd26e3e179d0d6cd5c04c8fa70c62a73d1707808048594026496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215212,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995578",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995578",
+                "emoticons": [
+                    "😔"
                 ]
             }
         },
@@ -2356,205 +2472,31 @@
             }
         },
         {
-            "body": "😢 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/d3e2e834ca383795f459dc8d484b3854a12383971707808062015799296",
+            "body": "😸 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/bbb2f2a6ff6cad4f7eeecc587fb6f425455236421707808066075885568",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 218552,
+                "size": 184335,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d3e2e834ca383795f459dc8d484b3854a12383971707808062015799296",
+                "thumbnail_url": "mxc://matrix.chir.rs/bbb2f2a6ff6cad4f7eeecc587fb6f425455236421707808066075885568",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 218552,
+                    "size": 184335,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995597",
+            "id": "tg-1241421135396995448",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995597",
+                "id": "1241421135396995448",
                 "emoticons": [
-                    "😢"
-                ]
-            }
-        },
-        {
-            "body": "🤔 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/23440fa916ddc51af5332676365f375dc3be43151707808064184254464",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 237479,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/23440fa916ddc51af5332676365f375dc3be43151707808064184254464",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 237479,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995493",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995493",
-                "emoticons": [
-                    "🤔"
-                ]
-            }
-        },
-        {
-            "body": "😥 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/c180d3f1562d7e74ebc0357611e7ccc2bbda2dd21707808060115779584",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172294,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c180d3f1562d7e74ebc0357611e7ccc2bbda2dd21707808060115779584",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172294,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995445",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995445",
-                "emoticons": [
-                    "😥"
-                ]
-            }
-        },
-        {
-            "body": "🙌 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/45fd7940592dcffd2eb5830c4e3fce40c8377d0d1707808043388895232",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 295008,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/45fd7940592dcffd2eb5830c4e3fce40c8377d0d1707808043388895232",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 295008,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995588",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995588",
-                "emoticons": [
-                    "🙌"
-                ]
-            }
-        },
-        {
-            "body": "😻 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/f5a991ed0511091d29eb675306269ce1076dd3c41707808058836516864",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191147,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f5a991ed0511091d29eb675306269ce1076dd3c41707808058836516864",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191147,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995444",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995444",
-                "emoticons": [
-                    "😻"
-                ]
-            }
-        },
-        {
-            "body": "👈 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/be412e2142b96ddcfd55a008b6599aa3ab7254e31707808071721418752",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205325,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be412e2142b96ddcfd55a008b6599aa3ab7254e31707808071721418752",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205325,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995446",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995446",
-                "emoticons": [
-                    "👈"
-                ]
-            }
-        },
-        {
-            "body": "😵 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/7394e68118bbb6fb1cca7ef8417ea4c045f253641707808065123778560",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 246004,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7394e68118bbb6fb1cca7ef8417ea4c045f253641707808065123778560",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 246004,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995450",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995450",
-                "emoticons": [
-                    "😵"
+                    "😸"
                 ]
             }
         },
@@ -2588,205 +2530,31 @@
             }
         },
         {
-            "body": "😰 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/ea990e1b32d2ad3cf947bcf015365205b42bd1a51707808062015799297",
+            "body": "👈 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/be412e2142b96ddcfd55a008b6599aa3ab7254e31707808071721418752",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 175205,
+                "size": 205325,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ea990e1b32d2ad3cf947bcf015365205b42bd1a51707808062015799297",
+                "thumbnail_url": "mxc://matrix.chir.rs/be412e2142b96ddcfd55a008b6599aa3ab7254e31707808071721418752",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 175205,
+                    "size": 205325,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995449",
+            "id": "tg-1241421135396995446",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995449",
+                "id": "1241421135396995446",
                 "emoticons": [
-                    "😰"
-                ]
-            }
-        },
-        {
-            "body": "🇯🇵 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/6b5cb15a76501eba8ec25bda428e3dd55f87a4ed1707808063244730368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 276532,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6b5cb15a76501eba8ec25bda428e3dd55f87a4ed1707808063244730368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 276532,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995451",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995451",
-                "emoticons": [
-                    "🇯🇵"
-                ]
-            }
-        },
-        {
-            "body": "🕶 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/32e31504278dda874643e3059ff7f018835df9fe1707808066847637504",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 248481,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/32e31504278dda874643e3059ff7f018835df9fe1707808066847637504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 248481,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995452",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995452",
-                "emoticons": [
-                    "🕶"
-                ]
-            }
-        },
-        {
-            "body": "😜 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/5058b3bb482b958e2cce96f315de8964ca01647c1707808069783650304",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214219,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5058b3bb482b958e2cce96f315de8964ca01647c1707808069783650304",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214219,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995460",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995460",
-                "emoticons": [
-                    "😜"
-                ]
-            }
-        },
-        {
-            "body": "😸 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/bbb2f2a6ff6cad4f7eeecc587fb6f425455236421707808066075885568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184335,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bbb2f2a6ff6cad4f7eeecc587fb6f425455236421707808066075885568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184335,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995448",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995448",
-                "emoticons": [
-                    "😸"
-                ]
-            }
-        },
-        {
-            "body": "🥛 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/cd908ef0037215b7f1035b1188bb31add9b898961707808070081445888",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 221549,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cd908ef0037215b7f1035b1188bb31add9b898961707808070081445888",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 221549,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995462",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995462",
-                "emoticons": [
-                    "🥛"
-                ]
-            }
-        },
-        {
-            "body": "😭 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/1a97511ccf134dc6557d3e49df259cc3eb24af5b1707808071834664960",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 198721,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1a97511ccf134dc6557d3e49df259cc3eb24af5b1707808071834664960",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 198721,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995463",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995463",
-                "emoticons": [
-                    "😭"
+                    "👈"
                 ]
             }
         },
@@ -2820,31 +2588,118 @@
             }
         },
         {
-            "body": "👩‍🎨 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/77cafcbb4da10fca20f8fb6a10fc0b64df5abe251707808068047208448",
+            "body": "😰 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/ea990e1b32d2ad3cf947bcf015365205b42bd1a51707808062015799297",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 255597,
+                "size": 175205,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/77cafcbb4da10fca20f8fb6a10fc0b64df5abe251707808068047208448",
+                "thumbnail_url": "mxc://matrix.chir.rs/ea990e1b32d2ad3cf947bcf015365205b42bd1a51707808062015799297",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 255597,
+                    "size": 175205,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995480",
+            "id": "tg-1241421135396995449",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995480",
+                "id": "1241421135396995449",
                 "emoticons": [
-                    "👩‍🎨"
+                    "😰"
+                ]
+            }
+        },
+        {
+            "body": "😜 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/5058b3bb482b958e2cce96f315de8964ca01647c1707808069783650304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214219,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5058b3bb482b958e2cce96f315de8964ca01647c1707808069783650304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214219,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995460",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995460",
+                "emoticons": [
+                    "😜"
+                ]
+            }
+        },
+        {
+            "body": "🥛 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/cd908ef0037215b7f1035b1188bb31add9b898961707808070081445888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 221549,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cd908ef0037215b7f1035b1188bb31add9b898961707808070081445888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 221549,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995462",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995462",
+                "emoticons": [
+                    "🥛"
+                ]
+            }
+        },
+        {
+            "body": "😵 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/7394e68118bbb6fb1cca7ef8417ea4c045f253641707808065123778560",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 246004,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7394e68118bbb6fb1cca7ef8417ea4c045f253641707808065123778560",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 246004,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995450",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995450",
+                "emoticons": [
+                    "😵"
                 ]
             }
         },
@@ -2878,60 +2733,89 @@
             }
         },
         {
-            "body": "😎 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/746f14bd1360d2e28e4ce80203a0b9c1e47a73f41707808078545551360",
+            "body": "🤢 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/7440eb19d86bddf57f0babeb1f0ccf20535fa02a1707808074594516992",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 173424,
+                "size": 189007,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/746f14bd1360d2e28e4ce80203a0b9c1e47a73f41707808078545551360",
+                "thumbnail_url": "mxc://matrix.chir.rs/7440eb19d86bddf57f0babeb1f0ccf20535fa02a1707808074594516992",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 173424,
+                    "size": 189007,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995469",
+            "id": "tg-1241421135396995465",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995469",
+                "id": "1241421135396995465",
                 "emoticons": [
-                    "😎"
+                    "🤢"
                 ]
             }
         },
         {
-            "body": "😑 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/fe99b693e72ef14ceddc81dc7cc400918ef64fb01707808076788137984",
+            "body": "👩‍🎨 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/77cafcbb4da10fca20f8fb6a10fc0b64df5abe251707808068047208448",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 165958,
+                "size": 255597,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fe99b693e72ef14ceddc81dc7cc400918ef64fb01707808076788137984",
+                "thumbnail_url": "mxc://matrix.chir.rs/77cafcbb4da10fca20f8fb6a10fc0b64df5abe251707808068047208448",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 165958,
+                    "size": 255597,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995470",
+            "id": "tg-1241421135396995480",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995470",
+                "id": "1241421135396995480",
                 "emoticons": [
-                    "😑"
+                    "👩‍🎨"
+                ]
+            }
+        },
+        {
+            "body": "🕶 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/32e31504278dda874643e3059ff7f018835df9fe1707808066847637504",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 248481,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/32e31504278dda874643e3059ff7f018835df9fe1707808066847637504",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 248481,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995452",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995452",
+                "emoticons": [
+                    "🕶"
                 ]
             }
         },
@@ -2994,31 +2878,176 @@
             }
         },
         {
-            "body": "🤔 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/d39025b459db0a90456ad8db2f556e0373ca88511707808097281507328",
+            "body": "😎 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/746f14bd1360d2e28e4ce80203a0b9c1e47a73f41707808078545551360",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 197527,
+                "size": 173424,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d39025b459db0a90456ad8db2f556e0373ca88511707808097281507328",
+                "thumbnail_url": "mxc://matrix.chir.rs/746f14bd1360d2e28e4ce80203a0b9c1e47a73f41707808078545551360",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 197527,
+                    "size": 173424,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995472",
+            "id": "tg-1241421135396995469",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995472",
+                "id": "1241421135396995469",
                 "emoticons": [
-                    "🤔"
+                    "😎"
+                ]
+            }
+        },
+        {
+            "body": "😭 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/1a97511ccf134dc6557d3e49df259cc3eb24af5b1707808071834664960",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 198721,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1a97511ccf134dc6557d3e49df259cc3eb24af5b1707808071834664960",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 198721,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995463",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995463",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
+            "body": "😥 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/c180d3f1562d7e74ebc0357611e7ccc2bbda2dd21707808060115779584",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 172294,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c180d3f1562d7e74ebc0357611e7ccc2bbda2dd21707808060115779584",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 172294,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995445",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995445",
+                "emoticons": [
+                    "😥"
+                ]
+            }
+        },
+        {
+            "body": "🇯🇵 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/6b5cb15a76501eba8ec25bda428e3dd55f87a4ed1707808063244730368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 276532,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6b5cb15a76501eba8ec25bda428e3dd55f87a4ed1707808063244730368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 276532,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995451",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995451",
+                "emoticons": [
+                    "🇯🇵"
+                ]
+            }
+        },
+        {
+            "body": "😑 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/fe99b693e72ef14ceddc81dc7cc400918ef64fb01707808076788137984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 165958,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fe99b693e72ef14ceddc81dc7cc400918ef64fb01707808076788137984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 165958,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995470",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995470",
+                "emoticons": [
+                    "😑"
+                ]
+            }
+        },
+        {
+            "body": "🔪 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/2d4bc4e9dd8348b0be18b9de371fc059868b34031707808094395826176",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 203237,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2d4bc4e9dd8348b0be18b9de371fc059868b34031707808094395826176",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 203237,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995476",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995476",
+                "emoticons": [
+                    "🔪"
                 ]
             }
         },
@@ -3052,6 +3081,64 @@
             }
         },
         {
+            "body": "🔪 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/9b73647663d412d87610ac8c383fa715a84295271707808085361295360",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175978,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9b73647663d412d87610ac8c383fa715a84295271707808085361295360",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175978,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995475",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995475",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "☃ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/835702d05ef655c370830a4c8b448d23bdeb90551707808078482636800",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 213526,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/835702d05ef655c370830a4c8b448d23bdeb90551707808078482636800",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 213526,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995477",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995477",
+                "emoticons": [
+                    "☃"
+                ]
+            }
+        },
+        {
             "body": "😉 (PonahPack)",
             "url": "mxc://matrix.chir.rs/603629591cb99e62910539a9e7cd6fb12ba22eaa1707808080818864128",
             "info": {
@@ -3077,35 +3164,6 @@
                 "id": "1241421135396995471",
                 "emoticons": [
                     "😉"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/2d4bc4e9dd8348b0be18b9de371fc059868b34031707808094395826176",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 203237,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2d4bc4e9dd8348b0be18b9de371fc059868b34031707808094395826176",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 203237,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995476",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995476",
-                "emoticons": [
-                    "🔪"
                 ]
             }
         },
@@ -3168,118 +3226,31 @@
             }
         },
         {
-            "body": "🌸 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/42a5f9cc8ae83271fb724aaad64a4995af3a9fff1707808082907627520",
+            "body": "👍 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/97bd5a268596100407b9d316156c9ad3e5e43ea11707808086908993536",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 315798,
+                "size": 207326,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/42a5f9cc8ae83271fb724aaad64a4995af3a9fff1707808082907627520",
+                "thumbnail_url": "mxc://matrix.chir.rs/97bd5a268596100407b9d316156c9ad3e5e43ea11707808086908993536",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 315798,
+                    "size": 207326,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995474",
+            "id": "tg-1241421135396995481",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995474",
+                "id": "1241421135396995481",
                 "emoticons": [
-                    "🌸"
-                ]
-            }
-        },
-        {
-            "body": "☃ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/835702d05ef655c370830a4c8b448d23bdeb90551707808078482636800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 213526,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/835702d05ef655c370830a4c8b448d23bdeb90551707808078482636800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 213526,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995477",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995477",
-                "emoticons": [
-                    "☃"
-                ]
-            }
-        },
-        {
-            "body": "✌️ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/fb3ba0dad32fca51ab3432ef95e3cd3ec5a0dce91707808085474541568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206798,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fb3ba0dad32fca51ab3432ef95e3cd3ec5a0dce91707808085474541568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206798,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995483",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995483",
-                "emoticons": [
-                    "✌"
-                ]
-            }
-        },
-        {
-            "body": "☝️ (PonahPack)",
-            "url": "mxc://matrix.chir.rs/da3ef0ae047dfa56888314d7b1605d1f9a7af6ae1707808091061354496",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 198664,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/da3ef0ae047dfa56888314d7b1605d1f9a7af6ae1707808091061354496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 198664,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995484",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995484",
-                "emoticons": [
-                    "☝"
+                    "👍"
                 ]
             }
         },
@@ -3313,60 +3284,31 @@
             }
         },
         {
-            "body": "🤢 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/7440eb19d86bddf57f0babeb1f0ccf20535fa02a1707808074594516992",
+            "body": "✌️ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/fb3ba0dad32fca51ab3432ef95e3cd3ec5a0dce91707808085474541568",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 189007,
+                "size": 206798,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7440eb19d86bddf57f0babeb1f0ccf20535fa02a1707808074594516992",
+                "thumbnail_url": "mxc://matrix.chir.rs/fb3ba0dad32fca51ab3432ef95e3cd3ec5a0dce91707808085474541568",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 189007,
+                    "size": 206798,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995465",
+            "id": "tg-1241421135396995483",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995465",
+                "id": "1241421135396995483",
                 "emoticons": [
-                    "🤢"
-                ]
-            }
-        },
-        {
-            "body": "🙏 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/bb18032dd28ee9b62842b72d8721366abccf19ba1707808090474151936",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 229284,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bb18032dd28ee9b62842b72d8721366abccf19ba1707808090474151936",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 229284,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1241421135396995453",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1241421135396995088",
-                    "short_name": "PonahPack"
-                },
-                "id": "1241421135396995453",
-                "emoticons": [
-                    "🙏"
+                    "✌"
                 ]
             }
         },
@@ -3400,60 +3342,118 @@
             }
         },
         {
-            "body": "🔪 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/9b73647663d412d87610ac8c383fa715a84295271707808085361295360",
+            "body": "🙏 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/bb18032dd28ee9b62842b72d8721366abccf19ba1707808090474151936",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 175978,
+                "size": 229284,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b73647663d412d87610ac8c383fa715a84295271707808085361295360",
+                "thumbnail_url": "mxc://matrix.chir.rs/bb18032dd28ee9b62842b72d8721366abccf19ba1707808090474151936",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 175978,
+                    "size": 229284,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995475",
+            "id": "tg-1241421135396995453",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995475",
+                "id": "1241421135396995453",
                 "emoticons": [
-                    "🔪"
+                    "🙏"
                 ]
             }
         },
         {
-            "body": "👍 (PonahPack)",
-            "url": "mxc://matrix.chir.rs/97bd5a268596100407b9d316156c9ad3e5e43ea11707808086908993536",
+            "body": "🤔 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/d39025b459db0a90456ad8db2f556e0373ca88511707808097281507328",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 207326,
+                "size": 197527,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/97bd5a268596100407b9d316156c9ad3e5e43ea11707808086908993536",
+                "thumbnail_url": "mxc://matrix.chir.rs/d39025b459db0a90456ad8db2f556e0373ca88511707808097281507328",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 207326,
+                    "size": 197527,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1241421135396995481",
+            "id": "tg-1241421135396995472",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1241421135396995088",
                     "short_name": "PonahPack"
                 },
-                "id": "1241421135396995481",
+                "id": "1241421135396995472",
                 "emoticons": [
-                    "👍"
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "☝️ (PonahPack)",
+            "url": "mxc://matrix.chir.rs/da3ef0ae047dfa56888314d7b1605d1f9a7af6ae1707808091061354496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 198664,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/da3ef0ae047dfa56888314d7b1605d1f9a7af6ae1707808091061354496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 198664,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995484",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995484",
+                "emoticons": [
+                    "☝"
+                ]
+            }
+        },
+        {
+            "body": "🌸 (PonahPack)",
+            "url": "mxc://matrix.chir.rs/42a5f9cc8ae83271fb724aaad64a4995af3a9fff1707808082907627520",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 315798,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/42a5f9cc8ae83271fb724aaad64a4995af3a9fff1707808082907627520",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 315798,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1241421135396995474",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1241421135396995088",
+                    "short_name": "PonahPack"
+                },
+                "id": "1241421135396995474",
+                "emoticons": [
+                    "🌸"
                 ]
             }
         }

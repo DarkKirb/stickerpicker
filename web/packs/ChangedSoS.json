@@ -7,6 +7,99 @@
     },
     "stickers": [
         {
+            "body": "🌲 (Changed)",
+            "url": "mxc://matrix.chir.rs/d179a8f6c913d3e56bd2739acdb131e054dc83a41707804718018854912",
+            "info": {
+                "w": 256,
+                "h": 247,
+                "size": 50649,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d179a8f6c913d3e56bd2739acdb131e054dc83a41707804718018854912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 247,
+                    "size": 50649,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109339",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109339",
+                "emoticons": [
+                    "🌲",
+                    "🌳"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (Changed)",
+            "url": "mxc://matrix.chir.rs/7d0c764b575a01f132b0aa037794f2bd5ae64cbe1707804717104496640",
+            "info": {
+                "w": 256,
+                "h": 192,
+                "size": 32901,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7d0c764b575a01f132b0aa037794f2bd5ae64cbe1707804717104496640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 192,
+                    "size": 32901,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109358",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109358",
+                "emoticons": [
+                    "ℹ",
+                    "⚪",
+                    "⚫"
+                ]
+            }
+        },
+        {
+            "body": "😐 (Changed)",
+            "url": "mxc://matrix.chir.rs/81bf63fa331cb4792a6897101415a59f132a1d911707804722141855744",
+            "info": {
+                "w": 150,
+                "h": 256,
+                "size": 43574,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/81bf63fa331cb4792a6897101415a59f132a1d911707804722141855744",
+                "thumbnail_info": {
+                    "w": 150,
+                    "h": 256,
+                    "size": 43574,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109340",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109340",
+                "emoticons": [
+                    "😐",
+                    "😶",
+                    "😕",
+                    "👤"
+                ]
+            }
+        },
+        {
             "body": "😈 (Changed)",
             "url": "mxc://matrix.chir.rs/04c5c4d5eff8b98cc3c089380f90e723f15c22ea1707804720430579712",
             "info": {
@@ -69,157 +162,62 @@
             }
         },
         {
-            "body": "🌲 (Changed)",
-            "url": "mxc://matrix.chir.rs/d179a8f6c913d3e56bd2739acdb131e054dc83a41707804718018854912",
+            "body": "🐶 (Changed)",
+            "url": "mxc://matrix.chir.rs/10ac7543dcef5bd4f8aa2e28156306b4449618f81707804722951356416",
             "info": {
                 "w": 256,
-                "h": 247,
-                "size": 50649,
+                "h": 112,
+                "size": 17518,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d179a8f6c913d3e56bd2739acdb131e054dc83a41707804718018854912",
+                "thumbnail_url": "mxc://matrix.chir.rs/10ac7543dcef5bd4f8aa2e28156306b4449618f81707804722951356416",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 247,
-                    "size": 50649,
+                    "h": 112,
+                    "size": 17518,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109339",
+            "id": "tg-2112920598765109390",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109339",
-                "emoticons": [
-                    "🌲",
-                    "🌳"
-                ]
-            }
-        },
-        {
-            "body": "😐 (Changed)",
-            "url": "mxc://matrix.chir.rs/81bf63fa331cb4792a6897101415a59f132a1d911707804722141855744",
-            "info": {
-                "w": 150,
-                "h": 256,
-                "size": 43574,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81bf63fa331cb4792a6897101415a59f132a1d911707804722141855744",
-                "thumbnail_info": {
-                    "w": 150,
-                    "h": 256,
-                    "size": 43574,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109340",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109340",
-                "emoticons": [
-                    "😐",
-                    "😶",
-                    "😕",
-                    "👤"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Changed)",
-            "url": "mxc://matrix.chir.rs/ffcc56c137d1396b720355eaf161e9d6686477251707804727376347136",
-            "info": {
-                "w": 187,
-                "h": 256,
-                "size": 40497,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ffcc56c137d1396b720355eaf161e9d6686477251707804727376347136",
-                "thumbnail_info": {
-                    "w": 187,
-                    "h": 256,
-                    "size": 40497,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109346",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109346",
+                "id": "2112920598765109390",
                 "emoticons": [
                     "⚫",
-                    "😠",
-                    "😡"
+                    "🐶",
+                    "🐺"
                 ]
             }
         },
         {
-            "body": "ℹ️ (Changed)",
-            "url": "mxc://matrix.chir.rs/7d0c764b575a01f132b0aa037794f2bd5ae64cbe1707804717104496640",
+            "body": "🦇 (Changed)",
+            "url": "mxc://matrix.chir.rs/76ec9bd59a8ffd7cad7a0aa50d45eab25eb5ea1a1707804730807287808",
             "info": {
                 "w": 256,
-                "h": 192,
-                "size": 32901,
+                "h": 237,
+                "size": 41832,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7d0c764b575a01f132b0aa037794f2bd5ae64cbe1707804717104496640",
+                "thumbnail_url": "mxc://matrix.chir.rs/76ec9bd59a8ffd7cad7a0aa50d45eab25eb5ea1a1707804730807287808",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 192,
-                    "size": 32901,
+                    "h": 237,
+                    "size": 41832,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109358",
+            "id": "tg-2112920598765109359",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109358",
-                "emoticons": [
-                    "ℹ",
-                    "⚪",
-                    "⚫"
-                ]
-            }
-        },
-        {
-            "body": "😨 (Changed)",
-            "url": "mxc://matrix.chir.rs/12009c4b55ae2495f65328b5fd0adbddea2770ed1707804728194236416",
-            "info": {
-                "w": 212,
-                "h": 256,
-                "size": 73703,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/12009c4b55ae2495f65328b5fd0adbddea2770ed1707804728194236416",
-                "thumbnail_info": {
-                    "w": 212,
-                    "h": 256,
-                    "size": 73703,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109360",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109360",
+                "id": "2112920598765109359",
                 "emoticons": [
                     "⚫",
-                    "😰",
-                    "😨",
                     "🦇"
                 ]
             }
@@ -258,31 +256,33 @@
             }
         },
         {
-            "body": "🦇 (Changed)",
-            "url": "mxc://matrix.chir.rs/76ec9bd59a8ffd7cad7a0aa50d45eab25eb5ea1a1707804730807287808",
+            "body": "😨 (Changed)",
+            "url": "mxc://matrix.chir.rs/12009c4b55ae2495f65328b5fd0adbddea2770ed1707804728194236416",
             "info": {
-                "w": 256,
-                "h": 237,
-                "size": 41832,
+                "w": 212,
+                "h": 256,
+                "size": 73703,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/76ec9bd59a8ffd7cad7a0aa50d45eab25eb5ea1a1707804730807287808",
+                "thumbnail_url": "mxc://matrix.chir.rs/12009c4b55ae2495f65328b5fd0adbddea2770ed1707804728194236416",
                 "thumbnail_info": {
-                    "w": 256,
-                    "h": 237,
-                    "size": 41832,
+                    "w": 212,
+                    "h": 256,
+                    "size": 73703,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109359",
+            "id": "tg-2112920598765109360",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109359",
+                "id": "2112920598765109360",
                 "emoticons": [
                     "⚫",
+                    "😰",
+                    "😨",
                     "🦇"
                 ]
             }
@@ -352,34 +352,34 @@
             }
         },
         {
-            "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/f45851451e792c7a7346e118fe4a62981d055e261707804759076896768",
+            "body": "😒 (Changed)",
+            "url": "mxc://matrix.chir.rs/66b714a783e49d870f74dbb418fb0fe0b3fd7c3e1707804734057873408",
             "info": {
-                "w": 234,
+                "w": 256,
                 "h": 256,
-                "size": 58751,
+                "size": 140920,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f45851451e792c7a7346e118fe4a62981d055e261707804759076896768",
+                "thumbnail_url": "mxc://matrix.chir.rs/66b714a783e49d870f74dbb418fb0fe0b3fd7c3e1707804734057873408",
                 "thumbnail_info": {
-                    "w": 234,
+                    "w": 256,
                     "h": 256,
-                    "size": 58751,
+                    "size": 140920,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109362",
+            "id": "tg-2112920598765109343",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109362",
+                "id": "2112920598765109343",
                 "emoticons": [
-                    "⚫",
-                    "💀",
-                    "☠",
-                    "🦇"
+                    "😠",
+                    "🦇",
+                    "😒",
+                    "👺"
                 ]
             }
         },
@@ -414,98 +414,160 @@
             }
         },
         {
-            "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/de2c62a5202b9e3425f2e5e93389a99f7eb71a1c1707804731633565696",
+            "body": "😠 (Changed)",
+            "url": "mxc://matrix.chir.rs/ffcc56c137d1396b720355eaf161e9d6686477251707804727376347136",
             "info": {
-                "w": 175,
+                "w": 187,
                 "h": 256,
-                "size": 79340,
+                "size": 40497,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/de2c62a5202b9e3425f2e5e93389a99f7eb71a1c1707804731633565696",
+                "thumbnail_url": "mxc://matrix.chir.rs/ffcc56c137d1396b720355eaf161e9d6686477251707804727376347136",
                 "thumbnail_info": {
-                    "w": 175,
+                    "w": 187,
                     "h": 256,
-                    "size": 79340,
+                    "size": 40497,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109352",
+            "id": "tg-2112920598765109346",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109352",
+                "id": "2112920598765109346",
                 "emoticons": [
-                    "⚪",
-                    "😈",
+                    "⚫",
+                    "😠",
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Changed)",
+            "url": "mxc://matrix.chir.rs/f45851451e792c7a7346e118fe4a62981d055e261707804759076896768",
+            "info": {
+                "w": 234,
+                "h": 256,
+                "size": 58751,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f45851451e792c7a7346e118fe4a62981d055e261707804759076896768",
+                "thumbnail_info": {
+                    "w": 234,
+                    "h": 256,
+                    "size": 58751,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109362",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109362",
+                "emoticons": [
+                    "⚫",
                     "💀",
                     "☠",
-                    "😏",
+                    "🦇"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Changed)",
+            "url": "mxc://matrix.chir.rs/33af8f7abd733caca25e1bb01367c72b624186581707804733223206912",
+            "info": {
+                "w": 175,
+                "h": 256,
+                "size": 70696,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/33af8f7abd733caca25e1bb01367c72b624186581707804733223206912",
+                "thumbnail_info": {
+                    "w": 175,
+                    "h": 256,
+                    "size": 70696,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109351",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109351",
+                "emoticons": [
+                    "⚪",
+                    "💀",
+                    "☠",
                     "🙂"
                 ]
             }
         },
         {
-            "body": "😨 (Changed)",
-            "url": "mxc://matrix.chir.rs/0bff40e454317dc3bac42711d43dd60e3dfffa781707804737262321664",
+            "body": "🦊 (Changed)",
+            "url": "mxc://matrix.chir.rs/03ba41da28710c3836d17e55d794e0dc35d563701707804741070749696",
             "info": {
-                "w": 175,
-                "h": 256,
-                "size": 59445,
+                "w": 256,
+                "h": 210,
+                "size": 77451,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0bff40e454317dc3bac42711d43dd60e3dfffa781707804737262321664",
+                "thumbnail_url": "mxc://matrix.chir.rs/03ba41da28710c3836d17e55d794e0dc35d563701707804741070749696",
                 "thumbnail_info": {
-                    "w": 175,
-                    "h": 256,
-                    "size": 59445,
+                    "w": 256,
+                    "h": 210,
+                    "size": 77451,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109350",
+            "id": "tg-2112920598765109354",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109350",
+                "id": "2112920598765109354",
                 "emoticons": [
                     "⚪",
-                    "😰",
-                    "😨"
+                    "😐",
+                    "😶",
+                    "😑",
+                    "🦊"
                 ]
             }
         },
         {
-            "body": "🐶 (Changed)",
-            "url": "mxc://matrix.chir.rs/10ac7543dcef5bd4f8aa2e28156306b4449618f81707804722951356416",
+            "body": "🦊 (Changed)",
+            "url": "mxc://matrix.chir.rs/227a8e43de84a2d0003f868a5853845f1e9ef3261707804732568895488",
             "info": {
                 "w": 256,
-                "h": 112,
-                "size": 17518,
+                "h": 182,
+                "size": 61844,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/10ac7543dcef5bd4f8aa2e28156306b4449618f81707804722951356416",
+                "thumbnail_url": "mxc://matrix.chir.rs/227a8e43de84a2d0003f868a5853845f1e9ef3261707804732568895488",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 112,
-                    "size": 17518,
+                    "h": 182,
+                    "size": 61844,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109390",
+            "id": "tg-2112920598765109353",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109390",
+                "id": "2112920598765109353",
                 "emoticons": [
-                    "⚫",
-                    "🐶",
-                    "🐺"
+                    "⚪",
+                    "🦊"
                 ]
             }
         },
@@ -546,36 +608,6 @@
         },
         {
             "body": "🦊 (Changed)",
-            "url": "mxc://matrix.chir.rs/227a8e43de84a2d0003f868a5853845f1e9ef3261707804732568895488",
-            "info": {
-                "w": 256,
-                "h": 182,
-                "size": 61844,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/227a8e43de84a2d0003f868a5853845f1e9ef3261707804732568895488",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 182,
-                    "size": 61844,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109353",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109353",
-                "emoticons": [
-                    "⚪",
-                    "🦊"
-                ]
-            }
-        },
-        {
-            "body": "🦊 (Changed)",
             "url": "mxc://matrix.chir.rs/66087edae024f91d0bde92a5adad970f62905da51707804746498179072",
             "info": {
                 "w": 256,
@@ -606,295 +638,33 @@
             }
         },
         {
-            "body": "😒 (Changed)",
-            "url": "mxc://matrix.chir.rs/66b714a783e49d870f74dbb418fb0fe0b3fd7c3e1707804734057873408",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 140920,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/66b714a783e49d870f74dbb418fb0fe0b3fd7c3e1707804734057873408",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 140920,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109343",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109343",
-                "emoticons": [
-                    "😠",
-                    "🦇",
-                    "😒",
-                    "👺"
-                ]
-            }
-        },
-        {
-            "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/33af8f7abd733caca25e1bb01367c72b624186581707804733223206912",
+            "body": "😨 (Changed)",
+            "url": "mxc://matrix.chir.rs/0bff40e454317dc3bac42711d43dd60e3dfffa781707804737262321664",
             "info": {
                 "w": 175,
                 "h": 256,
-                "size": 70696,
+                "size": 59445,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/33af8f7abd733caca25e1bb01367c72b624186581707804733223206912",
+                "thumbnail_url": "mxc://matrix.chir.rs/0bff40e454317dc3bac42711d43dd60e3dfffa781707804737262321664",
                 "thumbnail_info": {
                     "w": 175,
                     "h": 256,
-                    "size": 70696,
+                    "size": 59445,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109351",
+            "id": "tg-2112920598765109350",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109351",
-                "emoticons": [
-                    "⚪",
-                    "💀",
-                    "☠",
-                    "🙂"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Changed)",
-            "url": "mxc://matrix.chir.rs/63a4f0998d51891d6159cc12b0ffb882139848701707804735181946880",
-            "info": {
-                "w": 256,
-                "h": 250,
-                "size": 56920,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/63a4f0998d51891d6159cc12b0ffb882139848701707804735181946880",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 250,
-                    "size": 56920,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109364",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109364",
-                "emoticons": [
-                    "⚫",
-                    "🐺",
-                    "😴",
-                    "❤",
-                    "⬅"
-                ]
-            }
-        },
-        {
-            "body": "😴 (Changed)",
-            "url": "mxc://matrix.chir.rs/3674cac9df9390220ebd6693b43fe05f143262651707804747311874048",
-            "info": {
-                "w": 256,
-                "h": 250,
-                "size": 58723,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3674cac9df9390220ebd6693b43fe05f143262651707804747311874048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 250,
-                    "size": 58723,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109365",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109365",
-                "emoticons": [
-                    "⚫",
-                    "🐺",
-                    "😴",
-                    "❤",
-                    "➡"
-                ]
-            }
-        },
-        {
-            "body": "😵 (Changed)",
-            "url": "mxc://matrix.chir.rs/0986f6c1f1f8bde7022201153d3ad4d29dd24bc11707804749895565312",
-            "info": {
-                "w": 256,
-                "h": 112,
-                "size": 26675,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0986f6c1f1f8bde7022201153d3ad4d29dd24bc11707804749895565312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 112,
-                    "size": 26675,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109349",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109349",
-                "emoticons": [
-                    "💀",
-                    "☠",
-                    "😵",
-                    "🤕"
-                ]
-            }
-        },
-        {
-            "body": "🦊 (Changed)",
-            "url": "mxc://matrix.chir.rs/03ba41da28710c3836d17e55d794e0dc35d563701707804741070749696",
-            "info": {
-                "w": 256,
-                "h": 210,
-                "size": 77451,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/03ba41da28710c3836d17e55d794e0dc35d563701707804741070749696",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 210,
-                    "size": 77451,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109354",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109354",
-                "emoticons": [
-                    "⚪",
-                    "😐",
-                    "😶",
-                    "😑",
-                    "🦊"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Changed)",
-            "url": "mxc://matrix.chir.rs/a89c0e1ef3628a1d2978ba2fa9208f73b02744171707804742295486464",
-            "info": {
-                "w": 256,
-                "h": 208,
-                "size": 75988,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a89c0e1ef3628a1d2978ba2fa9208f73b02744171707804742295486464",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 208,
-                    "size": 75988,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109391",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109391",
-                "emoticons": [
-                    "⚫",
-                    "🐶",
-                    "🐺",
-                    "🙂",
-                    "❤",
-                    "😍"
-                ]
-            }
-        },
-        {
-            "body": "😰 (Changed)",
-            "url": "mxc://matrix.chir.rs/56cc228b8837b9b8ffedc82dfef6f3b881694ee21707804759857037312",
-            "info": {
-                "w": 256,
-                "h": 240,
-                "size": 67114,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/56cc228b8837b9b8ffedc82dfef6f3b881694ee21707804759857037312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 240,
-                    "size": 67114,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109368",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109368",
+                "id": "2112920598765109350",
                 "emoticons": [
                     "⚪",
                     "😰",
-                    "🦈"
-                ]
-            }
-        },
-        {
-            "body": "🦈 (Changed)",
-            "url": "mxc://matrix.chir.rs/0755260fb48ab471137337dffc95654503613a491707804769193558016",
-            "info": {
-                "w": 232,
-                "h": 256,
-                "size": 81536,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0755260fb48ab471137337dffc95654503613a491707804769193558016",
-                "thumbnail_info": {
-                    "w": 232,
-                    "h": 256,
-                    "size": 81536,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109371",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109371",
-                "emoticons": [
-                    "⚪",
-                    "😈",
-                    "😠",
-                    "😡",
-                    "🦈"
+                    "😨"
                 ]
             }
         },
@@ -933,65 +703,135 @@
             }
         },
         {
-            "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/0f827c5eb404780edbc893cd31497f6dde8017291707804743478280192",
+            "body": "😵 (Changed)",
+            "url": "mxc://matrix.chir.rs/0986f6c1f1f8bde7022201153d3ad4d29dd24bc11707804749895565312",
             "info": {
-                "w": 200,
-                "h": 256,
-                "size": 67006,
+                "w": 256,
+                "h": 112,
+                "size": 26675,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0f827c5eb404780edbc893cd31497f6dde8017291707804743478280192",
+                "thumbnail_url": "mxc://matrix.chir.rs/0986f6c1f1f8bde7022201153d3ad4d29dd24bc11707804749895565312",
                 "thumbnail_info": {
-                    "w": 200,
-                    "h": 256,
-                    "size": 67006,
+                    "w": 256,
+                    "h": 112,
+                    "size": 26675,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109369",
+            "id": "tg-2112920598765109349",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109369",
+                "id": "2112920598765109349",
                 "emoticons": [
-                    "⚪",
                     "💀",
                     "☠",
-                    "🦈"
+                    "😵",
+                    "🤕"
                 ]
             }
         },
         {
-            "body": "🦈 (Changed)",
-            "url": "mxc://matrix.chir.rs/715552e1c9725a8650b2d324feaf33ab61097e2b1707804738910683136",
+            "body": "😴 (Changed)",
+            "url": "mxc://matrix.chir.rs/63a4f0998d51891d6159cc12b0ffb882139848701707804735181946880",
             "info": {
                 "w": 256,
-                "h": 60,
-                "size": 6256,
+                "h": 250,
+                "size": 56920,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/715552e1c9725a8650b2d324feaf33ab61097e2b1707804738910683136",
+                "thumbnail_url": "mxc://matrix.chir.rs/63a4f0998d51891d6159cc12b0ffb882139848701707804735181946880",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 60,
-                    "size": 6256,
+                    "h": 250,
+                    "size": 56920,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109367",
+            "id": "tg-2112920598765109364",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109367",
+                "id": "2112920598765109364",
+                "emoticons": [
+                    "⚫",
+                    "🐺",
+                    "😴",
+                    "❤",
+                    "⬅"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Changed)",
+            "url": "mxc://matrix.chir.rs/de2c62a5202b9e3425f2e5e93389a99f7eb71a1c1707804731633565696",
+            "info": {
+                "w": 175,
+                "h": 256,
+                "size": 79340,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/de2c62a5202b9e3425f2e5e93389a99f7eb71a1c1707804731633565696",
+                "thumbnail_info": {
+                    "w": 175,
+                    "h": 256,
+                    "size": 79340,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109352",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109352",
                 "emoticons": [
                     "⚪",
                     "😈",
-                    "🦈"
+                    "💀",
+                    "☠",
+                    "😏",
+                    "🙂"
+                ]
+            }
+        },
+        {
+            "body": "❤️ (Changed)",
+            "url": "mxc://matrix.chir.rs/a89c0e1ef3628a1d2978ba2fa9208f73b02744171707804742295486464",
+            "info": {
+                "w": 256,
+                "h": 208,
+                "size": 75988,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a89c0e1ef3628a1d2978ba2fa9208f73b02744171707804742295486464",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 208,
+                    "size": 75988,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109391",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109391",
+                "emoticons": [
+                    "⚫",
+                    "🐶",
+                    "🐺",
+                    "🙂",
+                    "❤",
+                    "😍"
                 ]
             }
         },
@@ -1025,6 +865,102 @@
                     "📚",
                     "🤔",
                     "❤"
+                ]
+            }
+        },
+        {
+            "body": "😰 (Changed)",
+            "url": "mxc://matrix.chir.rs/56cc228b8837b9b8ffedc82dfef6f3b881694ee21707804759857037312",
+            "info": {
+                "w": 256,
+                "h": 240,
+                "size": 67114,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/56cc228b8837b9b8ffedc82dfef6f3b881694ee21707804759857037312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 240,
+                    "size": 67114,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109368",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109368",
+                "emoticons": [
+                    "⚪",
+                    "😰",
+                    "🦈"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Changed)",
+            "url": "mxc://matrix.chir.rs/0f827c5eb404780edbc893cd31497f6dde8017291707804743478280192",
+            "info": {
+                "w": 200,
+                "h": 256,
+                "size": 67006,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0f827c5eb404780edbc893cd31497f6dde8017291707804743478280192",
+                "thumbnail_info": {
+                    "w": 200,
+                    "h": 256,
+                    "size": 67006,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109369",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109369",
+                "emoticons": [
+                    "⚪",
+                    "💀",
+                    "☠",
+                    "🦈"
+                ]
+            }
+        },
+        {
+            "body": "😴 (Changed)",
+            "url": "mxc://matrix.chir.rs/3674cac9df9390220ebd6693b43fe05f143262651707804747311874048",
+            "info": {
+                "w": 256,
+                "h": 250,
+                "size": 58723,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3674cac9df9390220ebd6693b43fe05f143262651707804747311874048",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 250,
+                    "size": 58723,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109365",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109365",
+                "emoticons": [
+                    "⚫",
+                    "🐺",
+                    "😴",
+                    "❤",
+                    "➡"
                 ]
             }
         },
@@ -1093,37 +1029,6 @@
             }
         },
         {
-            "body": "😈 (Changed)",
-            "url": "mxc://matrix.chir.rs/4d381ef7cc0318eeaf7a025ec7357377e53fd7a41707804754366693376",
-            "info": {
-                "w": 256,
-                "h": 85,
-                "size": 10415,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4d381ef7cc0318eeaf7a025ec7357377e53fd7a41707804754366693376",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 85,
-                    "size": 10415,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109370",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109370",
-                "emoticons": [
-                    "⚪",
-                    "😈",
-                    "🦈"
-                ]
-            }
-        },
-        {
             "body": "😕 (Changed)",
             "url": "mxc://matrix.chir.rs/634e7a6184970bd61256def19bed61fc309c01461707804760729452544",
             "info": {
@@ -1158,36 +1063,68 @@
             }
         },
         {
-            "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/49c3948a4f1d908515e33340835598e1231179701707804755759202304",
+            "body": "😨 (Changed)",
+            "url": "mxc://matrix.chir.rs/f4e245531f6379e2430236ef8e910b2dddb213af1707804745621569536",
             "info": {
                 "w": 256,
-                "h": 245,
-                "size": 84388,
+                "h": 250,
+                "size": 55691,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/49c3948a4f1d908515e33340835598e1231179701707804755759202304",
+                "thumbnail_url": "mxc://matrix.chir.rs/f4e245531f6379e2430236ef8e910b2dddb213af1707804745621569536",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 245,
-                    "size": 84388,
+                    "h": 250,
+                    "size": 55691,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109376",
+            "id": "tg-2112920598765109374",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109376",
+                "id": "2112920598765109374",
                 "emoticons": [
                     "⚪",
-                    "💀",
-                    "☠",
-                    "🐺",
-                    "🌊",
-                    "😌"
+                    "😰",
+                    "😨",
+                    "🦈",
+                    "🌊"
+                ]
+            }
+        },
+        {
+            "body": "🔮 (Changed)",
+            "url": "mxc://matrix.chir.rs/ae6b752d73eb1ed132518928a2324e506f96c58f1707804752437313536",
+            "info": {
+                "w": 187,
+                "h": 256,
+                "size": 59132,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ae6b752d73eb1ed132518928a2324e506f96c58f1707804752437313536",
+                "thumbnail_info": {
+                    "w": 187,
+                    "h": 256,
+                    "size": 59132,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109377",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109377",
+                "emoticons": [
+                    "🔮",
+                    "✨",
+                    "⭐",
+                    "🌟",
+                    "🐉"
                 ]
             }
         },
@@ -1221,6 +1158,68 @@
                     "😨",
                     "🦈",
                     "🌊"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Changed)",
+            "url": "mxc://matrix.chir.rs/4d381ef7cc0318eeaf7a025ec7357377e53fd7a41707804754366693376",
+            "info": {
+                "w": 256,
+                "h": 85,
+                "size": 10415,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4d381ef7cc0318eeaf7a025ec7357377e53fd7a41707804754366693376",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 85,
+                    "size": 10415,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109370",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109370",
+                "emoticons": [
+                    "⚪",
+                    "😈",
+                    "🦈"
+                ]
+            }
+        },
+        {
+            "body": "🦈 (Changed)",
+            "url": "mxc://matrix.chir.rs/715552e1c9725a8650b2d324feaf33ab61097e2b1707804738910683136",
+            "info": {
+                "w": 256,
+                "h": 60,
+                "size": 6256,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/715552e1c9725a8650b2d324feaf33ab61097e2b1707804738910683136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 60,
+                    "size": 6256,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109367",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109367",
+                "emoticons": [
+                    "⚪",
+                    "😈",
+                    "🦈"
                 ]
             }
         },
@@ -1291,35 +1290,67 @@
             }
         },
         {
-            "body": "🔮 (Changed)",
-            "url": "mxc://matrix.chir.rs/ae6b752d73eb1ed132518928a2324e506f96c58f1707804752437313536",
+            "body": "😨 (Changed)",
+            "url": "mxc://matrix.chir.rs/be653fb357ec9d559d8df70a3f2d894a1624d50f1707804750658928640",
             "info": {
-                "w": 187,
-                "h": 256,
-                "size": 59132,
+                "w": 256,
+                "h": 230,
+                "size": 87749,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ae6b752d73eb1ed132518928a2324e506f96c58f1707804752437313536",
+                "thumbnail_url": "mxc://matrix.chir.rs/be653fb357ec9d559d8df70a3f2d894a1624d50f1707804750658928640",
                 "thumbnail_info": {
-                    "w": 187,
-                    "h": 256,
-                    "size": 59132,
+                    "w": 256,
+                    "h": 230,
+                    "size": 87749,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109377",
+            "id": "tg-2112920598765109383",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109377",
+                "id": "2112920598765109383",
                 "emoticons": [
-                    "🔮",
-                    "✨",
-                    "⭐",
-                    "🌟",
-                    "🐉"
+                    "⚪",
+                    "😰",
+                    "😨",
+                    "🐱"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Changed)",
+            "url": "mxc://matrix.chir.rs/fad2125f4cbff04980f4cd2c400e95f8af045f361707804756598063104",
+            "info": {
+                "w": 235,
+                "h": 256,
+                "size": 96498,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fad2125f4cbff04980f4cd2c400e95f8af045f361707804756598063104",
+                "thumbnail_info": {
+                    "w": 235,
+                    "h": 256,
+                    "size": 96498,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109384",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109384",
+                "emoticons": [
+                    "⚪",
+                    "💀",
+                    "☠",
+                    "😏",
+                    "🐱"
                 ]
             }
         },
@@ -1358,67 +1389,99 @@
             }
         },
         {
-            "body": "😰 (Changed)",
-            "url": "mxc://matrix.chir.rs/1954088437ac22592996c1c5a10dcd4bff7f2e791707804768421806080",
+            "body": "🦅 (Changed)",
+            "url": "mxc://matrix.chir.rs/3fd5aaf78eefeb50826599613aefcdb5124a99b01707804749304168448",
             "info": {
-                "w": 175,
-                "h": 256,
-                "size": 63671,
+                "w": 256,
+                "h": 62,
+                "size": 4525,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1954088437ac22592996c1c5a10dcd4bff7f2e791707804768421806080",
+                "thumbnail_url": "mxc://matrix.chir.rs/3fd5aaf78eefeb50826599613aefcdb5124a99b01707804749304168448",
                 "thumbnail_info": {
-                    "w": 175,
-                    "h": 256,
-                    "size": 63671,
+                    "w": 256,
+                    "h": 62,
+                    "size": 4525,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109386",
+            "id": "tg-2112920598765109379",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109386",
+                "id": "2112920598765109379",
                 "emoticons": [
-                    "⚪",
-                    "😈",
-                    "😰",
-                    "😨",
-                    "🐍"
+                    "🦇",
+                    "🦅"
                 ]
             }
         },
         {
-            "body": "😨 (Changed)",
-            "url": "mxc://matrix.chir.rs/be653fb357ec9d559d8df70a3f2d894a1624d50f1707804750658928640",
+            "body": "🦈 (Changed)",
+            "url": "mxc://matrix.chir.rs/0755260fb48ab471137337dffc95654503613a491707804769193558016",
             "info": {
-                "w": 256,
-                "h": 230,
-                "size": 87749,
+                "w": 232,
+                "h": 256,
+                "size": 81536,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/be653fb357ec9d559d8df70a3f2d894a1624d50f1707804750658928640",
+                "thumbnail_url": "mxc://matrix.chir.rs/0755260fb48ab471137337dffc95654503613a491707804769193558016",
                 "thumbnail_info": {
-                    "w": 256,
-                    "h": 230,
-                    "size": 87749,
+                    "w": 232,
+                    "h": 256,
+                    "size": 81536,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109383",
+            "id": "tg-2112920598765109371",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109383",
+                "id": "2112920598765109371",
                 "emoticons": [
                     "⚪",
-                    "😰",
-                    "😨",
-                    "🐱"
+                    "😈",
+                    "😠",
+                    "😡",
+                    "🦈"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Changed)",
+            "url": "mxc://matrix.chir.rs/49c3948a4f1d908515e33340835598e1231179701707804755759202304",
+            "info": {
+                "w": 256,
+                "h": 245,
+                "size": 84388,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/49c3948a4f1d908515e33340835598e1231179701707804755759202304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 245,
+                    "size": 84388,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109376",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109376",
+                "emoticons": [
+                    "⚪",
+                    "💀",
+                    "☠",
+                    "🐺",
+                    "🌊",
+                    "😌"
                 ]
             }
         },
@@ -1454,6 +1517,39 @@
             }
         },
         {
+            "body": "😰 (Changed)",
+            "url": "mxc://matrix.chir.rs/1954088437ac22592996c1c5a10dcd4bff7f2e791707804768421806080",
+            "info": {
+                "w": 175,
+                "h": 256,
+                "size": 63671,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1954088437ac22592996c1c5a10dcd4bff7f2e791707804768421806080",
+                "thumbnail_info": {
+                    "w": 175,
+                    "h": 256,
+                    "size": 63671,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109386",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109386",
+                "emoticons": [
+                    "⚪",
+                    "😈",
+                    "😰",
+                    "😨",
+                    "🐍"
+                ]
+            }
+        },
+        {
             "body": "😳 (Changed)",
             "url": "mxc://matrix.chir.rs/49d81a5c421bd0c30cdc5afd8cc6e330844cda391707804783542272000",
             "info": {
@@ -1479,67 +1575,6 @@
                 "id": "2112920598765109404",
                 "emoticons": [
                     "😳"
-                ]
-            }
-        },
-        {
-            "body": "😰 (Changed)",
-            "url": "mxc://matrix.chir.rs/3c085dc1baacd385ba5dc9e3f665b2b97fe5aa4a1707804753368449024",
-            "info": {
-                "w": 212,
-                "h": 256,
-                "size": 92449,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3c085dc1baacd385ba5dc9e3f665b2b97fe5aa4a1707804753368449024",
-                "thumbnail_info": {
-                    "w": 212,
-                    "h": 256,
-                    "size": 92449,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109382",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109382",
-                "emoticons": [
-                    "⚪",
-                    "😰",
-                    "😨",
-                    "🐱"
-                ]
-            }
-        },
-        {
-            "body": "😊 (Changed)",
-            "url": "mxc://matrix.chir.rs/ab8dd5acce614332dcdd32da1ec559fd00754bbd1707804763258617856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 40246,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ab8dd5acce614332dcdd32da1ec559fd00754bbd1707804763258617856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 40246,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109405",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109405",
-                "emoticons": [
-                    "😊"
                 ]
             }
         },
@@ -1577,64 +1612,31 @@
             }
         },
         {
-            "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/d528f4a0046ad2bf5cda28339254d787dfe070771707804758196092928",
-            "info": {
-                "w": 232,
-                "h": 256,
-                "size": 56752,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d528f4a0046ad2bf5cda28339254d787dfe070771707804758196092928",
-                "thumbnail_info": {
-                    "w": 232,
-                    "h": 256,
-                    "size": 56752,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109388",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109388",
-                "emoticons": [
-                    "⚪",
-                    "💀",
-                    "☠",
-                    "😏",
-                    "🐍"
-                ]
-            }
-        },
-        {
-            "body": "😏 (Changed)",
-            "url": "mxc://matrix.chir.rs/9ee8c662dd84a0913cc3573d3c7c468aadf33cb11707804780048416768",
+            "body": "😊 (Changed)",
+            "url": "mxc://matrix.chir.rs/ab8dd5acce614332dcdd32da1ec559fd00754bbd1707804763258617856",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 27785,
+                "size": 40246,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9ee8c662dd84a0913cc3573d3c7c468aadf33cb11707804780048416768",
+                "thumbnail_url": "mxc://matrix.chir.rs/ab8dd5acce614332dcdd32da1ec559fd00754bbd1707804763258617856",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 27785,
+                    "size": 40246,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109408",
+            "id": "tg-2112920598765109405",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109408",
+                "id": "2112920598765109405",
                 "emoticons": [
-                    "😏"
+                    "😊"
                 ]
             }
         },
@@ -1664,130 +1666,6 @@
                 "id": "2112920598765109406",
                 "emoticons": [
                     "😓"
-                ]
-            }
-        },
-        {
-            "body": "😨 (Changed)",
-            "url": "mxc://matrix.chir.rs/f4e245531f6379e2430236ef8e910b2dddb213af1707804745621569536",
-            "info": {
-                "w": 256,
-                "h": 250,
-                "size": 55691,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f4e245531f6379e2430236ef8e910b2dddb213af1707804745621569536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 250,
-                    "size": 55691,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109374",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109374",
-                "emoticons": [
-                    "⚪",
-                    "😰",
-                    "😨",
-                    "🦈",
-                    "🌊"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Changed)",
-            "url": "mxc://matrix.chir.rs/790cfbf0b552eaedb8043daf5e83cc93b7c6f0e41707804764282028032",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 30670,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/790cfbf0b552eaedb8043daf5e83cc93b7c6f0e41707804764282028032",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 30670,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109411",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109411",
-                "emoticons": [
-                    "☺"
-                ]
-            }
-        },
-        {
-            "body": "😏 (Changed)",
-            "url": "mxc://matrix.chir.rs/1321dfaaeba9700b5bcea3d363764152bb6db6e11707804762369425408",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 30409,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1321dfaaeba9700b5bcea3d363764152bb6db6e11707804762369425408",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 30409,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109409",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109409",
-                "emoticons": [
-                    "😏",
-                    "😜",
-                    "😋"
-                ]
-            }
-        },
-        {
-            "body": "👀 (Changed)",
-            "url": "mxc://matrix.chir.rs/295098195c942d0e5e7913f4225ac6c668e565cc1707804766890885120",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 59625,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/295098195c942d0e5e7913f4225ac6c668e565cc1707804766890885120",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 59625,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109410",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109410",
-                "emoticons": [
-                    "😒",
-                    "😑",
-                    "👀"
                 ]
             }
         },
@@ -1822,64 +1700,34 @@
         },
         {
             "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/fad2125f4cbff04980f4cd2c400e95f8af045f361707804756598063104",
+            "url": "mxc://matrix.chir.rs/d528f4a0046ad2bf5cda28339254d787dfe070771707804758196092928",
             "info": {
-                "w": 235,
+                "w": 232,
                 "h": 256,
-                "size": 96498,
+                "size": 56752,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fad2125f4cbff04980f4cd2c400e95f8af045f361707804756598063104",
+                "thumbnail_url": "mxc://matrix.chir.rs/d528f4a0046ad2bf5cda28339254d787dfe070771707804758196092928",
                 "thumbnail_info": {
-                    "w": 235,
+                    "w": 232,
                     "h": 256,
-                    "size": 96498,
+                    "size": 56752,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109384",
+            "id": "tg-2112920598765109388",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109384",
+                "id": "2112920598765109388",
                 "emoticons": [
                     "⚪",
                     "💀",
                     "☠",
                     "😏",
-                    "🐱"
-                ]
-            }
-        },
-        {
-            "body": "🦅 (Changed)",
-            "url": "mxc://matrix.chir.rs/3fd5aaf78eefeb50826599613aefcdb5124a99b01707804749304168448",
-            "info": {
-                "w": 256,
-                "h": 62,
-                "size": 4525,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3fd5aaf78eefeb50826599613aefcdb5124a99b01707804749304168448",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 62,
-                    "size": 4525,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109379",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109379",
-                "emoticons": [
-                    "🦇",
-                    "🦅"
+                    "🐍"
                 ]
             }
         },
@@ -1943,34 +1791,274 @@
             }
         },
         {
-            "body": "🖤 (Changed)",
-            "url": "mxc://matrix.chir.rs/84132c578870093eac4b167726905564eef668951707804774348357632",
+            "body": "😏 (Changed)",
+            "url": "mxc://matrix.chir.rs/9ee8c662dd84a0913cc3573d3c7c468aadf33cb11707804780048416768",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 164284,
+                "size": 27785,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/84132c578870093eac4b167726905564eef668951707804774348357632",
+                "thumbnail_url": "mxc://matrix.chir.rs/9ee8c662dd84a0913cc3573d3c7c468aadf33cb11707804780048416768",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 164284,
+                    "size": 27785,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109428",
+            "id": "tg-2112920598765109408",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109428",
+                "id": "2112920598765109408",
+                "emoticons": [
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "😓 (Changed)",
+            "url": "mxc://matrix.chir.rs/0b5714412d92bef7a9afb4eb7f0fc39f58fed9991707804790290907136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 40751,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0b5714412d92bef7a9afb4eb7f0fc39f58fed9991707804790290907136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 40751,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109417",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109417",
+                "emoticons": [
+                    "😓"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Changed)",
+            "url": "mxc://matrix.chir.rs/295098195c942d0e5e7913f4225ac6c668e565cc1707804766890885120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 59625,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/295098195c942d0e5e7913f4225ac6c668e565cc1707804766890885120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 59625,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109410",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109410",
+                "emoticons": [
+                    "😒",
+                    "😑",
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "🖤 (Changed)",
+            "url": "mxc://matrix.chir.rs/ac31ea75f3685b76142b1bf19a72b650a793ac081707804784393715712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 87625,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ac31ea75f3685b76142b1bf19a72b650a793ac081707804784393715712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 87625,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109423",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109423",
+                "emoticons": [
+                    "🐺",
+                    "🖤"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Changed)",
+            "url": "mxc://matrix.chir.rs/6222ac8517345cf7e2e99f86a55dde6b247a01a31707804771638837248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 90140,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6222ac8517345cf7e2e99f86a55dde6b247a01a31707804771638837248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 90140,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109422",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109422",
+                "emoticons": [
+                    "❤",
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😰 (Changed)",
+            "url": "mxc://matrix.chir.rs/3c085dc1baacd385ba5dc9e3f665b2b97fe5aa4a1707804753368449024",
+            "info": {
+                "w": 212,
+                "h": 256,
+                "size": 92449,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3c085dc1baacd385ba5dc9e3f665b2b97fe5aa4a1707804753368449024",
+                "thumbnail_info": {
+                    "w": 212,
+                    "h": 256,
+                    "size": 92449,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109382",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109382",
                 "emoticons": [
                     "⚪",
                     "😰",
                     "😨",
-                    "🖤"
+                    "🐱"
+                ]
+            }
+        },
+        {
+            "body": "😰 (Changed)",
+            "url": "mxc://matrix.chir.rs/47837e16e3a86d3133e0127f4241fd45728438791707804775824752640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 157052,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/47837e16e3a86d3133e0127f4241fd45728438791707804775824752640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 157052,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109427",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109427",
+                "emoticons": [
+                    "⚪",
+                    "😰",
+                    "😨"
+                ]
+            }
+        },
+        {
+            "body": "☺️ (Changed)",
+            "url": "mxc://matrix.chir.rs/790cfbf0b552eaedb8043daf5e83cc93b7c6f0e41707804764282028032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 30670,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/790cfbf0b552eaedb8043daf5e83cc93b7c6f0e41707804764282028032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 30670,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109411",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109411",
+                "emoticons": [
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "💀 (Changed)",
+            "url": "mxc://matrix.chir.rs/1fd93156dd0c8dd28aaf0c380db7a160c806c3701707804767570362368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 112298,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1fd93156dd0c8dd28aaf0c380db7a160c806c3701707804767570362368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 112298,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109424",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109424",
+                "emoticons": [
+                    "⚪",
+                    "💀",
+                    "☠"
                 ]
             }
         },
@@ -2006,31 +2094,34 @@
             }
         },
         {
-            "body": "😓 (Changed)",
-            "url": "mxc://matrix.chir.rs/0b5714412d92bef7a9afb4eb7f0fc39f58fed9991707804790290907136",
+            "body": "🖤 (Changed)",
+            "url": "mxc://matrix.chir.rs/84132c578870093eac4b167726905564eef668951707804774348357632",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 40751,
+                "size": 164284,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0b5714412d92bef7a9afb4eb7f0fc39f58fed9991707804790290907136",
+                "thumbnail_url": "mxc://matrix.chir.rs/84132c578870093eac4b167726905564eef668951707804774348357632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 40751,
+                    "size": 164284,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-2112920598765109417",
+            "id": "tg-2112920598765109428",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "2112920598765109258",
                     "short_name": "ChangedSoS"
                 },
-                "id": "2112920598765109417",
+                "id": "2112920598765109428",
                 "emoticons": [
-                    "😓"
+                    "⚪",
+                    "😰",
+                    "😨",
+                    "🖤"
                 ]
             }
         },
@@ -2067,6 +2158,37 @@
             }
         },
         {
+            "body": "😏 (Changed)",
+            "url": "mxc://matrix.chir.rs/1321dfaaeba9700b5bcea3d363764152bb6db6e11707804762369425408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 30409,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1321dfaaeba9700b5bcea3d363764152bb6db6e11707804762369425408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 30409,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-2112920598765109409",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2112920598765109258",
+                    "short_name": "ChangedSoS"
+                },
+                "id": "2112920598765109409",
+                "emoticons": [
+                    "😏",
+                    "😜",
+                    "😋"
+                ]
+            }
+        },
+        {
             "body": "❤️ (Changed)",
             "url": "mxc://matrix.chir.rs/0382d1bf8ee91dc82fc6a78581b596034930aade1707804777653469184",
             "info": {
@@ -2093,128 +2215,6 @@
                 "emoticons": [
                     "❤",
                     "💭"
-                ]
-            }
-        },
-        {
-            "body": "💀 (Changed)",
-            "url": "mxc://matrix.chir.rs/1fd93156dd0c8dd28aaf0c380db7a160c806c3701707804767570362368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 112298,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1fd93156dd0c8dd28aaf0c380db7a160c806c3701707804767570362368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 112298,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109424",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109424",
-                "emoticons": [
-                    "⚪",
-                    "💀",
-                    "☠"
-                ]
-            }
-        },
-        {
-            "body": "😰 (Changed)",
-            "url": "mxc://matrix.chir.rs/47837e16e3a86d3133e0127f4241fd45728438791707804775824752640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 157052,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/47837e16e3a86d3133e0127f4241fd45728438791707804775824752640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 157052,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109427",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109427",
-                "emoticons": [
-                    "⚪",
-                    "😰",
-                    "😨"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Changed)",
-            "url": "mxc://matrix.chir.rs/6222ac8517345cf7e2e99f86a55dde6b247a01a31707804771638837248",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 90140,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6222ac8517345cf7e2e99f86a55dde6b247a01a31707804771638837248",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 90140,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109422",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109422",
-                "emoticons": [
-                    "❤",
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "🖤 (Changed)",
-            "url": "mxc://matrix.chir.rs/ac31ea75f3685b76142b1bf19a72b650a793ac081707804784393715712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 87625,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ac31ea75f3685b76142b1bf19a72b650a793ac081707804784393715712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 87625,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-2112920598765109423",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "2112920598765109258",
-                    "short_name": "ChangedSoS"
-                },
-                "id": "2112920598765109423",
-                "emoticons": [
-                    "🐺",
-                    "🖤"
                 ]
             }
         }

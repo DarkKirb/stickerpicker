@@ -7,6 +7,35 @@
     },
     "stickers": [
         {
+            "body": "🚪 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/0ac29352c55f26580da08983613ac96072f006481707809604659838976",
+            "info": {
+                "w": 256,
+                "h": 251,
+                "size": 192154,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0ac29352c55f26580da08983613ac96072f006481707809604659838976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 251,
+                    "size": 192154,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6006086875226311436",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "6006086875226311436",
+                "emoticons": [
+                    "🚪"
+                ]
+            }
+        },
+        {
             "body": "😳 (SpunkyRakune)",
             "url": "mxc://matrix.chir.rs/87f0331bffee9eac8d7cf237ed6db519e788d1191707809608803811328",
             "info": {
@@ -32,35 +61,6 @@
                 "id": "6005656970474817662",
                 "emoticons": [
                     "😳"
-                ]
-            }
-        },
-        {
-            "body": "😆 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/520e9114e5a3ff7acc42903d7b969dee6bc01d561707809643679449088",
-            "info": {
-                "w": 238,
-                "h": 256,
-                "size": 267082,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/520e9114e5a3ff7acc42903d7b969dee6bc01d561707809643679449088",
-                "thumbnail_info": {
-                    "w": 238,
-                    "h": 256,
-                    "size": 267082,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-43017670882230613",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "43017670882230613",
-                "emoticons": [
-                    "😆"
                 ]
             }
         },
@@ -94,122 +94,6 @@
             }
         },
         {
-            "body": "🤩 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/164a0f0ea63d1f9c96f9da668cd5918837ea09981707809606090096640",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 270644,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/164a0f0ea63d1f9c96f9da668cd5918837ea09981707809606090096640",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 270644,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-43017670882230607",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "43017670882230607",
-                "emoticons": [
-                    "🤩"
-                ]
-            }
-        },
-        {
-            "body": "🚪 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/0ac29352c55f26580da08983613ac96072f006481707809604659838976",
-            "info": {
-                "w": 256,
-                "h": 251,
-                "size": 192154,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0ac29352c55f26580da08983613ac96072f006481707809604659838976",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 251,
-                    "size": 192154,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6006086875226311436",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "6006086875226311436",
-                "emoticons": [
-                    "🚪"
-                ]
-            }
-        },
-        {
-            "body": "😬 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/f52d559c90377f4efd25397b03fc837e408931e61707809612524158976",
-            "info": {
-                "w": 222,
-                "h": 256,
-                "size": 233240,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f52d559c90377f4efd25397b03fc837e408931e61707809612524158976",
-                "thumbnail_info": {
-                    "w": 222,
-                    "h": 256,
-                    "size": 233240,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-43017670882230626",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "43017670882230626",
-                "emoticons": [
-                    "😬"
-                ]
-            }
-        },
-        {
-            "body": "🤔 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/0f3a548f5eeb545ef88ede20d8d77ecc87e9027f1707809620010991616",
-            "info": {
-                "w": 233,
-                "h": 256,
-                "size": 217385,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0f3a548f5eeb545ef88ede20d8d77ecc87e9027f1707809620010991616",
-                "thumbnail_info": {
-                    "w": 233,
-                    "h": 256,
-                    "size": 217385,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-43017670882230627",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "43017670882230627",
-                "emoticons": [
-                    "🤔"
-                ]
-            }
-        },
-        {
             "body": "😊 (SpunkyRakune)",
             "url": "mxc://matrix.chir.rs/016788148a9ad2775f50cdc124ef1165e6336c281707809611286839296",
             "info": {
@@ -239,60 +123,60 @@
             }
         },
         {
-            "body": "🤷‍♂️ (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/119b3b37e535b6bbb1fcd158f46ce4b32a3a41741707809618882723840",
+            "body": "🤩 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/164a0f0ea63d1f9c96f9da668cd5918837ea09981707809606090096640",
             "info": {
                 "w": 256,
-                "h": 222,
-                "size": 217187,
+                "h": 256,
+                "size": 270644,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/119b3b37e535b6bbb1fcd158f46ce4b32a3a41741707809618882723840",
+                "thumbnail_url": "mxc://matrix.chir.rs/164a0f0ea63d1f9c96f9da668cd5918837ea09981707809606090096640",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 222,
-                    "size": 217187,
+                    "h": 256,
+                    "size": 270644,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5922300322503462078",
+            "id": "tg-43017670882230607",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "5922300322503462078",
+                "id": "43017670882230607",
                 "emoticons": [
-                    "🤷‍♂"
+                    "🤩"
                 ]
             }
         },
         {
-            "body": "😋 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/b7a5d5aa9694dd1edcd99af2baa00d274d560a311707809614474510336",
+            "body": "😆 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/520e9114e5a3ff7acc42903d7b969dee6bc01d561707809643679449088",
             "info": {
-                "w": 256,
+                "w": 238,
                 "h": 256,
-                "size": 144661,
+                "size": 267082,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b7a5d5aa9694dd1edcd99af2baa00d274d560a311707809614474510336",
+                "thumbnail_url": "mxc://matrix.chir.rs/520e9114e5a3ff7acc42903d7b969dee6bc01d561707809643679449088",
                 "thumbnail_info": {
-                    "w": 256,
+                    "w": 238,
                     "h": 256,
-                    "size": 144661,
+                    "size": 267082,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-43017670882230616",
+            "id": "tg-43017670882230613",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "43017670882230616",
+                "id": "43017670882230613",
                 "emoticons": [
-                    "😋"
+                    "😆"
                 ]
             }
         },
@@ -326,35 +210,6 @@
             }
         },
         {
-            "body": "😬 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/2a11b87ad6d90f09a7d4128669b482e20f829a791707809633118191616",
-            "info": {
-                "w": 234,
-                "h": 256,
-                "size": 246766,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2a11b87ad6d90f09a7d4128669b482e20f829a791707809633118191616",
-                "thumbnail_info": {
-                    "w": 234,
-                    "h": 256,
-                    "size": 246766,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6010456235650845626",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "6010456235650845626",
-                "emoticons": [
-                    "😬"
-                ]
-            }
-        },
-        {
             "body": "😪 (SpunkyRakune)",
             "url": "mxc://matrix.chir.rs/aefb08c46bfbdf79f41a540295b9787f67658ff21707809628366045184",
             "info": {
@@ -380,6 +235,93 @@
                 "id": "43017670882230625",
                 "emoticons": [
                     "😪"
+                ]
+            }
+        },
+        {
+            "body": "🤔 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/0f3a548f5eeb545ef88ede20d8d77ecc87e9027f1707809620010991616",
+            "info": {
+                "w": 233,
+                "h": 256,
+                "size": 217385,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0f3a548f5eeb545ef88ede20d8d77ecc87e9027f1707809620010991616",
+                "thumbnail_info": {
+                    "w": 233,
+                    "h": 256,
+                    "size": 217385,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-43017670882230627",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "43017670882230627",
+                "emoticons": [
+                    "🤔"
+                ]
+            }
+        },
+        {
+            "body": "😬 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/f52d559c90377f4efd25397b03fc837e408931e61707809612524158976",
+            "info": {
+                "w": 222,
+                "h": 256,
+                "size": 233240,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f52d559c90377f4efd25397b03fc837e408931e61707809612524158976",
+                "thumbnail_info": {
+                    "w": 222,
+                    "h": 256,
+                    "size": 233240,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-43017670882230626",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "43017670882230626",
+                "emoticons": [
+                    "😬"
+                ]
+            }
+        },
+        {
+            "body": "😬 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/2a11b87ad6d90f09a7d4128669b482e20f829a791707809633118191616",
+            "info": {
+                "w": 234,
+                "h": 256,
+                "size": 246766,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2a11b87ad6d90f09a7d4128669b482e20f829a791707809633118191616",
+                "thumbnail_info": {
+                    "w": 234,
+                    "h": 256,
+                    "size": 246766,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6010456235650845626",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "6010456235650845626",
+                "emoticons": [
+                    "😬"
                 ]
             }
         },
@@ -413,6 +355,35 @@
             }
         },
         {
+            "body": "🛏 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/d754fe8a3fd576753ac2f0ef7a2657a191f680cd1707809664093126656",
+            "info": {
+                "w": 256,
+                "h": 243,
+                "size": 191506,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d754fe8a3fd576753ac2f0ef7a2657a191f680cd1707809664093126656",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 243,
+                    "size": 191506,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-43017670882230581",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "43017670882230581",
+                "emoticons": [
+                    "🛏"
+                ]
+            }
+        },
+        {
             "body": "😡 (SpunkyRakune)",
             "url": "mxc://matrix.chir.rs/22adfb4915be89eddc59205275a48d6e2ed748201707809623886528512",
             "info": {
@@ -438,64 +409,6 @@
                 "id": "43017670882230557",
                 "emoticons": [
                     "😡"
-                ]
-            }
-        },
-        {
-            "body": "🤬 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/54bcd00d0f2f6c38e455523bf9a6f4492725615e1707809629884383232",
-            "info": {
-                "w": 253,
-                "h": 256,
-                "size": 233353,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/54bcd00d0f2f6c38e455523bf9a6f4492725615e1707809629884383232",
-                "thumbnail_info": {
-                    "w": 253,
-                    "h": 256,
-                    "size": 233353,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-43017670882230569",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "43017670882230569",
-                "emoticons": [
-                    "🤬"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/e91a0d761c63bba68e60b3c427e48b880dbeba9f1707809620593999872",
-            "info": {
-                "w": 256,
-                "h": 233,
-                "size": 248665,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e91a0d761c63bba68e60b3c427e48b880dbeba9f1707809620593999872",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 233,
-                    "size": 248665,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6005729972033947732",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "6005729972033947732",
-                "emoticons": [
-                    "🤗"
                 ]
             }
         },
@@ -529,89 +442,176 @@
             }
         },
         {
-            "body": "🛏 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/d754fe8a3fd576753ac2f0ef7a2657a191f680cd1707809664093126656",
+            "body": "😏 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/a5aac3c7e116a429d6b389aadd4adf4bd9586cab1707809630932959232",
             "info": {
                 "w": 256,
-                "h": 243,
-                "size": 191506,
+                "h": 241,
+                "size": 223139,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d754fe8a3fd576753ac2f0ef7a2657a191f680cd1707809664093126656",
+                "thumbnail_url": "mxc://matrix.chir.rs/a5aac3c7e116a429d6b389aadd4adf4bd9586cab1707809630932959232",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 243,
-                    "size": 191506,
+                    "h": 241,
+                    "size": 223139,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-43017670882230581",
+            "id": "tg-6008183231583619189",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "43017670882230581",
+                "id": "6008183231583619189",
                 "emoticons": [
-                    "🛏"
+                    "😏"
                 ]
             }
         },
         {
-            "body": "😘 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/1a2faac6f8cc528763d65779da244f936d55dce21707809641884286976",
+            "body": "😋 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/b7a5d5aa9694dd1edcd99af2baa00d274d560a311707809614474510336",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 176512,
+                "size": 144661,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1a2faac6f8cc528763d65779da244f936d55dce21707809641884286976",
+                "thumbnail_url": "mxc://matrix.chir.rs/b7a5d5aa9694dd1edcd99af2baa00d274d560a311707809614474510336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 176512,
+                    "size": 144661,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5805591982168345361",
+            "id": "tg-43017670882230616",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "5805591982168345361",
+                "id": "43017670882230616",
                 "emoticons": [
-                    "😘"
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "😪 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/55aa891abdac2bcc1ae595990493dde10aa0321b1707809637320884224",
+            "info": {
+                "w": 241,
+                "h": 256,
+                "size": 280562,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/55aa891abdac2bcc1ae595990493dde10aa0321b1707809637320884224",
+                "thumbnail_info": {
+                    "w": 241,
+                    "h": 256,
+                    "size": 280562,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6012733427311184468",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "6012733427311184468",
+                "emoticons": [
+                    "😪"
                 ]
             }
         },
         {
             "body": "🤗 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/0202e8840c77e41515692219cbdb77cd105f1f3f1707809626445053952",
+            "url": "mxc://matrix.chir.rs/e91a0d761c63bba68e60b3c427e48b880dbeba9f1707809620593999872",
             "info": {
                 "w": 256,
-                "h": 256,
-                "size": 388739,
+                "h": 233,
+                "size": 248665,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0202e8840c77e41515692219cbdb77cd105f1f3f1707809626445053952",
+                "thumbnail_url": "mxc://matrix.chir.rs/e91a0d761c63bba68e60b3c427e48b880dbeba9f1707809620593999872",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 256,
-                    "size": 388739,
+                    "h": 233,
+                    "size": 248665,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5796208479353965637",
+            "id": "tg-6005729972033947732",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "5796208479353965637",
+                "id": "6005729972033947732",
                 "emoticons": [
                     "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🤷‍♂️ (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/119b3b37e535b6bbb1fcd158f46ce4b32a3a41741707809618882723840",
+            "info": {
+                "w": 256,
+                "h": 222,
+                "size": 217187,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/119b3b37e535b6bbb1fcd158f46ce4b32a3a41741707809618882723840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 222,
+                    "size": 217187,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5922300322503462078",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5922300322503462078",
+                "emoticons": [
+                    "🤷‍♂"
+                ]
+            }
+        },
+        {
+            "body": "🤬 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/54bcd00d0f2f6c38e455523bf9a6f4492725615e1707809629884383232",
+            "info": {
+                "w": 253,
+                "h": 256,
+                "size": 233353,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/54bcd00d0f2f6c38e455523bf9a6f4492725615e1707809629884383232",
+                "thumbnail_info": {
+                    "w": 253,
+                    "h": 256,
+                    "size": 233353,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-43017670882230569",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "43017670882230569",
+                "emoticons": [
+                    "🤬"
                 ]
             }
         },
@@ -645,31 +645,118 @@
             }
         },
         {
-            "body": "😘 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/030637c728f502dc59037ef4b26fa63ea92344541707809635903209472",
+            "body": "🤗 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/0202e8840c77e41515692219cbdb77cd105f1f3f1707809626445053952",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 180274,
+                "size": 388739,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/030637c728f502dc59037ef4b26fa63ea92344541707809635903209472",
+                "thumbnail_url": "mxc://matrix.chir.rs/0202e8840c77e41515692219cbdb77cd105f1f3f1707809626445053952",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 180274,
+                    "size": 388739,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5805542632994115223",
+            "id": "tg-5796208479353965637",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "5805542632994115223",
+                "id": "5796208479353965637",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "😘 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/1a2faac6f8cc528763d65779da244f936d55dce21707809641884286976",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 176512,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1a2faac6f8cc528763d65779da244f936d55dce21707809641884286976",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 176512,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5805591982168345361",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5805591982168345361",
                 "emoticons": [
                     "😘"
+                ]
+            }
+        },
+        {
+            "body": "😘 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/79a2fab80a51e7e02a6bf99977ee744ea1f21c141707809621713879040",
+            "info": {
+                "w": 256,
+                "h": 229,
+                "size": 267152,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/79a2fab80a51e7e02a6bf99977ee744ea1f21c141707809621713879040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 229,
+                    "size": 267152,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6007920160541772534",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "6007920160541772534",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "😻 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/15997a584da9fdb4035096ac6b3b16005df959991707809624570200064",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 183912,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/15997a584da9fdb4035096ac6b3b16005df959991707809624570200064",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 183912,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5805325324828806806",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5805325324828806806",
+                "emoticons": [
+                    "😻"
                 ]
             }
         },
@@ -732,35 +819,6 @@
             }
         },
         {
-            "body": "🍕 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/d617549b8bc609ca02f0d53c23be56139142dffe1707809645596246016",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 191540,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d617549b8bc609ca02f0d53c23be56139142dffe1707809645596246016",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 191540,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5886688446549855325",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5886688446549855325",
-                "emoticons": [
-                    "🍕"
-                ]
-            }
-        },
-        {
             "body": "🦴 (SpunkyRakune)",
             "url": "mxc://matrix.chir.rs/d7dd5a6d2307acc8eaec455d41e8e88b8f84f5061707817880151654400",
             "info": {
@@ -819,321 +877,60 @@
             }
         },
         {
-            "body": "🍿 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/ef2049bd4bfa5c1a594c0fac8a48e76ad17037dd1707809635903209473",
+            "body": "🤩 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/09f8d602d0b5d993aae51901f5b42c1ae5b22cee1707809632388382720",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 155784,
+                "size": 93538,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ef2049bd4bfa5c1a594c0fac8a48e76ad17037dd1707809635903209473",
+                "thumbnail_url": "mxc://matrix.chir.rs/09f8d602d0b5d993aae51901f5b42c1ae5b22cee1707809632388382720",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 155784,
+                    "size": 93538,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5888603074250935028",
+            "id": "tg-5890906190333872774",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "5888603074250935028",
+                "id": "5890906190333872774",
                 "emoticons": [
-                    "🍿"
+                    "🤩"
                 ]
             }
         },
         {
-            "body": "😏 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/a5aac3c7e116a429d6b389aadd4adf4bd9586cab1707809630932959232",
-            "info": {
-                "w": 256,
-                "h": 241,
-                "size": 223139,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a5aac3c7e116a429d6b389aadd4adf4bd9586cab1707809630932959232",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 241,
-                    "size": 223139,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6008183231583619189",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "6008183231583619189",
-                "emoticons": [
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "😘 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/631f7fc21d3b0fdd84171d28b7ba50e520e570211707809638885359616",
+            "body": "🍕 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/d617549b8bc609ca02f0d53c23be56139142dffe1707809645596246016",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 158065,
+                "size": 191540,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/631f7fc21d3b0fdd84171d28b7ba50e520e570211707809638885359616",
+                "thumbnail_url": "mxc://matrix.chir.rs/d617549b8bc609ca02f0d53c23be56139142dffe1707809645596246016",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 158065,
+                    "size": 191540,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5890803897097783502",
+            "id": "tg-5886688446549855325",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "5890803897097783502",
+                "id": "5886688446549855325",
                 "emoticons": [
-                    "😘"
-                ]
-            }
-        },
-        {
-            "body": "😻 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/15997a584da9fdb4035096ac6b3b16005df959991707809624570200064",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 183912,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/15997a584da9fdb4035096ac6b3b16005df959991707809624570200064",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 183912,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5805325324828806806",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5805325324828806806",
-                "emoticons": [
-                    "😻"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/34743ea500a08a700a8e1a6620d5c6ebfc2c5ffd1707809629863411712",
-            "info": {
-                "w": 231,
-                "h": 256,
-                "size": 263911,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/34743ea500a08a700a8e1a6620d5c6ebfc2c5ffd1707809629863411712",
-                "thumbnail_info": {
-                    "w": 231,
-                    "h": 256,
-                    "size": 263911,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5897705471455791531",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5897705471455791531",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "🖐 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/40ae55401189b68264b4ee40b5413fd8a03ff9df1707809639682277376",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 81402,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/40ae55401189b68264b4ee40b5413fd8a03ff9df1707809639682277376",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 81402,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5893410895001815152",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5893410895001815152",
-                "emoticons": [
-                    "🖐"
-                ]
-            }
-        },
-        {
-            "body": "😪 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/55aa891abdac2bcc1ae595990493dde10aa0321b1707809637320884224",
-            "info": {
-                "w": 241,
-                "h": 256,
-                "size": 280562,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/55aa891abdac2bcc1ae595990493dde10aa0321b1707809637320884224",
-                "thumbnail_info": {
-                    "w": 241,
-                    "h": 256,
-                    "size": 280562,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-6012733427311184468",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "6012733427311184468",
-                "emoticons": [
-                    "😪"
-                ]
-            }
-        },
-        {
-            "body": "🍽 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/cd6671e90b8c31d520e98912e4f59d9c19a253281707809631683739648",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 92257,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cd6671e90b8c31d520e98912e4f59d9c19a253281707809631683739648",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 92257,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5884480579956640551",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5884480579956640551",
-                "emoticons": [
-                    "🍽"
-                ]
-            }
-        },
-        {
-            "body": "💰 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/e95d2480a67aa60783b0d80e01443be370b86f5e1707809646443495424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 217266,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e95d2480a67aa60783b0d80e01443be370b86f5e1707809646443495424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 217266,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5893064308320897372",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5893064308320897372",
-                "emoticons": [
-                    "💰"
-                ]
-            }
-        },
-        {
-            "body": "😏 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/de17cc4dab1525edacd35a80f966a034b697d0251707809638650478592",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 168666,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/de17cc4dab1525edacd35a80f966a034b697d0251707809638650478592",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 168666,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5793922190952894578",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5793922190952894578",
-                "emoticons": [
-                    "😏"
-                ]
-            }
-        },
-        {
-            "body": "💃 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/80472a5424661df10124f35feb6fcc03201360f41707809643935301632",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 98842,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/80472a5424661df10124f35feb6fcc03201360f41707809643935301632",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 98842,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5886423013275995327",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5886423013275995327",
-                "emoticons": [
-                    "💃"
+                    "🍕"
                 ]
             }
         },
@@ -1167,89 +964,176 @@
             }
         },
         {
-            "body": "😈 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/f3c44589ef56a136cc8779ed4255cc9beb0960681707809637220220928",
+            "body": "💃 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/80472a5424661df10124f35feb6fcc03201360f41707809643935301632",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 137728,
+                "size": 98842,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f3c44589ef56a136cc8779ed4255cc9beb0960681707809637220220928",
+                "thumbnail_url": "mxc://matrix.chir.rs/80472a5424661df10124f35feb6fcc03201360f41707809643935301632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 137728,
+                    "size": 98842,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-5877702700656757998",
+            "id": "tg-5886423013275995327",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "5877702700656757998",
+                "id": "5886423013275995327",
                 "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
-            "body": "🤩 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/09f8d602d0b5d993aae51901f5b42c1ae5b22cee1707809632388382720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 93538,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/09f8d602d0b5d993aae51901f5b42c1ae5b22cee1707809632388382720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 93538,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5890906190333872774",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "43017670882230273",
-                    "short_name": "SpunkyRakunePack"
-                },
-                "id": "5890906190333872774",
-                "emoticons": [
-                    "🤩"
+                    "💃"
                 ]
             }
         },
         {
             "body": "😘 (SpunkyRakune)",
-            "url": "mxc://matrix.chir.rs/79a2fab80a51e7e02a6bf99977ee744ea1f21c141707809621713879040",
+            "url": "mxc://matrix.chir.rs/030637c728f502dc59037ef4b26fa63ea92344541707809635903209472",
             "info": {
                 "w": 256,
-                "h": 229,
-                "size": 267152,
+                "h": 256,
+                "size": 180274,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/79a2fab80a51e7e02a6bf99977ee744ea1f21c141707809621713879040",
+                "thumbnail_url": "mxc://matrix.chir.rs/030637c728f502dc59037ef4b26fa63ea92344541707809635903209472",
                 "thumbnail_info": {
                     "w": 256,
-                    "h": 229,
-                    "size": 267152,
+                    "h": 256,
+                    "size": 180274,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-6007920160541772534",
+            "id": "tg-5805542632994115223",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "43017670882230273",
                     "short_name": "SpunkyRakunePack"
                 },
-                "id": "6007920160541772534",
+                "id": "5805542632994115223",
                 "emoticons": [
                     "😘"
+                ]
+            }
+        },
+        {
+            "body": "🍽 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/cd6671e90b8c31d520e98912e4f59d9c19a253281707809631683739648",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 92257,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cd6671e90b8c31d520e98912e4f59d9c19a253281707809631683739648",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 92257,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5884480579956640551",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5884480579956640551",
+                "emoticons": [
+                    "🍽"
+                ]
+            }
+        },
+        {
+            "body": "😘 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/631f7fc21d3b0fdd84171d28b7ba50e520e570211707809638885359616",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 158065,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/631f7fc21d3b0fdd84171d28b7ba50e520e570211707809638885359616",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 158065,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5890803897097783502",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5890803897097783502",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "😏 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/de17cc4dab1525edacd35a80f966a034b697d0251707809638650478592",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 168666,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/de17cc4dab1525edacd35a80f966a034b697d0251707809638650478592",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 168666,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5793922190952894578",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5793922190952894578",
+                "emoticons": [
+                    "😏"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/34743ea500a08a700a8e1a6620d5c6ebfc2c5ffd1707809629863411712",
+            "info": {
+                "w": 231,
+                "h": 256,
+                "size": 263911,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/34743ea500a08a700a8e1a6620d5c6ebfc2c5ffd1707809629863411712",
+                "thumbnail_info": {
+                    "w": 231,
+                    "h": 256,
+                    "size": 263911,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5897705471455791531",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5897705471455791531",
+                "emoticons": [
+                    "🤗"
                 ]
             }
         },
@@ -1283,6 +1167,35 @@
             }
         },
         {
+            "body": "🍿 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/ef2049bd4bfa5c1a594c0fac8a48e76ad17037dd1707809635903209473",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 155784,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ef2049bd4bfa5c1a594c0fac8a48e76ad17037dd1707809635903209473",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 155784,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5888603074250935028",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5888603074250935028",
+                "emoticons": [
+                    "🍿"
+                ]
+            }
+        },
+        {
             "body": "❌ (SpunkyRakune)",
             "url": "mxc://matrix.chir.rs/cb86ec99b3d17915b994810791d2f3b7e15293121707809644677693440",
             "info": {
@@ -1308,6 +1221,93 @@
                 "id": "5890951210181069458",
                 "emoticons": [
                     "❌"
+                ]
+            }
+        },
+        {
+            "body": "💰 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/e95d2480a67aa60783b0d80e01443be370b86f5e1707809646443495424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 217266,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e95d2480a67aa60783b0d80e01443be370b86f5e1707809646443495424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 217266,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5893064308320897372",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5893064308320897372",
+                "emoticons": [
+                    "💰"
+                ]
+            }
+        },
+        {
+            "body": "🖐 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/40ae55401189b68264b4ee40b5413fd8a03ff9df1707809639682277376",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 81402,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/40ae55401189b68264b4ee40b5413fd8a03ff9df1707809639682277376",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 81402,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5893410895001815152",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5893410895001815152",
+                "emoticons": [
+                    "🖐"
+                ]
+            }
+        },
+        {
+            "body": "😈 (SpunkyRakune)",
+            "url": "mxc://matrix.chir.rs/f3c44589ef56a136cc8779ed4255cc9beb0960681707809637220220928",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 137728,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f3c44589ef56a136cc8779ed4255cc9beb0960681707809637220220928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 137728,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5877702700656757998",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "43017670882230273",
+                    "short_name": "SpunkyRakunePack"
+                },
+                "id": "5877702700656757998",
+                "emoticons": [
+                    "😈"
                 ]
             }
         }

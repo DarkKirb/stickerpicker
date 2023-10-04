@@ -7,6 +7,37 @@
     },
     "stickers": [
         {
+            "body": "😎 (Shard)",
+            "url": "mxc://matrix.chir.rs/e90ffe84f0ed9668d39623a38a75793264e1d69f1707808884191657984",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185612,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e90ffe84f0ed9668d39623a38a75793264e1d69f1707808884191657984",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185612,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1051918858945822747",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1051918858945822732",
+                    "short_name": "ShardWolf"
+                },
+                "id": "1051918858945822747",
+                "emoticons": [
+                    "😎",
+                    "🕶",
+                    "👉"
+                ]
+            }
+        },
+        {
             "body": "☁️ (Shard)",
             "url": "mxc://matrix.chir.rs/9bcb355cdb08593173a6ff6554c94311c274d4711707808883344408576",
             "info": {
@@ -36,33 +67,61 @@
             }
         },
         {
-            "body": "😎 (Shard)",
-            "url": "mxc://matrix.chir.rs/e90ffe84f0ed9668d39623a38a75793264e1d69f1707808884191657984",
+            "body": "😁 (Shard)",
+            "url": "mxc://matrix.chir.rs/87b5c2d8b2eff4db35527d7e207935607fe8b0961707808884690780160",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 185612,
+                "size": 210144,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e90ffe84f0ed9668d39623a38a75793264e1d69f1707808884191657984",
+                "thumbnail_url": "mxc://matrix.chir.rs/87b5c2d8b2eff4db35527d7e207935607fe8b0961707808884690780160",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 185612,
+                    "size": 210144,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1051918858945822747",
+            "id": "tg-1051918858945822748",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1051918858945822732",
                     "short_name": "ShardWolf"
                 },
-                "id": "1051918858945822747",
+                "id": "1051918858945822748",
                 "emoticons": [
-                    "😎",
-                    "🕶",
-                    "👉"
+                    "😁"
+                ]
+            }
+        },
+        {
+            "body": "🐺 (Shard)",
+            "url": "mxc://matrix.chir.rs/1889b5935bc1a0948daa3270140618673d59d2711707808901908398080",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175086,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1889b5935bc1a0948daa3270140618673d59d2711707808901908398080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175086,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1051918858945822750",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1051918858945822732",
+                    "short_name": "ShardWolf"
+                },
+                "id": "1051918858945822750",
+                "emoticons": [
+                    "🐺",
+                    "🗣"
                 ]
             }
         },
@@ -126,61 +185,91 @@
             }
         },
         {
-            "body": "🐺 (Shard)",
-            "url": "mxc://matrix.chir.rs/1889b5935bc1a0948daa3270140618673d59d2711707808901908398080",
+            "body": "😔 (Shard)",
+            "url": "mxc://matrix.chir.rs/a0b7e60ace5866a17c4c7cbb797bbfcc8b6b64551707808894157324288",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 175086,
+                "size": 211184,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1889b5935bc1a0948daa3270140618673d59d2711707808901908398080",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0b7e60ace5866a17c4c7cbb797bbfcc8b6b64551707808894157324288",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 175086,
+                    "size": 211184,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1051918858945822750",
+            "id": "tg-1051918858945822752",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1051918858945822732",
                     "short_name": "ShardWolf"
                 },
-                "id": "1051918858945822750",
+                "id": "1051918858945822752",
                 "emoticons": [
-                    "🐺",
-                    "🗣"
+                    "🤗",
+                    "😔"
                 ]
             }
         },
         {
-            "body": "😏 (Shard)",
-            "url": "mxc://matrix.chir.rs/0e62479b9899937f8f98d977e8cfbbb220bf222c1707808893091971072",
+            "body": "💻 (Shard)",
+            "url": "mxc://matrix.chir.rs/5597bbb03d3f580745d212478a02f62b4360fd581707808900977262592",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 189235,
+                "size": 138113,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0e62479b9899937f8f98d977e8cfbbb220bf222c1707808893091971072",
+                "thumbnail_url": "mxc://matrix.chir.rs/5597bbb03d3f580745d212478a02f62b4360fd581707808900977262592",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 189235,
+                    "size": 138113,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1051918858945822754",
+            "id": "tg-1051918858945822755",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1051918858945822732",
                     "short_name": "ShardWolf"
                 },
-                "id": "1051918858945822754",
+                "id": "1051918858945822755",
                 "emoticons": [
-                    "😏"
+                    "💻",
+                    "🐞"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (Shard)",
+            "url": "mxc://matrix.chir.rs/c67a40cb92cc97520c3548a5fbe954d6c78251691707808898284519424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187901,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c67a40cb92cc97520c3548a5fbe954d6c78251691707808898284519424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187901,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-1051918858945822756",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1051918858945822732",
+                    "short_name": "ShardWolf"
+                },
+                "id": "1051918858945822756",
+                "emoticons": [
+                    "ℹ"
                 ]
             }
         },
@@ -216,90 +305,31 @@
             }
         },
         {
-            "body": "ℹ️ (Shard)",
-            "url": "mxc://matrix.chir.rs/c67a40cb92cc97520c3548a5fbe954d6c78251691707808898284519424",
+            "body": "😏 (Shard)",
+            "url": "mxc://matrix.chir.rs/0e62479b9899937f8f98d977e8cfbbb220bf222c1707808893091971072",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 187901,
+                "size": 189235,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c67a40cb92cc97520c3548a5fbe954d6c78251691707808898284519424",
+                "thumbnail_url": "mxc://matrix.chir.rs/0e62479b9899937f8f98d977e8cfbbb220bf222c1707808893091971072",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 187901,
+                    "size": 189235,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-1051918858945822756",
+            "id": "tg-1051918858945822754",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "1051918858945822732",
                     "short_name": "ShardWolf"
                 },
-                "id": "1051918858945822756",
+                "id": "1051918858945822754",
                 "emoticons": [
-                    "ℹ"
-                ]
-            }
-        },
-        {
-            "body": "😁 (Shard)",
-            "url": "mxc://matrix.chir.rs/87b5c2d8b2eff4db35527d7e207935607fe8b0961707808884690780160",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 210144,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/87b5c2d8b2eff4db35527d7e207935607fe8b0961707808884690780160",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 210144,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1051918858945822748",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1051918858945822732",
-                    "short_name": "ShardWolf"
-                },
-                "id": "1051918858945822748",
-                "emoticons": [
-                    "😁"
-                ]
-            }
-        },
-        {
-            "body": "😔 (Shard)",
-            "url": "mxc://matrix.chir.rs/a0b7e60ace5866a17c4c7cbb797bbfcc8b6b64551707808894157324288",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 211184,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0b7e60ace5866a17c4c7cbb797bbfcc8b6b64551707808894157324288",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 211184,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1051918858945822752",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1051918858945822732",
-                    "short_name": "ShardWolf"
-                },
-                "id": "1051918858945822752",
-                "emoticons": [
-                    "🤗",
-                    "😔"
+                    "😏"
                 ]
             }
         },
@@ -331,36 +361,6 @@
                     "🏳‍🌈",
                     "🌈",
                     "👨‍❤‍👨"
-                ]
-            }
-        },
-        {
-            "body": "💻 (Shard)",
-            "url": "mxc://matrix.chir.rs/5597bbb03d3f580745d212478a02f62b4360fd581707808900977262592",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 138113,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5597bbb03d3f580745d212478a02f62b4360fd581707808900977262592",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 138113,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-1051918858945822755",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "1051918858945822732",
-                    "short_name": "ShardWolf"
-                },
-                "id": "1051918858945822755",
-                "emoticons": [
-                    "💻",
-                    "🐞"
                 ]
             }
         }

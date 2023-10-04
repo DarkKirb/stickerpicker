@@ -7,31 +7,31 @@
     },
     "stickers": [
         {
-            "body": "🙌 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d68e01d25d7e4478104c96bda26dd20aac6b5ddb1707807772109701120",
+            "body": "🔴 (Otter!)",
+            "url": "mxc://matrix.chir.rs/c4ac475f54b58b40c5dc4d44d876e1f64cc5517b1707807795778158592",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 210830,
+                "size": 184237,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d68e01d25d7e4478104c96bda26dd20aac6b5ddb1707807772109701120",
+                "thumbnail_url": "mxc://matrix.chir.rs/c4ac475f54b58b40c5dc4d44d876e1f64cc5517b1707807795778158592",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 210830,
+                    "size": 184237,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393126361",
+            "id": "tg-532015945393126360",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393126361",
+                "id": "532015945393126360",
                 "emoticons": [
-                    "🙌"
+                    "🔴"
                 ]
             }
         },
@@ -65,6 +65,35 @@
             }
         },
         {
+            "body": "🍵 (Otter!)",
+            "url": "mxc://matrix.chir.rs/cc3c9dfbb42dd805aabd38e2df757c4ab555867e1707807773397352448",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173009,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc3c9dfbb42dd805aabd38e2df757c4ab555867e1707807773397352448",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173009,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393126367",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393126367",
+                "emoticons": [
+                    "🍵"
+                ]
+            }
+        },
+        {
             "body": "😏 (Otter!)",
             "url": "mxc://matrix.chir.rs/7819528bbc65add8de766d2dda48dc44255e51381707807771031764992",
             "info": {
@@ -90,35 +119,6 @@
                 "id": "532015945393126365",
                 "emoticons": [
                     "😏"
-                ]
-            }
-        },
-        {
-            "body": "💦 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d8896bf32ad9592774f632a294a767260ec053a51707807769832194048",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 209932,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d8896bf32ad9592774f632a294a767260ec053a51707807769832194048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 209932,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393126364",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393126364",
-                "emoticons": [
-                    "💦"
                 ]
             }
         },
@@ -152,35 +152,6 @@
             }
         },
         {
-            "body": "😨 (Otter!)",
-            "url": "mxc://matrix.chir.rs/4376c5ec9fa6138a34dc85d7592194c37b8c79a71707807768217387008",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 156527,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4376c5ec9fa6138a34dc85d7592194c37b8c79a71707807768217387008",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 156527,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393126362",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393126362",
-                "emoticons": [
-                    "😨"
-                ]
-            }
-        },
-        {
             "body": "🍻 (Otter!)",
             "url": "mxc://matrix.chir.rs/a05d67e6caabd9541ab8b88d631ae74f99b24fb81707807778556346368",
             "info": {
@@ -210,118 +181,31 @@
             }
         },
         {
-            "body": "🍵 (Otter!)",
-            "url": "mxc://matrix.chir.rs/cc3c9dfbb42dd805aabd38e2df757c4ab555867e1707807773397352448",
+            "body": "🐟 (Otter!)",
+            "url": "mxc://matrix.chir.rs/4423baaba38ae96d94588a5749da31047a88c13a1707807774798249984",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 173009,
+                "size": 230555,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cc3c9dfbb42dd805aabd38e2df757c4ab555867e1707807773397352448",
+                "thumbnail_url": "mxc://matrix.chir.rs/4423baaba38ae96d94588a5749da31047a88c13a1707807774798249984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 173009,
+                    "size": 230555,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393126367",
+            "id": "tg-532015945393126369",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393126367",
+                "id": "532015945393126369",
                 "emoticons": [
-                    "🍵"
-                ]
-            }
-        },
-        {
-            "body": "🔴 (Otter!)",
-            "url": "mxc://matrix.chir.rs/c4ac475f54b58b40c5dc4d44d876e1f64cc5517b1707807795778158592",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184237,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4ac475f54b58b40c5dc4d44d876e1f64cc5517b1707807795778158592",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184237,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393126360",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393126360",
-                "emoticons": [
-                    "🔴"
-                ]
-            }
-        },
-        {
-            "body": "😛 (Otter!)",
-            "url": "mxc://matrix.chir.rs/7bb105b5c51cf493d5ef75038983cc3de4a0d3db1707807787494408192",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 183594,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7bb105b5c51cf493d5ef75038983cc3de4a0d3db1707807787494408192",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 183594,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393126829",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393126829",
-                "emoticons": [
-                    "😛"
-                ]
-            }
-        },
-        {
-            "body": "🐾 (Otter!)",
-            "url": "mxc://matrix.chir.rs/8f3291675e5439ccd721f91e14fa0059d51e883a1707807779030302720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 222450,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8f3291675e5439ccd721f91e14fa0059d51e883a1707807779030302720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 222450,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130272",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130272",
-                "emoticons": [
-                    "🐾"
+                    "🐟"
                 ]
             }
         },
@@ -355,31 +239,89 @@
             }
         },
         {
-            "body": "💤 (Otter!)",
-            "url": "mxc://matrix.chir.rs/525ab371c56161b29b3f8ed4d8c41bf1ce8fb9c71707807792418521088",
+            "body": "😳 (Otter!)",
+            "url": "mxc://matrix.chir.rs/5ecef7bc905c8f2a53739a282d55b74605e0a0a71707807777088339968",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 158499,
+                "size": 207866,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/525ab371c56161b29b3f8ed4d8c41bf1ce8fb9c71707807792418521088",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ecef7bc905c8f2a53739a282d55b74605e0a0a71707807777088339968",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 158499,
+                    "size": 207866,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393126830",
+            "id": "tg-532015945393126828",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393126830",
+                "id": "532015945393126828",
                 "emoticons": [
-                    "💤"
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😨 (Otter!)",
+            "url": "mxc://matrix.chir.rs/4376c5ec9fa6138a34dc85d7592194c37b8c79a71707807768217387008",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156527,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4376c5ec9fa6138a34dc85d7592194c37b8c79a71707807768217387008",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156527,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393126362",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393126362",
+                "emoticons": [
+                    "😨"
+                ]
+            }
+        },
+        {
+            "body": "😛 (Otter!)",
+            "url": "mxc://matrix.chir.rs/7bb105b5c51cf493d5ef75038983cc3de4a0d3db1707807787494408192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 183594,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7bb105b5c51cf493d5ef75038983cc3de4a0d3db1707807787494408192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 183594,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393126829",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393126829",
+                "emoticons": [
+                    "😛"
                 ]
             }
         },
@@ -442,60 +384,31 @@
             }
         },
         {
-            "body": "🐟 (Otter!)",
-            "url": "mxc://matrix.chir.rs/4423baaba38ae96d94588a5749da31047a88c13a1707807774798249984",
+            "body": "🐾 (Otter!)",
+            "url": "mxc://matrix.chir.rs/8f3291675e5439ccd721f91e14fa0059d51e883a1707807779030302720",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 230555,
+                "size": 222450,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4423baaba38ae96d94588a5749da31047a88c13a1707807774798249984",
+                "thumbnail_url": "mxc://matrix.chir.rs/8f3291675e5439ccd721f91e14fa0059d51e883a1707807779030302720",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 230555,
+                    "size": 222450,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393126369",
+            "id": "tg-532015945393130272",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393126369",
+                "id": "532015945393130272",
                 "emoticons": [
-                    "🐟"
-                ]
-            }
-        },
-        {
-            "body": "🏄 (Otter!)",
-            "url": "mxc://matrix.chir.rs/3d491f1f1d56eade1dae3816bb99ab533b1ed67e1707807786630381568",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 251804,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d491f1f1d56eade1dae3816bb99ab533b1ed67e1707807786630381568",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 251804,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130274",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130274",
-                "emoticons": [
-                    "🏄"
+                    "🐾"
                 ]
             }
         },
@@ -525,35 +438,6 @@
                 "id": "532015945393130275",
                 "emoticons": [
                     "🍹"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Otter!)",
-            "url": "mxc://matrix.chir.rs/5ecef7bc905c8f2a53739a282d55b74605e0a0a71707807777088339968",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 207866,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5ecef7bc905c8f2a53739a282d55b74605e0a0a71707807777088339968",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 207866,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393126828",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393126828",
-                "emoticons": [
-                    "😳"
                 ]
             }
         },
@@ -616,60 +500,31 @@
             }
         },
         {
-            "body": "😘 (Otter!)",
-            "url": "mxc://matrix.chir.rs/202e9902774857bfd1c164f4e668ca1f299860e01707807807593512960",
+            "body": "🙌 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d68e01d25d7e4478104c96bda26dd20aac6b5ddb1707807772109701120",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 227703,
+                "size": 210830,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/202e9902774857bfd1c164f4e668ca1f299860e01707807807593512960",
+                "thumbnail_url": "mxc://matrix.chir.rs/d68e01d25d7e4478104c96bda26dd20aac6b5ddb1707807772109701120",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 227703,
+                    "size": 210830,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393130278",
+            "id": "tg-532015945393126361",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393130278",
+                "id": "532015945393126361",
                 "emoticons": [
-                    "😘"
-                ]
-            }
-        },
-        {
-            "body": "😊 (Otter!)",
-            "url": "mxc://matrix.chir.rs/223d5ebf6196b40d56c126dbb450ebf85c9f1cda1707807798890332160",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 220347,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/223d5ebf6196b40d56c126dbb450ebf85c9f1cda1707807798890332160",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 220347,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130286",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130286",
-                "emoticons": [
-                    "😊"
+                    "🙌"
                 ]
             }
         },
@@ -699,6 +554,122 @@
                 "id": "532015945393130279",
                 "emoticons": [
                     "👅"
+                ]
+            }
+        },
+        {
+            "body": "🙂 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d5bc8a9f0a5890e2efd02baafe7faefaecca37791707807783333658624",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173630,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d5bc8a9f0a5890e2efd02baafe7faefaecca37791707807783333658624",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173630,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130280",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130280",
+                "emoticons": [
+                    "🙂"
+                ]
+            }
+        },
+        {
+            "body": "😘 (Otter!)",
+            "url": "mxc://matrix.chir.rs/202e9902774857bfd1c164f4e668ca1f299860e01707807807593512960",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227703,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/202e9902774857bfd1c164f4e668ca1f299860e01707807807593512960",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227703,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130278",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130278",
+                "emoticons": [
+                    "😘"
+                ]
+            }
+        },
+        {
+            "body": "💦 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d8896bf32ad9592774f632a294a767260ec053a51707807769832194048",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 209932,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d8896bf32ad9592774f632a294a767260ec053a51707807769832194048",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 209932,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393126364",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393126364",
+                "emoticons": [
+                    "💦"
+                ]
+            }
+        },
+        {
+            "body": "💤 (Otter!)",
+            "url": "mxc://matrix.chir.rs/525ab371c56161b29b3f8ed4d8c41bf1ce8fb9c71707807792418521088",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 158499,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/525ab371c56161b29b3f8ed4d8c41bf1ce8fb9c71707807792418521088",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 158499,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393126830",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393126830",
+                "emoticons": [
+                    "💤"
                 ]
             }
         },
@@ -790,6 +761,93 @@
             }
         },
         {
+            "body": "😋 (Otter!)",
+            "url": "mxc://matrix.chir.rs/1ae78469f76b997b1c2eb47aa3a3e45ea56b0b4e1707807788660424704",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 201784,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ae78469f76b997b1c2eb47aa3a3e45ea56b0b4e1707807788660424704",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 201784,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130285",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130285",
+                "emoticons": [
+                    "😋"
+                ]
+            }
+        },
+        {
+            "body": "🏄 (Otter!)",
+            "url": "mxc://matrix.chir.rs/3d491f1f1d56eade1dae3816bb99ab533b1ed67e1707807786630381568",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 251804,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d491f1f1d56eade1dae3816bb99ab533b1ed67e1707807786630381568",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 251804,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130274",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130274",
+                "emoticons": [
+                    "🏄"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Otter!)",
+            "url": "mxc://matrix.chir.rs/223d5ebf6196b40d56c126dbb450ebf85c9f1cda1707807798890332160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 220347,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/223d5ebf6196b40d56c126dbb450ebf85c9f1cda1707807798890332160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 220347,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130286",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130286",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
             "body": "👋 (Otter!)",
             "url": "mxc://matrix.chir.rs/7503d34a8d1eb363329d92224a5b519855edfdb61707807790732410880",
             "info": {
@@ -815,35 +873,6 @@
                 "id": "532015945393130287",
                 "emoticons": [
                     "👋"
-                ]
-            }
-        },
-        {
-            "body": "👎 (Otter!)",
-            "url": "mxc://matrix.chir.rs/a0430e222866428a9b8a70d7ede35c17913685d51707807799246848000",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 158287,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0430e222866428a9b8a70d7ede35c17913685d51707807799246848000",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 158287,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130290",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130290",
-                "emoticons": [
-                    "👎"
                 ]
             }
         },
@@ -877,6 +906,64 @@
             }
         },
         {
+            "body": "😠 (Otter!)",
+            "url": "mxc://matrix.chir.rs/cc6ca7dfe9f24b6097a865aa01b041982aff60811707807797955002368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206750,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cc6ca7dfe9f24b6097a865aa01b041982aff60811707807797955002368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206750,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130295",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130295",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "👎 (Otter!)",
+            "url": "mxc://matrix.chir.rs/a0430e222866428a9b8a70d7ede35c17913685d51707807799246848000",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 158287,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0430e222866428a9b8a70d7ede35c17913685d51707807799246848000",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 158287,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130290",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130290",
+                "emoticons": [
+                    "👎"
+                ]
+            }
+        },
+        {
             "body": "😳 (Otter!)",
             "url": "mxc://matrix.chir.rs/392ed945f5454f789aac16201312872f876b8b651707807801406914560",
             "info": {
@@ -906,60 +993,60 @@
             }
         },
         {
-            "body": "❄️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/de2b0de0350a21157b65a17a8fa99981615b6add1707807789889355776",
+            "body": "🙄 (Otter!)",
+            "url": "mxc://matrix.chir.rs/238c3164f75367f5cb8c33a1a2d7452d38611d571707807804204515328",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 185025,
+                "size": 198114,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/de2b0de0350a21157b65a17a8fa99981615b6add1707807789889355776",
+                "thumbnail_url": "mxc://matrix.chir.rs/238c3164f75367f5cb8c33a1a2d7452d38611d571707807804204515328",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 185025,
+                    "size": 198114,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393130284",
+            "id": "tg-532015945393130289",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393130284",
+                "id": "532015945393130289",
                 "emoticons": [
-                    "❄"
+                    "🙄"
                 ]
             }
         },
         {
-            "body": "👍 (Otter!)",
-            "url": "mxc://matrix.chir.rs/66656e935b0f3674c01efcd3f0d9b59fb20dd9f01707807806326833152",
+            "body": "😁 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d63e5e354154eee32db1890d5533eac4f44573a31707807802619068416",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 200534,
+                "size": 196754,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/66656e935b0f3674c01efcd3f0d9b59fb20dd9f01707807806326833152",
+                "thumbnail_url": "mxc://matrix.chir.rs/d63e5e354154eee32db1890d5533eac4f44573a31707807802619068416",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 200534,
+                    "size": 196754,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393130288",
+            "id": "tg-532015945393130294",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393130288",
+                "id": "532015945393130294",
                 "emoticons": [
-                    "👍"
+                    "😁"
                 ]
             }
         },
@@ -1051,6 +1138,64 @@
             }
         },
         {
+            "body": "😄 (Otter!)",
+            "url": "mxc://matrix.chir.rs/31d796a1ac7ada4349fe13a6d1c1fa5e2547d3901707807808688226304",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 127457,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/31d796a1ac7ada4349fe13a6d1c1fa5e2547d3901707807808688226304",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 127457,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134454",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393134454",
+                "emoticons": [
+                    "😄"
+                ]
+            }
+        },
+        {
+            "body": "🌕 (Otter!)",
+            "url": "mxc://matrix.chir.rs/f7fd5363de7179ccdbeb775eeb7447d889ee1ac91707807814656720896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186784,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f7fd5363de7179ccdbeb775eeb7447d889ee1ac91707807814656720896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186784,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134455",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393134455",
+                "emoticons": [
+                    "🌕"
+                ]
+            }
+        },
+        {
             "body": "👃 (Otter!)",
             "url": "mxc://matrix.chir.rs/f3d8fbbc99212ff578db78440f47e235387a6e6c1707807805030793216",
             "info": {
@@ -1138,180 +1283,6 @@
             }
         },
         {
-            "body": "😠 (Otter!)",
-            "url": "mxc://matrix.chir.rs/cc6ca7dfe9f24b6097a865aa01b041982aff60811707807797955002368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206750,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cc6ca7dfe9f24b6097a865aa01b041982aff60811707807797955002368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206750,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130295",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130295",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "🙂 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d5bc8a9f0a5890e2efd02baafe7faefaecca37791707807783333658624",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173630,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d5bc8a9f0a5890e2efd02baafe7faefaecca37791707807783333658624",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173630,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130280",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130280",
-                "emoticons": [
-                    "🙂"
-                ]
-            }
-        },
-        {
-            "body": "🌕 (Otter!)",
-            "url": "mxc://matrix.chir.rs/f7fd5363de7179ccdbeb775eeb7447d889ee1ac91707807814656720896",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 186784,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f7fd5363de7179ccdbeb775eeb7447d889ee1ac91707807814656720896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 186784,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134455",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393134455",
-                "emoticons": [
-                    "🌕"
-                ]
-            }
-        },
-        {
-            "body": "💧 (Otter!)",
-            "url": "mxc://matrix.chir.rs/64f835fbe579d9cc2a90c6b77524733d099491731707807802614874112",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 283566,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/64f835fbe579d9cc2a90c6b77524733d099491731707807802614874112",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 283566,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134460",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393134460",
-                "emoticons": [
-                    "💧"
-                ]
-            }
-        },
-        {
-            "body": "😁 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d63e5e354154eee32db1890d5533eac4f44573a31707807802619068416",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 196754,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d63e5e354154eee32db1890d5533eac4f44573a31707807802619068416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 196754,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130294",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130294",
-                "emoticons": [
-                    "😁"
-                ]
-            }
-        },
-        {
-            "body": "😋 (Otter!)",
-            "url": "mxc://matrix.chir.rs/1ae78469f76b997b1c2eb47aa3a3e45ea56b0b4e1707807788660424704",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 201784,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1ae78469f76b997b1c2eb47aa3a3e45ea56b0b4e1707807788660424704",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 201784,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393130285",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393130285",
-                "emoticons": [
-                    "😋"
-                ]
-            }
-        },
-        {
             "body": "💢 (Otter!)",
             "url": "mxc://matrix.chir.rs/84e259b9494a6026529fe5838938b0244fc8cf9c1707807809300594688",
             "info": {
@@ -1370,31 +1341,176 @@
             }
         },
         {
-            "body": "🙄 (Otter!)",
-            "url": "mxc://matrix.chir.rs/238c3164f75367f5cb8c33a1a2d7452d38611d571707807804204515328",
+            "body": "💧 (Otter!)",
+            "url": "mxc://matrix.chir.rs/64f835fbe579d9cc2a90c6b77524733d099491731707807802614874112",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 198114,
+                "size": 283566,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/238c3164f75367f5cb8c33a1a2d7452d38611d571707807804204515328",
+                "thumbnail_url": "mxc://matrix.chir.rs/64f835fbe579d9cc2a90c6b77524733d099491731707807802614874112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 198114,
+                    "size": 283566,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393130289",
+            "id": "tg-532015945393134460",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393130289",
+                "id": "532015945393134460",
                 "emoticons": [
-                    "🙄"
+                    "💧"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Otter!)",
+            "url": "mxc://matrix.chir.rs/66656e935b0f3674c01efcd3f0d9b59fb20dd9f01707807806326833152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200534,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/66656e935b0f3674c01efcd3f0d9b59fb20dd9f01707807806326833152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200534,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130288",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130288",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "💸 (Otter!)",
+            "url": "mxc://matrix.chir.rs/a4bda6d35e62049bd806877f1d0b55b35aeb2e991707807810189787136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 426480,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a4bda6d35e62049bd806877f1d0b55b35aeb2e991707807810189787136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 426480,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136606",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136606",
+                "emoticons": [
+                    "💸"
+                ]
+            }
+        },
+        {
+            "body": "💸 (Otter!)",
+            "url": "mxc://matrix.chir.rs/716c5fa7d5db1a815bd2bce61e84be9e49c138641707807825243144192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 422487,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/716c5fa7d5db1a815bd2bce61e84be9e49c138641707807825243144192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 422487,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136613",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136613",
+                "emoticons": [
+                    "💸"
+                ]
+            }
+        },
+        {
+            "body": "😈 (Otter!)",
+            "url": "mxc://matrix.chir.rs/f9eb3d84ca13776baa07681ce274360fb1da90181707807826727927808",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 177647,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f9eb3d84ca13776baa07681ce274360fb1da90181707807826727927808",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 177647,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136615",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136615",
+                "emoticons": [
+                    "😈"
+                ]
+            }
+        },
+        {
+            "body": "☝️ (Otter!)",
+            "url": "mxc://matrix.chir.rs/d37e759853787c8098f67967f42597bd714ac67f1707807811989143552",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 166708,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d37e759853787c8098f67967f42597bd714ac67f1707807811989143552",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 166708,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136616",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136616",
+                "emoticons": [
+                    "☝"
                 ]
             }
         },
@@ -1424,6 +1540,325 @@
                 "id": "532015945393134463",
                 "emoticons": [
                     "💨"
+                ]
+            }
+        },
+        {
+            "body": "🌧 (Otter!)",
+            "url": "mxc://matrix.chir.rs/57edf0df71fe3b5ba06012c577e6b7e03509294b1707807823754166272",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 238365,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/57edf0df71fe3b5ba06012c577e6b7e03509294b1707807823754166272",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 238365,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136620",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136620",
+                "emoticons": [
+                    "🌧"
+                ]
+            }
+        },
+        {
+            "body": "❤️ (Otter!)",
+            "url": "mxc://matrix.chir.rs/88e0ae168a03a031e10887cee39df7ee19d99cc61707807815797571584",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 240728,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/88e0ae168a03a031e10887cee39df7ee19d99cc61707807815797571584",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 240728,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136617",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136617",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "✨ (Otter!)",
+            "url": "mxc://matrix.chir.rs/ad2ebdf60250b612f38378714b7f660671febf631707807811993337856",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204506,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ad2ebdf60250b612f38378714b7f660671febf631707807811993337856",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204506,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136618",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136618",
+                "emoticons": [
+                    "✨"
+                ]
+            }
+        },
+        {
+            "body": "🐟 (Otter!)",
+            "url": "mxc://matrix.chir.rs/6301c32f6e8bb2ef3591f63cbf7ac560394146a31707807813205491712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206558,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6301c32f6e8bb2ef3591f63cbf7ac560394146a31707807813205491712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206558,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136619",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136619",
+                "emoticons": [
+                    "🐟"
+                ]
+            }
+        },
+        {
+            "body": "❗️ (Otter!)",
+            "url": "mxc://matrix.chir.rs/3d057f1ddb68fb286567da1d4a872833673aa49d1707807814665109504",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133612,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d057f1ddb68fb286567da1d4a872833673aa49d1707807814665109504",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133612,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136623",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136623",
+                "emoticons": [
+                    "❗"
+                ]
+            }
+        },
+        {
+            "body": "💨 (Otter!)",
+            "url": "mxc://matrix.chir.rs/3dd0c2a669dbdd9201cd8ccd857319fe1303020c1707807835741487104",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189248,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3dd0c2a669dbdd9201cd8ccd857319fe1303020c1707807835741487104",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189248,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136624",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136624",
+                "emoticons": [
+                    "💨"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d3d16bdaaf04ad22b356e322627dd5d3ca63b09e1707807821287915520",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 139553,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d3d16bdaaf04ad22b356e322627dd5d3ca63b09e1707807821287915520",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 139553,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136622",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136622",
+                "emoticons": [
+                    "🙌"
+                ]
+            }
+        },
+        {
+            "body": "🦖 (Otter!)",
+            "url": "mxc://matrix.chir.rs/2447565e082410625fb562356e6804e1c43d1a0b1707807818704224256",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 247313,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2447565e082410625fb562356e6804e1c43d1a0b1707807818704224256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 247313,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136625",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136625",
+                "emoticons": [
+                    "🦖"
+                ]
+            }
+        },
+        {
+            "body": "😱 (Otter!)",
+            "url": "mxc://matrix.chir.rs/7953f15b582dc4231a9a8d6a606fb1e17e2d6d3f1707807817424961536",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204079,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7953f15b582dc4231a9a8d6a606fb1e17e2d6d3f1707807817424961536",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204079,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136626",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136626",
+                "emoticons": [
+                    "😱"
+                ]
+            }
+        },
+        {
+            "body": "😄 (Otter!)",
+            "url": "mxc://matrix.chir.rs/44a4304af0cca9ea237c07409295cd46293ab24a1707807830506995712",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 274087,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/44a4304af0cca9ea237c07409295cd46293ab24a1707807830506995712",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 274087,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136628",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136628",
+                "emoticons": [
+                    "😄"
+                ]
+            }
+        },
+        {
+            "body": "❄️ (Otter!)",
+            "url": "mxc://matrix.chir.rs/de2b0de0350a21157b65a17a8fa99981615b6add1707807789889355776",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185025,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/de2b0de0350a21157b65a17a8fa99981615b6add1707807789889355776",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185025,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393130284",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393130284",
+                "emoticons": [
+                    "❄"
                 ]
             }
         },
@@ -1458,557 +1893,6 @@
         },
         {
             "body": "😈 (Otter!)",
-            "url": "mxc://matrix.chir.rs/f9eb3d84ca13776baa07681ce274360fb1da90181707807826727927808",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 177647,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f9eb3d84ca13776baa07681ce274360fb1da90181707807826727927808",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 177647,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136615",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136615",
-                "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
-            "body": "💸 (Otter!)",
-            "url": "mxc://matrix.chir.rs/a4bda6d35e62049bd806877f1d0b55b35aeb2e991707807810189787136",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 426480,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a4bda6d35e62049bd806877f1d0b55b35aeb2e991707807810189787136",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 426480,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136606",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136606",
-                "emoticons": [
-                    "💸"
-                ]
-            }
-        },
-        {
-            "body": "☝️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/d37e759853787c8098f67967f42597bd714ac67f1707807811989143552",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166708,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d37e759853787c8098f67967f42597bd714ac67f1707807811989143552",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166708,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136616",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136616",
-                "emoticons": [
-                    "☝"
-                ]
-            }
-        },
-        {
-            "body": "🌧 (Otter!)",
-            "url": "mxc://matrix.chir.rs/57edf0df71fe3b5ba06012c577e6b7e03509294b1707807823754166272",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 238365,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/57edf0df71fe3b5ba06012c577e6b7e03509294b1707807823754166272",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 238365,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136620",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136620",
-                "emoticons": [
-                    "🌧"
-                ]
-            }
-        },
-        {
-            "body": "🐚 (Otter!)",
-            "url": "mxc://matrix.chir.rs/8d807233b15362b4557ecc1554e3af75f214e6551707807825557716992",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189210,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8d807233b15362b4557ecc1554e3af75f214e6551707807825557716992",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189210,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136621",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136621",
-                "emoticons": [
-                    "🐚"
-                ]
-            }
-        },
-        {
-            "body": "🐟 (Otter!)",
-            "url": "mxc://matrix.chir.rs/6301c32f6e8bb2ef3591f63cbf7ac560394146a31707807813205491712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206558,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6301c32f6e8bb2ef3591f63cbf7ac560394146a31707807813205491712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206558,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136619",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136619",
-                "emoticons": [
-                    "🐟"
-                ]
-            }
-        },
-        {
-            "body": "😄 (Otter!)",
-            "url": "mxc://matrix.chir.rs/31d796a1ac7ada4349fe13a6d1c1fa5e2547d3901707807808688226304",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 127457,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/31d796a1ac7ada4349fe13a6d1c1fa5e2547d3901707807808688226304",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 127457,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134454",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393134454",
-                "emoticons": [
-                    "😄"
-                ]
-            }
-        },
-        {
-            "body": "❤️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/88e0ae168a03a031e10887cee39df7ee19d99cc61707807815797571584",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 240728,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/88e0ae168a03a031e10887cee39df7ee19d99cc61707807815797571584",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 240728,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136617",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136617",
-                "emoticons": [
-                    "❤"
-                ]
-            }
-        },
-        {
-            "body": "❗️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/3d057f1ddb68fb286567da1d4a872833673aa49d1707807814665109504",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 133612,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d057f1ddb68fb286567da1d4a872833673aa49d1707807814665109504",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 133612,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136623",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136623",
-                "emoticons": [
-                    "❗"
-                ]
-            }
-        },
-        {
-            "body": "🙌 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d3d16bdaaf04ad22b356e322627dd5d3ca63b09e1707807821287915520",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 139553,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d3d16bdaaf04ad22b356e322627dd5d3ca63b09e1707807821287915520",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 139553,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136622",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136622",
-                "emoticons": [
-                    "🙌"
-                ]
-            }
-        },
-        {
-            "body": "💸 (Otter!)",
-            "url": "mxc://matrix.chir.rs/716c5fa7d5db1a815bd2bce61e84be9e49c138641707807825243144192",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 422487,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/716c5fa7d5db1a815bd2bce61e84be9e49c138641707807825243144192",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 422487,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136613",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136613",
-                "emoticons": [
-                    "💸"
-                ]
-            }
-        },
-        {
-            "body": "💨 (Otter!)",
-            "url": "mxc://matrix.chir.rs/3dd0c2a669dbdd9201cd8ccd857319fe1303020c1707807835741487104",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189248,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3dd0c2a669dbdd9201cd8ccd857319fe1303020c1707807835741487104",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189248,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136624",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136624",
-                "emoticons": [
-                    "💨"
-                ]
-            }
-        },
-        {
-            "body": "🦖 (Otter!)",
-            "url": "mxc://matrix.chir.rs/2447565e082410625fb562356e6804e1c43d1a0b1707807818704224256",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 247313,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2447565e082410625fb562356e6804e1c43d1a0b1707807818704224256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 247313,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136625",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136625",
-                "emoticons": [
-                    "🦖"
-                ]
-            }
-        },
-        {
-            "body": "😄 (Otter!)",
-            "url": "mxc://matrix.chir.rs/44a4304af0cca9ea237c07409295cd46293ab24a1707807830506995712",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 274087,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/44a4304af0cca9ea237c07409295cd46293ab24a1707807830506995712",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 274087,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136628",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136628",
-                "emoticons": [
-                    "😄"
-                ]
-            }
-        },
-        {
-            "body": "😣 (Otter!)",
-            "url": "mxc://matrix.chir.rs/77bdb1055c42f7f1db14354375c69b3243b8f6241707807828321763328",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173554,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/77bdb1055c42f7f1db14354375c69b3243b8f6241707807828321763328",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173554,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136632",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136632",
-                "emoticons": [
-                    "😣"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (Otter!)",
-            "url": "mxc://matrix.chir.rs/f0c4e521301550b71a0fc647be475e116795818d1707807826795036672",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 181300,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f0c4e521301550b71a0fc647be475e116795818d1707807826795036672",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 181300,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136630",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136630",
-                "emoticons": [
-                    "🐶"
-                ]
-            }
-        },
-        {
-            "body": "😧 (Otter!)",
-            "url": "mxc://matrix.chir.rs/8abcc15a0fdf37809aba790ee3b697f5a568607f1707807832541233152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 201093,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8abcc15a0fdf37809aba790ee3b697f5a568607f1707807832541233152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 201093,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136633",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136633",
-                "emoticons": [
-                    "😧"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Otter!)",
-            "url": "mxc://matrix.chir.rs/fbc058d38e739ea375bfe915d05df9695024660f1707807822630092800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 189503,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fbc058d38e739ea375bfe915d05df9695024660f1707807822630092800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 189503,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136631",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136631",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "✨ (Otter!)",
-            "url": "mxc://matrix.chir.rs/ad2ebdf60250b612f38378714b7f660671febf631707807811993337856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 204506,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ad2ebdf60250b612f38378714b7f660671febf631707807811993337856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 204506,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136618",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136618",
-                "emoticons": [
-                    "✨"
-                ]
-            }
-        },
-        {
-            "body": "😈 (Otter!)",
             "url": "mxc://matrix.chir.rs/3b8a92ccfa7b51ee7e61663d3586b76450e4f1691707807834168623104",
             "info": {
                 "w": 256,
@@ -2033,64 +1917,6 @@
                 "id": "532015945393136634",
                 "emoticons": [
                     "😈"
-                ]
-            }
-        },
-        {
-            "body": "🤤 (Otter!)",
-            "url": "mxc://matrix.chir.rs/2981d55df6b1716e3d776712d7240010ecc298b91707807840627851264",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 150128,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2981d55df6b1716e3d776712d7240010ecc298b91707807840627851264",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 150128,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136636",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136636",
-                "emoticons": [
-                    "🤤"
-                ]
-            }
-        },
-        {
-            "body": "🍹 (Otter!)",
-            "url": "mxc://matrix.chir.rs/36e391acc6fba28b168dee72b89783201043a6a11707807849029042176",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 215987,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/36e391acc6fba28b168dee72b89783201043a6a11707807849029042176",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 215987,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136635",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136635",
-                "emoticons": [
-                    "🍹"
                 ]
             }
         },
@@ -2124,31 +1950,205 @@
             }
         },
         {
-            "body": "😠 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d077d85f1f14741150f6401bd6f9756b3b0124ae1707807828913160192",
+            "body": "😣 (Otter!)",
+            "url": "mxc://matrix.chir.rs/77bdb1055c42f7f1db14354375c69b3243b8f6241707807828321763328",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 257503,
+                "size": 173554,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d077d85f1f14741150f6401bd6f9756b3b0124ae1707807828913160192",
+                "thumbnail_url": "mxc://matrix.chir.rs/77bdb1055c42f7f1db14354375c69b3243b8f6241707807828321763328",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 257503,
+                    "size": 173554,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393140459",
+            "id": "tg-532015945393136632",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393140459",
+                "id": "532015945393136632",
                 "emoticons": [
-                    "😠"
+                    "😣"
+                ]
+            }
+        },
+        {
+            "body": "🐟 (Otter!)",
+            "url": "mxc://matrix.chir.rs/e4c0de984a47231a34c32f89c274742913bf36211707807820402917376",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214655,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/e4c0de984a47231a34c32f89c274742913bf36211707807820402917376",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214655,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136627",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136627",
+                "emoticons": [
+                    "🐟"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Otter!)",
+            "url": "mxc://matrix.chir.rs/fbc058d38e739ea375bfe915d05df9695024660f1707807822630092800",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189503,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fbc058d38e739ea375bfe915d05df9695024660f1707807822630092800",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189503,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136631",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136631",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🍹 (Otter!)",
+            "url": "mxc://matrix.chir.rs/36e391acc6fba28b168dee72b89783201043a6a11707807849029042176",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215987,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/36e391acc6fba28b168dee72b89783201043a6a11707807849029042176",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215987,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136635",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136635",
+                "emoticons": [
+                    "🍹"
+                ]
+            }
+        },
+        {
+            "body": "👅 (Otter!)",
+            "url": "mxc://matrix.chir.rs/58c46f26b9d1902e703aec600c6be9f121b110ea1707807831220027392",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 221338,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/58c46f26b9d1902e703aec600c6be9f121b110ea1707807831220027392",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 221338,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136637",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136637",
+                "emoticons": [
+                    "👅"
+                ]
+            }
+        },
+        {
+            "body": "🤤 (Otter!)",
+            "url": "mxc://matrix.chir.rs/2981d55df6b1716e3d776712d7240010ecc298b91707807840627851264",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 150128,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2981d55df6b1716e3d776712d7240010ecc298b91707807840627851264",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 150128,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136636",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136636",
+                "emoticons": [
+                    "🤤"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Otter!)",
+            "url": "mxc://matrix.chir.rs/552331b81e6a96ca1c1eacb520c6b0fc77af38f91707807830095953920",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 250505,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/552331b81e6a96ca1c1eacb520c6b0fc77af38f91707807830095953920",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 250505,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136638",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136638",
+                "emoticons": [
+                    "🤗"
                 ]
             }
         },
@@ -2178,6 +2178,93 @@
                 "id": "532015945393142122",
                 "emoticons": [
                     "🍣"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d077d85f1f14741150f6401bd6f9756b3b0124ae1707807828913160192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 257503,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d077d85f1f14741150f6401bd6f9756b3b0124ae1707807828913160192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 257503,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393140459",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393140459",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🐚 (Otter!)",
+            "url": "mxc://matrix.chir.rs/8d807233b15362b4557ecc1554e3af75f214e6551707807825557716992",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189210,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8d807233b15362b4557ecc1554e3af75f214e6551707807825557716992",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189210,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136621",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136621",
+                "emoticons": [
+                    "🐚"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Otter!)",
+            "url": "mxc://matrix.chir.rs/f0c4e521301550b71a0fc647be475e116795818d1707807826795036672",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 181300,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f0c4e521301550b71a0fc647be475e116795818d1707807826795036672",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 181300,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136630",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136630",
+                "emoticons": [
+                    "🐶"
                 ]
             }
         },
@@ -2240,147 +2327,31 @@
             }
         },
         {
-            "body": "🐟 (Otter!)",
-            "url": "mxc://matrix.chir.rs/e4c0de984a47231a34c32f89c274742913bf36211707807820402917376",
+            "body": "❄️ (Otter!)",
+            "url": "mxc://matrix.chir.rs/eda373520fe0d8fc53f7951f37d73d857d939af41707807836081225728",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 214655,
+                "size": 190924,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e4c0de984a47231a34c32f89c274742913bf36211707807820402917376",
+                "thumbnail_url": "mxc://matrix.chir.rs/eda373520fe0d8fc53f7951f37d73d857d939af41707807836081225728",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 214655,
+                    "size": 190924,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393136627",
+            "id": "tg-532015945393142123",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393136627",
+                "id": "532015945393142123",
                 "emoticons": [
-                    "🐟"
-                ]
-            }
-        },
-        {
-            "body": "🐚 (Otter!)",
-            "url": "mxc://matrix.chir.rs/7fca9c2e0d575277c61576c16a0e559d9b0959151707807860903116800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 201675,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7fca9c2e0d575277c61576c16a0e559d9b0959151707807860903116800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 201675,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142127",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142127",
-                "emoticons": [
-                    "🐚"
-                ]
-            }
-        },
-        {
-            "body": "😱 (Otter!)",
-            "url": "mxc://matrix.chir.rs/7953f15b582dc4231a9a8d6a606fb1e17e2d6d3f1707807817424961536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 204079,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7953f15b582dc4231a9a8d6a606fb1e17e2d6d3f1707807817424961536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 204079,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136626",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136626",
-                "emoticons": [
-                    "😱"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (Otter!)",
-            "url": "mxc://matrix.chir.rs/0732290791f0b9e7add5a9ace464920976bbb02e1707807834365755392",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 162748,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0732290791f0b9e7add5a9ace464920976bbb02e1707807834365755392",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 162748,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142124",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142124",
-                "emoticons": [
-                    "🔪"
-                ]
-            }
-        },
-        {
-            "body": "👅 (Otter!)",
-            "url": "mxc://matrix.chir.rs/58c46f26b9d1902e703aec600c6be9f121b110ea1707807831220027392",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 221338,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/58c46f26b9d1902e703aec600c6be9f121b110ea1707807831220027392",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 221338,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136637",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136637",
-                "emoticons": [
-                    "👅"
+                    "❄"
                 ]
             }
         },
@@ -2414,93 +2385,6 @@
             }
         },
         {
-            "body": "🤗 (Otter!)",
-            "url": "mxc://matrix.chir.rs/552331b81e6a96ca1c1eacb520c6b0fc77af38f91707807830095953920",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 250505,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/552331b81e6a96ca1c1eacb520c6b0fc77af38f91707807830095953920",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 250505,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136638",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393136638",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "💧 (Otter!)",
-            "url": "mxc://matrix.chir.rs/6d94d0eb4659ccfbb45d5646591ef4870feab80d1707807863268704256",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 233169,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6d94d0eb4659ccfbb45d5646591ef4870feab80d1707807863268704256",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 233169,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142130",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142130",
-                "emoticons": [
-                    "💧"
-                ]
-            }
-        },
-        {
-            "body": "💧 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d44866770b132e817eeab8296ce118fa6195c23b1707807840636239872",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 167457,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d44866770b132e817eeab8296ce118fa6195c23b1707807840636239872",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 167457,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142129",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142129",
-                "emoticons": [
-                    "💧"
-                ]
-            }
-        },
-        {
             "body": "🗯 (Otter!)",
             "url": "mxc://matrix.chir.rs/7cebfbcd9c5d5296409cbd85fddb502731480d691707807837838639104",
             "info": {
@@ -2526,6 +2410,35 @@
                 "id": "532015945393142132",
                 "emoticons": [
                     "🗯"
+                ]
+            }
+        },
+        {
+            "body": "😧 (Otter!)",
+            "url": "mxc://matrix.chir.rs/8abcc15a0fdf37809aba790ee3b697f5a568607f1707807832541233152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 201093,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8abcc15a0fdf37809aba790ee3b697f5a568607f1707807832541233152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 201093,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136633",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393136633",
+                "emoticons": [
+                    "😧"
                 ]
             }
         },
@@ -2559,31 +2472,31 @@
             }
         },
         {
-            "body": "❄️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/cd62b8b73955f1ca7e57911c6cd8959142170bae1707807850421551104",
+            "body": "💧 (Otter!)",
+            "url": "mxc://matrix.chir.rs/6d94d0eb4659ccfbb45d5646591ef4870feab80d1707807863268704256",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 121591,
+                "size": 233169,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cd62b8b73955f1ca7e57911c6cd8959142170bae1707807850421551104",
+                "thumbnail_url": "mxc://matrix.chir.rs/6d94d0eb4659ccfbb45d5646591ef4870feab80d1707807863268704256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 121591,
+                    "size": 233169,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142133",
+            "id": "tg-532015945393142130",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142133",
+                "id": "532015945393142130",
                 "emoticons": [
-                    "❄"
+                    "💧"
                 ]
             }
         },
@@ -2617,145 +2530,29 @@
             }
         },
         {
-            "body": "🌊 (Otter!)",
-            "url": "mxc://matrix.chir.rs/eb4ff8d9c1906d5e3414c0dde747f9eeef2676611707807847221297152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 162306,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb4ff8d9c1906d5e3414c0dde747f9eeef2676611707807847221297152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 162306,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142137",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142137",
-                "emoticons": [
-                    "🌊"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Otter!)",
-            "url": "mxc://matrix.chir.rs/75aadbe1c0aec43b04f82ad2e66bab0164fafaf71707807842108440576",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 283512,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/75aadbe1c0aec43b04f82ad2e66bab0164fafaf71707807842108440576",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 283512,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142135",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142135",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Otter!)",
-            "url": "mxc://matrix.chir.rs/8fb4fcf78f900644073322086644e75235cdecb71707807846139166720",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 178399,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8fb4fcf78f900644073322086644e75235cdecb71707807846139166720",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 178399,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142138",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142138",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "🎸 (Otter!)",
-            "url": "mxc://matrix.chir.rs/eb3d9202cacefe50e2272f8ea0f622b4f0b929131707807852313182208",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 225495,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb3d9202cacefe50e2272f8ea0f622b4f0b929131707807852313182208",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 225495,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142142",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142142",
-                "emoticons": [
-                    "🎸"
-                ]
-            }
-        },
-        {
             "body": "❄️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/eda373520fe0d8fc53f7951f37d73d857d939af41707807836081225728",
+            "url": "mxc://matrix.chir.rs/cd62b8b73955f1ca7e57911c6cd8959142170bae1707807850421551104",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 190924,
+                "size": 121591,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eda373520fe0d8fc53f7951f37d73d857d939af41707807836081225728",
+                "thumbnail_url": "mxc://matrix.chir.rs/cd62b8b73955f1ca7e57911c6cd8959142170bae1707807850421551104",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 190924,
+                    "size": 121591,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142123",
+            "id": "tg-532015945393142133",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142123",
+                "id": "532015945393142133",
                 "emoticons": [
                     "❄"
                 ]
@@ -2791,89 +2588,60 @@
             }
         },
         {
-            "body": "☹️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/965fdb634f24eb044a880e807c2b0a7438427ed11707807845262557184",
+            "body": "🤗 (Otter!)",
+            "url": "mxc://matrix.chir.rs/8fb4fcf78f900644073322086644e75235cdecb71707807846139166720",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 213853,
+                "size": 178399,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/965fdb634f24eb044a880e807c2b0a7438427ed11707807845262557184",
+                "thumbnail_url": "mxc://matrix.chir.rs/8fb4fcf78f900644073322086644e75235cdecb71707807846139166720",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 213853,
+                    "size": 178399,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142143",
+            "id": "tg-532015945393142138",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142143",
+                "id": "532015945393142138",
                 "emoticons": [
-                    "☹"
+                    "🤗"
                 ]
             }
         },
         {
-            "body": "🤨 (Otter!)",
-            "url": "mxc://matrix.chir.rs/327dc745fc32b5a93e9367eb4f7e6b043c9ea2f21707807866154385408",
+            "body": "💧 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d44866770b132e817eeab8296ce118fa6195c23b1707807840636239872",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 255934,
+                "size": 167457,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/327dc745fc32b5a93e9367eb4f7e6b043c9ea2f21707807866154385408",
+                "thumbnail_url": "mxc://matrix.chir.rs/d44866770b132e817eeab8296ce118fa6195c23b1707807840636239872",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 255934,
+                    "size": 167457,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142139",
+            "id": "tg-532015945393142129",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142139",
+                "id": "532015945393142129",
                 "emoticons": [
-                    "🤨"
-                ]
-            }
-        },
-        {
-            "body": "🌀 (Otter!)",
-            "url": "mxc://matrix.chir.rs/961d3b9d4abe64a0238635b6f978c5dc1d3a015c1707807844989927424",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 288053,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/961d3b9d4abe64a0238635b6f978c5dc1d3a015c1707807844989927424",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 288053,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142140",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142140",
-                "emoticons": [
-                    "🌀"
+                    "💧"
                 ]
             }
         },
@@ -2907,60 +2675,60 @@
             }
         },
         {
-            "body": "🙁 (Otter!)",
-            "url": "mxc://matrix.chir.rs/99bcda16d10c1066588b0b990e92bfb7a42a30741707807848303427584",
+            "body": "🔪 (Otter!)",
+            "url": "mxc://matrix.chir.rs/0732290791f0b9e7add5a9ace464920976bbb02e1707807834365755392",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 245598,
+                "size": 162748,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/99bcda16d10c1066588b0b990e92bfb7a42a30741707807848303427584",
+                "thumbnail_url": "mxc://matrix.chir.rs/0732290791f0b9e7add5a9ace464920976bbb02e1707807834365755392",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 245598,
+                    "size": 162748,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142145",
+            "id": "tg-532015945393142124",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142145",
+                "id": "532015945393142124",
                 "emoticons": [
-                    "🙁"
+                    "🔪"
                 ]
             }
         },
         {
-            "body": "😤 (Otter!)",
-            "url": "mxc://matrix.chir.rs/3c62e827e6eeb8e48862e05c9413e6bbfae1ea241707807858902433792",
+            "body": "🤨 (Otter!)",
+            "url": "mxc://matrix.chir.rs/327dc745fc32b5a93e9367eb4f7e6b043c9ea2f21707807866154385408",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 215245,
+                "size": 255934,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3c62e827e6eeb8e48862e05c9413e6bbfae1ea241707807858902433792",
+                "thumbnail_url": "mxc://matrix.chir.rs/327dc745fc32b5a93e9367eb4f7e6b043c9ea2f21707807866154385408",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 215245,
+                    "size": 255934,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142146",
+            "id": "tg-532015945393142139",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142146",
+                "id": "532015945393142139",
                 "emoticons": [
-                    "😤"
+                    "🤨"
                 ]
             }
         },
@@ -2994,89 +2762,89 @@
             }
         },
         {
-            "body": "😊 (Otter!)",
-            "url": "mxc://matrix.chir.rs/fffa581f514a8af340439ac0e34a4de60b3d6b8e1707807856406822912",
+            "body": "🐚 (Otter!)",
+            "url": "mxc://matrix.chir.rs/7fca9c2e0d575277c61576c16a0e559d9b0959151707807860903116800",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 242448,
+                "size": 201675,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fffa581f514a8af340439ac0e34a4de60b3d6b8e1707807856406822912",
+                "thumbnail_url": "mxc://matrix.chir.rs/7fca9c2e0d575277c61576c16a0e559d9b0959151707807860903116800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 242448,
+                    "size": 201675,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142785",
+            "id": "tg-532015945393142127",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142785",
+                "id": "532015945393142127",
                 "emoticons": [
-                    "😊"
+                    "🐚"
                 ]
             }
         },
         {
-            "body": "🏳️‍🌈 (Otter!)",
-            "url": "mxc://matrix.chir.rs/d4008b391cb4e0abcd9461668ab831f9ef19d9d01707807855379218432",
+            "body": "☹️ (Otter!)",
+            "url": "mxc://matrix.chir.rs/965fdb634f24eb044a880e807c2b0a7438427ed11707807845262557184",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 201488,
+                "size": 213853,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d4008b391cb4e0abcd9461668ab831f9ef19d9d01707807855379218432",
+                "thumbnail_url": "mxc://matrix.chir.rs/965fdb634f24eb044a880e807c2b0a7438427ed11707807845262557184",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 201488,
+                    "size": 213853,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142787",
+            "id": "tg-532015945393142143",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142787",
+                "id": "532015945393142143",
                 "emoticons": [
-                    "🏳‍🌈"
+                    "☹"
                 ]
             }
         },
         {
-            "body": "🥺 (Otter!)",
-            "url": "mxc://matrix.chir.rs/938c2fc1be9d7c69fca1856dbe71bc4a6eb783401707807854204813312",
+            "body": "🤗 (Otter!)",
+            "url": "mxc://matrix.chir.rs/75aadbe1c0aec43b04f82ad2e66bab0164fafaf71707807842108440576",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 159915,
+                "size": 283512,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/938c2fc1be9d7c69fca1856dbe71bc4a6eb783401707807854204813312",
+                "thumbnail_url": "mxc://matrix.chir.rs/75aadbe1c0aec43b04f82ad2e66bab0164fafaf71707807842108440576",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 159915,
+                    "size": 283512,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142788",
+            "id": "tg-532015945393142135",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142788",
+                "id": "532015945393142135",
                 "emoticons": [
-                    "🥺"
+                    "🤗"
                 ]
             }
         },
@@ -3110,205 +2878,60 @@
             }
         },
         {
-            "body": "🙌 (Otter!)",
-            "url": "mxc://matrix.chir.rs/5af291b819577054ab4e08b8440f41fce0e275f71707807872252903424",
+            "body": "🙁 (Otter!)",
+            "url": "mxc://matrix.chir.rs/99bcda16d10c1066588b0b990e92bfb7a42a30741707807848303427584",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 153026,
+                "size": 245598,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5af291b819577054ab4e08b8440f41fce0e275f71707807872252903424",
+                "thumbnail_url": "mxc://matrix.chir.rs/99bcda16d10c1066588b0b990e92bfb7a42a30741707807848303427584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 153026,
+                    "size": 245598,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142789",
+            "id": "tg-532015945393142145",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142789",
+                "id": "532015945393142145",
                 "emoticons": [
-                    "🙌"
+                    "🙁"
                 ]
             }
         },
         {
-            "body": "😮 (Otter!)",
-            "url": "mxc://matrix.chir.rs/76f6138af8e63f9496ff0c33be45ddaa296480411707807864619270144",
+            "body": "🎸 (Otter!)",
+            "url": "mxc://matrix.chir.rs/eb3d9202cacefe50e2272f8ea0f622b4f0b929131707807852313182208",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 264967,
+                "size": 225495,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/76f6138af8e63f9496ff0c33be45ddaa296480411707807864619270144",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb3d9202cacefe50e2272f8ea0f622b4f0b929131707807852313182208",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 264967,
+                    "size": 225495,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393142790",
+            "id": "tg-532015945393142142",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393142790",
+                "id": "532015945393142142",
                 "emoticons": [
-                    "😮"
-                ]
-            }
-        },
-        {
-            "body": "🐟 (Otter!)",
-            "url": "mxc://matrix.chir.rs/f58492c8ad6688b4f3ed2cfbcaf5a0536c8c08f31707807860374634496",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 187412,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f58492c8ad6688b4f3ed2cfbcaf5a0536c8c08f31707807860374634496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 187412,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5003611731331645863",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "5003611731331645863",
-                "emoticons": [
-                    "🐟"
-                ]
-            }
-        },
-        {
-            "body": "🔪 (Otter!)",
-            "url": "mxc://matrix.chir.rs/7722b2dccc6f4f8566c983ea9cfef845e8494a1c1707807857874829312",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 128913,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7722b2dccc6f4f8566c983ea9cfef845e8494a1c1707807857874829312",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 128913,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142792",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142792",
-                "emoticons": [
-                    "🔪"
-                ]
-            }
-        },
-        {
-            "body": "🐾 (Otter!)",
-            "url": "mxc://matrix.chir.rs/0432b3bbdfd358b7048598ddcb12d111d18a0b261707807867085520896",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 205757,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0432b3bbdfd358b7048598ddcb12d111d18a0b261707807867085520896",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 205757,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393142791",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "532015945393142791",
-                "emoticons": [
-                    "🐾"
-                ]
-            }
-        },
-        {
-            "body": "🌯 (Otter!)",
-            "url": "mxc://matrix.chir.rs/28c5c7b8123bf1fee75766149d0c3c03b5707f271707807870193500160",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 133031,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/28c5c7b8123bf1fee75766149d0c3c03b5707f271707807870193500160",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 133031,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5003832943622226204",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "5003832943622226204",
-                "emoticons": [
-                    "🌯"
-                ]
-            }
-        },
-        {
-            "body": "💥 (Otter!)",
-            "url": "mxc://matrix.chir.rs/2f0939c98de9a47e8e5bdc62452c9cdc7ec56fcd1707807882180820992",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192032,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2f0939c98de9a47e8e5bdc62452c9cdc7ec56fcd1707807882180820992",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192032,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-5001557439884034431",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111555",
-                    "short_name": "OtterNL"
-                },
-                "id": "5001557439884034431",
-                "emoticons": [
-                    "💥"
+                    "🎸"
                 ]
             }
         },
@@ -3342,31 +2965,350 @@
             }
         },
         {
-            "body": "ℹ️ (Otter!)",
-            "url": "mxc://matrix.chir.rs/c3f7414c6c89948d52e5f5dc6c1c69d73094e0631707807862283042816",
+            "body": "🏳️‍🌈 (Otter!)",
+            "url": "mxc://matrix.chir.rs/d4008b391cb4e0abcd9461668ab831f9ef19d9d01707807855379218432",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 175642,
+                "size": 201488,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c3f7414c6c89948d52e5f5dc6c1c69d73094e0631707807862283042816",
+                "thumbnail_url": "mxc://matrix.chir.rs/d4008b391cb4e0abcd9461668ab831f9ef19d9d01707807855379218432",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 175642,
+                    "size": 201488,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393137716",
+            "id": "tg-532015945393142787",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111555",
                     "short_name": "OtterNL"
                 },
-                "id": "532015945393137716",
+                "id": "532015945393142787",
                 "emoticons": [
-                    "ℹ"
+                    "🏳‍🌈"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (Otter!)",
+            "url": "mxc://matrix.chir.rs/5af291b819577054ab4e08b8440f41fce0e275f71707807872252903424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 153026,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5af291b819577054ab4e08b8440f41fce0e275f71707807872252903424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 153026,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142789",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142789",
+                "emoticons": [
+                    "🙌"
+                ]
+            }
+        },
+        {
+            "body": "🐾 (Otter!)",
+            "url": "mxc://matrix.chir.rs/0432b3bbdfd358b7048598ddcb12d111d18a0b261707807867085520896",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 205757,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0432b3bbdfd358b7048598ddcb12d111d18a0b261707807867085520896",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 205757,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142791",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142791",
+                "emoticons": [
+                    "🐾"
+                ]
+            }
+        },
+        {
+            "body": "😤 (Otter!)",
+            "url": "mxc://matrix.chir.rs/3c62e827e6eeb8e48862e05c9413e6bbfae1ea241707807858902433792",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 215245,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3c62e827e6eeb8e48862e05c9413e6bbfae1ea241707807858902433792",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 215245,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142146",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142146",
+                "emoticons": [
+                    "😤"
+                ]
+            }
+        },
+        {
+            "body": "🌊 (Otter!)",
+            "url": "mxc://matrix.chir.rs/eb4ff8d9c1906d5e3414c0dde747f9eeef2676611707807847221297152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 162306,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb4ff8d9c1906d5e3414c0dde747f9eeef2676611707807847221297152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 162306,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142137",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142137",
+                "emoticons": [
+                    "🌊"
+                ]
+            }
+        },
+        {
+            "body": "🌀 (Otter!)",
+            "url": "mxc://matrix.chir.rs/961d3b9d4abe64a0238635b6f978c5dc1d3a015c1707807844989927424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 288053,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/961d3b9d4abe64a0238635b6f978c5dc1d3a015c1707807844989927424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 288053,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142140",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142140",
+                "emoticons": [
+                    "🌀"
+                ]
+            }
+        },
+        {
+            "body": "😮 (Otter!)",
+            "url": "mxc://matrix.chir.rs/76f6138af8e63f9496ff0c33be45ddaa296480411707807864619270144",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 264967,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/76f6138af8e63f9496ff0c33be45ddaa296480411707807864619270144",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 264967,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142790",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142790",
+                "emoticons": [
+                    "😮"
+                ]
+            }
+        },
+        {
+            "body": "🥺 (Otter!)",
+            "url": "mxc://matrix.chir.rs/938c2fc1be9d7c69fca1856dbe71bc4a6eb783401707807854204813312",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 159915,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/938c2fc1be9d7c69fca1856dbe71bc4a6eb783401707807854204813312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 159915,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142788",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142788",
+                "emoticons": [
+                    "🥺"
+                ]
+            }
+        },
+        {
+            "body": "🐟 (Otter!)",
+            "url": "mxc://matrix.chir.rs/f58492c8ad6688b4f3ed2cfbcaf5a0536c8c08f31707807860374634496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 187412,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f58492c8ad6688b4f3ed2cfbcaf5a0536c8c08f31707807860374634496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 187412,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5003611731331645863",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "5003611731331645863",
+                "emoticons": [
+                    "🐟"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Otter!)",
+            "url": "mxc://matrix.chir.rs/fffa581f514a8af340439ac0e34a4de60b3d6b8e1707807856406822912",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 242448,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fffa581f514a8af340439ac0e34a4de60b3d6b8e1707807856406822912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 242448,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142785",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142785",
+                "emoticons": [
+                    "😊"
+                ]
+            }
+        },
+        {
+            "body": "💥 (Otter!)",
+            "url": "mxc://matrix.chir.rs/2f0939c98de9a47e8e5bdc62452c9cdc7ec56fcd1707807882180820992",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192032,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/2f0939c98de9a47e8e5bdc62452c9cdc7ec56fcd1707807882180820992",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192032,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5001557439884034431",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "5001557439884034431",
+                "emoticons": [
+                    "💥"
+                ]
+            }
+        },
+        {
+            "body": "🌯 (Otter!)",
+            "url": "mxc://matrix.chir.rs/28c5c7b8123bf1fee75766149d0c3c03b5707f271707807870193500160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133031,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/28c5c7b8123bf1fee75766149d0c3c03b5707f271707807870193500160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133031,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5003832943622226204",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "5003832943622226204",
+                "emoticons": [
+                    "🌯"
                 ]
             }
         },
@@ -3396,6 +3338,64 @@
                 "id": "5001704499564249696",
                 "emoticons": [
                     "✨"
+                ]
+            }
+        },
+        {
+            "body": "🔪 (Otter!)",
+            "url": "mxc://matrix.chir.rs/7722b2dccc6f4f8566c983ea9cfef845e8494a1c1707807857874829312",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128913,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7722b2dccc6f4f8566c983ea9cfef845e8494a1c1707807857874829312",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128913,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393142792",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393142792",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "ℹ️ (Otter!)",
+            "url": "mxc://matrix.chir.rs/c3f7414c6c89948d52e5f5dc6c1c69d73094e0631707807862283042816",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 175642,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c3f7414c6c89948d52e5f5dc6c1c69d73094e0631707807862283042816",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 175642,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393137716",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111555",
+                    "short_name": "OtterNL"
+                },
+                "id": "532015945393137716",
+                "emoticons": [
+                    "ℹ"
                 ]
             }
         },

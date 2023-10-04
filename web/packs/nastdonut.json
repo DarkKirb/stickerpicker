@@ -8,6 +8,35 @@
     "stickers": [
         {
             "body": "💩 (Nastdonut)",
+            "url": "mxc://matrix.chir.rs/17178299a870ebd5e463703500fadaca074acb611707819992243765248",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 242378,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/17178299a870ebd5e463703500fadaca074acb611707819992243765248",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 242378,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-714227102542463353",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "714227102542462988",
+                    "short_name": "nastdonut"
+                },
+                "id": "714227102542463353",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "💩 (Nastdonut)",
             "url": "mxc://matrix.chir.rs/19e0e1b7ae5d3672cf56c2440aadc98c89dcff2e1707819992151490560",
             "info": {
                 "w": 256,
@@ -37,28 +66,28 @@
         },
         {
             "body": "💩 (Nastdonut)",
-            "url": "mxc://matrix.chir.rs/17178299a870ebd5e463703500fadaca074acb611707819992243765248",
+            "url": "mxc://matrix.chir.rs/c4123185068875663cad14dbc6c172d54dd66d411707820015392129024",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 242378,
+                "size": 198284,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/17178299a870ebd5e463703500fadaca074acb611707819992243765248",
+                "thumbnail_url": "mxc://matrix.chir.rs/c4123185068875663cad14dbc6c172d54dd66d411707820015392129024",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 242378,
+                    "size": 198284,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-714227102542463353",
+            "id": "tg-714227102542463396",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "714227102542462988",
                     "short_name": "nastdonut"
                 },
-                "id": "714227102542463353",
+                "id": "714227102542463396",
                 "emoticons": [
                     "💩"
                 ]
@@ -177,35 +206,6 @@
                 "id": "714227102542463416",
                 "emoticons": [
                     "☔"
-                ]
-            }
-        },
-        {
-            "body": "💩 (Nastdonut)",
-            "url": "mxc://matrix.chir.rs/c4123185068875663cad14dbc6c172d54dd66d411707820015392129024",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 198284,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c4123185068875663cad14dbc6c172d54dd66d411707820015392129024",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 198284,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-714227102542463396",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "714227102542462988",
-                    "short_name": "nastdonut"
-                },
-                "id": "714227102542463396",
-                "emoticons": [
-                    "💩"
                 ]
             }
         }

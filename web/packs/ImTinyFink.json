@@ -7,35 +7,6 @@
     },
     "stickers": [
         {
-            "body": "👋 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/9e8e3116bd9c8c6749ce9567372cb43a4fe3a0671707805994404282368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 197104,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9e8e3116bd9c8c6749ce9567372cb43a4fe3a0671707805994404282368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 197104,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136760",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393136760",
-                "emoticons": [
-                    "👋"
-                ]
-            }
-        },
-        {
             "body": "😎 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/e9d97ff6af656ee18b589122701d6fbf71c6afbb1707806000293085184",
             "info": {
@@ -61,64 +32,6 @@
                 "id": "4904436048794223368",
                 "emoticons": [
                     "😎"
-                ]
-            }
-        },
-        {
-            "body": "🫴 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/f63edf05838ed69aaa508fdc1ef965881c17a6441707805991816396800",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 192864,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f63edf05838ed69aaa508fdc1ef965881c17a6441707805991816396800",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 192864,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4904855976336687673",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4904855976336687673",
-                "emoticons": [
-                    "🫴"
-                ]
-            }
-        },
-        {
-            "body": "😄 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/0deec6314edf7c3c9011982f904608297f7170c21707806003392675840",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 190517,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0deec6314edf7c3c9011982f904608297f7170c21707806003392675840",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 190517,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393136763",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393136763",
-                "emoticons": [
-                    "😄"
                 ]
             }
         },
@@ -152,6 +65,35 @@
             }
         },
         {
+            "body": "👋 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/9e8e3116bd9c8c6749ce9567372cb43a4fe3a0671707805994404282368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197104,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9e8e3116bd9c8c6749ce9567372cb43a4fe3a0671707805994404282368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197104,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136760",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393136760",
+                "emoticons": [
+                    "👋"
+                ]
+            }
+        },
+        {
             "body": "🐕 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/129a464c0901a96f7d87f111a06fbf29c33bf3af1707806001765285888",
             "info": {
@@ -181,31 +123,89 @@
             }
         },
         {
-            "body": "👍 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/a0024b112f3fc488913c7c12d292502cf40918e91707806026285187072",
+            "body": "🫴 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/f63edf05838ed69aaa508fdc1ef965881c17a6441707805991816396800",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 199804,
+                "size": 192864,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0024b112f3fc488913c7c12d292502cf40918e91707806026285187072",
+                "thumbnail_url": "mxc://matrix.chir.rs/f63edf05838ed69aaa508fdc1ef965881c17a6441707805991816396800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 199804,
+                    "size": 192864,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4902533558670721739",
+            "id": "tg-4904855976336687673",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "4902533558670721739",
+                "id": "4904855976336687673",
                 "emoticons": [
-                    "👍"
+                    "🫴"
+                ]
+            }
+        },
+        {
+            "body": "🥜 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/bd0243f64bd22ab100a4f71b5a50bbaba27e27931707805996824395776",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 200167,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bd0243f64bd22ab100a4f71b5a50bbaba27e27931707805996824395776",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 200167,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904739934910284785",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4904739934910284785",
+                "emoticons": [
+                    "🥜"
+                ]
+            }
+        },
+        {
+            "body": "😬 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/bd16dedf63b265cc1f177c1cca22ca6d2843307a1707805995117314048",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 206846,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bd16dedf63b265cc1f177c1cca22ca6d2843307a1707805995117314048",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 206846,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4902455033783649033",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4902455033783649033",
+                "emoticons": [
+                    "😬"
                 ]
             }
         },
@@ -239,6 +239,122 @@
             }
         },
         {
+            "body": "☺️ (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/32de40a9609413aa4a9fbbc649cd1344b5a9ad351707805998174961664",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 213305,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/32de40a9609413aa4a9fbbc649cd1344b5a9ad351707805998174961664",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 213305,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143831",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393143831",
+                "emoticons": [
+                    "☺"
+                ]
+            }
+        },
+        {
+            "body": "👍 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/a0024b112f3fc488913c7c12d292502cf40918e91707806026285187072",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199804,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a0024b112f3fc488913c7c12d292502cf40918e91707806026285187072",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199804,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4902533558670721739",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4902533558670721739",
+                "emoticons": [
+                    "👍"
+                ]
+            }
+        },
+        {
+            "body": "😍 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/6123bbe02276e229050d82fc6284b837cd6f91b11707806014314643456",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 199686,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/6123bbe02276e229050d82fc6284b837cd6f91b11707806014314643456",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 199686,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143838",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393143838",
+                "emoticons": [
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "⭐️ (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/5c7d75067e1c3ec651497d20fb085aa51f864b691707806012926328832",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204544,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5c7d75067e1c3ec651497d20fb085aa51f864b691707806012926328832",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204544,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904431693697385435",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4904431693697385435",
+                "emoticons": [
+                    "⭐"
+                ]
+            }
+        },
+        {
             "body": "✨ (Fink Pup)",
             "url": "mxc://matrix.chir.rs/256f9082b3687c7f88f642dd69c0b249e5932d1b1707806001744314368",
             "info": {
@@ -268,35 +384,6 @@
             }
         },
         {
-            "body": "😇 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/671c5820c08b183adf6b92efdbb66fa35192801d1707806006861365249",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 212299,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/671c5820c08b183adf6b92efdbb66fa35192801d1707806006861365249",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 212299,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393143829",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393143829",
-                "emoticons": [
-                    "😇"
-                ]
-            }
-        },
-        {
             "body": "🏅 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/f0489f95510548e2086be2e002f7b724064c11741707806003514310656",
             "info": {
@@ -322,35 +409,6 @@
                 "id": "532015945393143843",
                 "emoticons": [
                     "🏅"
-                ]
-            }
-        },
-        {
-            "body": "☺️ (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/32de40a9609413aa4a9fbbc649cd1344b5a9ad351707805998174961664",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 213305,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/32de40a9609413aa4a9fbbc649cd1344b5a9ad351707805998174961664",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 213305,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393143831",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393143831",
-                "emoticons": [
-                    "☺"
                 ]
             }
         },
@@ -385,35 +443,6 @@
         },
         {
             "body": "⭐️ (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/5c7d75067e1c3ec651497d20fb085aa51f864b691707806012926328832",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 204544,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5c7d75067e1c3ec651497d20fb085aa51f864b691707806012926328832",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 204544,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4904431693697385435",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4904431693697385435",
-                "emoticons": [
-                    "⭐"
-                ]
-            }
-        },
-        {
-            "body": "⭐️ (Fink Pup)",
             "url": "mxc://matrix.chir.rs/5fdd62eb9ac3c2313a41a98b510c87c54352c0e41707806004822933504",
             "info": {
                 "w": 256,
@@ -438,35 +467,6 @@
                 "id": "532015945393134778",
                 "emoticons": [
                     "⭐"
-                ]
-            }
-        },
-        {
-            "body": "🥜 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/bd0243f64bd22ab100a4f71b5a50bbaba27e27931707805996824395776",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200167,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bd0243f64bd22ab100a4f71b5a50bbaba27e27931707805996824395776",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200167,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4904739934910284785",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4904739934910284785",
-                "emoticons": [
-                    "🥜"
                 ]
             }
         },
@@ -558,147 +558,60 @@
             }
         },
         {
-            "body": "🍳 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/6f4d0868565b3c79bc851069fe283bb9cf70ca851707806006441934848",
+            "body": "💭 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/544d86ed424c29844dda98ac899b5a698ca019dd1707806021147164672",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 272130,
+                "size": 219883,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6f4d0868565b3c79bc851069fe283bb9cf70ca851707806006441934848",
+                "thumbnail_url": "mxc://matrix.chir.rs/544d86ed424c29844dda98ac899b5a698ca019dd1707806021147164672",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 272130,
+                    "size": 219883,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4902172875907138554",
+            "id": "tg-4902352500029391562",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "4902172875907138554",
+                "id": "4902352500029391562",
                 "emoticons": [
-                    "🍳"
+                    "💭"
                 ]
             }
         },
         {
-            "body": "🦖 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/6358c10024094835e20eadea833c5c47125e51ea1707806015317082112",
+            "body": "😶 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/ea49121430ece862c2b7b782dc2617be213324281707806009738657792",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 181402,
+                "size": 126385,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6358c10024094835e20eadea833c5c47125e51ea1707806015317082112",
+                "thumbnail_url": "mxc://matrix.chir.rs/ea49121430ece862c2b7b782dc2617be213324281707806009738657792",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 181402,
+                    "size": 126385,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134770",
+            "id": "tg-532015945393143842",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393134770",
+                "id": "532015945393143842",
                 "emoticons": [
-                    "🦖"
-                ]
-            }
-        },
-        {
-            "body": "🐰 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/582905102f80775db864797ff34e0fca5e0255dc1707806008560058368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 172676,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/582905102f80775db864797ff34e0fca5e0255dc1707806008560058368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 172676,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4902429869570261641",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4902429869570261641",
-                "emoticons": [
-                    "🐰"
-                ]
-            }
-        },
-        {
-            "body": "😬 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/bd16dedf63b265cc1f177c1cca22ca6d2843307a1707805995117314048",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 206846,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bd16dedf63b265cc1f177c1cca22ca6d2843307a1707805995117314048",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 206846,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4902455033783649033",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4902455033783649033",
-                "emoticons": [
-                    "😬"
-                ]
-            }
-        },
-        {
-            "body": "😍 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/6123bbe02276e229050d82fc6284b837cd6f91b11707806014314643456",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 199686,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6123bbe02276e229050d82fc6284b837cd6f91b11707806014314643456",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 199686,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393143838",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393143838",
-                "emoticons": [
-                    "😍"
+                    "😶"
                 ]
             }
         },
@@ -732,31 +645,31 @@
             }
         },
         {
-            "body": "💭 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/544d86ed424c29844dda98ac899b5a698ca019dd1707806021147164672",
+            "body": "😈 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/0221e8959fb68786e9e50920510d5bcf5baccc791707806028164235264",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 219883,
+                "size": 200139,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/544d86ed424c29844dda98ac899b5a698ca019dd1707806021147164672",
+                "thumbnail_url": "mxc://matrix.chir.rs/0221e8959fb68786e9e50920510d5bcf5baccc791707806028164235264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 219883,
+                    "size": 200139,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4902352500029391562",
+            "id": "tg-532015945393143826",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "4902352500029391562",
+                "id": "532015945393143826",
                 "emoticons": [
-                    "💭"
+                    "😈"
                 ]
             }
         },
@@ -819,60 +732,31 @@
             }
         },
         {
-            "body": "😈 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/0221e8959fb68786e9e50920510d5bcf5baccc791707806028164235264",
+            "body": "🦖 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/6358c10024094835e20eadea833c5c47125e51ea1707806015317082112",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 200139,
+                "size": 181402,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0221e8959fb68786e9e50920510d5bcf5baccc791707806028164235264",
+                "thumbnail_url": "mxc://matrix.chir.rs/6358c10024094835e20eadea833c5c47125e51ea1707806015317082112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 200139,
+                    "size": 181402,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143826",
+            "id": "tg-532015945393134770",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393143826",
+                "id": "532015945393134770",
                 "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
-            "body": "❓ (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/655e4de999eacadb608c910d957e9daeaa4ba1b51707806017804304384",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 249370,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/655e4de999eacadb608c910d957e9daeaa4ba1b51707806017804304384",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 249370,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4902488435744310092",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4902488435744310092",
-                "emoticons": [
-                    "❓"
+                    "🦖"
                 ]
             }
         },
@@ -906,147 +790,89 @@
             }
         },
         {
-            "body": "😶 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/ea49121430ece862c2b7b782dc2617be213324281707806009738657792",
+            "body": "❓ (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/655e4de999eacadb608c910d957e9daeaa4ba1b51707806017804304384",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 126385,
+                "size": 249370,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ea49121430ece862c2b7b782dc2617be213324281707806009738657792",
+                "thumbnail_url": "mxc://matrix.chir.rs/655e4de999eacadb608c910d957e9daeaa4ba1b51707806017804304384",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 126385,
+                    "size": 249370,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143842",
+            "id": "tg-4902488435744310092",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393143842",
+                "id": "4902488435744310092",
                 "emoticons": [
-                    "😶"
+                    "❓"
                 ]
             }
         },
         {
-            "body": "🤲 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/329796653c89b4815d853df02ddab6a764ca05801707806016042696704",
+            "body": "😇 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/671c5820c08b183adf6b92efdbb66fa35192801d1707806006861365249",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 121811,
+                "size": 212299,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/329796653c89b4815d853df02ddab6a764ca05801707806016042696704",
+                "thumbnail_url": "mxc://matrix.chir.rs/671c5820c08b183adf6b92efdbb66fa35192801d1707806006861365249",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 121811,
+                    "size": 212299,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143827",
+            "id": "tg-532015945393143829",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393143827",
+                "id": "532015945393143829",
                 "emoticons": [
-                    "🤲"
+                    "😇"
                 ]
             }
         },
         {
-            "body": "🙌 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/c709a2f511c9a37ae3c7ca617c3f569d5a9aa2cf1707806029829373952",
+            "body": "🐰 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/582905102f80775db864797ff34e0fca5e0255dc1707806008560058368",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 151202,
+                "size": 172676,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c709a2f511c9a37ae3c7ca617c3f569d5a9aa2cf1707806029829373952",
+                "thumbnail_url": "mxc://matrix.chir.rs/582905102f80775db864797ff34e0fca5e0255dc1707806008560058368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 151202,
+                    "size": 172676,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4904554272064013135",
+            "id": "tg-4902429869570261641",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "4904554272064013135",
+                "id": "4902429869570261641",
                 "emoticons": [
-                    "🙌"
-                ]
-            }
-        },
-        {
-            "body": "💢 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/f853afb594cf458dcca7ed1d003aa66fab241b441707806023491780609",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184367,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f853afb594cf458dcca7ed1d003aa66fab241b441707806023491780609",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184367,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4902506513261658938",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4902506513261658938",
-                "emoticons": [
-                    "💢"
-                ]
-            }
-        },
-        {
-            "body": "🤚 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/8785e004cd8ec2c9b992e183f35652f7bf5f6b461707806017045135360",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 166068,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8785e004cd8ec2c9b992e183f35652f7bf5f6b461707806017045135360",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 166068,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4904853253327422217",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4904853253327422217",
-                "emoticons": [
-                    "🤚"
+                    "🐰"
                 ]
             }
         },
@@ -1109,6 +935,35 @@
             }
         },
         {
+            "body": "🙌 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/c709a2f511c9a37ae3c7ca617c3f569d5a9aa2cf1707806029829373952",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 151202,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c709a2f511c9a37ae3c7ca617c3f569d5a9aa2cf1707806029829373952",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 151202,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904554272064013135",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4904554272064013135",
+                "emoticons": [
+                    "🙌"
+                ]
+            }
+        },
+        {
             "body": "🐶 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/890f843e0d61bca3ae4b8e0df591790000cec1e11707806047441256449",
             "info": {
@@ -1134,6 +989,64 @@
                 "id": "4902425119336432791",
                 "emoticons": [
                     "🐶"
+                ]
+            }
+        },
+        {
+            "body": "💢 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/f853afb594cf458dcca7ed1d003aa66fab241b441707806023491780609",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 184367,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f853afb594cf458dcca7ed1d003aa66fab241b441707806023491780609",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 184367,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4902506513261658938",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4902506513261658938",
+                "emoticons": [
+                    "💢"
+                ]
+            }
+        },
+        {
+            "body": "🤚 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/8785e004cd8ec2c9b992e183f35652f7bf5f6b461707806017045135360",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 166068,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8785e004cd8ec2c9b992e183f35652f7bf5f6b461707806017045135360",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 166068,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904853253327422217",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4904853253327422217",
+                "emoticons": [
+                    "🤚"
                 ]
             }
         },
@@ -1167,6 +1080,93 @@
             }
         },
         {
+            "body": "🙄 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/a34a1389161eee678c1a146c72dda1f7e4a8888a1707806033964957696",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 147723,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a34a1389161eee678c1a146c72dda1f7e4a8888a1707806033964957696",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 147723,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143830",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393143830",
+                "emoticons": [
+                    "🙄"
+                ]
+            }
+        },
+        {
+            "body": "🤲 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/329796653c89b4815d853df02ddab6a764ca05801707806016042696704",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 121811,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/329796653c89b4815d853df02ddab6a764ca05801707806016042696704",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 121811,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143827",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393143827",
+                "emoticons": [
+                    "🤲"
+                ]
+            }
+        },
+        {
+            "body": "😄 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/0deec6314edf7c3c9011982f904608297f7170c21707806003392675840",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 190517,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0deec6314edf7c3c9011982f904608297f7170c21707806003392675840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 190517,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393136763",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393136763",
+                "emoticons": [
+                    "😄"
+                ]
+            }
+        },
+        {
             "body": "🥺 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/f1208f05ae09447a4ca0b7fbdea3d279d95364801707806025094004736",
             "info": {
@@ -1196,31 +1196,60 @@
             }
         },
         {
-            "body": "😒 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/561ee6e7fad2650e950e52fb1961a58bc94998531707806023680524288",
+            "body": "🍳 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/6f4d0868565b3c79bc851069fe283bb9cf70ca851707806006441934848",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 175293,
+                "size": 272130,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/561ee6e7fad2650e950e52fb1961a58bc94998531707806023680524288",
+                "thumbnail_url": "mxc://matrix.chir.rs/6f4d0868565b3c79bc851069fe283bb9cf70ca851707806006441934848",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 175293,
+                    "size": 272130,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4904708199396934341",
+            "id": "tg-4902172875907138554",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "4904708199396934341",
+                "id": "4902172875907138554",
                 "emoticons": [
-                    "😒"
+                    "🍳"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/49c644bb948cefc09a1f944a02c6c3ca782d2a521707806019633020928",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 182296,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/49c644bb948cefc09a1f944a02c6c3ca782d2a521707806019633020928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 182296,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4902250344232256269",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4902250344232256269",
+                "emoticons": [
+                    "🐶"
                 ]
             }
         },
@@ -1255,35 +1284,6 @@
         },
         {
             "body": "😭 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/6a9003b4939d0e4385cc31e111628d72ec1b240d1707806032035577856",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 260825,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6a9003b4939d0e4385cc31e111628d72ec1b240d1707806032035577856",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 260825,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134755",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134755",
-                "emoticons": [
-                    "😭"
-                ]
-            }
-        },
-        {
-            "body": "😭 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/d69c11ba31923073dcd2a9216fd54fa17b4d31561707806036074692608",
             "info": {
                 "w": 256,
@@ -1312,118 +1312,60 @@
             }
         },
         {
-            "body": "🐶 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/49c644bb948cefc09a1f944a02c6c3ca782d2a521707806019633020928",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 182296,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/49c644bb948cefc09a1f944a02c6c3ca782d2a521707806019633020928",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 182296,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4902250344232256269",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4902250344232256269",
-                "emoticons": [
-                    "🐶"
-                ]
-            }
-        },
-        {
-            "body": "😵 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/122123ee5f62f4cfacc8c9c9350da8c899415a661707806038184427520",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 133151,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/122123ee5f62f4cfacc8c9c9350da8c899415a661707806038184427520",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 133151,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4904666795912200829",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4904666795912200829",
-                "emoticons": [
-                    "😵"
-                ]
-            }
-        },
-        {
             "body": "😭 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/b234d779ef1e8ae8493e1ffc4a7ae0a3deddbeaf1707806036632535040",
+            "url": "mxc://matrix.chir.rs/6a9003b4939d0e4385cc31e111628d72ec1b240d1707806032035577856",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 195556,
+                "size": 260825,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b234d779ef1e8ae8493e1ffc4a7ae0a3deddbeaf1707806036632535040",
+                "thumbnail_url": "mxc://matrix.chir.rs/6a9003b4939d0e4385cc31e111628d72ec1b240d1707806032035577856",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 195556,
+                    "size": 260825,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143836",
+            "id": "tg-532015945393134755",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393143836",
+                "id": "532015945393134755",
                 "emoticons": [
                     "😭"
                 ]
             }
         },
         {
-            "body": "🐶 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/bae86a1fcc0fd20e72f950255e597d0c072242251707806037353955328",
+            "body": "🔈 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/1361a94066c3002e4427cbc7fff8b81f5eb04cd41707806041346932736",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 357178,
+                "size": 170571,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bae86a1fcc0fd20e72f950255e597d0c072242251707806037353955328",
+                "thumbnail_url": "mxc://matrix.chir.rs/1361a94066c3002e4427cbc7fff8b81f5eb04cd41707806041346932736",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 357178,
+                    "size": 170571,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-4902449175448257312",
+            "id": "tg-532015945393134779",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "4902449175448257312",
+                "id": "532015945393134779",
                 "emoticons": [
-                    "🐶"
+                    "🔈"
                 ]
             }
         },
@@ -1457,6 +1399,35 @@
             }
         },
         {
+            "body": "😭 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/b234d779ef1e8ae8493e1ffc4a7ae0a3deddbeaf1707806036632535040",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 195556,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b234d779ef1e8ae8493e1ffc4a7ae0a3deddbeaf1707806036632535040",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 195556,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143836",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393143836",
+                "emoticons": [
+                    "😭"
+                ]
+            }
+        },
+        {
             "body": "❌ (Fink Pup)",
             "url": "mxc://matrix.chir.rs/29f41f0de29cbd8ccf04ad2d2490855316ac6c7e1707806031117025280",
             "info": {
@@ -1482,6 +1453,35 @@
                 "id": "532015945393134785",
                 "emoticons": [
                     "❌"
+                ]
+            }
+        },
+        {
+            "body": "😵 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/122123ee5f62f4cfacc8c9c9350da8c899415a661707806038184427520",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133151,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/122123ee5f62f4cfacc8c9c9350da8c899415a661707806038184427520",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133151,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904666795912200829",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "4904666795912200829",
+                "emoticons": [
+                    "😵"
                 ]
             }
         },
@@ -1515,60 +1515,31 @@
             }
         },
         {
-            "body": "🗯 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/5b8b915853a4b931feb1ecbeb888b87c49b06fcd1707806060489736192",
+            "body": "😫 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/02602349d7911e9011d6168727000ec0580bf1381707806039522410496",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 186626,
+                "size": 182679,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5b8b915853a4b931feb1ecbeb888b87c49b06fcd1707806060489736192",
+                "thumbnail_url": "mxc://matrix.chir.rs/02602349d7911e9011d6168727000ec0580bf1381707806039522410496",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 186626,
+                    "size": 182679,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143833",
+            "id": "tg-532015945393134798",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393143833",
+                "id": "532015945393134798",
                 "emoticons": [
-                    "🗯"
-                ]
-            }
-        },
-        {
-            "body": "❌ (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/eb697200fa76e394df0887c1efa68c3f61e76d6f1707806042638778368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173570,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb697200fa76e394df0887c1efa68c3f61e76d6f1707806042638778368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173570,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4904818545696703050",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "4904818545696703050",
-                "emoticons": [
-                    "❌"
+                    "😫"
                 ]
             }
         },
@@ -1602,89 +1573,89 @@
             }
         },
         {
-            "body": "😫 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/02602349d7911e9011d6168727000ec0580bf1381707806039522410496",
+            "body": "❌ (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/eb697200fa76e394df0887c1efa68c3f61e76d6f1707806042638778368",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 182679,
+                "size": 173570,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/02602349d7911e9011d6168727000ec0580bf1381707806039522410496",
+                "thumbnail_url": "mxc://matrix.chir.rs/eb697200fa76e394df0887c1efa68c3f61e76d6f1707806042638778368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 182679,
+                    "size": 173570,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134798",
+            "id": "tg-4904818545696703050",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393134798",
+                "id": "4904818545696703050",
                 "emoticons": [
-                    "😫"
+                    "❌"
                 ]
             }
         },
         {
-            "body": "🙄 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/a34a1389161eee678c1a146c72dda1f7e4a8888a1707806033964957696",
+            "body": "😒 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/561ee6e7fad2650e950e52fb1961a58bc94998531707806023680524288",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 147723,
+                "size": 175293,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a34a1389161eee678c1a146c72dda1f7e4a8888a1707806033964957696",
+                "thumbnail_url": "mxc://matrix.chir.rs/561ee6e7fad2650e950e52fb1961a58bc94998531707806023680524288",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 147723,
+                    "size": 175293,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393143830",
+            "id": "tg-4904708199396934341",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393143830",
+                "id": "4904708199396934341",
                 "emoticons": [
-                    "🙄"
+                    "😒"
                 ]
             }
         },
         {
-            "body": "😡 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/46107bc36bae86eda477432d29d78397b1abb0fb1707806053816598528",
+            "body": "🐶 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/bae86a1fcc0fd20e72f950255e597d0c072242251707806037353955328",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 204839,
+                "size": 357178,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/46107bc36bae86eda477432d29d78397b1abb0fb1707806053816598528",
+                "thumbnail_url": "mxc://matrix.chir.rs/bae86a1fcc0fd20e72f950255e597d0c072242251707806037353955328",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 204839,
+                    "size": 357178,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134764",
+            "id": "tg-4902449175448257312",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393134764",
+                "id": "4902449175448257312",
                 "emoticons": [
-                    "😡"
+                    "🐶"
                 ]
             }
         },
@@ -1747,6 +1718,35 @@
             }
         },
         {
+            "body": "🗯 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/5b8b915853a4b931feb1ecbeb888b87c49b06fcd1707806060489736192",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186626,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5b8b915853a4b931feb1ecbeb888b87c49b06fcd1707806060489736192",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186626,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393143833",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393143833",
+                "emoticons": [
+                    "🗯"
+                ]
+            }
+        },
+        {
             "body": "❌ (Fink Pup)",
             "url": "mxc://matrix.chir.rs/4c84d4206c5116ffb58e528fa2f794ca34a1be961707806052155654144",
             "info": {
@@ -1805,31 +1805,31 @@
             }
         },
         {
-            "body": "😡 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/b02f591342e707c8d90c3c2b168f4d222b48ea521707806071587864576",
+            "body": "😈 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/011c2e2c7f283a71ea936b5792c5160addda30cf1707806084858642432",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 146558,
+                "size": 200813,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b02f591342e707c8d90c3c2b168f4d222b48ea521707806071587864576",
+                "thumbnail_url": "mxc://matrix.chir.rs/011c2e2c7f283a71ea936b5792c5160addda30cf1707806084858642432",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 146558,
+                    "size": 200813,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134788",
+            "id": "tg-532015945393134781",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393134788",
+                "id": "532015945393134781",
                 "emoticons": [
-                    "😡"
+                    "😈"
                 ]
             }
         },
@@ -1892,64 +1892,6 @@
             }
         },
         {
-            "body": "😈 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/011c2e2c7f283a71ea936b5792c5160addda30cf1707806084858642432",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 200813,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/011c2e2c7f283a71ea936b5792c5160addda30cf1707806084858642432",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 200813,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134781",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134781",
-                "emoticons": [
-                    "😈"
-                ]
-            }
-        },
-        {
-            "body": "🔈 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/1361a94066c3002e4427cbc7fff8b81f5eb04cd41707806041346932736",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 170571,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1361a94066c3002e4427cbc7fff8b81f5eb04cd41707806041346932736",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 170571,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134779",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134779",
-                "emoticons": [
-                    "🔈"
-                ]
-            }
-        },
-        {
             "body": "❓ (Fink Pup)",
             "url": "mxc://matrix.chir.rs/64857828a1edd236ed839495e886905f1a8326491707806047445450752",
             "info": {
@@ -1979,6 +1921,35 @@
             }
         },
         {
+            "body": "😒 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/b6eef3907e54bc64085090c7cffdc8aaac82f5841707806053724323840",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 176879,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b6eef3907e54bc64085090c7cffdc8aaac82f5841707806053724323840",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 176879,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134762",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134762",
+                "emoticons": [
+                    "😒"
+                ]
+            }
+        },
+        {
             "body": "😳 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/f716901bc18cef3e2b111e61a4a75cf70c302fd01707806047441256448",
             "info": {
@@ -2002,6 +1973,64 @@
                     "short_name": "ImTinyFink"
                 },
                 "id": "532015945393134757",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
+            "body": "😡 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/b02f591342e707c8d90c3c2b168f4d222b48ea521707806071587864576",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 146558,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b02f591342e707c8d90c3c2b168f4d222b48ea521707806071587864576",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 146558,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134788",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134788",
+                "emoticons": [
+                    "😡"
+                ]
+            }
+        },
+        {
+            "body": "😳 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/26d2e6eafeda7b902fefda6687e332bd185888561707806052310843392",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 133350,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/26d2e6eafeda7b902fefda6687e332bd185888561707806052310843392",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 133350,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134756",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134756",
                 "emoticons": [
                     "😳"
                 ]
@@ -2037,64 +2066,6 @@
             }
         },
         {
-            "body": "😳 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/26d2e6eafeda7b902fefda6687e332bd185888561707806052310843392",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 133350,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/26d2e6eafeda7b902fefda6687e332bd185888561707806052310843392",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 133350,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134756",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134756",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
-            "body": "😒 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/b6eef3907e54bc64085090c7cffdc8aaac82f5841707806053724323840",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 176879,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6eef3907e54bc64085090c7cffdc8aaac82f5841707806053724323840",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 176879,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134762",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134762",
-                "emoticons": [
-                    "😒"
-                ]
-            }
-        },
-        {
             "body": "🍑 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/7c89d2fe46e206b98c526d3864d6dea2eea4a10b1707806056370929664",
             "info": {
@@ -2120,122 +2091,6 @@
                 "id": "532015945393134794",
                 "emoticons": [
                     "🍑"
-                ]
-            }
-        },
-        {
-            "body": "😣 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/f50c814550f268e3deb5a0bc5af1f2f2249fab5b1707806056484175872",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173750,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f50c814550f268e3deb5a0bc5af1f2f2249fab5b1707806056484175872",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173750,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134796",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134796",
-                "emoticons": [
-                    "😣"
-                ]
-            }
-        },
-        {
-            "body": "💤 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/03821127d517af70afd39b0478f584d79bc16b311707806055162970112",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 165629,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/03821127d517af70afd39b0478f584d79bc16b311707806055162970112",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 165629,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134761",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134761",
-                "emoticons": [
-                    "💤"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/bcd61732c8aa3bd0e081c551a9f89d829b49bd341707806060464570368",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 152470,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bcd61732c8aa3bd0e081c551a9f89d829b49bd341707806060464570368",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 152470,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134797",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134797",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "😒 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/b31da52e3a40b3a499f0bed957440ee003e937de1707806059084644352",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 184823,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b31da52e3a40b3a499f0bed957440ee003e937de1707806059084644352",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 184823,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134752",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134752",
-                "emoticons": [
-                    "😒"
                 ]
             }
         },
@@ -2269,205 +2124,31 @@
             }
         },
         {
-            "body": "👀 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/8b465a35ff84850563365d237fa5c53a6f7e26831707806057541140480",
+            "body": "😡 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/46107bc36bae86eda477432d29d78397b1abb0fb1707806053816598528",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 226990,
+                "size": 204839,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8b465a35ff84850563365d237fa5c53a6f7e26831707806057541140480",
+                "thumbnail_url": "mxc://matrix.chir.rs/46107bc36bae86eda477432d29d78397b1abb0fb1707806053816598528",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 226990,
+                    "size": 204839,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134758",
+            "id": "tg-532015945393134764",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393134758",
+                "id": "532015945393134764",
                 "emoticons": [
-                    "👀"
-                ]
-            }
-        },
-        {
-            "body": "💨 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/8c5cc6b00120b0835962f0536ead33efd329265d1707806064688234496",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173252,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8c5cc6b00120b0835962f0536ead33efd329265d1707806064688234496",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173252,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134780",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134780",
-                "emoticons": [
-                    "💨"
-                ]
-            }
-        },
-        {
-            "body": "⚡️ (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/81f1c095ca35251cdfa4325bf0084482453e02381707806069285191680",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 155449,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81f1c095ca35251cdfa4325bf0084482453e02381707806069285191680",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 155449,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134783",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134783",
-                "emoticons": [
-                    "⚡"
-                ]
-            }
-        },
-        {
-            "body": "🤗 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/22d749dab991bbdc7aadf063bbe8137104b4ce8f1707806061496369152",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 243452,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/22d749dab991bbdc7aadf063bbe8137104b4ce8f1707806061496369152",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 243452,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134753",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134753",
-                "emoticons": [
-                    "🤗"
-                ]
-            }
-        },
-        {
-            "body": "🛁 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/5583db9a550b97162c0740d1746b5c3fcc04d3d11707806059168530432",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 303654,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5583db9a550b97162c0740d1746b5c3fcc04d3d11707806059168530432",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 303654,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134759",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134759",
-                "emoticons": [
-                    "🛁"
-                ]
-            }
-        },
-        {
-            "body": "⚡️ (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/f76ca5df295349e6bff37e79e24aee7a1ec53b9a1707806064147169280",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 214037,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f76ca5df295349e6bff37e79e24aee7a1ec53b9a1707806064147169280",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 214037,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134768",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134768",
-                "emoticons": [
-                    "⚡"
-                ]
-            }
-        },
-        {
-            "body": "🐶 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/0bb7186a117244f07a4809ffbe502cdb360972211707806050884780032",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 167500,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0bb7186a117244f07a4809ffbe502cdb360972211707806050884780032",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 167500,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134766",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134766",
-                "emoticons": [
-                    "🐶"
+                    "😡"
                 ]
             }
         },
@@ -2501,6 +2182,296 @@
             }
         },
         {
+            "body": "😒 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/b31da52e3a40b3a499f0bed957440ee003e937de1707806059084644352",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 184823,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/b31da52e3a40b3a499f0bed957440ee003e937de1707806059084644352",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 184823,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134752",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134752",
+                "emoticons": [
+                    "😒"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/0bb7186a117244f07a4809ffbe502cdb360972211707806050884780032",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 167500,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0bb7186a117244f07a4809ffbe502cdb360972211707806050884780032",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 167500,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134766",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134766",
+                "emoticons": [
+                    "🐶"
+                ]
+            }
+        },
+        {
+            "body": "😣 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/f50c814550f268e3deb5a0bc5af1f2f2249fab5b1707806056484175872",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173750,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f50c814550f268e3deb5a0bc5af1f2f2249fab5b1707806056484175872",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173750,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134796",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134796",
+                "emoticons": [
+                    "😣"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/bcd61732c8aa3bd0e081c551a9f89d829b49bd341707806060464570368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 152470,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/bcd61732c8aa3bd0e081c551a9f89d829b49bd341707806060464570368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 152470,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134797",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134797",
+                "emoticons": [
+                    "😠"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/22d749dab991bbdc7aadf063bbe8137104b4ce8f1707806061496369152",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 243452,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/22d749dab991bbdc7aadf063bbe8137104b4ce8f1707806061496369152",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 243452,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134753",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134753",
+                "emoticons": [
+                    "🤗"
+                ]
+            }
+        },
+        {
+            "body": "💤 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/03821127d517af70afd39b0478f584d79bc16b311707806055162970112",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 165629,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/03821127d517af70afd39b0478f584d79bc16b311707806055162970112",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 165629,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134761",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134761",
+                "emoticons": [
+                    "💤"
+                ]
+            }
+        },
+        {
+            "body": "🛁 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/5583db9a550b97162c0740d1746b5c3fcc04d3d11707806059168530432",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 303654,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5583db9a550b97162c0740d1746b5c3fcc04d3d11707806059168530432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 303654,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134759",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134759",
+                "emoticons": [
+                    "🛁"
+                ]
+            }
+        },
+        {
+            "body": "👀 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/8b465a35ff84850563365d237fa5c53a6f7e26831707806057541140480",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 226990,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8b465a35ff84850563365d237fa5c53a6f7e26831707806057541140480",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 226990,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134758",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134758",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
+            "body": "⚡️ (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/81f1c095ca35251cdfa4325bf0084482453e02381707806069285191680",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 155449,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/81f1c095ca35251cdfa4325bf0084482453e02381707806069285191680",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 155449,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134783",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134783",
+                "emoticons": [
+                    "⚡"
+                ]
+            }
+        },
+        {
+            "body": "⚡️ (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/f76ca5df295349e6bff37e79e24aee7a1ec53b9a1707806064147169280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 214037,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f76ca5df295349e6bff37e79e24aee7a1ec53b9a1707806064147169280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 214037,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134768",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134768",
+                "emoticons": [
+                    "⚡"
+                ]
+            }
+        },
+        {
             "body": "😆 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/cf558636f19ddf9c2bf03d699293b7aa01c770a71707806062305869824",
             "info": {
@@ -2526,6 +2497,35 @@
                 "id": "532015945393134782",
                 "emoticons": [
                     "😆"
+                ]
+            }
+        },
+        {
+            "body": "🔫 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/cd0389f8b48c3052b53c6ffed4c99e6e2118f6471707806071487201280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 166402,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cd0389f8b48c3052b53c6ffed4c99e6e2118f6471707806071487201280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 166402,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134777",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134777",
+                "emoticons": [
+                    "🔫"
                 ]
             }
         },
@@ -2588,6 +2588,35 @@
             }
         },
         {
+            "body": "😳 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/4ede8df11dc4ab8ea65e8288e0076e1f2d32297d1707806090701307904",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 198844,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4ede8df11dc4ab8ea65e8288e0076e1f2d32297d1707806090701307904",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 198844,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134775",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134775",
+                "emoticons": [
+                    "😳"
+                ]
+            }
+        },
+        {
             "body": "😮 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/5ccdd6f56cd2e165a862862a58d8e903f994ad6d1707806066567282688",
             "info": {
@@ -2646,89 +2675,31 @@
             }
         },
         {
-            "body": "🔫 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/cd0389f8b48c3052b53c6ffed4c99e6e2118f6471707806071487201280",
+            "body": "🤗 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/0d369ec15e3a7e6960e3f08aba250c9fe043a6351707806107348500480",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 166402,
+                "size": 201948,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cd0389f8b48c3052b53c6ffed4c99e6e2118f6471707806071487201280",
+                "thumbnail_url": "mxc://matrix.chir.rs/0d369ec15e3a7e6960e3f08aba250c9fe043a6351707806107348500480",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 166402,
+                    "size": 201948,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134777",
+            "id": "tg-532015945393134790",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393134777",
+                "id": "532015945393134790",
                 "emoticons": [
-                    "🔫"
-                ]
-            }
-        },
-        {
-            "body": "🍓 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/85cd418b31c383f84788ec11f7b624385d3de1a71707806076830744576",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 234048,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/85cd418b31c383f84788ec11f7b624385d3de1a71707806076830744576",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 234048,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134795",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134795",
-                "emoticons": [
-                    "🍓"
-                ]
-            }
-        },
-        {
-            "body": "⭐️ (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/23e06b2d9067734c07d414cdf5a8c5482393ede41707806067682967552",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 195625,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/23e06b2d9067734c07d414cdf5a8c5482393ede41707806067682967552",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 195625,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134792",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134792",
-                "emoticons": [
-                    "⭐"
+                    "🤗"
                 ]
             }
         },
@@ -2762,64 +2733,6 @@
             }
         },
         {
-            "body": "😠 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/4824d40dd91c9bdc4c8c991612f62e9a5b8f01cd1707806075362738176",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 173019,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4824d40dd91c9bdc4c8c991612f62e9a5b8f01cd1707806075362738176",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 173019,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134784",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134784",
-                "emoticons": [
-                    "😠"
-                ]
-            }
-        },
-        {
-            "body": "😳 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/4ede8df11dc4ab8ea65e8288e0076e1f2d32297d1707806090701307904",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 198844,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4ede8df11dc4ab8ea65e8288e0076e1f2d32297d1707806090701307904",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 198844,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-532015945393134775",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "532015945393111236",
-                    "short_name": "ImTinyFink"
-                },
-                "id": "532015945393134775",
-                "emoticons": [
-                    "😳"
-                ]
-            }
-        },
-        {
             "body": "💋 (Fink Pup)",
             "url": "mxc://matrix.chir.rs/fd596d7d97444d271faed21235b4e48dbc383eda1707806073747931136",
             "info": {
@@ -2849,31 +2762,31 @@
             }
         },
         {
-            "body": "🤗 (Fink Pup)",
-            "url": "mxc://matrix.chir.rs/0d369ec15e3a7e6960e3f08aba250c9fe043a6351707806107348500480",
+            "body": "⭐️ (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/23e06b2d9067734c07d414cdf5a8c5482393ede41707806067682967552",
             "info": {
                 "w": 256,
                 "h": 256,
-                "size": 201948,
+                "size": 195625,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0d369ec15e3a7e6960e3f08aba250c9fe043a6351707806107348500480",
+                "thumbnail_url": "mxc://matrix.chir.rs/23e06b2d9067734c07d414cdf5a8c5482393ede41707806067682967552",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
-                    "size": 201948,
+                    "size": 195625,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "tg-532015945393134790",
+            "id": "tg-532015945393134792",
             "net.maunium.telegram.sticker": {
                 "pack": {
                     "id": "532015945393111236",
                     "short_name": "ImTinyFink"
                 },
-                "id": "532015945393134790",
+                "id": "532015945393134792",
                 "emoticons": [
-                    "🤗"
+                    "⭐"
                 ]
             }
         },
@@ -2903,6 +2816,93 @@
                 "id": "532015945393134793",
                 "emoticons": [
                     "👃"
+                ]
+            }
+        },
+        {
+            "body": "💨 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/8c5cc6b00120b0835962f0536ead33efd329265d1707806064688234496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173252,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8c5cc6b00120b0835962f0536ead33efd329265d1707806064688234496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173252,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134780",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134780",
+                "emoticons": [
+                    "💨"
+                ]
+            }
+        },
+        {
+            "body": "🍓 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/85cd418b31c383f84788ec11f7b624385d3de1a71707806076830744576",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 234048,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/85cd418b31c383f84788ec11f7b624385d3de1a71707806076830744576",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 234048,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134795",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134795",
+                "emoticons": [
+                    "🍓"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Fink Pup)",
+            "url": "mxc://matrix.chir.rs/4824d40dd91c9bdc4c8c991612f62e9a5b8f01cd1707806075362738176",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 173019,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4824d40dd91c9bdc4c8c991612f62e9a5b8f01cd1707806075362738176",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 173019,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-532015945393134784",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "532015945393111236",
+                    "short_name": "ImTinyFink"
+                },
+                "id": "532015945393134784",
+                "emoticons": [
+                    "😠"
                 ]
             }
         }
