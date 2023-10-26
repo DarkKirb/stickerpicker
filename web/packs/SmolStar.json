@@ -3,7 +3,7 @@
     "id": "tg-4677066802335842309",
     "net.maunium.telegram.pack": {
         "short_name": "SmolStar",
-        "hash": "1029332940"
+        "hash": "1848079987"
     },
     "stickers": [
         {
@@ -743,6 +743,35 @@
                 "emoticons": [
                     "🦨",
                     "👾"
+                ]
+            }
+        },
+        {
+            "body": "🍞 (It's a Staaaaar!)",
+            "url": "mxc://matrix.chir.rs/fee98839bcdc50779e4c771ce2eaa00b89c57b921717437464374673408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 181333,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/fee98839bcdc50779e4c771ce2eaa00b89c57b921717437464374673408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 181333,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4990378215538164960",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4677066802335842309",
+                    "short_name": "SmolStar"
+                },
+                "id": "4990378215538164960",
+                "emoticons": [
+                    "🍞"
                 ]
             }
         },

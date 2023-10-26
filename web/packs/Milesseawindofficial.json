@@ -3,7 +3,7 @@
     "id": "tg-1378011257302417412",
     "net.maunium.telegram.pack": {
         "short_name": "Milesseawindofficial",
-        "hash": "-812940384"
+        "hash": "-350403170"
     },
     "stickers": [
         {
@@ -2197,6 +2197,36 @@
                 "emoticons": [
                     "🔪",
                     "🗡"
+                ]
+            }
+        },
+        {
+            "body": "🧙‍♀️ (Miles Seawind)",
+            "url": "mxc://matrix.chir.rs/86513892ebdca533177a388161370657655bd3661717437104876683264",
+            "info": {
+                "w": 203,
+                "h": 256,
+                "size": 173571,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/86513892ebdca533177a388161370657655bd3661717437104876683264",
+                "thumbnail_info": {
+                    "w": 203,
+                    "h": 256,
+                    "size": 173571,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5026339834973651858",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1378011257302417412",
+                    "short_name": "Milesseawindofficial"
+                },
+                "id": "5026339834973651858",
+                "emoticons": [
+                    "🧙‍♀",
+                    "🧙‍♂"
                 ]
             }
         },

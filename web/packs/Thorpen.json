@@ -3,7 +3,7 @@
     "id": "tg-6137063732565508094",
     "net.maunium.telegram.pack": {
         "short_name": "Thorpen",
-        "hash": "-922669427"
+        "hash": "710729485"
     },
     "stickers": [
         {
@@ -1047,6 +1047,64 @@
                 "id": "4977021464248058907",
                 "emoticons": [
                     "🤪"
+                ]
+            }
+        },
+        {
+            "body": "🔪 (Thorpen Alnyr Set (Axel, Iris, and Evan))",
+            "url": "mxc://matrix.chir.rs/aa647cac4902d6384dfe612c1cb2a4a805057b781717437652027834368",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 213244,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/aa647cac4902d6384dfe612c1cb2a4a805057b781717437652027834368",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 213244,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5005832925208380123",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "6137063732565508094",
+                    "short_name": "Thorpen"
+                },
+                "id": "5005832925208380123",
+                "emoticons": [
+                    "🔪"
+                ]
+            }
+        },
+        {
+            "body": "🎨 (Thorpen Alnyr Set (Axel, Iris, and Evan))",
+            "url": "mxc://matrix.chir.rs/44fd8feb8ff6e92f6a3e5727124e9d23c7787ad51717437652984135680",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 249937,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/44fd8feb8ff6e92f6a3e5727124e9d23c7787ad51717437652984135680",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 249937,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5008309386171385312",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "6137063732565508094",
+                    "short_name": "Thorpen"
+                },
+                "id": "5008309386171385312",
+                "emoticons": [
+                    "🎨"
                 ]
             }
         }

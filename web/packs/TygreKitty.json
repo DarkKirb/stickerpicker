@@ -3,7 +3,7 @@
     "id": "tg-5736202774002008068",
     "net.maunium.telegram.pack": {
         "short_name": "TygreKitty",
-        "hash": "836491674"
+        "hash": "147010830"
     },
     "stickers": [
         {
@@ -182,6 +182,65 @@
                 "emoticons": [
                     "🎤",
                     "🎼"
+                ]
+            }
+        },
+        {
+            "body": "🍑 (Itty Bitty Kitty)",
+            "url": "mxc://matrix.chir.rs/92d453a2a76024dde248e4182022bec0f13a0e391711466795740692480",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 188115,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/92d453a2a76024dde248e4182022bec0f13a0e391711466795740692480",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 188115,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4974249002728948694",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5736202774002008068",
+                    "short_name": "TygreKitty"
+                },
+                "id": "4974249002728948694",
+                "emoticons": [
+                    "🍑"
+                ]
+            }
+        },
+        {
+            "body": "🕳 (Itty Bitty Kitty)",
+            "url": "mxc://matrix.chir.rs/7f1e2b0ce790e0e197b8ded80d07710497d9ea281717437709531742208",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 180609,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7f1e2b0ce790e0e197b8ded80d07710497d9ea281717437709531742208",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 180609,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4983717889493173030",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5736202774002008068",
+                    "short_name": "TygreKitty"
+                },
+                "id": "4983717889493173030",
+                "emoticons": [
+                    "🍑",
+                    "🕳"
                 ]
             }
         },

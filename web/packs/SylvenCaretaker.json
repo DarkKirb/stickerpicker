@@ -3,7 +3,7 @@
     "id": "tg-387241028865753091",
     "net.maunium.telegram.pack": {
         "short_name": "SylvenCaretaker",
-        "hash": "1764154325"
+        "hash": "-1943965179"
     },
     "stickers": [
         {
@@ -682,36 +682,6 @@
             }
         },
         {
-            "body": "🍳 (@SylvenTehFolfsky Caretaker Pack)",
-            "url": "mxc://matrix.chir.rs/b15f2ee97300a00ac0a1a018b50a8ba8feb222501709508197577916416",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 322027,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b15f2ee97300a00ac0a1a018b50a8ba8feb222501709508197577916416",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 322027,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4956451470003143847",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "387241028865753091",
-                    "short_name": "SylvenCaretaker"
-                },
-                "id": "4956451470003143847",
-                "emoticons": [
-                    "👃",
-                    "🍳"
-                ]
-            }
-        },
-        {
             "body": "✔ (@SylvenTehFolfsky Caretaker Pack)",
             "url": "mxc://matrix.chir.rs/cc6be9b2d875d7bd7faa907839e674940db5e43b1707818101946449920",
             "info": {
@@ -737,6 +707,36 @@
                 "id": "4965597233492788124",
                 "emoticons": [
                     "✔"
+                ]
+            }
+        },
+        {
+            "body": "🍳 (@SylvenTehFolfsky Caretaker Pack)",
+            "url": "mxc://matrix.chir.rs/70b546238048440a5e45600491ea418d8d4dd1741711466724076814336",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 318897,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/70b546238048440a5e45600491ea418d8d4dd1741711466724076814336",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 318897,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4972535224878498773",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "387241028865753091",
+                    "short_name": "SylvenCaretaker"
+                },
+                "id": "4972535224878498773",
+                "emoticons": [
+                    "👃",
+                    "🍳"
                 ]
             }
         },

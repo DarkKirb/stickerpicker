@@ -3,7 +3,7 @@
     "id": "tg-5256682388506804225",
     "net.maunium.telegram.pack": {
         "short_name": "Reskao",
-        "hash": "-334213614"
+        "hash": "546641009"
     },
     "stickers": [
         {
@@ -931,6 +931,93 @@
                 "id": "4988283422548951389",
                 "emoticons": [
                     "😡"
+                ]
+            }
+        },
+        {
+            "body": "😍 (Reskao)",
+            "url": "mxc://matrix.chir.rs/8893637be8688c65b9a6981f058fb765b939b8cc1717437314436694016",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 219929,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8893637be8688c65b9a6981f058fb765b939b8cc1717437314436694016",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 219929,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017105410474115968",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5256682388506804225",
+                    "short_name": "Reskao"
+                },
+                "id": "5017105410474115968",
+                "emoticons": [
+                    "😍"
+                ]
+            }
+        },
+        {
+            "body": "🍿 (Reskao)",
+            "url": "mxc://matrix.chir.rs/1f5ea0d83ec0529053e4cf85791477cafa1f907f1717437314579300352",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216500,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1f5ea0d83ec0529053e4cf85791477cafa1f907f1717437314579300352",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216500,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017239507943031879",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5256682388506804225",
+                    "short_name": "Reskao"
+                },
+                "id": "5017239507943031879",
+                "emoticons": [
+                    "🍿"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Reskao)",
+            "url": "mxc://matrix.chir.rs/89ae1bfd906c830c58a36e38419f80554a4dfd5c1717437314180841472",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 156907,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/89ae1bfd906c830c58a36e38419f80554a4dfd5c1717437314180841472",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 156907,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017417714726077257",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5256682388506804225",
+                    "short_name": "Reskao"
+                },
+                "id": "5017417714726077257",
+                "emoticons": [
+                    "😊"
                 ]
             }
         },

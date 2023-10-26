@@ -3,7 +3,7 @@
     "id": "tg-3699400480464568323",
     "net.maunium.telegram.pack": {
         "short_name": "Tinbaby",
-        "hash": "-8732490"
+        "hash": "537501972"
     },
     "stickers": [
         {
@@ -358,35 +358,6 @@
                 "id": "4947439769622680731",
                 "emoticons": [
                     "😣"
-                ]
-            }
-        },
-        {
-            "body": "😠 (Baby Tin)",
-            "url": "mxc://matrix.chir.rs/e61658b62b0008dc8e102481cc3c06c5884e2a281707818391277928449",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 231800,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e61658b62b0008dc8e102481cc3c06c5884e2a281707818391277928449",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 231800,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4947471887388115845",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "3699400480464568323",
-                    "short_name": "Tinbaby"
-                },
-                "id": "4947471887388115845",
-                "emoticons": [
-                    "😠"
                 ]
             }
         },
@@ -1211,6 +1182,35 @@
                     "🖤",
                     "⚫",
                     "😁"
+                ]
+            }
+        },
+        {
+            "body": "😠 (Baby Tin)",
+            "url": "mxc://matrix.chir.rs/a899042ffa9688b3d940c25fccf2fd287cd32ab31711466802636128256",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 234844,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/a899042ffa9688b3d940c25fccf2fd287cd32ab31711466802636128256",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 234844,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4972162980062954314",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3699400480464568323",
+                    "short_name": "Tinbaby"
+                },
+                "id": "4972162980062954314",
+                "emoticons": [
+                    "😠"
                 ]
             }
         },

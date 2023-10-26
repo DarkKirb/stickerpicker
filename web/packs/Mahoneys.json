@@ -3,7 +3,7 @@
     "id": "tg-2453077795245391873",
     "net.maunium.telegram.pack": {
         "short_name": "Mahoneys",
-        "hash": "1118626330"
+        "hash": "850017564"
     },
     "stickers": [
         {
@@ -1964,6 +1964,35 @@
                 "emoticons": [
                     "😘",
                     "🍑"
+                ]
+            }
+        },
+        {
+            "body": "😏 (MahoneytheRingtailedIdiot)",
+            "url": "mxc://matrix.chir.rs/545d6a323ef7e3833bf91474e670ec61e0ddeb301711466186773889024",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 196705,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/545d6a323ef7e3833bf91474e670ec61e0ddeb301711466186773889024",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 196705,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4976952268029952915",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2453077795245391873",
+                    "short_name": "Mahoneys"
+                },
+                "id": "4976952268029952915",
+                "emoticons": [
+                    "😏"
                 ]
             }
         }
