@@ -3,7 +3,7 @@
     "id": "tg-7594844107491508223",
     "net.maunium.telegram.pack": {
         "short_name": "BraxyDump",
-        "hash": "-1336765186"
+        "hash": "-859110661"
     },
     "stickers": [
         {
@@ -61,6 +61,35 @@
                 "id": "4936445847345824517",
                 "emoticons": [
                     "🥴"
+                ]
+            }
+        },
+        {
+            "body": "🙌 (Braxy dump)",
+            "url": "mxc://matrix.chir.rs/1ba437063c386616ae060a18c88fb3636fe032ad1725557649870684160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 208651,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/1ba437063c386616ae060a18c88fb3636fe032ad1725557649870684160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 208651,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5062398735418393334",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7594844107491508223",
+                    "short_name": "BraxyDump"
+                },
+                "id": "5062398735418393334",
+                "emoticons": [
+                    "🙌"
                 ]
             }
         }

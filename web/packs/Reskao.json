@@ -3,7 +3,7 @@
     "id": "tg-5256682388506804225",
     "net.maunium.telegram.pack": {
         "short_name": "Reskao",
-        "hash": "546641009"
+        "hash": "-1352825718"
     },
     "stickers": [
         {
@@ -1395,6 +1395,35 @@
                 "id": "5069333853470982537",
                 "emoticons": [
                     "☕"
+                ]
+            }
+        },
+        {
+            "body": "😊 (Reskao)",
+            "url": "mxc://matrix.chir.rs/34290888d3aa8c909cb5c3cb62bab7b96111f8ee1725558560277921792",
+            "info": {
+                "w": 171,
+                "h": 256,
+                "size": 140734,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/34290888d3aa8c909cb5c3cb62bab7b96111f8ee1725558560277921792",
+                "thumbnail_info": {
+                    "w": 171,
+                    "h": 256,
+                    "size": 140734,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5080555482028969157",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5256682388506804225",
+                    "short_name": "Reskao"
+                },
+                "id": "5080555482028969157",
+                "emoticons": [
+                    "😊"
                 ]
             }
         },

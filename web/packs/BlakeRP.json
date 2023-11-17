@@ -3,7 +3,7 @@
     "id": "tg-553327714849783809",
     "net.maunium.telegram.pack": {
         "short_name": "BlakeRP",
-        "hash": "-1535567724"
+        "hash": "-1385614392"
     },
     "stickers": [
         {
@@ -409,6 +409,35 @@
                 "id": "5066860111222276507",
                 "emoticons": [
                     "🤗"
+                ]
+            }
+        },
+        {
+            "body": "🧙‍♂️ (BlakeRP)",
+            "url": "mxc://matrix.chir.rs/3fd81d5a0e88291c9d500f1f5695dace09d7673d1725557628832055296",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 146673,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3fd81d5a0e88291c9d500f1f5695dace09d7673d1725557628832055296",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 146673,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5068994594004272025",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "553327714849783809",
+                    "short_name": "BlakeRP"
+                },
+                "id": "5068994594004272025",
+                "emoticons": [
+                    "🧙‍♂"
                 ]
             }
         },

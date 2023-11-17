@@ -3,7 +3,7 @@
     "id": "tg-437092306248532041",
     "net.maunium.telegram.pack": {
         "short_name": "ManedDerp",
-        "hash": "1026855168"
+        "hash": "-1303510210"
     },
     "stickers": [
         {
@@ -2468,6 +2468,35 @@
                 "id": "5634024578612199428",
                 "emoticons": [
                     "⚧"
+                ]
+            }
+        },
+        {
+            "body": "🪚 (Maned Derp)",
+            "url": "mxc://matrix.chir.rs/ef682c813527c117950e398f8df1e746c73b4db91725558352957669376",
+            "info": {
+                "w": 256,
+                "h": 221,
+                "size": 140779,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ef682c813527c117950e398f8df1e746c73b4db91725558352957669376",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 221,
+                    "size": 140779,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5638828447993167882",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "437092306248532041",
+                    "short_name": "ManedDerp"
+                },
+                "id": "5638828447993167882",
+                "emoticons": [
+                    "🪚"
                 ]
             }
         },

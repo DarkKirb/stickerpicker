@@ -3,7 +3,7 @@
     "id": "tg-732737535414894596",
     "net.maunium.telegram.pack": {
         "short_name": "Sparx",
-        "hash": "2056517886"
+        "hash": "239767683"
     },
     "stickers": [
         {
@@ -2004,6 +2004,35 @@
                 "id": "5666021822974394378",
                 "emoticons": [
                     "🏳‍⚧"
+                ]
+            }
+        },
+        {
+            "body": "🔥 (Sparx)",
+            "url": "mxc://matrix.chir.rs/0aceae22d7d939445880a0490f305d4bc9c9b8831725558745410306048",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 192724,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/0aceae22d7d939445880a0490f305d4bc9c9b8831725558745410306048",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 192724,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5667830227544309766",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "732737535414894596",
+                    "short_name": "Sparx"
+                },
+                "id": "5667830227544309766",
+                "emoticons": [
+                    "🔥"
                 ]
             }
         },

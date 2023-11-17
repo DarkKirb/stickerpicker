@@ -3,7 +3,7 @@
     "id": "tg-3162123818609147905",
     "net.maunium.telegram.pack": {
         "short_name": "HysterixKit",
-        "hash": "845192711"
+        "hash": "350380387"
     },
     "stickers": [
         {
@@ -875,6 +875,35 @@
                 "id": "5032833413208343139",
                 "emoticons": [
                     "😳"
+                ]
+            }
+        },
+        {
+            "body": "💩 (HysterixKit)",
+            "url": "mxc://matrix.chir.rs/cf7db8cfe903bf910f4aa0a7591cff9b5e227e971725558109558013952",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 135959,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/cf7db8cfe903bf910f4aa0a7591cff9b5e227e971725558109558013952",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 135959,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5057542690774713448",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3162123818609147905",
+                    "short_name": "HysterixKit"
+                },
+                "id": "5057542690774713448",
+                "emoticons": [
+                    "💩"
                 ]
             }
         },

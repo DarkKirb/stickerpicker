@@ -3,7 +3,7 @@
     "id": "tg-7594844107491508221",
     "net.maunium.telegram.pack": {
         "short_name": "Strigiset",
-        "hash": "406037060"
+        "hash": "1183136526"
     },
     "stickers": [
         {
@@ -322,6 +322,35 @@
                 "id": "4994930593109115812",
                 "emoticons": [
                     "🦉"
+                ]
+            }
+        },
+        {
+            "body": "😎 (Strigi's Stickers)",
+            "url": "mxc://matrix.chir.rs/f781c31bd03e45317c1170b6a9d0f32f9cbfb16d1725558782290821120",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 176125,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/f781c31bd03e45317c1170b6a9d0f32f9cbfb16d1725558782290821120",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 176125,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5064614058074833988",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "7594844107491508221",
+                    "short_name": "Strigiset"
+                },
+                "id": "5064614058074833988",
+                "emoticons": [
+                    "😎"
                 ]
             }
         }
