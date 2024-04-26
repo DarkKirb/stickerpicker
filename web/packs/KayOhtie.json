@@ -3,7 +3,7 @@
     "id": "tg-233332065519534083",
     "net.maunium.telegram.pack": {
         "short_name": "KayOhtie",
-        "hash": "1869348594"
+        "hash": "1500213655"
     },
     "stickers": [
         {
@@ -1606,6 +1606,36 @@
                 "emoticons": [
                     "☕",
                     "🍵"
+                ]
+            }
+        },
+        {
+            "body": "👨‍🍳 (CeralorAll)",
+            "url": "mxc://matrix.chir.rs/5ec6e5a75cca359ddf09020184410fdf026468c41783904457189228544",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 197487,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/5ec6e5a75cca359ddf09020184410fdf026468c41783904457189228544",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 197487,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4985706833013376458",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "233332065519534083",
+                    "short_name": "KayOhtie"
+                },
+                "id": "4985706833013376458",
+                "emoticons": [
+                    "👨‍🍳",
+                    "🍪"
                 ]
             }
         },

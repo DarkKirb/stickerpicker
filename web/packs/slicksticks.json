@@ -3,7 +3,7 @@
     "id": "tg-1641885561113280514",
     "net.maunium.telegram.pack": {
         "short_name": "slicksticks",
-        "hash": "1334018873"
+        "hash": "-88119355"
     },
     "stickers": [
         {
@@ -32,6 +32,35 @@
                 "id": "4904575420482978719",
                 "emoticons": [
                     "🔇"
+                ]
+            }
+        },
+        {
+            "body": "😬 (Slick's Sticks)",
+            "url": "mxc://matrix.chir.rs/4322b034c656030d93ad5403e60744cd850f87381783905166085324800",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 260186,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/4322b034c656030d93ad5403e60744cd850f87381783905166085324800",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 260186,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4954266289427187066",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4954266289427187066",
+                "emoticons": [
+                    "😬"
                 ]
             }
         },

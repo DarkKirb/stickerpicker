@@ -3,38 +3,9 @@
     "id": "tg-108921607577141251",
     "net.maunium.telegram.pack": {
         "short_name": "CrinkleHusky",
-        "hash": "1684094687"
+        "hash": "1701193988"
     },
     "stickers": [
-        {
-            "body": "👶 (Huskers' Crinkly Side)",
-            "url": "mxc://matrix.chir.rs/2bf93c0dfd89934c18dabdedaf1efa5c2619b5061774870635781029889",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 231379,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2bf93c0dfd89934c18dabdedaf1efa5c2619b5061774870635781029889",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 231379,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-108921607577141382",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "108921607577141251",
-                    "short_name": "CrinkleHusky"
-                },
-                "id": "108921607577141382",
-                "emoticons": [
-                    "👶"
-                ]
-            }
-        },
         {
             "body": "🎮 (Huskers' Crinkly Side)",
             "url": "mxc://matrix.chir.rs/76dc6906545437e0817ab5ac5f9ff933a6591c231774870660288348160",
@@ -1772,6 +1743,64 @@
                 "id": "4933980845355565882",
                 "emoticons": [
                     "⛏"
+                ]
+            }
+        },
+        {
+            "body": "👶 (Huskers' Crinkly Side)",
+            "url": "mxc://matrix.chir.rs/21d0afaf29a057c8a6d759b72052a71051f7b4851783903958029303808",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 211649,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/21d0afaf29a057c8a6d759b72052a71051f7b4851783903958029303808",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 211649,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994668123362691512",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "108921607577141251",
+                    "short_name": "CrinkleHusky"
+                },
+                "id": "4994668123362691512",
+                "emoticons": [
+                    "👶"
+                ]
+            }
+        },
+        {
+            "body": "👆 (Huskers' Crinkly Side)",
+            "url": "mxc://matrix.chir.rs/9311c6796602c9e97e4a9bf236bad3b9d32dfda71783903958658449408",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 227039,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/9311c6796602c9e97e4a9bf236bad3b9d32dfda71783903958658449408",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 227039,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994858175665538154",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "108921607577141251",
+                    "short_name": "CrinkleHusky"
+                },
+                "id": "4994858175665538154",
+                "emoticons": [
+                    "👆"
                 ]
             }
         },

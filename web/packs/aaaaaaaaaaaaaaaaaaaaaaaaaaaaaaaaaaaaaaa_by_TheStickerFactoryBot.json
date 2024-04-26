@@ -3,7 +3,7 @@
     "id": "tg-886560792688721923",
     "net.maunium.telegram.pack": {
         "short_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa_by_TheStickerFactoryBot",
-        "hash": "606873330"
+        "hash": "1572656079"
     },
     "stickers": [
         {
@@ -1863,6 +1863,35 @@
                     "short_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa_by_TheStickerFactoryBot"
                 },
                 "id": "4920503061887058917",
+                "emoticons": [
+                    "🖼"
+                ]
+            }
+        },
+        {
+            "body": "🖼 (a)",
+            "url": "mxc://matrix.chir.rs/549c76b9180c3c7a6537467ed19e44e417c6baca1783899872194199552",
+            "info": {
+                "w": 256,
+                "h": 209,
+                "size": 199220,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/549c76b9180c3c7a6537467ed19e44e417c6baca1783899872194199552",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 209,
+                    "size": 199220,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4947538966187344890",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "886560792688721923",
+                    "short_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa_by_TheStickerFactoryBot"
+                },
+                "id": "4947538966187344890",
                 "emoticons": [
                     "🖼"
                 ]

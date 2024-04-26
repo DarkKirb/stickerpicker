@@ -3,7 +3,7 @@
     "id": "tg-195304755793231885",
     "net.maunium.telegram.pack": {
         "short_name": "Ninji2",
-        "hash": "-289065936"
+        "hash": "1689801354"
     },
     "stickers": [
         {
@@ -297,6 +297,35 @@
             }
         },
         {
+            "body": "👀 (Ninji 2)",
+            "url": "mxc://matrix.chir.rs/3beddee686497ed41081abf032be7d0fbf6d24a51783904688656089088",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 216017,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/3beddee686497ed41081abf032be7d0fbf6d24a51783904688656089088",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 216017,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5794363163835111271",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "195304755793231885",
+                    "short_name": "Ninji2"
+                },
+                "id": "5794363163835111271",
+                "emoticons": [
+                    "👀"
+                ]
+            }
+        },
+        {
             "body": "🧻 (Ninji 2)",
             "url": "mxc://matrix.chir.rs/358c54be361d79face0b45655fbf1ebf26d2af141774874213199380480",
             "info": {
@@ -413,6 +442,35 @@
             }
         },
         {
+            "body": "🍚 (Ninji 2)",
+            "url": "mxc://matrix.chir.rs/86a53ceace8219a1718ac5653fb8d8f34dca3bf01783904688777723904",
+            "info": {
+                "w": 256,
+                "h": 245,
+                "size": 320301,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/86a53ceace8219a1718ac5653fb8d8f34dca3bf01783904688777723904",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 245,
+                    "size": 320301,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5816541288324928019",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "195304755793231885",
+                    "short_name": "Ninji2"
+                },
+                "id": "5816541288324928019",
+                "emoticons": [
+                    "🍚"
+                ]
+            }
+        },
+        {
             "body": "🥚 (Ninji 2)",
             "url": "mxc://matrix.chir.rs/a6e1d7ba2da65bfa7ac7e65d70ede51286f1b0681774874216944893952",
             "info": {
@@ -525,6 +583,35 @@
                 "id": "5825907293442544412",
                 "emoticons": [
                     "🚫"
+                ]
+            }
+        },
+        {
+            "body": "🐶 (Ninji 2)",
+            "url": "mxc://matrix.chir.rs/946984b8096acc7b63c081a3083b62648cf2fb571783904688752558080",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 237435,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/946984b8096acc7b63c081a3083b62648cf2fb571783904688752558080",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 237435,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5827817561751820585",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "195304755793231885",
+                    "short_name": "Ninji2"
+                },
+                "id": "5827817561751820585",
+                "emoticons": [
+                    "🐶"
                 ]
             }
         },

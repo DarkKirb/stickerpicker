@@ -3,7 +3,7 @@
     "id": "tg-384850033456971777",
     "net.maunium.telegram.pack": {
         "short_name": "prplwoof",
-        "hash": "1425149939"
+        "hash": "1355180810"
     },
     "stickers": [
         {
@@ -1289,6 +1289,35 @@
                 "id": "384850033456972535",
                 "emoticons": [
                     "😳"
+                ]
+            }
+        },
+        {
+            "body": "🗣 (Maff)",
+            "url": "mxc://matrix.chir.rs/7751a87b7bf4e93d94a9d89e1d0cde5ca69ba7d71783904813793148928",
+            "info": {
+                "w": 256,
+                "h": 169,
+                "size": 180768,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/7751a87b7bf4e93d94a9d89e1d0cde5ca69ba7d71783904813793148928",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 169,
+                    "size": 180768,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5796323739096323028",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971777",
+                    "short_name": "prplwoof"
+                },
+                "id": "5796323739096323028",
+                "emoticons": [
+                    "🗣"
                 ]
             }
         },

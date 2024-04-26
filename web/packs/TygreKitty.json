@@ -3,7 +3,7 @@
     "id": "tg-5736202774002008068",
     "net.maunium.telegram.pack": {
         "short_name": "TygreKitty",
-        "hash": "-1194613442"
+        "hash": "-1388418629"
     },
     "stickers": [
         {
@@ -152,6 +152,35 @@
                 "emoticons": [
                     "😏",
                     "🥵"
+                ]
+            }
+        },
+        {
+            "body": "👗 (Itty Bitty Kitty)",
+            "url": "mxc://matrix.chir.rs/8488380be1e3cb1ab00a201411f89c3a476dcee71783905627295186944",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 164046,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/8488380be1e3cb1ab00a201411f89c3a476dcee71783905627295186944",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 164046,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4949997680345482883",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5736202774002008068",
+                    "short_name": "TygreKitty"
+                },
+                "id": "4949997680345482883",
+                "emoticons": [
+                    "👗"
                 ]
             }
         },

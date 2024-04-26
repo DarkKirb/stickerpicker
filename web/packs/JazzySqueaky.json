@@ -3,7 +3,7 @@
     "id": "tg-464477769347104770",
     "net.maunium.telegram.pack": {
         "short_name": "JazzySqueaky",
-        "hash": "427815188"
+        "hash": "411692606"
     },
     "stickers": [
         {
@@ -1166,6 +1166,64 @@
                     "💙",
                     "🧡",
                     "💜"
+                ]
+            }
+        },
+        {
+            "body": "💙 (Jazzy Squeakybunfox)",
+            "url": "mxc://matrix.chir.rs/ebd48d3c9ab056964986bce8cbac69f98e9643f91783904364146982912",
+            "info": {
+                "w": 256,
+                "h": 249,
+                "size": 183714,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/ebd48d3c9ab056964986bce8cbac69f98e9643f91783904364146982912",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 249,
+                    "size": 183714,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4927072042567599335",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "464477769347104770",
+                    "short_name": "JazzySqueaky"
+                },
+                "id": "4927072042567599335",
+                "emoticons": [
+                    "💙"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Jazzy Squeakybunfox)",
+            "url": "mxc://matrix.chir.rs/d6bb479aac44697f7e02a52bdb54007d4b13b84a1783904364293783552",
+            "info": {
+                "w": 251,
+                "h": 256,
+                "size": 257235,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/d6bb479aac44697f7e02a52bdb54007d4b13b84a1783904364293783552",
+                "thumbnail_info": {
+                    "w": 251,
+                    "h": 256,
+                    "size": 257235,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4949485638639420368",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "464477769347104770",
+                    "short_name": "JazzySqueaky"
+                },
+                "id": "4949485638639420368",
+                "emoticons": [
+                    "🤗"
                 ]
             }
         },
