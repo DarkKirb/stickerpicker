@@ -3,7 +3,7 @@
     "id": "tg-195304755793231885",
     "net.maunium.telegram.pack": {
         "short_name": "Ninji2",
-        "hash": "1689801354"
+        "hash": "-1649224628"
     },
     "stickers": [
         {
@@ -758,6 +758,35 @@
                 "emoticons": [
                     "🚨",
                     "🚓"
+                ]
+            }
+        },
+        {
+            "body": "🎉 (Ninji 2)",
+            "url": "mxc://matrix.chir.rs/362f80d2d233a402b9ff8095bfe5e1325c38ff301786055107314450432",
+            "info": {
+                "w": 256,
+                "h": 75,
+                "size": 37447,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/362f80d2d233a402b9ff8095bfe5e1325c38ff301786055107314450432",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 75,
+                    "size": 37447,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5877724909932647245",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "195304755793231885",
+                    "short_name": "Ninji2"
+                },
+                "id": "5877724909932647245",
+                "emoticons": [
+                    "🎉"
                 ]
             }
         },
