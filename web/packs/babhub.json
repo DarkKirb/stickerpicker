@@ -3,18 +3,18 @@
     "id": "tg-3071951027474268164",
     "net.maunium.telegram.pack": {
         "short_name": "babhub",
-        "hash": "-1319557865"
+        "hash": "1640585879"
     },
     "stickers": [
         {
             "body": "🍼 (Baby Hub)",
-            "url": "mxc://matrix.chir.rs/b225d66f44a91c548ee386246c41ab0140c04e4f1774858905470369792",
+            "url": "mxc://matrix.chir.rs/3794bec9cd1b2d3d240308c2464d716b925201871805526734028668928",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 110072,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b225d66f44a91c548ee386246c41ab0140c04e4f1774858905470369792",
+                "thumbnail_url": "mxc://matrix.chir.rs/3794bec9cd1b2d3d240308c2464d716b925201871805526734028668928",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -37,13 +37,13 @@
         },
         {
             "body": "👫 (Baby Hub)",
-            "url": "mxc://matrix.chir.rs/eda0aa9e580792b8dd7f6eee557f9f327a3df5481774858920423063552",
+            "url": "mxc://matrix.chir.rs/df1f52fda3cad1e561561615b8a9fc2fbc0deabb1805526734682980352",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 83501,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eda0aa9e580792b8dd7f6eee557f9f327a3df5481774858920423063552",
+                "thumbnail_url": "mxc://matrix.chir.rs/df1f52fda3cad1e561561615b8a9fc2fbc0deabb1805526734682980352",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -66,13 +66,13 @@
         },
         {
             "body": "🔫 (Baby Hub)",
-            "url": "mxc://matrix.chir.rs/681aeabc3f1daa255449f022bbac5bb4ff0fc1131774858911694716928",
+            "url": "mxc://matrix.chir.rs/3d2bf913f2ec5fc82afbe7273c2e1f8acefa0ddd1805526735781888000",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 204829,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/681aeabc3f1daa255449f022bbac5bb4ff0fc1131774858911694716928",
+                "thumbnail_url": "mxc://matrix.chir.rs/3d2bf913f2ec5fc82afbe7273c2e1f8acefa0ddd1805526735781888000",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -95,13 +95,13 @@
         },
         {
             "body": "😛 (Baby Hub)",
-            "url": "mxc://matrix.chir.rs/791e8f3f92b8a2e6aae68c53fb360414faa685d71774858913338884096",
+            "url": "mxc://matrix.chir.rs/d0b8866ad709ca8013c8ab373d01f0cd867eb25c1805526735656058880",
             "info": {
                 "w": 201,
                 "h": 256,
                 "size": 214448,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/791e8f3f92b8a2e6aae68c53fb360414faa685d71774858913338884096",
+                "thumbnail_url": "mxc://matrix.chir.rs/d0b8866ad709ca8013c8ab373d01f0cd867eb25c1805526735656058880",
                 "thumbnail_info": {
                     "w": 201,
                     "h": 256,
@@ -124,13 +124,13 @@
         },
         {
             "body": "👀 (Baby Hub)",
-            "url": "mxc://matrix.chir.rs/9fd0ee480f703567af0319845ea445c98534097d1774858927272361984",
+            "url": "mxc://matrix.chir.rs/3b61d894bb39ae8aad0db84d96b595dd6b8342ce1805526734322270208",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 223920,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9fd0ee480f703567af0319845ea445c98534097d1774858927272361984",
+                "thumbnail_url": "mxc://matrix.chir.rs/3b61d894bb39ae8aad0db84d96b595dd6b8342ce1805526734322270208",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -148,6 +148,36 @@
                 "id": "5084993201152984344",
                 "emoticons": [
                     "👀"
+                ]
+            }
+        },
+        {
+            "body": "🤗 (Baby Hub)",
+            "url": "mxc://matrix.chir.rs/c4a5dcf37cf3a738bbd3b62ad329c7d605fa2b4d1805526735215656960",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 157112,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/c4a5dcf37cf3a738bbd3b62ad329c7d605fa2b4d1805526735215656960",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 157112,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5166158226097440056",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3071951027474268164",
+                    "short_name": "babhub"
+                },
+                "id": "5166158226097440056",
+                "emoticons": [
+                    "🤗",
+                    "🫂"
                 ]
             }
         }
