@@ -3,18 +3,48 @@
     "id": "tg-8639880672187514878",
     "net.maunium.telegram.pack": {
         "short_name": "Lil_Scooze",
-        "hash": "255422615"
+        "hash": "523435270"
     },
     "stickers": [
         {
+            "body": "☺️ (Scoozes lil stickers)",
+            "url": "mxc://chir.rs/64ddf66b165ea69238c0ead134c49fffe2b130a31841929612557287424",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 185786,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://chir.rs/64ddf66b165ea69238c0ead134c49fffe2b130a31841929612557287424",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 185786,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4929536842694395300",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8639880672187514878",
+                    "short_name": "Lil_Scooze"
+                },
+                "id": "4929536842694395300",
+                "emoticons": [
+                    "💧",
+                    "☺"
+                ]
+            }
+        },
+        {
             "body": "❌ (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/77fcfc0a886a5a4818f9db191ae2d97c99bdefda1805524981975613440",
+            "url": "mxc://chir.rs/0cccf010f637bc1c45fce7c8602a38dc273834af1841929607880638464",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 142397,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/77fcfc0a886a5a4818f9db191ae2d97c99bdefda1805524981975613440",
+                "thumbnail_url": "mxc://chir.rs/0cccf010f637bc1c45fce7c8602a38dc273834af1841929607880638464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -37,13 +67,13 @@
         },
         {
             "body": "👍 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/2dbceb04d78fd5e532ce13bd1887dd0b97b857281805524976128753664",
+            "url": "mxc://chir.rs/66548ba8337822c92f00831b5fcb5487d23a654a1841929609323479040",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 203980,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2dbceb04d78fd5e532ce13bd1887dd0b97b857281805524976128753664",
+                "thumbnail_url": "mxc://chir.rs/66548ba8337822c92f00831b5fcb5487d23a654a1841929609323479040",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -66,13 +96,13 @@
         },
         {
             "body": "💻 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/5bb0b5d5fc4088c8dd9db078a375b9afca164cb31805524980968980480",
+            "url": "mxc://chir.rs/3800b81dd2c1e457ce4f011cc7f17b133134dedc1841929605955452928",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 149157,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5bb0b5d5fc4088c8dd9db078a375b9afca164cb31805524980968980480",
+                "thumbnail_url": "mxc://chir.rs/3800b81dd2c1e457ce4f011cc7f17b133134dedc1841929605955452928",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -94,43 +124,14 @@
             }
         },
         {
-            "body": "💥 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/e94594a6a222d03c906b73f161bea830e6c76f251805524980817985536",
-            "info": {
-                "w": 256,
-                "h": 256,
-                "size": 199405,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e94594a6a222d03c906b73f161bea830e6c76f251805524980817985536",
-                "thumbnail_info": {
-                    "w": 256,
-                    "h": 256,
-                    "size": 199405,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "tg-4945473254421693472",
-            "net.maunium.telegram.sticker": {
-                "pack": {
-                    "id": "8639880672187514878",
-                    "short_name": "Lil_Scooze"
-                },
-                "id": "4945473254421693472",
-                "emoticons": [
-                    "💥"
-                ]
-            }
-        },
-        {
             "body": "❓ (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/181df1479ed95ca676fd175221bb1a331c63bfcb1805524977751949312",
+            "url": "mxc://chir.rs/a8a7bf35f8ad19683cbf261c7c1996e493e8cf3a1841929605968035840",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 142095,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/181df1479ed95ca676fd175221bb1a331c63bfcb1805524977751949312",
+                "thumbnail_url": "mxc://chir.rs/a8a7bf35f8ad19683cbf261c7c1996e493e8cf3a1841929605968035840",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -153,13 +154,13 @@
         },
         {
             "body": "🌀 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/ad177ac821ecce0fd81e2408e56fa546762931f51805524978313986048",
+            "url": "mxc://chir.rs/6511a0a78af9bd840000e7d97415b939c9310ccf1841929605347278848",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 156394,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ad177ac821ecce0fd81e2408e56fa546762931f51805524978313986048",
+                "thumbnail_url": "mxc://chir.rs/6511a0a78af9bd840000e7d97415b939c9310ccf1841929605347278848",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -182,13 +183,13 @@
         },
         {
             "body": "😘 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/2b8c4a16c6a805083e691febe9c4cf60d4d5faf91805524982038528001",
+            "url": "mxc://chir.rs/a64e610bc5ac73e08f0582d8ad227ea608a2c3f71841929608006467584",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 248507,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2b8c4a16c6a805083e691febe9c4cf60d4d5faf91805524982038528001",
+                "thumbnail_url": "mxc://chir.rs/a64e610bc5ac73e08f0582d8ad227ea608a2c3f71841929608006467584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -212,13 +213,13 @@
         },
         {
             "body": "🥴 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/1757a94ce1cbfcf881f5e776c4caf51434200ace1805524985565937664",
+            "url": "mxc://chir.rs/22774cbbe7ba4a2d38ac67ffedf07514283062ed1841929609340256256",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 221176,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/1757a94ce1cbfcf881f5e776c4caf51434200ace1805524985565937664",
+                "thumbnail_url": "mxc://chir.rs/22774cbbe7ba4a2d38ac67ffedf07514283062ed1841929609340256256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -241,13 +242,13 @@
         },
         {
             "body": "🐱 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/40abec066a76637f2956f6432ed4b6e31945c2c81805524982038528000",
+            "url": "mxc://chir.rs/780bf11650dbcac5df2b67b2ee10cc5bae085c0a1841929608115519488",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 171650,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/40abec066a76637f2956f6432ed4b6e31945c2c81805524982038528000",
+                "thumbnail_url": "mxc://chir.rs/780bf11650dbcac5df2b67b2ee10cc5bae085c0a1841929608115519488",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -270,13 +271,13 @@
         },
         {
             "body": "🚗 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/99eac92b07976ace22c1a71f36923d7083b9deba1805524980960591872",
+            "url": "mxc://chir.rs/72e1d36bb03cbde72dbe4da59bc8ab327d607c7e1841929605972230144",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 241488,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/99eac92b07976ace22c1a71f36923d7083b9deba1805524980960591872",
+                "thumbnail_url": "mxc://chir.rs/72e1d36bb03cbde72dbe4da59bc8ab327d607c7e1841929605972230144",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -299,13 +300,13 @@
         },
         {
             "body": "😳 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/5abeee6641fa8fab2ea5fe5209eee1bc8c9f5ae61805524981958836224",
+            "url": "mxc://chir.rs/424a722874613dde14932fa7c75f055f53b460c61841929608128102400",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 151580,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5abeee6641fa8fab2ea5fe5209eee1bc8c9f5ae61805524981958836224",
+                "thumbnail_url": "mxc://chir.rs/424a722874613dde14932fa7c75f055f53b460c61841929608128102400",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -328,13 +329,13 @@
         },
         {
             "body": "😢 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/dd4c7c76970775d403ea7f42211eb34b491c16471805524982546038784",
+            "url": "mxc://chir.rs/eb9c311efffb43c2d2a804c6ccc20c435d297f2b1841929608409120768",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 169484,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/dd4c7c76970775d403ea7f42211eb34b491c16471805524982546038784",
+                "thumbnail_url": "mxc://chir.rs/eb9c311efffb43c2d2a804c6ccc20c435d297f2b1841929608409120768",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -357,13 +358,13 @@
         },
         {
             "body": "❌ (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/e0160804b19f39254d0a0612f64ff10107d8605b1805524981178695680",
+            "url": "mxc://chir.rs/778d755abd88841a71eca580d8f92c994789a1dc1841929605355667457",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 216102,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e0160804b19f39254d0a0612f64ff10107d8605b1805524981178695680",
+                "thumbnail_url": "mxc://chir.rs/778d755abd88841a71eca580d8f92c994789a1dc1841929605355667457",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -386,13 +387,13 @@
         },
         {
             "body": "🤫 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/b3e17ea33425a4d4854810cc4df5a12eb12bcc321805524981577154560",
+            "url": "mxc://chir.rs/c5946994abac22f5c231910583fb177e80f16d911841929608128102401",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 250700,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b3e17ea33425a4d4854810cc4df5a12eb12bcc321805524981577154560",
+                "thumbnail_url": "mxc://chir.rs/c5946994abac22f5c231910583fb177e80f16d911841929608128102401",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -415,13 +416,13 @@
         },
         {
             "body": "❤️ (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/21f8443e4a727de83f7252856644b7d874a163751805524982235660288",
+            "url": "mxc://chir.rs/1a20ba7e1d5db486cfec1eef36db7dfc4dfcfe5c1841929608144879616",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 248046,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/21f8443e4a727de83f7252856644b7d874a163751805524982235660288",
+                "thumbnail_url": "mxc://chir.rs/1a20ba7e1d5db486cfec1eef36db7dfc4dfcfe5c1841929608144879616",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -444,13 +445,13 @@
         },
         {
             "body": "💻 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/3284ec802b789d11b52eea45d8f9b056adbe8bd61805524981560377344",
+            "url": "mxc://chir.rs/52db3239332dcddbe14e48cca89ae666c28593071841929606152585216",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 298788,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3284ec802b789d11b52eea45d8f9b056adbe8bd61805524981560377344",
+                "thumbnail_url": "mxc://chir.rs/52db3239332dcddbe14e48cca89ae666c28593071841929606152585216",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -473,13 +474,13 @@
         },
         {
             "body": "🍼 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/07e0a4d38f2055b039337f5794c781c708caeeb51805524982856417280",
+            "url": "mxc://chir.rs/83c17ceffcddc6c90a21b4e83b9540755c6fe1e71841929608455258112",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 192382,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/07e0a4d38f2055b039337f5794c781c708caeeb51805524982856417280",
+                "thumbnail_url": "mxc://chir.rs/83c17ceffcddc6c90a21b4e83b9540755c6fe1e71841929608455258112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -502,13 +503,13 @@
         },
         {
             "body": "😊 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/ac8ab6aa6c570b8dd885c9ecbec64f0c3ff807ef1805524983930159104",
+            "url": "mxc://chir.rs/9ca21af8f89a3f6110be00018d6968b76c535a811841929608916631552",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 162877,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ac8ab6aa6c570b8dd885c9ecbec64f0c3ff807ef1805524983930159104",
+                "thumbnail_url": "mxc://chir.rs/9ca21af8f89a3f6110be00018d6968b76c535a811841929608916631552",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -531,13 +532,13 @@
         },
         {
             "body": "😍 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/5c8703e0bbe8183e719f381954db85fb8760ad871805524985255559168",
+            "url": "mxc://chir.rs/c6b38f521727ca5bc515992c0ef583c956a6b2971841929609038266368",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 246857,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5c8703e0bbe8183e719f381954db85fb8760ad871805524985255559168",
+                "thumbnail_url": "mxc://chir.rs/c6b38f521727ca5bc515992c0ef583c956a6b2971841929609038266368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -559,14 +560,43 @@
             }
         },
         {
+            "body": "💥 (Scoozes lil stickers)",
+            "url": "mxc://chir.rs/bf37d03e44c14e4b9ba78b5f4130df21623475861841929610640490496",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 204522,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://chir.rs/bf37d03e44c14e4b9ba78b5f4130df21623475861841929610640490496",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 204522,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4990205201370579773",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8639880672187514878",
+                    "short_name": "Lil_Scooze"
+                },
+                "id": "4990205201370579773",
+                "emoticons": [
+                    "💥"
+                ]
+            }
+        },
+        {
             "body": "💧 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/6b06b22d061588e3ec8de4cf867c96af1674e3751805524985771458560",
+            "url": "mxc://chir.rs/c657f5d2fb4e576f14196cb0006f229efcaeaded1841929610627907584",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 279925,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6b06b22d061588e3ec8de4cf867c96af1674e3751805524985771458560",
+                "thumbnail_url": "mxc://chir.rs/c657f5d2fb4e576f14196cb0006f229efcaeaded1841929610627907584",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -588,14 +618,44 @@
             }
         },
         {
+            "body": "👃 (Scoozes lil stickers)",
+            "url": "mxc://chir.rs/6b1ca41adcbf023400fbf81b0447d32679158d9c1841929616768368640",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 254926,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://chir.rs/6b1ca41adcbf023400fbf81b0447d32679158d9c1841929616768368640",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 254926,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5014999944491173048",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8639880672187514878",
+                    "short_name": "Lil_Scooze"
+                },
+                "id": "5014999944491173048",
+                "emoticons": [
+                    "😍",
+                    "👃"
+                ]
+            }
+        },
+        {
             "body": "⬆️ (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/b151ac69c0d9b56c590215024ccde0d15531f7541805524981174501376",
+            "url": "mxc://chir.rs/2257b1150b2f158e3e2472252fe225c0ec636e401841929610627907585",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 191978,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b151ac69c0d9b56c590215024ccde0d15531f7541805524981174501376",
+                "thumbnail_url": "mxc://chir.rs/2257b1150b2f158e3e2472252fe225c0ec636e401841929610627907585",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -617,14 +677,73 @@
             }
         },
         {
+            "body": "🤢 (Scoozes lil stickers)",
+            "url": "mxc://chir.rs/c5dc58d23d9e3807e275c8baf0b0ea62653a3d871841929616789340160",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 186445,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://chir.rs/c5dc58d23d9e3807e275c8baf0b0ea62653a3d871841929616789340160",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 186445,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5096230995967869991",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8639880672187514878",
+                    "short_name": "Lil_Scooze"
+                },
+                "id": "5096230995967869991",
+                "emoticons": [
+                    "🤢",
+                    "👉"
+                ]
+            }
+        },
+        {
+            "body": "💻 (Scoozes lil stickers)",
+            "url": "mxc://chir.rs/fc2b677d22b2fd493f5312dd2f7daad1e21726c91841929612729253888",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 171159,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://chir.rs/fc2b677d22b2fd493f5312dd2f7daad1e21726c91841929612729253888",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 171159,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5098354994734695494",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8639880672187514878",
+                    "short_name": "Lil_Scooze"
+                },
+                "id": "5098354994734695494",
+                "emoticons": [
+                    "💻"
+                ]
+            }
+        },
+        {
             "body": "😜 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/4724e8d6f8a37764b796dfe4c2dfea137f26932d1805524984752242688",
+            "url": "mxc://chir.rs/e6dee139aaeca44675579c511988d3af582ff2181841929611395465216",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 196092,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4724e8d6f8a37764b796dfe4c2dfea137f26932d1805524984752242688",
+                "thumbnail_url": "mxc://chir.rs/e6dee139aaeca44675579c511988d3af582ff2181841929611395465216",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -648,13 +767,13 @@
         },
         {
             "body": "😠 (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/4107ea6600aa053ad4e3b3760ff8f7b897b628e81805524981828812800",
+            "url": "mxc://chir.rs/d6b78a48b8f7a0932d69fd7d677b69e46c4d925c1841929607645757440",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 188972,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4107ea6600aa053ad4e3b3760ff8f7b897b628e81805524981828812800",
+                "thumbnail_url": "mxc://chir.rs/d6b78a48b8f7a0932d69fd7d677b69e46c4d925c1841929607645757440",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -677,14 +796,44 @@
             }
         },
         {
+            "body": "☺️ (Scoozes lil stickers)",
+            "url": "mxc://matrix.chir.rs/78e4d9384a784e64ef4d6a057096fa7670038f0a1841035650002845696",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 189029,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.chir.rs/78e4d9384a784e64ef4d6a057096fa7670038f0a1841035650002845696",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 189029,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5161527787495883810",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8639880672187514878",
+                    "short_name": "Lil_Scooze"
+                },
+                "id": "5161527787495883810",
+                "emoticons": [
+                    "☺",
+                    "🥰"
+                ]
+            }
+        },
+        {
             "body": "✅ (Scoozes lil stickers)",
-            "url": "mxc://matrix.chir.rs/b6fa39d0a1940bd37a225335a63f8ade364f21791805524978859245568",
+            "url": "mxc://chir.rs/a8c9c7fcd0718223079b0ac4c8a8ce504fc372fe1841929605355667456",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 202389,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b6fa39d0a1940bd37a225335a63f8ade364f21791805524978859245568",
+                "thumbnail_url": "mxc://chir.rs/a8c9c7fcd0718223079b0ac4c8a8ce504fc372fe1841929605355667456",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,

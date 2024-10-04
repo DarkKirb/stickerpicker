@@ -3,18 +3,18 @@
     "id": "tg-1641885561113280514",
     "net.maunium.telegram.pack": {
         "short_name": "slicksticks",
-        "hash": "-1904777130"
+        "hash": "-698161104"
     },
     "stickers": [
         {
             "body": "🔇 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/31701ebcac29bbc514133b8b9495109f9313a15c1805527388432367616",
+            "url": "mxc://chir.rs/b6106edbb0ccd4e6da8a30f269c63957732eac681841932101666996224",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 202004,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/31701ebcac29bbc514133b8b9495109f9313a15c1805527388432367616",
+                "thumbnail_url": "mxc://chir.rs/b6106edbb0ccd4e6da8a30f269c63957732eac681841932101666996224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -36,14 +36,72 @@
             }
         },
         {
+            "body": "😃 (Slick's Sticks)",
+            "url": "mxc://chir.rs/405a4ec3012a34dfdb9732bd7ab69a086070bf151841932106234593280",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 128821,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://chir.rs/405a4ec3012a34dfdb9732bd7ab69a086070bf151841932106234593280",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 128821,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904877932209505065",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4904877932209505065",
+                "emoticons": [
+                    "😃"
+                ]
+            }
+        },
+        {
+            "body": "😅 (Slick's Sticks)",
+            "url": "mxc://chir.rs/5c071aa75c4946d0756904ae19af506411029d9c1841932106922459136",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 129873,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://chir.rs/5c071aa75c4946d0756904ae19af506411029d9c1841932106922459136",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 129873,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4904881759025366060",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1641885561113280514",
+                    "short_name": "slicksticks"
+                },
+                "id": "4904881759025366060",
+                "emoticons": [
+                    "😅"
+                ]
+            }
+        },
+        {
             "body": "😬 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/98d411b82a5c847fb42bad7a01317bb894d143ef1805527390370136064",
+            "url": "mxc://chir.rs/91ecaaf20832fa91a1877a5c93262cff20d8b3911841932103692845056",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 260186,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/98d411b82a5c847fb42bad7a01317bb894d143ef1805527390370136064",
+                "thumbnail_url": "mxc://chir.rs/91ecaaf20832fa91a1877a5c93262cff20d8b3911841932103692845056",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -66,13 +124,13 @@
         },
         {
             "body": "🎨 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/fb7b227b987b4c850f37c897685760ff179d96ff1805527395847897088",
+            "url": "mxc://chir.rs/86b86f3e07c31b59f3c718fdf422932007b81ab61841932109803945984",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 161371,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fb7b227b987b4c850f37c897685760ff179d96ff1805527395847897088",
+                "thumbnail_url": "mxc://chir.rs/86b86f3e07c31b59f3c718fdf422932007b81ab61841932109803945984",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -95,13 +153,13 @@
         },
         {
             "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f9599120f478b135d3ea96c9b848c620b5c3f9dd1805527384548442112",
+            "url": "mxc://chir.rs/61a73bf54d66cd4e732d0bdf2f9df12ecbf897d31841932099607592960",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 194212,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f9599120f478b135d3ea96c9b848c620b5c3f9dd1805527384548442112",
+                "thumbnail_url": "mxc://chir.rs/61a73bf54d66cd4e732d0bdf2f9df12ecbf897d31841932099607592960",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -124,13 +182,13 @@
         },
         {
             "body": "💥 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e49fcc3cc2ee375fd8447fbfbd992be632b0f2e51805527393239040000",
+            "url": "mxc://chir.rs/6ce2a837ecbda6e56d58c4c0fec2545495b3458e1841932107933286400",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 237790,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e49fcc3cc2ee375fd8447fbfbd992be632b0f2e51805527393239040000",
+                "thumbnail_url": "mxc://chir.rs/6ce2a837ecbda6e56d58c4c0fec2545495b3458e1841932107933286400",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -153,13 +211,13 @@
         },
         {
             "body": "🤯 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/bb353189274334854fb823748f4c9898756778781805527393205485568",
+            "url": "mxc://chir.rs/c648a2c50cdf42e746efa934e9df0476e2a9668c1841932108067504128",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 239332,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bb353189274334854fb823748f4c9898756778781805527393205485568",
+                "thumbnail_url": "mxc://chir.rs/c648a2c50cdf42e746efa934e9df0476e2a9668c1841932108067504128",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -182,13 +240,13 @@
         },
         {
             "body": "💀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/eb4eb0f5aa3da02c4252a9a6cf233202c9759fc51805527395919200256",
+            "url": "mxc://chir.rs/c4acd6c3c9be8000eea64474770167cfdbfc0c101841932107958452224",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 196770,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/eb4eb0f5aa3da02c4252a9a6cf233202c9759fc51805527395919200256",
+                "thumbnail_url": "mxc://chir.rs/c4acd6c3c9be8000eea64474770167cfdbfc0c101841932107958452224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -211,13 +269,13 @@
         },
         {
             "body": "💀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/16f3a5bbb352dd93c7c763e0b6abdb940d2449d21805527395692707840",
+            "url": "mxc://chir.rs/5684432d13192416755e7a8040aa20b09e3b82261841932108046532608",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 186456,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/16f3a5bbb352dd93c7c763e0b6abdb940d2449d21805527395692707840",
+                "thumbnail_url": "mxc://chir.rs/5684432d13192416755e7a8040aa20b09e3b82261841932108046532608",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -240,13 +298,13 @@
         },
         {
             "body": "🏳️‍🌈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a48e3813aa8b306a7179d019daa041cc5645e5551805527374729576448",
+            "url": "mxc://chir.rs/719952245e3c5bd92fa13607d5ab691f9b2b61611841932089222496256",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 202949,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a48e3813aa8b306a7179d019daa041cc5645e5551805527374729576448",
+                "thumbnail_url": "mxc://chir.rs/719952245e3c5bd92fa13607d5ab691f9b2b61611841932089222496256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -269,13 +327,13 @@
         },
         {
             "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f5ed09d279cb795448c75d24ddb5444ed8a1a6f71805527386045808640",
+            "url": "mxc://chir.rs/470001c4f090d1e700ee5376484d43d8afd02be71841932099381100544",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 120040,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f5ed09d279cb795448c75d24ddb5444ed8a1a6f71805527386045808640",
+                "thumbnail_url": "mxc://chir.rs/470001c4f090d1e700ee5376484d43d8afd02be71841932099381100544",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -298,13 +356,13 @@
         },
         {
             "body": "♥️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/fdac209126ad300824a6085fd6e92abf5174d6b51805527373471285248",
+            "url": "mxc://chir.rs/dbd9ecc788ec6865e0b5c85f4154d6f4fe64df411841932087213424640",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 168399,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fdac209126ad300824a6085fd6e92abf5174d6b51805527373471285248",
+                "thumbnail_url": "mxc://chir.rs/dbd9ecc788ec6865e0b5c85f4154d6f4fe64df411841932087213424640",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -327,13 +385,13 @@
         },
         {
             "body": "☺️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/3d5e84ade4fb8cbd7b31c24e9858f7cdded2e57a1805527372410126336",
+            "url": "mxc://chir.rs/7a5c4cab6a17075e51c5252274b8c5a5439182521841932084982054912",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 191944,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3d5e84ade4fb8cbd7b31c24e9858f7cdded2e57a1805527372410126336",
+                "thumbnail_url": "mxc://chir.rs/7a5c4cab6a17075e51c5252274b8c5a5439182521841932084982054912",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -356,13 +414,13 @@
         },
         {
             "body": "📸 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4b996b150365877675a9bef1dc018bc11c0f6c5e1805527377371987968",
+            "url": "mxc://chir.rs/256e2832f618e30d542913f23f1ee72256c351401841932093286776832",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 178917,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b996b150365877675a9bef1dc018bc11c0f6c5e1805527377371987968",
+                "thumbnail_url": "mxc://chir.rs/256e2832f618e30d542913f23f1ee72256c351401841932093286776832",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -385,13 +443,13 @@
         },
         {
             "body": "😵 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b3ff90605524223596d5d7523dee6e75456468971805527383109795840",
+            "url": "mxc://chir.rs/47ca18c1f78cc500d8caeaf875de512ad98350bc1841932097871151104",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 112087,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b3ff90605524223596d5d7523dee6e75456468971805527383109795840",
+                "thumbnail_url": "mxc://chir.rs/47ca18c1f78cc500d8caeaf875de512ad98350bc1841932097871151104",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -414,13 +472,13 @@
         },
         {
             "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/33cba9342c4eeec2f5f05353d74ed009d670fee51805527385261473792",
+            "url": "mxc://chir.rs/d9d002544dc6c0d3c427cdaf8ad36c1b7ccc74571841932099716644864",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 10717,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/33cba9342c4eeec2f5f05353d74ed009d670fee51805527385261473792",
+                "thumbnail_url": "mxc://chir.rs/d9d002544dc6c0d3c427cdaf8ad36c1b7ccc74571841932099716644864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -443,13 +501,13 @@
         },
         {
             "body": "🤨 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/5a6ad5e62023e06bbc0eac92f9c19426eb60bed81805527371529322496",
+            "url": "mxc://chir.rs/030ca79ddf68749af5b98c73cdfeeb61ca71bd5f1841932085028192256",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 163467,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5a6ad5e62023e06bbc0eac92f9c19426eb60bed81805527371529322496",
+                "thumbnail_url": "mxc://chir.rs/030ca79ddf68749af5b98c73cdfeeb61ca71bd5f1841932085028192256",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -472,13 +530,13 @@
         },
         {
             "body": "🫂 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e90fb255debebfcafeef69a5d54b4f79a468ebd11805527387669004288",
+            "url": "mxc://chir.rs/4063b7692bba4d1fa9131696905b2b188e23850d1841932101222400000",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 209974,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e90fb255debebfcafeef69a5d54b4f79a468ebd11805527387669004288",
+                "thumbnail_url": "mxc://chir.rs/4063b7692bba4d1fa9131696905b2b188e23850d1841932101222400000",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -501,13 +559,13 @@
         },
         {
             "body": "😤 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/aafc5d70211ead886ab205ebc716805d913be3cf1805527392995770368",
+            "url": "mxc://chir.rs/59bf33e2f7ad25476ba9949308695c3cd0cb800a1841932105844523008",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 229652,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aafc5d70211ead886ab205ebc716805d913be3cf1805527392995770368",
+                "thumbnail_url": "mxc://chir.rs/59bf33e2f7ad25476ba9949308695c3cd0cb800a1841932105844523008",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -530,13 +588,13 @@
         },
         {
             "body": "🔥 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0b21c164ed05dd5690db55420956eb0c5cfd79ef1805527383621500928",
+            "url": "mxc://chir.rs/f742cde62f7479e089f13488b05f0dcbc20620d81841932097963425792",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 202262,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0b21c164ed05dd5690db55420956eb0c5cfd79ef1805527383621500928",
+                "thumbnail_url": "mxc://chir.rs/f742cde62f7479e089f13488b05f0dcbc20620d81841932097963425792",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -559,13 +617,13 @@
         },
         {
             "body": "🤤 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/18bdbfa516c9581169369007d65e06c25e00b8831805527384481333248",
+            "url": "mxc://chir.rs/b6d26f65e36ed6c96cf14f5afaf9d8a8a6fee5021841932097984397312",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 191947,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/18bdbfa516c9581169369007d65e06c25e00b8831805527384481333248",
+                "thumbnail_url": "mxc://chir.rs/b6d26f65e36ed6c96cf14f5afaf9d8a8a6fee5021841932097984397312",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -588,13 +646,13 @@
         },
         {
             "body": "🙄 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ffc42a4fcba2d10efbcfe537c3038c16946bde951805527383227236352",
+            "url": "mxc://chir.rs/c0ba02b97332e3af2d8daca0f99ece95225a3a521841932097980203008",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 165590,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ffc42a4fcba2d10efbcfe537c3038c16946bde951805527383227236352",
+                "thumbnail_url": "mxc://chir.rs/c0ba02b97332e3af2d8daca0f99ece95225a3a521841932097980203008",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -617,13 +675,13 @@
         },
         {
             "body": "❔ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0348d535ac1d43764b2043f01b1d1302fdb49f831805527373358039040",
+            "url": "mxc://chir.rs/408f0e8945be1d07b2c33e855d145260fa9aa6b41841932087075012608",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 155298,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0348d535ac1d43764b2043f01b1d1302fdb49f831805527373358039040",
+                "thumbnail_url": "mxc://chir.rs/408f0e8945be1d07b2c33e855d145260fa9aa6b41841932087075012608",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -646,13 +704,13 @@
         },
         {
             "body": "❓ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/3e34056831955ae9fbacc70bfa991c77b80c83ac1805527373458702336",
+            "url": "mxc://chir.rs/7a417c4d5344ebe7d81d8af73dbd82e02e1e3beb1841932087205036032",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 137853,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/3e34056831955ae9fbacc70bfa991c77b80c83ac1805527373458702336",
+                "thumbnail_url": "mxc://chir.rs/7a417c4d5344ebe7d81d8af73dbd82e02e1e3beb1841932087205036032",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -675,13 +733,13 @@
         },
         {
             "body": "🙀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/9016fdfea150260a3f63bc92fd879acfc8c48dd01805527378936463360",
+            "url": "mxc://chir.rs/99c95bc47c6893e3fa7e5b3ba3f3c24ac586d3be1841932093534240768",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 155702,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9016fdfea150260a3f63bc92fd879acfc8c48dd01805527378936463360",
+                "thumbnail_url": "mxc://chir.rs/99c95bc47c6893e3fa7e5b3ba3f3c24ac586d3be1841932093534240768",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -704,13 +762,13 @@
         },
         {
             "body": "🏳️‍🌈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0f93633c046ada28dfa425a58e344260e480e9161805527382946217984",
+            "url": "mxc://chir.rs/dab08bbcbc514188129c9ba54d1a82d2c2ca48cb1841932096684163072",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 165217,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0f93633c046ada28dfa425a58e344260e480e9161805527382946217984",
+                "thumbnail_url": "mxc://chir.rs/dab08bbcbc514188129c9ba54d1a82d2c2ca48cb1841932096684163072",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -734,13 +792,13 @@
         },
         {
             "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b688e56df04626e43b5625064166c97de60316b71805527393180319744",
+            "url": "mxc://chir.rs/0492e370d5203332eb5f207989656f79fc04cd6b1841932106041655296",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 200733,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b688e56df04626e43b5625064166c97de60316b71805527393180319744",
+                "thumbnail_url": "mxc://chir.rs/0492e370d5203332eb5f207989656f79fc04cd6b1841932106041655296",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -763,13 +821,13 @@
         },
         {
             "body": "🫄 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4aa492b9f360f499035d7453de6adfe28e7a6c371805527393092239360",
+            "url": "mxc://chir.rs/4a71d7a74f7defbbe45871fff8d6bdc7ef8690061841932106008100864",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 174388,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4aa492b9f360f499035d7453de6adfe28e7a6c371805527393092239360",
+                "thumbnail_url": "mxc://chir.rs/4a71d7a74f7defbbe45871fff8d6bdc7ef8690061841932106008100864",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -792,13 +850,13 @@
         },
         {
             "body": "😭 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/aa83f4d6a721c908aa1c9eaf445120eeb6b878961805527371936169984",
+            "url": "mxc://chir.rs/1b375004c1007363fdd5dfa5b9624649b422e4cf1841932084952694784",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 198733,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/aa83f4d6a721c908aa1c9eaf445120eeb6b878961805527371936169984",
+                "thumbnail_url": "mxc://chir.rs/1b375004c1007363fdd5dfa5b9624649b422e4cf1841932084952694784",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -821,13 +879,13 @@
         },
         {
             "body": "🤷 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/312b4749dbcec0bb4490787afec0dde965e685c71805527379234258944",
+            "url": "mxc://chir.rs/b743a63bf0ab072a1872625b46da3d9860dc34921841932093890756608",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 188933,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/312b4749dbcec0bb4490787afec0dde965e685c71805527379234258944",
+                "thumbnail_url": "mxc://chir.rs/b743a63bf0ab072a1872625b46da3d9860dc34921841932093890756608",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -850,13 +908,13 @@
         },
         {
             "body": "💀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/d21ff53e5c8e0a80950b5f08a13e0bd5dda8fac71805527394874818560",
+            "url": "mxc://chir.rs/e2b28ca89212fb65129de055fedd5354bfe8048a1841932107908120576",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 182370,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d21ff53e5c8e0a80950b5f08a13e0bd5dda8fac71805527394874818560",
+                "thumbnail_url": "mxc://chir.rs/e2b28ca89212fb65129de055fedd5354bfe8048a1841932107908120576",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -879,13 +937,13 @@
         },
         {
             "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/5f52bc22b0fde12809c09de5f031059281f67e3c1805527384510693376",
+            "url": "mxc://chir.rs/9332f609212f443d0e79cdf7fe056ac907894b7b1841932098676457472",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 17598,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5f52bc22b0fde12809c09de5f031059281f67e3c1805527384510693376",
+                "thumbnail_url": "mxc://chir.rs/9332f609212f443d0e79cdf7fe056ac907894b7b1841932098676457472",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -908,13 +966,13 @@
         },
         {
             "body": "😎 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a6e8fae64ba267fc513154a38a90398cf14d30131805527381578874880",
+            "url": "mxc://chir.rs/29d376d032df6b146ba050ab9a60f5cfbdb2316b1841932095623004160",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 176764,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a6e8fae64ba267fc513154a38a90398cf14d30131805527381578874880",
+                "thumbnail_url": "mxc://chir.rs/29d376d032df6b146ba050ab9a60f5cfbdb2316b1841932095623004160",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -937,13 +995,13 @@
         },
         {
             "body": "🐈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/0798edbab9626b17ac2aece8dcca7b56fdaf46451805527391917834240",
+            "url": "mxc://chir.rs/5ce8897a573eaebdc4b9755adee9e3a69b2d6c0b1841932105743859712",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 174937,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/0798edbab9626b17ac2aece8dcca7b56fdaf46451805527391917834240",
+                "thumbnail_url": "mxc://chir.rs/5ce8897a573eaebdc4b9755adee9e3a69b2d6c0b1841932105743859712",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -966,13 +1024,13 @@
         },
         {
             "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ba9f55351cc615f402281bf33e898590e23f99bc1805527377611063296",
+            "url": "mxc://chir.rs/be205aa0aa3c2dac24babfe923875dea958a272f1841932091000881152",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 166819,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ba9f55351cc615f402281bf33e898590e23f99bc1805527377611063296",
+                "thumbnail_url": "mxc://chir.rs/be205aa0aa3c2dac24babfe923875dea958a272f1841932091000881152",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -995,13 +1053,13 @@
         },
         {
             "body": "😛 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/7b2f46e72205347dd14a4dfe44599a41be47d6e81805527380526104576",
+            "url": "mxc://chir.rs/02180819bf60c0d0e25d2bba20cd4f752706ba281841932094024974336",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 153952,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7b2f46e72205347dd14a4dfe44599a41be47d6e81805527380526104576",
+                "thumbnail_url": "mxc://chir.rs/02180819bf60c0d0e25d2bba20cd4f752706ba281841932094024974336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1024,13 +1082,13 @@
         },
         {
             "body": "🤩 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4b1495e775b9cfc0be4e49abdee55aa3f257b0401805527376621207552",
+            "url": "mxc://chir.rs/1f69fabf1e2a98b227ff45629e101a469cdc17271841932091051212800",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 214683,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4b1495e775b9cfc0be4e49abdee55aa3f257b0401805527376621207552",
+                "thumbnail_url": "mxc://chir.rs/1f69fabf1e2a98b227ff45629e101a469cdc17271841932091051212800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1053,13 +1111,13 @@
         },
         {
             "body": "🧐 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/bf3c9c23cf057f66d065363fb34e797d13a4c04f1805527385802539008",
+            "url": "mxc://chir.rs/3b6741783882edd670cc557ebe234c0025efc3491841932099725033472",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 116559,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bf3c9c23cf057f66d065363fb34e797d13a4c04f1805527385802539008",
+                "thumbnail_url": "mxc://chir.rs/3b6741783882edd670cc557ebe234c0025efc3491841932099725033472",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1082,13 +1140,13 @@
         },
         {
             "body": "😨 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/09bb6464d0ee6d82d17f34245edf99fb009178e51805527390407884800",
+            "url": "mxc://chir.rs/dfa83acc4325c9242a8a47d808b28e1fa480820b1841932103646707712",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 190563,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/09bb6464d0ee6d82d17f34245edf99fb009178e51805527390407884800",
+                "thumbnail_url": "mxc://chir.rs/dfa83acc4325c9242a8a47d808b28e1fa480820b1841932103646707712",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1111,13 +1169,13 @@
         },
         {
             "body": "👈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/283b451495d82ae920373755137d7efabd3414801805527390974115840",
+            "url": "mxc://chir.rs/c21ec71cac67c0adef31ef933cc53f4b5a17fbcc1841932104590426112",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 207609,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/283b451495d82ae920373755137d7efabd3414801805527390974115840",
+                "thumbnail_url": "mxc://chir.rs/c21ec71cac67c0adef31ef933cc53f4b5a17fbcc1841932104590426112",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1140,13 +1198,13 @@
         },
         {
             "body": "🥱 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/101dc4817621b6160bc5baa2e886faaa4592df5d1805527376004644864",
+            "url": "mxc://chir.rs/fbd89a17817f2d40020c5d79a48882bd8542ec371841932089339936768",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 176035,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/101dc4817621b6160bc5baa2e886faaa4592df5d1805527376004644864",
+                "thumbnail_url": "mxc://chir.rs/fbd89a17817f2d40020c5d79a48882bd8542ec371841932089339936768",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1169,13 +1227,13 @@
         },
         {
             "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ca2756a05f96d065d4266d5f59131bba6f3f01d61805527392995770369",
+            "url": "mxc://chir.rs/b9e9052f1c1eab948503cad55493848aad901ffd1841932105924214784",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 167757,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ca2756a05f96d065d4266d5f59131bba6f3f01d61805527392995770369",
+                "thumbnail_url": "mxc://chir.rs/b9e9052f1c1eab948503cad55493848aad901ffd1841932105924214784",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1198,13 +1256,13 @@
         },
         {
             "body": "😒 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/d02ad6f06e887bc13dd5863d75c41693b5c5243c1805527377074192384",
+            "url": "mxc://chir.rs/070b29ce4ad0eba82ae40c25ec0ebc633ef5dac91841932091005075456",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 185159,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d02ad6f06e887bc13dd5863d75c41693b5c5243c1805527377074192384",
+                "thumbnail_url": "mxc://chir.rs/070b29ce4ad0eba82ae40c25ec0ebc633ef5dac91841932091005075456",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1227,13 +1285,13 @@
         },
         {
             "body": "🏳️‍⚧️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4d88c6f8b2d1c88e39da75d8e1b4a65591bb1c201805527373626474496",
+            "url": "mxc://chir.rs/7919086fe6ba66a595c071007a293495846649f61841932092028485632",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 172341,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4d88c6f8b2d1c88e39da75d8e1b4a65591bb1c201805527373626474496",
+                "thumbnail_url": "mxc://chir.rs/7919086fe6ba66a595c071007a293495846649f61841932092028485632",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1256,13 +1314,13 @@
         },
         {
             "body": "🤷 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/04c22c234718fbd5bd16b1b9dbdecb76dda233921805527380429635584",
+            "url": "mxc://chir.rs/1ff27242bde8114d9f5004c608bf9b8d5583fb741841932093848813568",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 174708,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/04c22c234718fbd5bd16b1b9dbdecb76dda233921805527380429635584",
+                "thumbnail_url": "mxc://chir.rs/1ff27242bde8114d9f5004c608bf9b8d5583fb741841932093848813568",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1285,13 +1343,13 @@
         },
         {
             "body": "🏳️‍🌈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/c95aae1ea551deaa75c317cd79b057c59b0d0ab11805527374645690368",
+            "url": "mxc://chir.rs/479edac4174c3b9b2c21c8b615f5b48a00dfc0d51841932089105055744",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 208178,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/c95aae1ea551deaa75c317cd79b057c59b0d0ab11805527374645690368",
+                "thumbnail_url": "mxc://chir.rs/479edac4174c3b9b2c21c8b615f5b48a00dfc0d51841932089105055744",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1314,13 +1372,13 @@
         },
         {
             "body": "🍻 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/57f5675c3d81b105b42b7831902973f33d9d481c1805527388562391040",
+            "url": "mxc://chir.rs/1b96424349d64103ebb466d79914f85c433b99a61841932101553750016",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 192395,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/57f5675c3d81b105b42b7831902973f33d9d481c1805527388562391040",
+                "thumbnail_url": "mxc://chir.rs/1b96424349d64103ebb466d79914f85c433b99a61841932101553750016",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1343,13 +1401,13 @@
         },
         {
             "body": "🤔 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/d5df55451f6b019cbb62b01406a9d7722be411d81805527374750547968",
+            "url": "mxc://chir.rs/888f9e8a31ba147645b719ea48db4787f6b8bba21841932089331548160",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 165437,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d5df55451f6b019cbb62b01406a9d7722be411d81805527374750547968",
+                "thumbnail_url": "mxc://chir.rs/888f9e8a31ba147645b719ea48db4787f6b8bba21841932089331548160",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1372,13 +1430,13 @@
         },
         {
             "body": "🔥 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ccdaa61f48e1bb48c240225eab0b97ea49f1d4691805527373454508032",
+            "url": "mxc://chir.rs/379196b1c3ed6b6f38d6e4f9eb76c4a6274d087a1841932087167287296",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 181182,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ccdaa61f48e1bb48c240225eab0b97ea49f1d4691805527373454508032",
+                "thumbnail_url": "mxc://chir.rs/379196b1c3ed6b6f38d6e4f9eb76c4a6274d087a1841932087167287296",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1401,13 +1459,13 @@
         },
         {
             "body": "👍 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/cbc273c67af53bcea4d78c0815cdd192035035291805527374767325184",
+            "url": "mxc://chir.rs/60f6cb531854e1853d135058f355f979617bf53a1841932089222496257",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 156843,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/cbc273c67af53bcea4d78c0815cdd192035035291805527374767325184",
+                "thumbnail_url": "mxc://chir.rs/60f6cb531854e1853d135058f355f979617bf53a1841932089222496257",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1430,13 +1488,13 @@
         },
         {
             "body": "🫓 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/2732957030c4e071427c2423cd36133f224071571805527390382718976",
+            "url": "mxc://chir.rs/ff09d59b9578c0a3bcbdffca402b64601ad8bfe41841932103571210240",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 148543,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2732957030c4e071427c2423cd36133f224071571805527390382718976",
+                "thumbnail_url": "mxc://chir.rs/ff09d59b9578c0a3bcbdffca402b64601ad8bfe41841932103571210240",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1459,13 +1517,13 @@
         },
         {
             "body": "📸 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/630fe14af6869c3a87ee640a8db18ab3e5933d141805527377510400000",
+            "url": "mxc://chir.rs/22a42a4629a71ee917461106ce3d7721e78f5e801841932093039312896",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 173663,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/630fe14af6869c3a87ee640a8db18ab3e5933d141805527377510400000",
+                "thumbnail_url": "mxc://chir.rs/22a42a4629a71ee917461106ce3d7721e78f5e801841932093039312896",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1488,13 +1546,13 @@
         },
         {
             "body": "🍿 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b31f189da93160e4aa085e188a31f6650625f9661805527389157982208",
+            "url": "mxc://chir.rs/47316c09d8fc005cc8ee8fab606e858d8dcba2051841932103063699456",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 179682,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b31f189da93160e4aa085e188a31f6650625f9661805527389157982208",
+                "thumbnail_url": "mxc://chir.rs/47316c09d8fc005cc8ee8fab606e858d8dcba2051841932103063699456",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1517,13 +1575,13 @@
         },
         {
             "body": "🥶 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b2a8fe6851474f1c04874c6278a5b253189d89451805527388818243584",
+            "url": "mxc://chir.rs/4b9ada844ecdac5f520eebaa12878ddb453515f31841932101637636096",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 207267,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b2a8fe6851474f1c04874c6278a5b253189d89451805527388818243584",
+                "thumbnail_url": "mxc://chir.rs/4b9ada844ecdac5f520eebaa12878ddb453515f31841932101637636096",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1546,13 +1604,13 @@
         },
         {
             "body": "😱 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/d44950f0cf11891c901185442a1096b15e8d6a831805527390504353792",
+            "url": "mxc://chir.rs/f5ab6f9037e7fdf7fe0129b8d61a4f360e260ec81841932103667679232",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 233907,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d44950f0cf11891c901185442a1096b15e8d6a831805527390504353792",
+                "thumbnail_url": "mxc://chir.rs/f5ab6f9037e7fdf7fe0129b8d61a4f360e260ec81841932103667679232",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1575,13 +1633,13 @@
         },
         {
             "body": "😁 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/2e99f1f1388e6f200a74d89c97743a0cb8cd0e791805527393998209024",
+            "url": "mxc://chir.rs/aefb3e8e53804cf4e929ff55b3794821285ed6121841932105840328704",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 175972,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2e99f1f1388e6f200a74d89c97743a0cb8cd0e791805527393998209024",
+                "thumbnail_url": "mxc://chir.rs/aefb3e8e53804cf4e929ff55b3794821285ed6121841932105840328704",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1604,13 +1662,13 @@
         },
         {
             "body": "🔥 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/51a8d28a1feabb3b2ab64bef1894ceebca3732061805527372842139648",
+            "url": "mxc://chir.rs/471a662e8046ec5c5e322e861547babe3c29e0041841932087045652480",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 179278,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/51a8d28a1feabb3b2ab64bef1894ceebca3732061805527372842139648",
+                "thumbnail_url": "mxc://chir.rs/471a662e8046ec5c5e322e861547babe3c29e0041841932087045652480",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1633,13 +1691,13 @@
         },
         {
             "body": "🐰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ed6d0744494efe6287756ba83e2b3f2f50ffbe3b1805527384468750336",
+            "url": "mxc://chir.rs/8cda32abc7c18139b3da7541a4397d9310d04f671841932098009563136",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 36781,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ed6d0744494efe6287756ba83e2b3f2f50ffbe3b1805527384468750336",
+                "thumbnail_url": "mxc://chir.rs/8cda32abc7c18139b3da7541a4397d9310d04f671841932098009563136",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1662,13 +1720,13 @@
         },
         {
             "body": "🪞 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ab018751ed2b827605d3a7ef14a0af5af7cb83111805527378953240576",
+            "url": "mxc://chir.rs/679bbc7fa7b815495a5670864bf63294f73cb2c91841932093920116736",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 209021,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ab018751ed2b827605d3a7ef14a0af5af7cb83111805527378953240576",
+                "thumbnail_url": "mxc://chir.rs/679bbc7fa7b815495a5670864bf63294f73cb2c91841932093920116736",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1691,13 +1749,13 @@
         },
         {
             "body": "👉 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/e28d86589237c6e381000ce7b3fe79153ae098551805527377376182272",
+            "url": "mxc://chir.rs/7c1e7dc22e5eabe301202fde9eaaf494c7ea19021841932090933772289",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 184100,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/e28d86589237c6e381000ce7b3fe79153ae098551805527377376182272",
+                "thumbnail_url": "mxc://chir.rs/7c1e7dc22e5eabe301202fde9eaaf494c7ea19021841932090933772289",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1720,13 +1778,13 @@
         },
         {
             "body": "🤤 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/d0e55487afd4ec43f155ec6ff1c3878b15ef542e1805527386255523840",
+            "url": "mxc://chir.rs/006c5387f46a491fa3da3010406f63284cadc4a41841932100979130368",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 164924,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d0e55487afd4ec43f155ec6ff1c3878b15ef542e1805527386255523840",
+                "thumbnail_url": "mxc://chir.rs/006c5387f46a491fa3da3010406f63284cadc4a41841932100979130368",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1749,13 +1807,13 @@
         },
         {
             "body": "👉 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/731f4de5f6c2a6c933fbcad7228e72ec0669dc231805527377204215808",
+            "url": "mxc://chir.rs/3d68e0858be1abf35d1b3747a40dbe35037d45ff1841932090933772288",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 184436,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/731f4de5f6c2a6c933fbcad7228e72ec0669dc231805527377204215808",
+                "thumbnail_url": "mxc://chir.rs/3d68e0858be1abf35d1b3747a40dbe35037d45ff1841932090933772288",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1778,13 +1836,13 @@
         },
         {
             "body": "😉 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/7e23d1154c60fed94394498daf50e94e2727c4631805527388818243585",
+            "url": "mxc://chir.rs/7f217ae90ad658924d57223eae072775c24561cf1841932102686212096",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 194361,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7e23d1154c60fed94394498daf50e94e2727c4631805527388818243585",
+                "thumbnail_url": "mxc://chir.rs/7f217ae90ad658924d57223eae072775c24561cf1841932102686212096",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1807,13 +1865,13 @@
         },
         {
             "body": "🤗 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a0dcc19e291e3d9433fe53c1878ccae82ab404a61805527372292685824",
+            "url": "mxc://chir.rs/eb992e9a9da286358b26428a478e58d526a476fc1841932086680748032",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 216404,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a0dcc19e291e3d9433fe53c1878ccae82ab404a61805527372292685824",
+                "thumbnail_url": "mxc://chir.rs/eb992e9a9da286358b26428a478e58d526a476fc1841932086680748032",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1836,13 +1894,13 @@
         },
         {
             "body": "🥳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/94d597a9df840443071a00e0777249232691f1fc1805527379083264000",
+            "url": "mxc://chir.rs/7fc2c8a4be7d0a4f93d8360dffb4e018bb1e91951841932093676847104",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 239499,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/94d597a9df840443071a00e0777249232691f1fc1805527379083264000",
+                "thumbnail_url": "mxc://chir.rs/7fc2c8a4be7d0a4f93d8360dffb4e018bb1e91951841932093676847104",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1865,13 +1923,13 @@
         },
         {
             "body": "🤠 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a317bdc63f0bdb50446d52bd00743c5d47365e441805527376843505664",
+            "url": "mxc://chir.rs/46a683005da531403745a928758b5497d390fa761841932090988298240",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 100311,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a317bdc63f0bdb50446d52bd00743c5d47365e441805527376843505664",
+                "thumbnail_url": "mxc://chir.rs/46a683005da531403745a928758b5497d390fa761841932090988298240",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1894,13 +1952,13 @@
         },
         {
             "body": "🤦‍♂️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4a8c4c0b8e510921a4bee6badf6b235231dec4d61805527381323022336",
+            "url": "mxc://chir.rs/b4dd4aa75cbe5d38fd587f172d6bc2081a8e82f51841932099821502464",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 164946,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4a8c4c0b8e510921a4bee6badf6b235231dec4d61805527381323022336",
+                "thumbnail_url": "mxc://chir.rs/b4dd4aa75cbe5d38fd587f172d6bc2081a8e82f51841932099821502464",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1923,13 +1981,13 @@
         },
         {
             "body": "⚰️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/8858d9f1adec7eb78d11326dadaf1551b6ac1a651805527381453045760",
+            "url": "mxc://chir.rs/d94c0e1718bf6e0b7846941a3b4d154780ffbb971841932095597838336",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 198607,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/8858d9f1adec7eb78d11326dadaf1551b6ac1a651805527381453045760",
+                "thumbnail_url": "mxc://chir.rs/d94c0e1718bf6e0b7846941a3b4d154780ffbb971841932095597838336",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1952,13 +2010,13 @@
         },
         {
             "body": "🤔 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/33dbd527f83cc7fc1e460dcf679a050105ef71491805527393327120384",
+            "url": "mxc://chir.rs/f20b9e0fa583a0b2b080ca058c113416f44ee38e1841932105995517952",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 171733,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/33dbd527f83cc7fc1e460dcf679a050105ef71491805527393327120384",
+                "thumbnail_url": "mxc://chir.rs/f20b9e0fa583a0b2b080ca058c113416f44ee38e1841932105995517952",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -1981,13 +2039,13 @@
         },
         {
             "body": "🚫 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/842fd1d08efb6520b1defc741dec1d1f5fb2b99a1805527382698754048",
+            "url": "mxc://chir.rs/69a7ce9c1ae887129c6b26281be782b0cb2f18721841932096285704192",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 195087,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/842fd1d08efb6520b1defc741dec1d1f5fb2b99a1805527382698754048",
+                "thumbnail_url": "mxc://chir.rs/69a7ce9c1ae887129c6b26281be782b0cb2f18721841932096285704192",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2010,13 +2068,13 @@
         },
         {
             "body": "😮 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/d8734a6f7629ad6bc62436f63df4ddc0ac9574641805527374658273280",
+            "url": "mxc://chir.rs/6a6bcd1302df06b8851f5670d1c1613e564f30a51841932089285410816",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 165293,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d8734a6f7629ad6bc62436f63df4ddc0ac9574641805527374658273280",
+                "thumbnail_url": "mxc://chir.rs/6a6bcd1302df06b8851f5670d1c1613e564f30a51841932089285410816",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2039,13 +2097,13 @@
         },
         {
             "body": "😰 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/fd29f2acb352741891592beaf71bd8494bcab5fe1805527380689682432",
+            "url": "mxc://chir.rs/40081448c6c03650a77bfdacae1e76da89b806001841932095635587072",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 188786,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/fd29f2acb352741891592beaf71bd8494bcab5fe1805527380689682432",
+                "thumbnail_url": "mxc://chir.rs/40081448c6c03650a77bfdacae1e76da89b806001841932095635587072",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2068,13 +2126,13 @@
         },
         {
             "body": "🤨 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/2dcb00e2774595670f731a66cda7ddc83bf9e41c1805527385928368128",
+            "url": "mxc://chir.rs/a0732b79ae4d5bbf8ae1526623c072b6e0a743091841932099687284736",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 133241,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/2dcb00e2774595670f731a66cda7ddc83bf9e41c1805527385928368128",
+                "thumbnail_url": "mxc://chir.rs/a0732b79ae4d5bbf8ae1526623c072b6e0a743091841932099687284736",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2097,13 +2155,13 @@
         },
         {
             "body": "😐 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/d4a58977aa4aa2933148db3610c611b7136e35d41805527388570779648",
+            "url": "mxc://chir.rs/4852a460333d8175860fea177bd2cba62b0bf45b1841932101708939264",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 161065,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/d4a58977aa4aa2933148db3610c611b7136e35d41805527388570779648",
+                "thumbnail_url": "mxc://chir.rs/4852a460333d8175860fea177bd2cba62b0bf45b1841932101708939264",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2126,13 +2184,13 @@
         },
         {
             "body": "📣 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/45b2360e3b1b049c6e85437f1f8312ed68dc89991805527379116818432",
+            "url": "mxc://chir.rs/cc6751a911f9efabb41c70d1b44985cf93b6cfc11841932093878173696",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 194852,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/45b2360e3b1b049c6e85437f1f8312ed68dc89991805527379116818432",
+                "thumbnail_url": "mxc://chir.rs/cc6751a911f9efabb41c70d1b44985cf93b6cfc11841932093878173696",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2155,13 +2213,13 @@
         },
         {
             "body": "😬 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/9b15d84d06002e3b377f8e2627e6fc37d01f90e81805527375715237888",
+            "url": "mxc://chir.rs/d7c39b3dabfd01f5093a34a07f16f7a5b801719b1841932089293799424",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 168220,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/9b15d84d06002e3b377f8e2627e6fc37d01f90e81805527375715237888",
+                "thumbnail_url": "mxc://chir.rs/d7c39b3dabfd01f5093a34a07f16f7a5b801719b1841932089293799424",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2184,13 +2242,13 @@
         },
         {
             "body": "😁 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/6bd4ef5d917532d7a89405e5b20eb804f30d52f81805527393515864064",
+            "url": "mxc://chir.rs/f8f754f77b3f276f83d55b4e9cf4fb498c191d8c1841932105953574912",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 160307,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/6bd4ef5d917532d7a89405e5b20eb804f30d52f81805527393515864064",
+                "thumbnail_url": "mxc://chir.rs/f8f754f77b3f276f83d55b4e9cf4fb498c191d8c1841932105953574912",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2213,13 +2271,13 @@
         },
         {
             "body": "🌈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/7ac5288905d30e393892a3ca0e37565accf994661805527378978406400",
+            "url": "mxc://chir.rs/9563b846b5b3781e837b28b07990fadefda621d41841932093873979392",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 221458,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/7ac5288905d30e393892a3ca0e37565accf994661805527378978406400",
+                "thumbnail_url": "mxc://chir.rs/9563b846b5b3781e837b28b07990fadefda621d41841932093873979392",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2242,13 +2300,13 @@
         },
         {
             "body": "🖥️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f528a43ee0cbf5154a11a6f59330e69c069bca731805527372552732672",
+            "url": "mxc://chir.rs/fa6a3590f530f4a90ab260bdad5ed08d73be38a41841932086802382848",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 182356,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f528a43ee0cbf5154a11a6f59330e69c069bca731805527372552732672",
+                "thumbnail_url": "mxc://chir.rs/fa6a3590f530f4a90ab260bdad5ed08d73be38a41841932086802382848",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2271,13 +2329,13 @@
         },
         {
             "body": "😲 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/82027742c66c905b1d8335fb5f54735260ce58d51805527387035664384",
+            "url": "mxc://chir.rs/8cc56c7cec8694d618d8da4e976ccc4e42f90f491841932101457281024",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 173905,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/82027742c66c905b1d8335fb5f54735260ce58d51805527387035664384",
+                "thumbnail_url": "mxc://chir.rs/8cc56c7cec8694d618d8da4e976ccc4e42f90f491841932101457281024",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2300,13 +2358,13 @@
         },
         {
             "body": "😻 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/5ffeb4786df345be4c59ff2780408d9d0adf19c01805527385903202304",
+            "url": "mxc://chir.rs/d0e5a9bd2c60383d46f43d89b597ab3067caacd21841932099754393600",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 214938,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5ffeb4786df345be4c59ff2780408d9d0adf19c01805527385903202304",
+                "thumbnail_url": "mxc://chir.rs/d0e5a9bd2c60383d46f43d89b597ab3067caacd21841932099754393600",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2329,13 +2387,13 @@
         },
         {
             "body": "😡 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/5f10c277a39a1580d8b796744645f8a74b2d406d1805527380538687488",
+            "url": "mxc://chir.rs/ec8a5274a81653513a3c18077d7710273940c8791841932095463620608",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 176479,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/5f10c277a39a1580d8b796744645f8a74b2d406d1805527380538687488",
+                "thumbnail_url": "mxc://chir.rs/ec8a5274a81653513a3c18077d7710273940c8791841932095463620608",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2358,13 +2416,13 @@
         },
         {
             "body": "👎 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/a5d11be51697d53053013fd1f51ac6597687a7791805527386029031424",
+            "url": "mxc://chir.rs/616e8b3e05cf90e5700d12208d743fddff54a1d21841932099821502465",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 185261,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/a5d11be51697d53053013fd1f51ac6597687a7791805527386029031424",
+                "thumbnail_url": "mxc://chir.rs/616e8b3e05cf90e5700d12208d743fddff54a1d21841932099821502465",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2387,13 +2445,13 @@
         },
         {
             "body": "😳 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f9728cca5ab50d170b61901401c32ddf53d263af1805527390525325312",
+            "url": "mxc://chir.rs/7ca8520c82ae464cf3c75ee9c91f2d774b9b82141841932103764148224",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 224493,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f9728cca5ab50d170b61901401c32ddf53d263af1805527390525325312",
+                "thumbnail_url": "mxc://chir.rs/7ca8520c82ae464cf3c75ee9c91f2d774b9b82141841932103764148224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2416,13 +2474,13 @@
         },
         {
             "body": "⚾ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/ba1dc30732e1ce9a2ba118bd4f47b96c3e52d3c11805527383340482560",
+            "url": "mxc://chir.rs/41a63ec02a62bb5b9ec91c7eb3a30fe23785ac6e1841932097996980224",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 191282,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/ba1dc30732e1ce9a2ba118bd4f47b96c3e52d3c11805527383340482560",
+                "thumbnail_url": "mxc://chir.rs/41a63ec02a62bb5b9ec91c7eb3a30fe23785ac6e1841932097996980224",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2446,13 +2504,13 @@
         },
         {
             "body": "🥵 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/b407c327218f3029784d24d3fa159dab665c02611805527388537225216",
+            "url": "mxc://chir.rs/3f7f422be14e73f20c44eb185a7235575404c8ec1841932101536972800",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 195486,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/b407c327218f3029784d24d3fa159dab665c02611805527388537225216",
+                "thumbnail_url": "mxc://chir.rs/3f7f422be14e73f20c44eb185a7235575404c8ec1841932101536972800",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2475,13 +2533,13 @@
         },
         {
             "body": "🤩 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/bd6ff1d2f4cbab1562d226230a53b73dc7f8a22c1805527389824876544",
+            "url": "mxc://chir.rs/fb92ef3e3f8283c671cb52c1216e038414463bed1841932103596376064",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 200353,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/bd6ff1d2f4cbab1562d226230a53b73dc7f8a22c1805527389824876544",
+                "thumbnail_url": "mxc://chir.rs/fb92ef3e3f8283c671cb52c1216e038414463bed1841932103596376064",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2504,13 +2562,13 @@
         },
         {
             "body": "💀 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/301d00dd9ab492c07aad2a4e6ba8fb944a6a3af01805527395709485056",
+            "url": "mxc://chir.rs/ac2f7cc39566bbe5b3a2bfbf87262a32ff17f1951841932107996200960",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 171012,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/301d00dd9ab492c07aad2a4e6ba8fb944a6a3af01805527395709485056",
+                "thumbnail_url": "mxc://chir.rs/ac2f7cc39566bbe5b3a2bfbf87262a32ff17f1951841932107996200960",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2533,13 +2591,13 @@
         },
         {
             "body": "👋 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/daea38fc52db46352263816cb5b9f3654e6866fb1805527373534199808",
+            "url": "mxc://chir.rs/3cc1c909be678a58dca0e3c6cd7fe11979c5067a1841932088991809536",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 181827,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/daea38fc52db46352263816cb5b9f3654e6866fb1805527373534199808",
+                "thumbnail_url": "mxc://chir.rs/3cc1c909be678a58dca0e3c6cd7fe11979c5067a1841932088991809536",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2562,13 +2620,13 @@
         },
         {
             "body": "☑️ (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/253df93cd43caa6cf4cb67b8462435ac40a4b1111805527381486600192",
+            "url": "mxc://chir.rs/6bafe82da8d41e5bf7ea00a121bd8b3355de9ebd1841932095480397824",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 194271,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/253df93cd43caa6cf4cb67b8462435ac40a4b1111805527381486600192",
+                "thumbnail_url": "mxc://chir.rs/6bafe82da8d41e5bf7ea00a121bd8b3355de9ebd1841932095480397824",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2591,13 +2649,13 @@
         },
         {
             "body": "😈 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/81c40f1a4176286414a3fe7f006a6978cd3c2c721805527383235624960",
+            "url": "mxc://chir.rs/5c01533fb3f39db699713f12d6039df527f66d811841932097862762496",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 218574,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/81c40f1a4176286414a3fe7f006a6978cd3c2c721805527383235624960",
+                "thumbnail_url": "mxc://chir.rs/5c01533fb3f39db699713f12d6039df527f66d811841932097862762496",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2620,13 +2678,13 @@
         },
         {
             "body": "😂 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/152fd2befc7f38d782f69a32644db446b660129b1805527376122085376",
+            "url": "mxc://chir.rs/15f716ef837a2a320eca5c406324705745a497f21841932090065551360",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 199741,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/152fd2befc7f38d782f69a32644db446b660129b1805527376122085376",
+                "thumbnail_url": "mxc://chir.rs/15f716ef837a2a320eca5c406324705745a497f21841932090065551360",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2649,13 +2707,13 @@
         },
         {
             "body": "😞 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/4ed685fdfb0bfddf00a7f869a03125183a3b175d1805527381402714112",
+            "url": "mxc://chir.rs/6d7a6d49f9bc038053639dc37055af3c74e278231841932095534923776",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 173948,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/4ed685fdfb0bfddf00a7f869a03125183a3b175d1805527381402714112",
+                "thumbnail_url": "mxc://chir.rs/6d7a6d49f9bc038053639dc37055af3c74e278231841932095534923776",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
@@ -2678,13 +2736,13 @@
         },
         {
             "body": "👌 (Slick's Sticks)",
-            "url": "mxc://matrix.chir.rs/f2c96bfdbc03927669a88d685d5d4ca73454e0271805527388818243586",
+            "url": "mxc://chir.rs/3c9388df5e600d1f663afe87824d8c0bed3d021d1841932102468108288",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 178303,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.chir.rs/f2c96bfdbc03927669a88d685d5d4ca73454e0271805527388818243586",
+                "thumbnail_url": "mxc://chir.rs/3c9388df5e600d1f663afe87824d8c0bed3d021d1841932102468108288",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,

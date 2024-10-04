@@ -45,12 +45,15 @@ def process_images(stickers):
 
 for pack in packs["packs"]:
     info = json.load(open(f"../web/packs/{pack}", "r"))
-    pack = {
-        "display_name": info["title"],
-        "avatar_url": info["stickers"][0]["url"],
-        "usage": ["sticker", "emoji"],
-        "attribution": f"https://t.me/addstickers/{info['net.maunium.telegram.pack']['short_name']}"
-    }
+    try:
+        pack = {
+            "display_name": info["title"],
+            "avatar_url": info["stickers"][0]["url"],
+            "usage": ["sticker", "emoji"],
+            "attribution": f"https://t.me/addstickers/{info['net.maunium.telegram.pack']['short_name']}"
+        }
+    except:
+        continue
     images = {}
     counter = 0
     sticker_ids = {}
