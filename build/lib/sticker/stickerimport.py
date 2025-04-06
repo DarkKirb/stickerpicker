@@ -48,10 +48,10 @@ async def reupload_document(client: TelegramClient, document: Document) -> Optio
     return util.make_sticker(mxc, width, height, len(data))
 
 
-def add_meta(document: Document, info: matrix.StickerInfo, pack: StickerSetFull) -> None:
+def add_meta(i: int, document: Document, info: matrix.StickerInfo, pack: StickerSetFull) -> None:
     for attr in document.attributes:
         if isinstance(attr, DocumentAttributeSticker):
-            info["body"] = f"{attr.alt} ({pack.set.title})"
+            info["body"] = f"{i:03d} {attr.alt}"
     info["id"] = f"tg-{document.id}"
     info["net.maunium.telegram.sticker"] = {
         "pack": {
@@ -90,7 +90,7 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
     reuploaded_documents: Dict[int, matrix.StickerInfo] = {}
     futs = []
 
-    async def upload_document(document):
+    async def upload_document(i, document):
         async with sem:
             try:
                 # Ensure that document still exists 
@@ -110,10 +110,10 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
                 else:
                     return
             # Always ensure the body and telegram metadata is correct
-            add_meta(document, reuploaded_documents[document.id], pack)
+            add_meta(i, document, reuploaded_documents[document.id], pack)
 
-    for document in pack.documents:
-        futs.append(upload_document(document))
+    for i, document in enumerate(pack.documents):
+        futs.append(upload_document(i, document))
 
     await asyncio.gather(*futs)
 

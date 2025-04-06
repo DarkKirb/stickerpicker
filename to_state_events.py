@@ -19,11 +19,10 @@ def save_if_needed(id, pack, images, force = False):
         return True
     return False
 
-sticker_ids = {}
 images = {}
 
 def process_image(img):
-    img["info"]["net.maunium.telegram.sticker"] = img["net.maunium.telegram.sticker"]
+    img["info"] = img["net.maunium.telegram.sticker"]
     image = {
         "url": img["url"],
         "body": img["body"],
@@ -32,12 +31,7 @@ def process_image(img):
     short_name = img["net.maunium.telegram.sticker"]["pack"]["short_name"]
     for emoticon in [img["net.maunium.telegram.sticker"]["emoticons"][0]]:
         emoticon += f" ({short_name})"
-        if emoticon in sticker_ids:
-            yield (emoticon + str(sticker_ids[emoticon]), image)
-            sticker_ids[emoticon] += 1
-        else:
-            yield (emoticon, image)
-            sticker_ids[emoticon] = 1
+        yield (emoticon, image)
 
 def process_images(stickers):
     for img in stickers:
@@ -57,7 +51,8 @@ for pack in packs["packs"]:
     images = {}
     counter = 0
     sticker_ids = {}
-    for (name, imgInfo) in process_images(info["stickers"]):
+    for (i, (name2, imgInfo)) in enumerate(process_images(info["stickers"])):
+        name = f"{info['net.maunium.telegram.pack']['short_name']}{i:03d}{name2}"
         images[name] = imgInfo
         if save_if_needed(info["id"], pack, images):
             images = {}
