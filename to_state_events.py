@@ -22,7 +22,8 @@ def save_if_needed(id, pack, images, force = False):
 images = {}
 
 def process_image(img):
-    img["info"] = img["net.maunium.telegram.sticker"]
+    img["info"]["net.maunium.telegram.sticker"] = img["net.maunium.telegram.sticker"]
+    print(img)
     image = {
         "url": img["url"],
         "body": img["body"],
