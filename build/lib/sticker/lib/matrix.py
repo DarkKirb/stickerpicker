@@ -73,7 +73,7 @@ async def load_config(path: str) -> None:
         print(f"Wrote config to {path}")
 
     upload_url = URL(homeserver_url) / "_matrix" / "media" / "r0" / "upload"
-    download_url = URL(homeserver_url) / "_matrix" / "media" / "r0" / "download"
+    download_url = URL(homeserver_url) / "_matrix" / "client" / "v1" / "media" / "download"
 
 
 async def whoami(url: URL, access_token: str) -> str:
