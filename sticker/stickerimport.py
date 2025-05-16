@@ -13,7 +13,7 @@
 #
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
-from typing import Dict, Optional
+from typing import Dict, Optional, Tuple
 import argparse
 import asyncio
 import os.path
@@ -29,7 +29,7 @@ from telethon.tl.types.messages import StickerSet as StickerSetFull
 from .lib import matrix, util
 
 
-async def reupload_document(client: TelegramClient, document: Document) -> Optional[matrix.StickerInfo]:
+async def reupload_document(client: TelegramClient, document: Document) -> Optional[Tuple[matrix.StickerInfo, bytes]]:
     print(f"Reuploading {document.id}", end="", flush=True)
     data = await client.download_media(document, file=bytes)
     print(".", end="", flush=True)
@@ -45,7 +45,7 @@ async def reupload_document(client: TelegramClient, document: Document) -> Optio
         except Exception:
             print("E", end='', flush=True)
     print(".", flush=True)
-    return util.make_sticker(mxc, width, height, len(data))
+    return util.make_sticker(mxc, width, height, len(data)), data
 
 
 def add_meta(i: int, document: Document, info: matrix.StickerInfo, pack: StickerSetFull) -> None:
@@ -64,10 +64,6 @@ def add_meta(i: int, document: Document, info: matrix.StickerInfo, pack: Sticker
 
 
 async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir: str, sem: asyncio.Semaphore) -> None:
-    #if pack.set.animated:
-    #    print("Animated stickerpacks are currently not supported")
-    #    return
-
     pack_path = os.path.join(output_dir, f"{pack.set.short_name}.json")
     try:
         os.mkdir(os.path.dirname(pack_path))
@@ -87,36 +83,37 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
     except FileNotFoundError:
         pass
 
+    stickers_data: Dict[str, bytes] = {}
     reuploaded_documents: Dict[int, matrix.StickerInfo] = {}
     futs = []
 
     async def upload_document(i, document):
         async with sem:
             try:
-                # Ensure that document still exists 
-                if await matrix.exists(already_uploaded[document.id]["url"]):
+                # Ensure that document still exists
+                if (data := await matrix.download(already_uploaded[document.id]["url"])) is not None:
                     reuploaded_documents[document.id] = already_uploaded[document.id]
                     print(f"Skipped reuploading {document.id}")
                 else:
                     res = await reupload_document(client, document)
                     if res is not None:
-                        reuploaded_documents[document.id] = await reupload_document(client, document)
+                        reuploaded_documents[document.id], data = await reupload_document(client, document)
                     else:
                         return
             except KeyError:
                 res = await reupload_document(client, document)
                 if res is not None:
-                    reuploaded_documents[document.id] = await reupload_document(client, document)
+                    reuploaded_documents[document.id], data = await reupload_document(client, document)
                 else:
                     return
             # Always ensure the body and telegram metadata is correct
             add_meta(i, document, reuploaded_documents[document.id], pack)
+            stickers_data[reuploaded_documents[document.id]["url"]] = data
 
     for i, document in enumerate(pack.documents):
         futs.append(upload_document(i, document))
 
     await asyncio.gather(*futs)
-
 
     for sticker in pack.packs:
         if not sticker.emoticon:
@@ -145,6 +142,7 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
         }, pack_file, ensure_ascii=False, indent=4)
     print(f"Saved {pack.set.title} as {pack.set.short_name}.json")
 
+    util.add_thumbnails(list(reuploaded_documents.values()), stickers_data, output_dir)
     util.add_to_index(os.path.basename(pack_path), output_dir)
 
 
@@ -197,7 +195,7 @@ async def main(args: argparse.Namespace) -> None:
                 except Exception as e:
                     print(e)
                     return
-            await reupload_pack(client, pack, args.output_dir, sem) 
+            await reupload_pack(client, pack, args.output_dir, sem)
 
         futs = []
         for input_pack in input_packs:
@@ -210,7 +208,7 @@ async def main(args: argparse.Namespace) -> None:
 
 
 def cmd() -> None:
-    asyncio.get_event_loop().run_until_complete(main(parser.parse_args()))
+    asyncio.run(main(parser.parse_args()))
 
 
 if __name__ == "__main__":

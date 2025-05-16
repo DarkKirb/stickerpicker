@@ -60,7 +60,7 @@ async def load_config(path: str) -> None:
         print("Matrix config file not found. Please enter your homeserver and access token.")
         homeserver_url = input("Homeserver URL: ")
         access_token = input("Access token: ")
-        whoami_url = URL(homeserver_url) / "_matrix" / "client" / "r0" / "account" / "whoami"
+        whoami_url = URL(homeserver_url) / "_matrix" / "client" / "v3" / "account" / "whoami"
         if whoami_url.scheme not in ("https", "http"):
             whoami_url = whoami_url.with_scheme("https")
         user_id = await whoami(whoami_url, access_token)
@@ -68,11 +68,11 @@ async def load_config(path: str) -> None:
             json.dump({
                 "homeserver": homeserver_url,
                 "user_id": user_id,
-                "access_token": access_token
+                "access_token": access_token,
             }, config_file)
         print(f"Wrote config to {path}")
 
-    upload_url = URL(homeserver_url) / "_matrix" / "media" / "r0" / "upload"
+    upload_url = URL(homeserver_url) / "_matrix" / "media" / "v3" / "upload"
     download_url = URL(homeserver_url) / "_matrix" / "client" / "v1" / "media" / "download"
 
 
@@ -91,10 +91,13 @@ async def upload(data: bytes, mimetype: str, filename: str) -> str:
     async with ClientSession() as sess, sess.post(url, data=data, headers=headers) as resp:
         return (await resp.json())["content_uri"]
 
-async def exists(content_uri: str) -> bool:
+async def download(content_uri: str) -> Optional[bytes]:
     parts = content_url = content_uri.split('/')
     homeserver = parts[2]
     media = parts[3]
     url = download_url / homeserver / media
-    async with ClientSession() as sess, sess.get(url) as resp:
-        return resp.status == 200
+    headers = {"Authorization": f"Bearer {access_token}"}
+    async with ClientSession() as sess, sess.get(url, headers=headers) as resp:
+        if resp.status != 200:
+            return None
+        return await resp.read()
