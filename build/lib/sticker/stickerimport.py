@@ -189,7 +189,7 @@ async def main(args: argparse.Namespace) -> None:
             else:
                 print(f"invalid url: {pack_url}")
                 return
-        sem = asyncio.Semaphore(1024)
+        sem = asyncio.Semaphore(16)
         async def do_pack(input_pack):
             async with sem:
                 try:
