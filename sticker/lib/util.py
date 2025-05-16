@@ -26,10 +26,10 @@ from . import matrix
 
 open_utf8 = partial(open, encoding='UTF-8')
 
-def convert_image(data: bytes, max_w=256, max_h=256) -> (bytes, int, int):
+def convert_image(data: bytes, max_w=256, max_h=256, thumbnail=False) -> (bytes, int, int):
     image: Image.Image = Image.open(BytesIO(data)).convert("RGBA")
     new_file = BytesIO()
-    image.save(new_file, "png")
+    image.save(new_file, "webp", lossless=not thumbnail)
     w, h = image.size
     if w > max_w or h > max_h:
         # Set the width and height to lower values so clients wouldn't show them as huge images
@@ -67,7 +67,7 @@ def make_sticker(mxc: str, width: int, height: int, size: int,
             "w": width,
             "h": height,
             "size": size,
-            "mimetype": "image/png",
+            "mimetype": "image/webp",
 
             # Element iOS compatibility hack
             "thumbnail_url": mxc,
@@ -75,7 +75,7 @@ def make_sticker(mxc: str, width: int, height: int, size: int,
                 "w": width,
                 "h": height,
                 "size": size,
-                "mimetype": "image/png",
+                "mimetype": "image/webp",
             },
         },
         "msgtype": "m.sticker",
@@ -87,7 +87,7 @@ def add_thumbnails(stickers: List[matrix.StickerInfo], stickers_data: Dict[str, 
     thumbnails.mkdir(parents=True, exist_ok=True)
 
     for sticker in stickers:       
-        image_data, _, _ = convert_image(stickers_data[sticker["url"]], 128, 128)
+        image_data, _, _ = convert_image(stickers_data[sticker["url"]], 128, 128, thumbnail=True)
         
         name = sticker["url"].split("/")[-1]
         thumbnail_path = thumbnails / name
