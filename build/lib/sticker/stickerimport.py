@@ -40,7 +40,7 @@ async def reupload_document(client: TelegramClient, document: Document) -> Optio
     print(".", end="", flush=True)
     while True:
         try:
-            mxc = await matrix.upload(data, "image/png", f"{document.id}.png")
+            mxc = await matrix.upload(data, "image/webp", f"{document.id}.webp")
             break
         except Exception:
             print("E", end='', flush=True)

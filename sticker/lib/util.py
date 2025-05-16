@@ -29,7 +29,6 @@ open_utf8 = partial(open, encoding='UTF-8')
 def convert_image(data: bytes, max_w=256, max_h=256, thumbnail=False) -> (bytes, int, int):
     image: Image.Image = Image.open(BytesIO(data)).convert("RGBA")
     new_file = BytesIO()
-    image.save(new_file, "webp", lossless=not thumbnail)
     w, h = image.size
     if w > max_w or h > max_h:
         # Set the width and height to lower values so clients wouldn't show them as huge images
@@ -39,6 +38,8 @@ def convert_image(data: bytes, max_w=256, max_h=256, thumbnail=False) -> (bytes,
         else:
             w = int(w / (h / max_h))
             h = max_h
+    image = image.resize((w, h))
+    image.save(new_file, "webp", lossless=not thumbnail)
     return new_file.getvalue(), w, h
 
 
