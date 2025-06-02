@@ -3,7 +3,7 @@
     "id": "tg-5256682388506804225",
     "net.maunium.telegram.pack": {
         "short_name": "Reskao",
-        "hash": "-223943650"
+        "hash": "641366585"
     },
     "stickers": [
         {
@@ -1051,6 +1051,35 @@
             }
         },
         {
+            "body": "090 ✨",
+            "url": "mxc://chir.rs/vNJgKlqFBYKSNsJXuVjACyGm",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 42668,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/vNJgKlqFBYKSNsJXuVjACyGm",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 42668,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4996879275605886470",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5256682388506804225",
+                    "short_name": "Reskao"
+                },
+                "id": "4996879275605886470",
+                "emoticons": [
+                    "✨"
+                ]
+            }
+        },
+        {
             "body": "072 🤲",
             "url": "mxc://chir.rs/FCsBUjoGSsLrYKmEkNaHxGlD",
             "info": {
@@ -1076,6 +1105,35 @@
                 "id": "4999378615859677031",
                 "emoticons": [
                     "🤲"
+                ]
+            }
+        },
+        {
+            "body": "091 🦷",
+            "url": "mxc://chir.rs/cthDkiUsOqRtxtmADPjgXZjl",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 42246,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/cthDkiUsOqRtxtmADPjgXZjl",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 42246,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5003976532968867511",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5256682388506804225",
+                    "short_name": "Reskao"
+                },
+                "id": "5003976532968867511",
+                "emoticons": [
+                    "🦷"
                 ]
             }
         },

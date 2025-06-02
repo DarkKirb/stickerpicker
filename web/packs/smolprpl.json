@@ -3,7 +3,7 @@
     "id": "tg-384850033456971784",
     "net.maunium.telegram.pack": {
         "short_name": "smolprpl",
-        "hash": "-498075222"
+        "hash": "1918224780"
     },
     "stickers": [
         {
@@ -489,6 +489,35 @@
                     "📳",
                     "📲",
                     "🪄"
+                ]
+            }
+        },
+        {
+            "body": "021 💤",
+            "url": "mxc://chir.rs/kcsZQAlvYkINxnoUlVDaJYbB",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 33100,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/kcsZQAlvYkINxnoUlVDaJYbB",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 33100,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5895486588271466420",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971784",
+                    "short_name": "smolprpl"
+                },
+                "id": "5895486588271466420",
+                "emoticons": [
+                    "💤"
                 ]
             }
         },

@@ -3,7 +3,7 @@
     "id": "tg-195304755793231885",
     "net.maunium.telegram.pack": {
         "short_name": "Ninji2",
-        "hash": "1013845443"
+        "hash": "1631961874"
     },
     "stickers": [
         {
@@ -761,6 +761,35 @@
             }
         },
         {
+            "body": "068 🚫",
+            "url": "mxc://chir.rs/WbALEhWTaIxEFVhlxRvJsVXO",
+            "info": {
+                "w": 256,
+                "h": 244,
+                "size": 53068,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/WbALEhWTaIxEFVhlxRvJsVXO",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 244,
+                    "size": 53068,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5877252334681069770",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "195304755793231885",
+                    "short_name": "Ninji2"
+                },
+                "id": "5877252334681069770",
+                "emoticons": [
+                    "🚫"
+                ]
+            }
+        },
+        {
             "body": "028 🚨",
             "url": "mxc://chir.rs/cPczitaJPHWVTxbRTbPdNPtf",
             "info": {
@@ -816,6 +845,35 @@
                 "id": "5877724909932647245",
                 "emoticons": [
                     "🎉"
+                ]
+            }
+        },
+        {
+            "body": "069 🌭",
+            "url": "mxc://chir.rs/rjccBZeoBTOrNzGcZutEqUCv",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 45834,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/rjccBZeoBTOrNzGcZutEqUCv",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 45834,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5882037125817309264",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "195304755793231885",
+                    "short_name": "Ninji2"
+                },
+                "id": "5882037125817309264",
+                "emoticons": [
+                    "🌭"
                 ]
             }
         },

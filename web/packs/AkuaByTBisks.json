@@ -3,7 +3,7 @@
     "id": "tg-2347375828297318425",
     "net.maunium.telegram.pack": {
         "short_name": "AkuaByTBisks",
-        "hash": "952404053"
+        "hash": "-962841077"
     },
     "stickers": [
         {
@@ -94,7 +94,7 @@
             }
         },
         {
-            "body": "023 🥐",
+            "body": "025 🥐",
             "url": "mxc://chir.rs/uLTbvHVnakCCQYEbsLFrBxbq",
             "info": {
                 "w": 256,
@@ -123,7 +123,7 @@
             }
         },
         {
-            "body": "018 🥁",
+            "body": "020 🥁",
             "url": "mxc://chir.rs/IOEqaLeSXdnMYEjvbqjehZKU",
             "info": {
                 "w": 256,
@@ -210,7 +210,7 @@
             }
         },
         {
-            "body": "020 🥁",
+            "body": "022 🥁",
             "url": "mxc://chir.rs/hxNMJmagoywAjqTxyhhGSckK",
             "info": {
                 "w": 256,
@@ -298,7 +298,7 @@
             }
         },
         {
-            "body": "019 🍼",
+            "body": "021 🍼",
             "url": "mxc://chir.rs/aHmSdYPfNNcyWCGKigCXFWxs",
             "info": {
                 "w": 256,
@@ -444,7 +444,7 @@
             }
         },
         {
-            "body": "021 😆",
+            "body": "023 😆",
             "url": "mxc://chir.rs/OzBQrNfXqlalwVXERZnyhAYe",
             "info": {
                 "w": 256,
@@ -473,7 +473,7 @@
             }
         },
         {
-            "body": "022 🌊",
+            "body": "024 🌊",
             "url": "mxc://chir.rs/XSeuSRWPgxpaurElMAHbgKyK",
             "info": {
                 "w": 256,
@@ -702,6 +702,65 @@
                 "emoticons": [
                     "😵",
                     "💦"
+                ]
+            }
+        },
+        {
+            "body": "019 ☁️",
+            "url": "mxc://chir.rs/qQUlGYQxsVFUAyUqxmQsHkEi",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 62102,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/qQUlGYQxsVFUAyUqxmQsHkEi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 62102,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994510240364889904",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2347375828297318425",
+                    "short_name": "AkuaByTBisks"
+                },
+                "id": "4994510240364889904",
+                "emoticons": [
+                    "💦",
+                    "☁"
+                ]
+            }
+        },
+        {
+            "body": "018 ☁️",
+            "url": "mxc://chir.rs/xcKGlNUedUUbMijPaVtxCgIR",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 62498,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/xcKGlNUedUUbMijPaVtxCgIR",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 62498,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-4994830129529095279",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "2347375828297318425",
+                    "short_name": "AkuaByTBisks"
+                },
+                "id": "4994830129529095279",
+                "emoticons": [
+                    "☁"
                 ]
             }
         }

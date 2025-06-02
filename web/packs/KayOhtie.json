@@ -3,7 +3,7 @@
     "id": "tg-233332065519534083",
     "net.maunium.telegram.pack": {
         "short_name": "KayOhtie",
-        "hash": "585295568"
+        "hash": "-935301407"
     },
     "stickers": [
         {
@@ -1968,6 +1968,66 @@
                 "emoticons": [
                     "😳",
                     "😤"
+                ]
+            }
+        },
+        {
+            "body": "107 🍪",
+            "url": "mxc://chir.rs/AqHXiuMbCmbdwjwikoRcgAEH",
+            "info": {
+                "w": 256,
+                "h": 224,
+                "size": 32216,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/AqHXiuMbCmbdwjwikoRcgAEH",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 224,
+                    "size": 32216,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5021606854027904587",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "233332065519534083",
+                    "short_name": "KayOhtie"
+                },
+                "id": "5021606854027904587",
+                "emoticons": [
+                    "🍪"
+                ]
+            }
+        },
+        {
+            "body": "108 🎮",
+            "url": "mxc://chir.rs/VebCSocVOpGegnbwIthxOcdl",
+            "info": {
+                "w": 256,
+                "h": 240,
+                "size": 46754,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/VebCSocVOpGegnbwIthxOcdl",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 240,
+                    "size": 46754,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5023861308131378509",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "233332065519534083",
+                    "short_name": "KayOhtie"
+                },
+                "id": "5023861308131378509",
+                "emoticons": [
+                    "🐾",
+                    "🎮",
+                    "🕹"
                 ]
             }
         },

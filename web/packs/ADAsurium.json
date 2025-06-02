@@ -3,7 +3,7 @@
     "id": "tg-734978279982759939",
     "net.maunium.telegram.pack": {
         "short_name": "ADAsurium",
-        "hash": "1028944458"
+        "hash": "1462051776"
     },
     "stickers": [
         {
@@ -966,6 +966,36 @@
                 "id": "4949784568363222136",
                 "emoticons": [
                     "🦨"
+                ]
+            }
+        },
+        {
+            "body": "056 🔒",
+            "url": "mxc://chir.rs/OblUrUgxBZuANGzpZAKcdPVX",
+            "info": {
+                "w": 208,
+                "h": 256,
+                "size": 43504,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/OblUrUgxBZuANGzpZAKcdPVX",
+                "thumbnail_info": {
+                    "w": 208,
+                    "h": 256,
+                    "size": 43504,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5017021297834592762",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "734978279982759939",
+                    "short_name": "ADAsurium"
+                },
+                "id": "5017021297834592762",
+                "emoticons": [
+                    "🔐",
+                    "🔒"
                 ]
             }
         },
