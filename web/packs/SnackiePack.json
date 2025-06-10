@@ -3,9 +3,38 @@
     "id": "tg-6287125839733587967",
     "net.maunium.telegram.pack": {
         "short_name": "SnackiePack",
-        "hash": "520784261"
+        "hash": "257454456"
     },
     "stickers": [
+        {
+            "body": "004 🥸",
+            "url": "mxc://chir.rs/qsvINgAWjDWlfgSZipRcEhuw",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 22268,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/qsvINgAWjDWlfgSZipRcEhuw",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 22268,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5024113740539233825",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "6287125839733587967",
+                    "short_name": "SnackiePack"
+                },
+                "id": "5024113740539233825",
+                "emoticons": [
+                    "🥸"
+                ]
+            }
+        },
         {
             "body": "000 💩",
             "url": "mxc://chir.rs/ZejtnpELFwznhOsNgizaOZEs",

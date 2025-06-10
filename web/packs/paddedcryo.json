@@ -3,7 +3,7 @@
     "id": "tg-4394171836422684673",
     "net.maunium.telegram.pack": {
         "short_name": "paddedcryo",
-        "hash": "-1233713912"
+        "hash": "1534280265"
     },
     "stickers": [
         {
@@ -703,6 +703,36 @@
                 "id": "6208382394668420884",
                 "emoticons": [
                     "😊"
+                ]
+            }
+        },
+        {
+            "body": "046 👀",
+            "url": "mxc://chir.rs/mvdGiXKfAuwKqQyUkLMpOFmd",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 43200,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/mvdGiXKfAuwKqQyUkLMpOFmd",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 43200,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-6212738075622119245",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "4394171836422684673",
+                    "short_name": "paddedcryo"
+                },
+                "id": "6212738075622119245",
+                "emoticons": [
+                    "👀",
+                    "🧐"
                 ]
             }
         },

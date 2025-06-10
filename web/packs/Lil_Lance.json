@@ -3,7 +3,7 @@
     "id": "tg-5827509522393989119",
     "net.maunium.telegram.pack": {
         "short_name": "Lil_Lance",
-        "hash": "-611777405"
+        "hash": "-543289435"
     },
     "stickers": [
         {
@@ -760,6 +760,93 @@
                 "id": "5037764216052778002",
                 "emoticons": [
                     "⭐"
+                ]
+            }
+        },
+        {
+            "body": "027 🌧️",
+            "url": "mxc://chir.rs/ZYEGjBOgToBpMnOwInUnSUYi",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 55282,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/ZYEGjBOgToBpMnOwInUnSUYi",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 55282,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5057750292313932790",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5827509522393989119",
+                    "short_name": "Lil_Lance"
+                },
+                "id": "5057750292313932790",
+                "emoticons": [
+                    "🌧"
+                ]
+            }
+        },
+        {
+            "body": "028 💩",
+            "url": "mxc://chir.rs/NKbXRRCUzGHLNJKwOsuiMVbn",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 55470,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/NKbXRRCUzGHLNJKwOsuiMVbn",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 55470,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5057771419258062084",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5827509522393989119",
+                    "short_name": "Lil_Lance"
+                },
+                "id": "5057771419258062084",
+                "emoticons": [
+                    "💩"
+                ]
+            }
+        },
+        {
+            "body": "026 🍝",
+            "url": "mxc://chir.rs/bwMlbigNTHMovuYIfCkSyBIv",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 54688,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/bwMlbigNTHMovuYIfCkSyBIv",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 54688,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5057787516795487403",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "5827509522393989119",
+                    "short_name": "Lil_Lance"
+                },
+                "id": "5057787516795487403",
+                "emoticons": [
+                    "🍝"
                 ]
             }
         }

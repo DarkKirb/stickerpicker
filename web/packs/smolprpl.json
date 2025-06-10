@@ -3,7 +3,7 @@
     "id": "tg-384850033456971784",
     "net.maunium.telegram.pack": {
         "short_name": "smolprpl",
-        "hash": "1918224780"
+        "hash": "1035356263"
     },
     "stickers": [
         {
@@ -522,6 +522,37 @@
             }
         },
         {
+            "body": "022 🏳️‍⚧️",
+            "url": "mxc://chir.rs/MnDaKegPNUnJtfYEMSiOsLdS",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 45238,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/MnDaKegPNUnJtfYEMSiOsLdS",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 45238,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5906514737142699606",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971784",
+                    "short_name": "smolprpl"
+                },
+                "id": "5906514737142699606",
+                "emoticons": [
+                    "🏳‍⚧",
+                    "⚧",
+                    "🌈"
+                ]
+            }
+        },
+        {
             "body": "014 🤗",
             "url": "mxc://chir.rs/uXPqydBGNwtqHsquulRwepSJ",
             "info": {
@@ -549,6 +580,36 @@
                     "🤗",
                     "🫂",
                     "🐿"
+                ]
+            }
+        },
+        {
+            "body": "023 🌈",
+            "url": "mxc://chir.rs/FsMidhnutynlzxBUuaTvNQBv",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 52874,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/FsMidhnutynlzxBUuaTvNQBv",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 52874,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5920490942975973498",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "384850033456971784",
+                    "short_name": "smolprpl"
+                },
+                "id": "5920490942975973498",
+                "emoticons": [
+                    "⚧",
+                    "🌈"
                 ]
             }
         },
