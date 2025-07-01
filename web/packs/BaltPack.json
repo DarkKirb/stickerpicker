@@ -3,7 +3,7 @@
     "id": "tg-739659450738016258",
     "net.maunium.telegram.pack": {
         "short_name": "BaltPack",
-        "hash": "743843109"
+        "hash": "-1755959631"
     },
     "stickers": [
         {
@@ -2453,6 +2453,94 @@
                 "id": "5105022381705920983",
                 "emoticons": [
                     "😉"
+                ]
+            }
+        },
+        {
+            "body": "097 🫣",
+            "url": "mxc://chir.rs/jgRQTFEQbQjmZwAqRQOdhmUc",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 42028,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/jgRQTFEQbQjmZwAqRQOdhmUc",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 42028,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5111766665771616121",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "739659450738016258",
+                    "short_name": "BaltPack"
+                },
+                "id": "5111766665771616121",
+                "emoticons": [
+                    "🫣"
+                ]
+            }
+        },
+        {
+            "body": "098 🫣",
+            "url": "mxc://chir.rs/yVbnGPiMBkDuhrvhBIBBGPrf",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 57378,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/yVbnGPiMBkDuhrvhBIBBGPrf",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 57378,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5111800853711291802",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "739659450738016258",
+                    "short_name": "BaltPack"
+                },
+                "id": "5111800853711291802",
+                "emoticons": [
+                    "💩",
+                    "🫣"
+                ]
+            }
+        },
+        {
+            "body": "099 ☕️",
+            "url": "mxc://chir.rs/cqJXOPuVEIgrPiYFnYqaiOgF",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 43138,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/cqJXOPuVEIgrPiYFnYqaiOgF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 43138,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5111996493766592037",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "739659450738016258",
+                    "short_name": "BaltPack"
+                },
+                "id": "5111996493766592037",
+                "emoticons": [
+                    "☕"
                 ]
             }
         },

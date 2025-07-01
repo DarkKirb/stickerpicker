@@ -3,7 +3,7 @@
     "id": "tg-634318419956596745",
     "net.maunium.telegram.pack": {
         "short_name": "VendrykPulex",
-        "hash": "607709277"
+        "hash": "-1622001633"
     },
     "stickers": [
         {
@@ -2905,6 +2905,64 @@
                 "id": "5073740859283866027",
                 "emoticons": [
                     "🐾"
+                ]
+            }
+        },
+        {
+            "body": "105 📢",
+            "url": "mxc://chir.rs/iRipWYSQfVFUZzVeYArebARO",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 29098,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/iRipWYSQfVFUZzVeYArebARO",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 29098,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5089463489014007145",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "634318419956596745",
+                    "short_name": "VendrykPulex"
+                },
+                "id": "5089463489014007145",
+                "emoticons": [
+                    "📢"
+                ]
+            }
+        },
+        {
+            "body": "104 🎨",
+            "url": "mxc://chir.rs/gydhhQwJNTYjHWpGUnvVYJOt",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 58830,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/gydhhQwJNTYjHWpGUnvVYJOt",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 58830,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5096300574438065284",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "634318419956596745",
+                    "short_name": "VendrykPulex"
+                },
+                "id": "5096300574438065284",
+                "emoticons": [
+                    "🎨"
                 ]
             }
         },

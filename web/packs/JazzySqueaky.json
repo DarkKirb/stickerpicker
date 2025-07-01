@@ -3,7 +3,7 @@
     "id": "tg-464477769347104770",
     "net.maunium.telegram.pack": {
         "short_name": "JazzySqueaky",
-        "hash": "-1658372796"
+        "hash": "-1655771958"
     },
     "stickers": [
         {
@@ -1691,6 +1691,35 @@
                 "emoticons": [
                     "🧡",
                     "🩵"
+                ]
+            }
+        },
+        {
+            "body": "059 💙",
+            "url": "mxc://chir.rs/mosWzEMMusUkzfbEgEgkeMow",
+            "info": {
+                "w": 202,
+                "h": 256,
+                "size": 45926,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/mosWzEMMusUkzfbEgEgkeMow",
+                "thumbnail_info": {
+                    "w": 202,
+                    "h": 256,
+                    "size": 45926,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5102867235836265835",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "464477769347104770",
+                    "short_name": "JazzySqueaky"
+                },
+                "id": "5102867235836265835",
+                "emoticons": [
+                    "💙"
                 ]
             }
         },

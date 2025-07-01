@@ -3,7 +3,7 @@
     "id": "tg-1049089806937620487",
     "net.maunium.telegram.pack": {
         "short_name": "Lilkari",
-        "hash": "-1976822794"
+        "hash": "-1522261349"
     },
     "stickers": [
         {
@@ -2447,6 +2447,64 @@
                 "id": "5076036098396783452",
                 "emoticons": [
                     "🍽"
+                ]
+            }
+        },
+        {
+            "body": "112 😇",
+            "url": "mxc://chir.rs/zTLQuFMOdINMAYtgBewCZuKk",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 71864,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/zTLQuFMOdINMAYtgBewCZuKk",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 71864,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5082570019259287096",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1049089806937620487",
+                    "short_name": "Lilkari"
+                },
+                "id": "5082570019259287096",
+                "emoticons": [
+                    "😇"
+                ]
+            }
+        },
+        {
+            "body": "111 💤",
+            "url": "mxc://chir.rs/prkoBFPcDjOExBSUkEsYHiQZ",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 51532,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/prkoBFPcDjOExBSUkEsYHiQZ",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 51532,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5082733253786338661",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "1049089806937620487",
+                    "short_name": "Lilkari"
+                },
+                "id": "5082733253786338661",
+                "emoticons": [
+                    "💤"
                 ]
             }
         },

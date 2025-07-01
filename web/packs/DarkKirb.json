@@ -3,7 +3,7 @@
     "id": "tg-3350049927962034177",
     "net.maunium.telegram.pack": {
         "short_name": "DarkKirb",
-        "hash": "-1044196480"
+        "hash": "-804573029"
     },
     "stickers": [
         {
@@ -1438,6 +1438,64 @@
                 "emoticons": [
                     "🐾",
                     "🥺"
+                ]
+            }
+        },
+        {
+            "body": "100 ❤️",
+            "url": "mxc://chir.rs/EyMxpIXlJvVIVvlHQytNhELp",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 46766,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/EyMxpIXlJvVIVvlHQytNhELp",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 46766,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5413415898440563137",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3350049927962034177",
+                    "short_name": "DarkKirb"
+                },
+                "id": "5413415898440563137",
+                "emoticons": [
+                    "❤"
+                ]
+            }
+        },
+        {
+            "body": "099 ❤️",
+            "url": "mxc://chir.rs/WYioogLMaCIKzdLgDViUJPcN",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 44554,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/WYioogLMaCIKzdLgDViUJPcN",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 44554,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5413516941841168870",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "3350049927962034177",
+                    "short_name": "DarkKirb"
+                },
+                "id": "5413516941841168870",
+                "emoticons": [
+                    "❤"
                 ]
             }
         },

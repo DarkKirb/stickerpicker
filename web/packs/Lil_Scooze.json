@@ -3,7 +3,7 @@
     "id": "tg-8639880672187514878",
     "net.maunium.telegram.pack": {
         "short_name": "Lil_Scooze",
-        "hash": "-70032241"
+        "hash": "-1490330000"
     },
     "stickers": [
         {
@@ -943,7 +943,7 @@
             }
         },
         {
-            "body": "037 💻",
+            "body": "038 💻",
             "url": "mxc://chir.rs/GkxnEFIPcuxWmDoNEjZyhJcm",
             "info": {
                 "w": 256,
@@ -998,6 +998,36 @@
                 "emoticons": [
                     "😜",
                     "😝"
+                ]
+            }
+        },
+        {
+            "body": "037 😳",
+            "url": "mxc://chir.rs/gOLGOavaiWmnOiYxwbeBZTHF",
+            "info": {
+                "w": 256,
+                "h": 256,
+                "size": 40570,
+                "mimetype": "image/webp",
+                "thumbnail_url": "mxc://chir.rs/gOLGOavaiWmnOiYxwbeBZTHF",
+                "thumbnail_info": {
+                    "w": 256,
+                    "h": 256,
+                    "size": 40570,
+                    "mimetype": "image/webp"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "tg-5113839958154544189",
+            "net.maunium.telegram.sticker": {
+                "pack": {
+                    "id": "8639880672187514878",
+                    "short_name": "Lil_Scooze"
+                },
+                "id": "5113839958154544189",
+                "emoticons": [
+                    "😳",
+                    "☺"
                 ]
             }
         },
